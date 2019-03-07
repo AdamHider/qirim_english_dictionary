@@ -245,13 +245,12 @@ function scanPage(){
         $length = $end-$start;
         $html = substr($html, $start, $length);
         preg_match_all("/<a[^>]+href=\"([^\"]+)\"[^>]*>/",$html,$matches_links);
-        
-        for($i = 0; $i < 10; $i++){
-            print_r(getTranslation($matches_links[1][$i]));
-           
-            echo '<br>';
-            echo '<br>';  
+        $words = [];
+        for($i = 3; $i < count($matches_links[1]); $i++){
+            array_push($words, getTranslation($matches_links[1][$i]));
+            //$words[$i]['size'] = sizeof($words[$i]['translation']);
         }
+        return $words;
     }
 } 
 
@@ -277,23 +276,29 @@ function getTranslation($url){
         if(strpos($word_string, ($i.'.')) === false){
             if(empty($word_object['translation'])){
                 $word_object['translation'][0]['word'] = $word_string;
+                
+                if (strpos($word_string,'1)')){
+                    return getSubMeaning($word_string,$word_object['origin']);
+                }
+                
                 $abbreviation_eng = findAbbreviationEng($word_object['translation'][0]['word']);
                 if ($abbreviation_eng){
-                    $word_object['translation'][0]['word'] = validateTextWord($abbreviation_eng['word']);
+                    $word_object['translation'][0]['word'] = $abbreviation_eng['word'];
                     $word_object['translation'][0]['abbreviation_eng'] = $abbreviation_eng['abbreviation_eng'];
                 }
                 $abbreviation_rus = findAbbreviationRus($word_object['translation'][0]['word']);
                 if ($abbreviation_rus){
-                    $word_object['translation'][0]['word'] = validateTextWord($abbreviation_rus['word']);
+                    $word_object['translation'][0]['word'] = $abbreviation_rus['word'];
                     $word_object['translation'][0]['abbreviation_rus'] = $abbreviation_rus['abbreviation_rus'];
                 }
-                
+                $word_object['translation'][0]['word'] = validateTextWord($word_object['translation'][0]['word']);
                 return $word_object;
             }else{
                 $word_object['translation'][0]['word'] = validateTextWord($word_object['translation'][0]['word']);
                 return $word_object;
             }
         } else {
+            return;
             $meaning_start = strpos($word_string, ($i.'.'));
             $meaning_end = strpos($word_string, ($i+1).'.');
             if($meaning_end == 0){
@@ -310,14 +315,15 @@ function getTranslation($url){
             
             $abbreviation_eng = findAbbreviationEng($new_word_string);
             if ($abbreviation_eng){
-                $word_object['translation'][$i]['word'] = validateTextWord($abbreviation_eng['word']);
+                $word_object['translation'][$i]['word'] = $abbreviation_eng['word'];
                 $word_object['translation'][$i]['abbreviation_eng'] = $abbreviation_eng['abbreviation_eng'];
             }
             $abbreviation_rus = findAbbreviationRus($word_object['translation'][$i]['word']);
             if ($abbreviation_rus){
-                $word_object['translation'][$i]['word'] = validateTextWord($abbreviation_rus['word']);
+                $word_object['translation'][$i]['word'] = $abbreviation_rus['word'];
                 $word_object['translation'][$i]['abbreviation_rus'] = $abbreviation_rus['abbreviation_rus'];
-            }
+            } 
+            $word_object['translation'][$i]['word'] = validateTextWord($word_object['translation'][$i]['word']);
         }
     }
    
@@ -347,27 +353,24 @@ function getSubMeaning($word, $origin){
         }
         $new_word_sub_string = substr($word_sub_string, $sub_meaning_start+3, $sub_meaning_length-3);
         
-        $sub_meaning_array[$k]['word'] = $new_word_sub_string;
-        print_r($new_word_sub_string);
-        die;
+        $sub_meaning_array['translation'][$k]['word'] = $new_word_sub_string;
        
         if ($main_abbreviation_eng){
-            $sub_meaning_array[$k]['abbreviation_eng'] = $main_abbreviation_eng['abbreviation_eng'];
+            $sub_meaning_array['translation'][$k]['abbreviation_eng'] = $main_abbreviation_eng['abbreviation_eng'];
         }
+        
         $abbreviation_eng = findAbbreviationEng($new_word_sub_string);
         if ($abbreviation_eng){
-            $sub_meaning_array[$k]['word'] = validateTextWord($abbreviation_eng['word']);
-            $sub_meaning_array[$k]['abbreviation_eng'] = $abbreviation_eng['abbreviation_eng'];
-        } else {
-            $sub_meaning_array[$k]['word'] = validateTextWord($sub_meaning_array[$k]['word']);
-        }
-        $abbreviation_rus = findAbbreviationRus($sub_meaning_array[$k]['word']);
+            $sub_meaning_array['translation'][$k]['word'] = $abbreviation_eng['word'];
+            $sub_meaning_array['translation'][$k]['abbreviation_eng'] = $abbreviation_eng['abbreviation_eng'];
+        } 
+       
+        $abbreviation_rus = findAbbreviationRus($sub_meaning_array['translation'][$k]['word']);
         if ($abbreviation_rus){
-            $sub_meaning_array[$k]['word'] = validateTextWord($abbreviation_rus['word']);
-            $sub_meaning_array[$k]['abbreviation_rus'] = $abbreviation_rus['abbreviation_rus'];
-        } else {
-            $sub_meaning_array[$k]['word'] = validateTextWord($sub_meaning_array[$k]['word']);
-        }
+            $sub_meaning_array['translation'][$k]['word'] = $abbreviation_rus['word'];
+            $sub_meaning_array['translation'][$k]['abbreviation_rus'] = $abbreviation_rus['abbreviation_rus'];
+        } 
+        $sub_meaning_array['translation'][$k]['word'] = validateTextWord($sub_meaning_array['translation'][$k]['word']);
     }
 }
 
@@ -414,6 +417,7 @@ function findAbbreviationRus($word_string){
 
 
 function validateTextWord($word_string){
+   
     $validated_meaning = [
         'meaning_lvl1' => []
     ];
@@ -463,6 +467,11 @@ function validateTextWord($word_string){
                     $validated_meaning['meaning_lvl1'][$i] .= " ".$matches[0][0];
                 }
                 if (strpos($meaning_group, ',')){
+                    preg_match_all("/([\а-я]*\,.что)/", $meaning_group,$no_need);
+                    preg_match_all("/([\а-я]*\,.*котор)/", $meaning_group,$no_need1);
+                    if(!empty($no_need[0])||!empty($no_need1[0]) ){
+                        continue; 
+                    }
                     $meaning_lvl3 = explode(',', $meaning_group);
                     unset($validated_meaning['meaning_lvl1'][$i]);
                     foreach ($meaning_lvl3 as $mean_lvl3){
@@ -480,6 +489,13 @@ function validateTextWord($word_string){
         }
         return $validated_meaning['meaning_lvl1'];
     }else if(strpos($validated_meaning['meaning_lvl1'], ',')){
+         
+        preg_match_all("/([\а-я]*\,.что)/", $validated_meaning['meaning_lvl1'],$no_need);
+        preg_match_all("/([\а-я]*\,.*котор)/", $validated_meaning['meaning_lvl1'],$no_need1);
+        if(!empty($no_need[0])||!empty($no_need1[0]) ){
+            
+            return $validated_meaning['meaning_lvl1']; 
+        }
         preg_match_all("/\([\W].*\,[\W].*\)/", $validated_meaning['meaning_lvl1'],$matches);
         if(!empty($matches[0])){
             $validated_meaning['meaning_lvl1'] = preg_replace("/\([\W].*\)/", '', $validated_meaning['meaning_lvl1']);
@@ -507,6 +523,7 @@ function validateTextWord($word_string){
                 $mean_lvl3 .= " ".$matches[0][0];
             }
         }
+       
         $validated_meaning['meaning_lvl1'] = $meaning_lvl3;
         return $validated_meaning['meaning_lvl1']; 
     }else{
@@ -529,5 +546,5 @@ function getQirimTranslation($word){
     $newhtml = substr($html, $new_start+3, $new_length);
     
 }
-scanPage();
+print_r(scanPage());
 //print_r(validateTextWord());
