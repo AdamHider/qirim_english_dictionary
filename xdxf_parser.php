@@ -212,13 +212,18 @@ $abbreviation_rus = [
     'яп.' => 'японская терминология'
 ];
 
-
+$another_meanings =[
+    '_I' => '1',
+    '_II' => '2',
+    '_III' => '3',
+    '_IV' => '4',
+    '_V' => '5'
+];
 
 function compileObject(){
     $xml = file_get_contents('dict_lite.xdxf');
-
+    
     $xml_object = explode("<ar>", $xml);
-
     unset($xml_object[0]);
     foreach ($xml_object as $object){
         $data = [
@@ -240,6 +245,7 @@ function compileObject(){
         print_r($data);
         }
 }
+
 function compileTranslation($translation_string){
     $result_object = [];
     $abbreviation_eng = findAbbreviationEng($translation_string);
@@ -247,25 +253,73 @@ function compileTranslation($translation_string){
         $result_object['abbreviation_eng'] = $abbreviation_eng['abbreviation_eng'];
         $translation_string = $abbreviation_eng['word'];
     }
-    if(strpos($translation_string,'1&gt;')>-1){
-        $result_object['word'] = explode('gt;', $translation_string );
-        for($i = 0; $i<count($result_object['word']); $i++){
-           if(strpos($result_object['word'][$i],($i+1).'&')>-1){
-               $result_object['word'][$i] = str_replace(($i+1).'&', '', $result_object['word'][$i]);
-           }
-          
-           if(!isset($result_object['word'][$i])){
-               unset($result_object['word'][$i]);
-               continue;
-           }
-           $abbreviation_rus = findAbbreviationRus($result_object['word'][$i]);
-            if($abbreviation_rus){
-                $result_object['word'][$i] = $abbreviation_rus;
+    if(strpos($translation_string,'_I')>-1){
+        $result_object['word'] = getFirstMeaning($translation_string);
+    } else if (strpos($translation_string,'1.')>-1){
+        $result_object['word'] = getSecondMeaning($translation_string);
+    } else if(strpos($translation_string,'1&gt;')>-1){
+        $result_object['word'] = getThirdMeaning($translation_string);
+    }
+    return $result_object;
+}
+
+function getFirstMeaning($translation_string){
+    $result_object = [];
+    $translation_lvl1 = preg_split("/(_I+V?)/", $translation_string);
+    array_shift($translation_lvl1);
+    foreach ($translation_lvl1 as $second_meaning){
+        if(strpos($second_meaning,'1.')>-1){
+            $new_second_meaning = getSecondMeaning($second_meaning);
+            array_push($result_object, $new_second_meaning);
+        } else {
+            if(strpos($second_meaning,'1&gt;')>-1){
+                    $third_meaning = getThirdMeaning($third_meaning);
+                    array_push($result_object,$third_meaning );
+            } else {
+                    array_push($result_object,$third_meaning );
             }
+        }
+    }
+    
+    return $result_object;    
+}
+
+function getSecondMeaning($translation_string){
+    $result_object = [];
+    $second_meaning = preg_split("/[0-9]+\./", $translation_string);
+    array_shift($second_meaning);
+    foreach ($second_meaning as $third_meaning){
+        if(strpos($third_meaning,'1&gt;')>-1){
+            $new_meaning = getThirdMeaning($third_meaning);
+            array_push($result_object,$new_meaning );
+        } else {
+            array_push($result_object,$third_meaning );
         }
     }
     return $result_object;
 }
+
+function getThirdMeaning($translation_string){
+    $result_object = [];
+    $result_object = explode('gt;', $translation_string );
+        for($i = 0; $i<count($result_object); $i++){
+           if(strpos($result_object[$i],($i+1).'&')>-1){
+               $result_object[$i] = str_replace(($i+1).'&', '', $result_object[$i]);
+           }
+          
+           if(!isset($result_object[$i])){
+               unset($result_object[$i]);
+               continue;
+           }
+           $abbreviation_rus = findAbbreviationRus($result_object[$i]);
+            if($abbreviation_rus){
+                $result_object[$i] = $abbreviation_rus;
+            }
+        }
+    return $result_object;    
+}
+
+
 
 function findAbbreviationEng($word_string){
     error_reporting(0);
