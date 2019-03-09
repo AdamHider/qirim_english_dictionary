@@ -248,35 +248,38 @@ function compileObject(){
 
 function compileTranslation($translation_string){
     $result_object = [];
-    $abbreviation_eng = findAbbreviationEng($translation_string);
-    if($abbreviation_eng){
-        $result_object['abbreviation_eng'] = $abbreviation_eng['abbreviation_eng'];
-        $translation_string = $abbreviation_eng['word'];
-    }
-    if(strpos($translation_string,'_I')>-1){
-        $result_object['word'] = getFirstMeaning($translation_string);
-    } else if (strpos($translation_string,'1.')>-1){
-        $result_object['word'] = getSecondMeaning($translation_string);
-    } else if(strpos($translation_string,'1&gt;')>-1){
-        $result_object['word'] = getThirdMeaning($translation_string);
+    //print_r($translation_string);
+    //die;
+    $result_object = findAbbreviationEng($translation_string);
+    if(strpos($result_object['word'],'_I')>-1){
+        $result_object['word'] = getFirstMeaning($result_object['word']);
+    } else if (strpos($result_object['word'],'1.')>-1){
+        $result_object['word'] = getSecondMeaning($result_object['word']);
+    } else if(strpos($result_object['word'],'1&gt;')>-1){
+        $result_object['word'] = getThirdMeaning($result_object['word']);
+    } else {
+        $result_object = findAbbreviationRus($result_object);
     }
     return $result_object;
 }
 
 function getFirstMeaning($translation_string){
+    //echo $translation_string;
+    //die;
     $result_object = [];
     $translation_lvl1 = preg_split("/(_I+V?)/", $translation_string);
     array_shift($translation_lvl1);
     foreach ($translation_lvl1 as $second_meaning){
         if(strpos($second_meaning,'1.')>-1){
-            $new_second_meaning = getSecondMeaning($second_meaning);
-            array_push($result_object, $new_second_meaning);
+            $new_second_meaning = findAbbreviationEng($second_meaning);
+            array_push($result_object, getSecondMeaning($new_second_meaning));
         } else {
             if(strpos($second_meaning,'1&gt;')>-1){
-                    $third_meaning = getThirdMeaning($third_meaning);
-                    array_push($result_object,$third_meaning );
+                $third_meaning = getThirdMeaning($third_meaning);
+                array_push($result_object,$third_meaning );
             } else {
-                    array_push($result_object,$third_meaning );
+                $check_eng = findAbbreviationEng($second_meaning);
+                array_push($result_object,findAbbreviationRus($check_eng));
             }
         }
     }
@@ -285,38 +288,37 @@ function getFirstMeaning($translation_string){
 }
 
 function getSecondMeaning($translation_string){
-    $result_object = [];
-    $second_meaning = preg_split("/[0-9]+\./", $translation_string);
+            
+    $result_object = [
+        'abbreviation_eng' => $translation_string['abbreviation_eng'],
+        'word' => []
+        
+    ];
+    $second_meaning = preg_split("/[0-9]+\./", $translation_string['word']);
     array_shift($second_meaning);
     foreach ($second_meaning as $third_meaning){
         if(strpos($third_meaning,'1&gt;')>-1){
             $new_meaning = getThirdMeaning($third_meaning);
-            array_push($result_object,$new_meaning );
+            array_push($result_object['word'],$new_meaning );
         } else {
-            array_push($result_object,$third_meaning );
+            $check_eng = findAbbreviationEng($third_meaning);
+            array_push($result_object['word'],findAbbreviationRus($check_eng));
         }
     }
     return $result_object;
 }
 
 function getThirdMeaning($translation_string){
+    
+    
     $result_object = [];
-    $result_object = explode('gt;', $translation_string );
-        for($i = 0; $i<count($result_object); $i++){
-           if(strpos($result_object[$i],($i+1).'&')>-1){
-               $result_object[$i] = str_replace(($i+1).'&', '', $result_object[$i]);
-           }
-          
-           if(!isset($result_object[$i])){
-               unset($result_object[$i]);
-               continue;
-           }
-           $abbreviation_rus = findAbbreviationRus($result_object[$i]);
-            if($abbreviation_rus){
-                $result_object[$i] = $abbreviation_rus;
-            }
-        }
-    return $result_object;    
+    $third_meaning = preg_split("/([0-9]*+\&gt;)/", $translation_string);
+    array_shift($third_meaning);
+    foreach ($third_meaning as $meaning){
+            $check_eng = findAbbreviationEng($meaning);
+            array_push($result_object,findAbbreviationRus($check_eng) );
+    }
+    return $result_object; 
 }
 
 
@@ -324,8 +326,12 @@ function getThirdMeaning($translation_string){
 function findAbbreviationEng($word_string){
     error_reporting(0);
     global $abbreviation_eng;
+    $meaning_object = [
+                'word' => $word_string,
+                'abbreviation_eng' => []
+    ];
     foreach ($abbreviation_eng as $abbr_eng=>$value){
-        if (strpos($word_string,'_'.$abbr_eng)){
+        if (strpos($word_string,'_'.$abbr_eng) > -1 && strpos($word_string,'_'.$abbr_eng) < 6){
             $new_word_string = str_replace('_'.$abbr_eng, '', $word_string);
             return $meaning_object = [
                 'word' => $new_word_string,
@@ -336,17 +342,19 @@ function findAbbreviationEng($word_string){
         }
     }
     error_reporting(1);
+    return $meaning_object;
 }
 
 function findAbbreviationRus($word_string){
     error_reporting(0);
     global $abbreviation_rus;
     $meaning_object = [
-                'word' => $word_string,
+                'word' => $word_string['word'],
+                'abbreviation_eng' => $word_string['abbreviation_eng'],
                 'abbreviation_rus' => []
     ];
     foreach ($abbreviation_rus as $abbr_rus=>$value){
-        if (strpos($meaning_object['word'],'_'.$abbr_rus)){
+        if (strpos($meaning_object['word'],'_'.$abbr_rus) > -1 && strpos($meaning_object['word'],'_'.$abbr_rus) < 6){
             $new_word_string = str_replace('_'.$abbr_rus,'', $meaning_object['word']);
             $meaning_object['word'] = $new_word_string;
             array_push($meaning_object['abbreviation_rus'],$value);
