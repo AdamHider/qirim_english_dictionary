@@ -558,12 +558,35 @@ function writeDownDescriptions ($word_object){
     $mysqli->close();
 }
 
+function getQTTranslation(){
+    header('Content-Type: text/plain');
+    $json = file_get_contents('http://lugat.xyz/get_json?word=важный');
+    $qt_word_object = json_decode($json);
+    $result_object = [];
+    foreach($qt_word_object->articles as $translation){
+        $translation_string = strip_tags($translation->article);
+        if (strpos($translation_string,'1.')>-1){
+            array_push($result_object, getQTSecondMeaning($translation_string));
+        } else {
+            array_push($result_object, $translation_string);
+        }
+    }
+    print_r($result_object);
+    die;
+} 
+
+function getQTSecondMeaning($translation_string){
+    $second_meaning = preg_split("/[0-9]+\./", $translation_string);
+    
+    array_shift($second_meaning);
+    return $second_meaning;
+}
 
 
 $time_start = microtime(true); 
  
-compileObject();
-
+//compileObject();
+getQTTranslation();
 $time_end = microtime(true);
 
 $execution_time = ($time_end - $time_start)/60;
