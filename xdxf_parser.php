@@ -264,8 +264,10 @@ function compileObject(){
                 'transcription' => '',
                 'translation' => ''
          ];
-       
+         echo json_encode($result);
+         die;
         }
+    
 }
 
 function compileTranslation($translation_string){
@@ -434,6 +436,7 @@ function findAbbreviationRus($word_string){
     $meaning_object['origin'] = $current_object['origin'];
     $meaning_object['transcription'] = preg_replace('/^\s+/', '', $current_object['transcription']);
     for($i = 0; $i < count($meaning_object['word']); $i++){
+        $last_meaning_obj = [];
         if($meaning_object['word'][$i] === ''){
              unset($meaning_object['word'][$i]);
              continue;
@@ -446,9 +449,14 @@ function findAbbreviationRus($word_string){
             unset($meaning_object['word'][$i]);
             continue;
         }
+        $last_meaning_obj = [
+            'word'=> preg_replace("/[^АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЫЪЭЮЯабвгдеёжзийклмнопрстуфхцчшщьыъэюя ]/", '', $meaning_object['word'][$i]),
+            'qirim_translation'=>getQTTranslation($meaning_object['word'][$i])
+        ];
+        $meaning_object['word'][$i] = $last_meaning_obj;
     }
     
-    writeDownOrigin($meaning_object);    
+    //writeDownOrigin($meaning_object);    
     array_push($result, $meaning_object);
     return $meaning_object;
 }
@@ -525,10 +533,7 @@ function writeDownDescriptions ($word_object){
                 INSERT INTO
                     qirim_english_dictionary.rus_words
                 SET
-                    name = '".$word_object['word'][$i]."',
-                    rus_abbreviation = '".$abbreviation_rus."',
-                    rus_subdescription = '".$rus_description."',   
-                    eng_subdescription = '".$description."',       
+                    name = '".$word_object['word'][$i]."',    
                     part_of_speech_id = '".$word_object['abbreviation_eng']."'    
             ";
             $mysqli->query($sql);
@@ -543,7 +548,18 @@ function writeDownDescriptions ($word_object){
             ";
             $result = mysqli_fetch_row($mysqli->query($sql_2));
             $rus_word_id = $result[0];
-
+            
+            $sql3 = "
+                INSERT INTO
+                    qirim_english_dictionary.rus_descriptions
+                SET
+                    rus_word_id = '".$rus_word_id."',
+                    rus_abbreviation = '".$abbreviation_rus."',
+                    rus_subdescription = '".$rus_description."',   
+                    eng_subdescription = '".$description."'        
+            ";
+            $mysqli->query($sql3);
+            
             $sql_3 = "
                 INSERT INTO
                     qirim_english_dictionary.references
@@ -552,15 +568,15 @@ function writeDownDescriptions ($word_object){
                     rus_word_id = '".$rus_word_id."'    
             ";
             $mysqli->query($sql_3);
-        
     }
-    
     $mysqli->close();
 }
 
-function getQTTranslation(){
+function getQTTranslation($input_word){
+    
     header('Content-Type: text/plain');
-    $json = file_get_contents('http://lugat.xyz/get_json?word=важный');
+    $input_word = preg_replace("/[^АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЫЪЭЮЯабвгдеёжзийклмнопрстуфхцчшщьыъэюя ]/", '', $input_word);
+    $json = file_get_contents('http://lugat.xyz/get_json?word='.$input_word);
     $qt_word_object = json_decode($json);
     $result_object = [];
     foreach($qt_word_object->articles as $translation){
@@ -571,8 +587,8 @@ function getQTTranslation(){
             array_push($result_object, $translation_string);
         }
     }
-    print_r($result_object);
-    die;
+    
+    return $result_object;
 } 
 
 function getQTSecondMeaning($translation_string){
@@ -585,11 +601,15 @@ function getQTSecondMeaning($translation_string){
 
 $time_start = microtime(true); 
  
+if(function_exists($_GET['f'])) {
+   $_GET['f']();
+}
+
 //compileObject();
-getQTTranslation();
+//getQTTranslation();
 $time_end = microtime(true);
 
 $execution_time = ($time_end - $time_start)/60;
 
 //execution time of the script
-echo '<b>Total Execution Time:</b> '.$execution_time.' Mins';
+//echo '<b>Total Execution Time:</b> '.$execution_time.' Mins';
