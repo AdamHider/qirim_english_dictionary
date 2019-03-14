@@ -231,7 +231,7 @@ $word_data = [
  
 function compileObject(){
     set_time_limit(8000);
-    $xml = file_get_contents('dict_lite.xdxf');
+    $xml = file_get_contents('origin/dict_O_j-l.xdxf');
     
     $xml_object = explode("<ar>", $xml);
     unset($xml_object[0]);
@@ -450,11 +450,7 @@ function findAbbreviationRus($word_string){
         $meaning_object['word'] = preg_replace("/[^АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЫЪЭЮЯабвгдеёжзийклмнопрстуфхцчшщьыъэюя ]/", '', $meaning_object['word']);
         $meaning_object['word'] = ltrim($meaning_object['word']);
         $meaning_object['qirim_translation'] = getQTTranslation($meaning_object['word']);
-        /*
-        if(isset($meaning_object['qirim_translation'][0])){
-            array_push($qirim_result, $meaning_object);
-        }
-        */
+       
         if(count($meaning_object['qirim_translation']) == 0 ){
             $meaning_object['status'] = 'empty';
         } else if(count($meaning_object['qirim_translation']) == 1 && !is_array($meaning_object['qirim_translation'][0])){
@@ -464,8 +460,15 @@ function findAbbreviationRus($word_string){
         }  else {
             $meaning_object['status'] = 'warning';
         }
-        array_push($result, $meaning_object);
-        //writeDownOrigin($meaning_object);    
+        /*
+        if(isset($meaning_object['qirim_translation'][0])){
+            array_push($qirim_result, $meaning_object);
+        }
+        
+         */
+        
+        //array_push($result, $meaning_object);
+        writeDownOrigin($meaning_object);    
         //return $meaning_object;
     }
     
@@ -571,47 +574,53 @@ function writeDownDescriptions ($word_object){
     } else {
         $description = '';
     }
-    for($i = 0; $i < count($word_object['word']); $i++){
-            $sql = "
-                INSERT INTO
-                    qirim_english_dictionary.rus_words
-                SET
-                    name = '".$word_object['word'][$i]."',    
-                    part_of_speech_id = '".$word_object['abbreviation_eng']."'    
-            ";
-            $mysqli->query($sql);
-
-            $sql_2 = "
-                SELECT 
-                    rus_word_id
-                FROM
-                    qirim_english_dictionary.rus_words
-                WHERE
-                    name = '".$word_object['word'][$i]."'
-            ";
-            $result = mysqli_fetch_row($mysqli->query($sql_2));
-            $rus_word_id = $result[0];
-            
-            $sql3 = "
-                INSERT INTO
-                    qirim_english_dictionary.rus_descriptions
-                SET
-                    rus_word_id = '".$rus_word_id."',
-                    rus_abbreviation = '".$abbreviation_rus."',
-                    rus_subdescription = '".$rus_description."',   
-                    eng_subdescription = '".$description."'        
-            ";
-            $mysqli->query($sql3);
-            
-            $sql_3 = "
-                INSERT INTO
-                    qirim_english_dictionary.references
-                SET
-                    eng_word_id = '".$word_object['origin_id']."',    
-                    rus_word_id = '".$rus_word_id."'    
-            ";
-            $mysqli->query($sql_3);
+    if(isset($word_object['status'])){
+        $status = $word_object['status'];
+    } else {
+        $status = '';
     }
+
+    $sql = "
+        INSERT INTO
+            qirim_english_dictionary.rus_words
+        SET
+            name = '".$word_object['word']."',    
+            part_of_speech_id = '".$word_object['abbreviation_eng']."',
+            status = '".$status."'     
+    ";
+    $mysqli->query($sql);
+
+    $sql_2 = "
+        SELECT 
+            rus_word_id
+        FROM
+            qirim_english_dictionary.rus_words
+        WHERE
+            name = '".$word_object['word']."'
+    ";
+    $result = mysqli_fetch_row($mysqli->query($sql_2));
+    $rus_word_id = $result[0];
+
+    $sql3 = "
+        INSERT INTO
+            qirim_english_dictionary.rus_descriptions
+        SET
+            rus_word_id = '".$rus_word_id."',
+            rus_abbreviation = '".$abbreviation_rus."',
+            rus_subdescription = '".$rus_description."',   
+            eng_subdescription = '".$description."'   
+    ";
+    $mysqli->query($sql3);
+
+    $sql_3 = "
+        INSERT INTO
+            qirim_english_dictionary.references
+        SET
+            eng_word_id = '".$word_object['origin_id']."',    
+            rus_word_id = '".$rus_word_id."'    
+    ";
+    $mysqli->query($sql_3);
+            
     $mysqli->close();
 }
 
