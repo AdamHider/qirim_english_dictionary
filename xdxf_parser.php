@@ -229,9 +229,9 @@ $word_data = [
  $result = [];
  $qirim_result = [];
  
-function compileObject(){
-    set_time_limit(8000);
-    $xml = file_get_contents('origin/dict_O_j-l.xdxf');
+function compileObject($current_interval){
+    set_time_limit(800000);
+    $xml = file_get_contents('origin/dict_O_'.$current_interval.'.xdxf');
     
     $xml_object = explode("<ar>", $xml);
     unset($xml_object[0]);
@@ -437,7 +437,7 @@ function findAbbreviationRus($word_string){
         $meaning_object['word'] = str_replace($rus_descr_matches[0], '', $meaning_object['word']);
     }
     
-    $meaning_object['origin'] = $current_object['origin'];
+    $meaning_object['origin'] = str_replace("'", "\'", $current_object['origin']);
     $meaning_object['transcription'] = preg_replace('/^\s+/', '', $current_object['transcription']);
     
     $meaning_object['word'] = preg_split('/(, )|(; )/', $meaning_object['word']);
@@ -467,8 +467,8 @@ function findAbbreviationRus($word_string){
         
          */
         
-        //array_push($result, $meaning_object);
-        writeDownOrigin($meaning_object);    
+        array_push($result, $meaning_object);
+        //writeDownOrigin($meaning_object);    
         //return $meaning_object;
     }
     
@@ -652,12 +652,16 @@ $time_start = microtime(true);
 if(function_exists($_GET['f'])) {
    $_GET['f']();
 }*/
-
-compileObject();
+$intervals = [
+            'delims', 'a-c', 'd-f', 'g-i', 'j-l', 'm-o', 'p-r', 's-u', 'v-z'
+        ];
+//for($i = 0; $i < count($intervals); $i++){
+    compileObject($intervals[1]);
+//}
 //getQTTranslation();
 $time_end = microtime(true);
 
 $execution_time = ($time_end - $time_start)/60;
 
 //execution time of the script
-//echo '<b>Total Execution Time:</b> '.$execution_time.' Mins';
+echo '<b>Total Execution Time:</b> '.$execution_time.' Mins';
