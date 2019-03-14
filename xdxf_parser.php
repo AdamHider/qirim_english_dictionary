@@ -51,6 +51,7 @@ $abbreviation_rus = [
     'бот.' => 'ботаника',
     'букв.' => 'буквально',
     'бухг.' => 'бухгалтерская терминология',
+    'брит.' => 'британская терминология',
     'вет.' => 'ветеринария',
     'вм.' => 'вместо',
     'воен.' => 'военное дело',
@@ -264,10 +265,10 @@ function compileObject(){
                 'transcription' => '',
                 'translation' => ''
          ];
-         echo json_encode($result);
-         die;
+         //echo json_encode($result);
+         //die;
         }
-    
+    print_r($result);
 }
 
 function compileTranslation($translation_string){
@@ -431,12 +432,27 @@ function findAbbreviationRus($word_string){
         $meaning_object['rus_description'] = $rus_descr_matches[0];
         $meaning_object['word'] = str_replace($rus_descr_matches[0], '', $meaning_object['word']);
     }
-    $meaning_object['word'] = preg_split('/(, )|(; )/', $meaning_object['word']);
     
     $meaning_object['origin'] = $current_object['origin'];
     $meaning_object['transcription'] = preg_replace('/^\s+/', '', $current_object['transcription']);
+    
+    $meaning_object['word'] = preg_split('/(, )|(; )/', $meaning_object['word']);
+    if(count($meaning_object['word'])>1){
+        return getLastMeaning($meaning_object);
+    } else {
+        $meaning_object['word'] = $meaning_object['word'][0];
+        $meaning_object['word'] = preg_replace('/._[\W\w]*\./', '', $meaning_object['word']);
+        array_push($result, $meaning_object);
+        //writeDownOrigin($meaning_object);    
+        //return $meaning_object;
+    }
+    
+}
+
+function getLastMeaning($meaning_object){
+    global $result;
+    $last_meaning_object = [];
     for($i = 0; $i < count($meaning_object['word']); $i++){
-        $last_meaning_obj = [];
         if($meaning_object['word'][$i] === ''){
              unset($meaning_object['word'][$i]);
              continue;
@@ -448,17 +464,22 @@ function findAbbreviationRus($word_string){
             $meaning_object['tiny_example'] = $new_matches[0];
             unset($meaning_object['word'][$i]);
             continue;
-        }
-        $last_meaning_obj = [
+        } 
+        
+        $last_meaning_object = $meaning_object;
+        
+        $abbreviation_eng = findAbbreviationEng($meaning_object['word'][$i]);
+        findAbbreviationRus($abbreviation_eng);
+        //array_push($result, $last_meaning_object);
+        //return $last_meaning_object;
+        
+        /*$last_meaning_obj = [
             'word'=> preg_replace("/[^АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЫЪЭЮЯабвгдеёжзийклмнопрстуфхцчшщьыъэюя ]/", '', $meaning_object['word'][$i]),
             'qirim_translation'=>getQTTranslation($meaning_object['word'][$i])
         ];
-        $meaning_object['word'][$i] = $last_meaning_obj;
+        $meaning_object['word'][$i] = $last_meaning_obj;*/
     }
-    
     //writeDownOrigin($meaning_object);    
-    array_push($result, $meaning_object);
-    return $meaning_object;
 }
 
 
@@ -600,12 +621,12 @@ function getQTSecondMeaning($translation_string){
 
 
 $time_start = microtime(true); 
- 
+ /*
 if(function_exists($_GET['f'])) {
    $_GET['f']();
-}
+}*/
 
-//compileObject();
+compileObject();
 //getQTTranslation();
 $time_end = microtime(true);
 
