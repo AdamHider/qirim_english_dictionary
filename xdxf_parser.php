@@ -227,6 +227,7 @@ $word_data = [
  ];
  
  $result = [];
+ $qirim_result = [];
  
 function compileObject(){
     set_time_limit(8000);
@@ -239,6 +240,7 @@ function compileObject(){
     global $word_data;
     global $current_object;
     global $result;
+    global $qirim_result;
     foreach ($xml_object as $object){
         $origin = explode('</k>',$object);
         if(strpos($origin[1], '</tr>')){
@@ -268,6 +270,7 @@ function compileObject(){
          //echo json_encode($result);
          //die;
         }
+    //print_r($qirim_result);
     print_r($result);
 }
 
@@ -399,6 +402,8 @@ function findAbbreviationRus($word_string){
     error_reporting(0);
     global $abbreviation_rus;
     global $current_object;
+    global $qirim_result;
+    global $result;
     $meaning_object = [
                 'word' => $word_string['word'],
                 'abbreviation_eng' => $word_string['abbreviation_eng'],
@@ -415,7 +420,6 @@ function findAbbreviationRus($word_string){
     }
     error_reporting(1);
     $meaning_object = findSynonims($meaning_object);
-     global $result;
     
     preg_match('/[A-Z]{1}[\s, \S]*[\.,?,!]?/', $meaning_object['word'], $matches);
     if($matches[0]){
@@ -440,8 +444,26 @@ function findAbbreviationRus($word_string){
     if(count($meaning_object['word'])>1){
         return getLastMeaning($meaning_object);
     } else {
+        
         $meaning_object['word'] = $meaning_object['word'][0];
-        $meaning_object['word'] = preg_replace('/._[\W\w]*\./', '', $meaning_object['word']);
+        //$meaning_object['word'] = preg_replace('/._[\W\w]*\./', '', $meaning_object['word']);
+        $meaning_object['word'] = preg_replace("/[^АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЫЪЭЮЯабвгдеёжзийклмнопрстуфхцчшщьыъэюя ]/", '', $meaning_object['word']);
+        $meaning_object['word'] = ltrim($meaning_object['word']);
+        $meaning_object['qirim_translation'] = getQTTranslation($meaning_object['word']);
+        /*
+        if(isset($meaning_object['qirim_translation'][0])){
+            array_push($qirim_result, $meaning_object);
+        }
+        */
+        if(count($meaning_object['qirim_translation']) == 0 ){
+            $meaning_object['status'] = 'empty';
+        } else if(count($meaning_object['qirim_translation']) == 1 && !is_array($meaning_object['qirim_translation'][0])){
+            $meaning_object['status'] = 'complete';
+        }  else if(count($meaning_object['qirim_translation']) > 1){
+            $meaning_object['status'] = 'warning';
+        }  else {
+            $meaning_object['status'] = 'warning';
+        }
         array_push($result, $meaning_object);
         //writeDownOrigin($meaning_object);    
         //return $meaning_object;
@@ -594,9 +616,7 @@ function writeDownDescriptions ($word_object){
 }
 
 function getQTTranslation($input_word){
-    
     header('Content-Type: text/plain');
-    $input_word = preg_replace("/[^АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЫЪЭЮЯабвгдеёжзийклмнопрстуфхцчшщьыъэюя ]/", '', $input_word);
     $json = file_get_contents('http://lugat.xyz/get_json?word='.$input_word);
     $qt_word_object = json_decode($json);
     $result_object = [];
@@ -608,13 +628,11 @@ function getQTTranslation($input_word){
             array_push($result_object, $translation_string);
         }
     }
-    
     return $result_object;
 } 
 
 function getQTSecondMeaning($translation_string){
     $second_meaning = preg_split("/[0-9]+\./", $translation_string);
-    
     array_shift($second_meaning);
     return $second_meaning;
 }
