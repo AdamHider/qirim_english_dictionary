@@ -1,0 +1,500 @@
+<ar><origin>R</origin><tr>[ɑ:]</tr><word>n (pl Rs, R's [ɑ:z])
+18-ая буква англ. алфавита
+◊ the three R's разг. чтение, письмо и арифметика (reading, (w)riting, (a)rithmetic)</word></ar><ar><origin>rabbit_fever</origin><tr>[ˊræbɪtˏfi:və]</tr><word>n
+мед. туляремия</word></ar><ar><origin>rabbit_punch</origin><tr>[ˊræbɪtpʌntʃ]</tr><word>n
+удар в затылок</word></ar><ar><origin>rabbit_warren</origin><tr>[ˊræbɪtˏwɒrǝn]</tr><word>n
+кроличий садок</word></ar><ar><origin>rabbitfish</origin><tr>[ˊræbɪtfɪʃ]</tr><word>n
+химера (рыба)</word></ar><ar><origin>race_hatred</origin><tr>[ˊreɪsˏheɪtrɪd]</tr><word>n
+расовая, национальная вражда</word></ar><ar><origin>race_meeting</origin><tr>[ˊreɪsˏmi:tɪŋ]</tr><word>n
+день скачек</word></ar><ar><origin>race_riot</origin><tr>[ˊreɪsˏraɪət]</tr><word>n
+расовые беспорядки</word></ar><ar><origin>race_suicide</origin><tr>[ˊreɪsˏsu:ɪsaɪd]</tr><word>n
+вымирание, вырождение народа</word></ar><ar><origin>racecard</origin><tr>[ˊreɪskɑ:d]</tr><word>n
+программа скачек</word></ar><ar><origin>raceway</origin><tr>[ˊreɪsweɪ]</tr><word>n
+канал для воды, для внутренней прокладки кабелей и т.п.</word></ar><ar><origin>racing_car</origin><tr>[ˊreɪsɪŋkɑ:]</tr><word>n
+гоночный автомобиль</word></ar><ar><origin>rack_rail</origin><tr>[ˊrækreɪl]</tr><word>n
+зубчатый рельс</word></ar><ar><origin>rack_railway</origin><tr>[ˊrækˏreɪlweɪ]</tr><word>n
+зубчатая железная дорога</word></ar><ar><origin>rack_wheel</origin><tr>[ˊrækwi:l]</tr><word>n
+зубчатое колесо</word></ar><ar><origin>radar_trap</origin><tr>[ˊreɪdɑ:træp]</tr><word>n
+устройство для определения превышения скорости</word></ar><ar><origin>radices</origin><tr>[ˊreɪdɪsi:z]</tr><word>pl от radix</word></ar><ar><origin>radii</origin><tr>[ˊreɪdɪaɪ]</tr><word>pl
+от radius</word></ar><ar><origin>radio_aerial</origin><tr>[ˏreɪdɪəυˊeərɪəl]</tr><word>n
+радиоантенна</word></ar><ar><origin>radio_beacon</origin><tr>[ˊreɪdɪəυˏbi:kǝn]</tr><word>n
+радиомаяк</word></ar><ar><origin>radio_biology</origin><tr>[ˏreɪdɪəυbaɪˊɒlədʒɪ]</tr><word>n
+радиобиология</word></ar><ar><origin>radio_engineering</origin><tr>[ˏreɪdɪəυˏendʒɪ-ˊnɪərɪŋ]</tr><word>n
+радиотехника</word></ar><ar><origin>radio_net</origin><tr>[ˏreɪdɪəυˊnet(wə:k)]</tr><word>n
+радиосеть</word></ar><ar><origin>radio_network</origin><tr>[ˏreɪdɪəυˊnet(wə:k)]</tr><word>n
+радиосеть</word></ar><ar><origin>radio_show</origin><tr>[ˊreɪdɪəυʃəυ]</tr><word>n
+радиопостановка</word></ar><ar><origin>radio_e1e</origin><tr></tr><word>в сложных словах радио-</word></ar><ar><origin>radio-cassette_player</origin><tr>[ˏreɪdɪəυkəˊsetˊpleɪə]</tr><word>n
+магнитола</word></ar><ar><origin>radioactive</origin><tr>[ˏreɪdɪəυˊæktɪv]</tr><word>a
+радиоактивный</word></ar><ar><origin>radioactive_dating</origin><tr>[ˏreɪdɪəυˊæktɪvˊdeɪtɪŋ]</tr><word>n
+амер научный метод определения возраста очень древних предметов</word></ar><ar><origin>radioactive_waste</origin><tr>[ˏreɪdɪəυˊæktɪvˊweɪst]</tr><word>n
+радиоактивные отходы</word></ar><ar><origin>radioactivity</origin><tr>[ˏreɪdɪəυækˊtɪvətɪ]</tr><word>n
+радиоактивность</word></ar><ar><origin>radioisotope</origin><tr>[ˏreɪdɪəυˊaɪsəʋtəυp]</tr><word>n
+радиоактивный изотоп</word></ar><ar><origin>radiolocation</origin><tr>[ˏreɪdɪəʋləʋˊkeɪʃn]</tr><word>n
+радиолокация</word></ar><ar><origin>radiolocator</origin><tr>[ˏreɪdɪəʋləʋˊkeɪtə]</tr><word>n
+радиолокатор</word></ar><ar><origin>radiotelegraph</origin><tr>[ˏreɪdɪəυˊtelɪgrɑ:f]</tr><word>n
+радиотелеграф</word></ar><ar><origin>radiotelephone</origin><tr>[ˏreɪdɪəυˊtelɪˏfəυn]</tr><word>n
+радиотелефон</word></ar><ar><origin>radiotherapeutics</origin><tr>[ˏreɪdɪəʋθerəˊpju:tɪks]</tr><word>= radiotherapy</word></ar><ar><origin>radiotherapy</origin><tr>[ˏreɪdɪəʋˊθerəpɪ]</tr><word>n
+радиотерапия, рентгенотерапия</word></ar><ar><origin>rag_baby</origin><tr>[ˊrægˏbeɪbɪ]</tr><word>n
+тряпичная кукла</word></ar><ar><origin>rag_bolt</origin><tr>[ˊrægbəυlt]</tr><word>n
+тех. анкерный болт, ёрш</word></ar><ar><origin>rag_fair</origin><tr>[ˊrægfeə]</tr><word>n
+барахолка, толкучка</word></ar><ar><origin>rag_paper</origin><tr>[ˊrægˏpeɪpə]</tr><word>n
+тряпичная бумага</word></ar><ar><origin>rag-and-bone_man</origin><tr>[ˏrægǝnˊbəυnmæn]</tr><word>n
+тряпичник, старьёвщик</word></ar><ar><origin>ragga</origin><tr>[ˊrægə]</tr><word>n
+муз. рэгги</word></ar><ar><origin>ragged_robin</origin><tr>[ˏrægɪdˊrɒbɪn]</tr><word>n
+бот. дрёма, кукушкин цвет</word></ar><ar><origin>ragpicker</origin><tr>[ˊrægˏpɪkə]</tr><word>n
+тряпичник, старьёвщик</word></ar><ar><origin>ragwheel</origin><tr>[ˊrægwi:l]</tr><word>n
+тех. цепное колесо</word></ar><ar><origin>rail_mill</origin><tr>[ˊreɪlmɪl]</tr><word>n
+рельсопрокатный стан</word></ar><ar><origin>railcar</origin><tr>[ˊreɪlkɑ:]</tr><word>n
+дрезина, автомотриса</word></ar><ar><origin>railchair</origin><tr>[ˊreɪltʃeə]</tr><word>n
+ж.-д. рельсовая подушка</word></ar><ar><origin>railrolling_mill</origin><tr>[ˏreɪlrəυlɪŋˊmɪl]</tr><word>= rail mill</word></ar><ar><origin>rain_check</origin><tr>[ˊreɪntʃek]</tr><word>n
+амер.
+1) билет, дающий право прийти на стадион на игру, перенесённую из-за дождя
+2) обещание принять приглашение как-нибудь в другой раз</word></ar><ar><origin>rain_gauge</origin><tr>[ˊreɪngeɪdʒ]</tr><word>n
+метео дождемер</word></ar><ar><origin>rain_glass</origin><tr>[ˊreɪnglɑ:s]</tr><word>n
+барометр</word></ar><ar><origin>rain_worm</origin><tr>[ˊreɪnwɜ:m]</tr><word>n
+дождевой червь</word></ar><ar><origin>rainbow_trout</origin><tr>[ˏreɪnbəυˊtraυt]</tr><word>n
+зоол. радужная форель</word></ar><ar><origin>raincoat_fabric</origin><tr>[ˏreɪnkəυtˊfæbrɪk]</tr><word>n
+плащёвка</word></ar><ar><origin>rainstorm</origin><tr>[ˊreɪnstɔ:m]</tr><word>n
+ливень с ураганом</word></ar><ar><origin>rainwater</origin><tr>[ˊreɪnˏwɔ:tə]</tr><word>n
+дождевая вода</word></ar><ar><origin>raison_d_etre</origin><tr></tr><word>фр. n разумное основание, смысл (существования чего-л.)</word></ar><ar><origin>Raj</origin><tr>[rɑ:dʒ]</tr><word>n
+ист. (the Raj) английское господство в Индии</word></ar><ar><origin>Rajpoot</origin><tr>[ˊrɑ:dʒpυt]</tr><word>n
+раджпут</word></ar><ar><origin>Rajput</origin><tr>[ˊrɑ:dʒpυt]</tr><word>n
+раджпут</word></ar><ar><origin>Ramadan</origin><tr>[ˏræməˊdɑ:n]</tr><word>n
+рел. рамадан</word></ar><ar><origin>rammy</origin><tr>[ˊræmɪ]</tr><word>n
+шотл. сл. драка, схватка (между бандами)</word></ar><ar><origin>range_finder</origin><tr>[ˊreɪndʒˏfaɪndə]</tr><word>n
+1) дальномерщик
+2) тех. дальномер</word></ar><ar><origin>range_pole</origin><tr>[ˊreɪndʒpəυl]</tr><word>n
+геод. дальномерная рейка; створная веха</word></ar><ar><origin>rang%C3%A9</origin><tr></tr><word>фр. a
+1) аккуратный, любящий порядок
+2) степенный, остепенившийся</word></ar><ar><origin>ranunculi</origin><tr>[rəˊnʌŋkjυlaɪ]</tr><word>pl от ranunculus</word></ar><ar><origin>rape_oil</origin><tr>[ˊreɪpɔɪl]</tr><word>n
+сурепное, рапсовое масло</word></ar><ar><origin>rara_avis</origin><tr>[ˏreərəˊeɪvɪs]</tr><word>n
+(лат. «редкая птица») редкость, диковинка, человек или вещь, редко встречающиеся</word></ar><ar><origin>rare_earth</origin><tr>[ˏreəˊɜ:θ]</tr><word>n
+хим редкоземельный элемент</word></ar><ar><origin>raspberry_cane</origin><tr>[ˊrɑ:zbǝrɪkeɪn]</tr><word>n (обыкн. pl)
+кусты малины, малинник</word></ar><ar><origin>rat_race</origin><tr>[ˊrætreɪs]</tr><word>n
+«крысиные бега» (ситуация постоянного соперничества в политике или бизнесе)</word></ar><ar><origin>rat_trap</origin><tr>[ˊrættræp]</tr><word>n
+1) крысоловка
+2) безвыходное положение
+3) амер. разг. старое грязное запущенное здание</word></ar><ar><origin>rat_s-tail</origin><tr>[ˊrætsteɪl]</tr><word>n
+1) крысиный хвостик (о косичке, верёвочке и т.п.)
+2) attr.:
+rat's-tail file тех. тонкий напильник</word></ar><ar><origin>ratchet_wheel</origin><tr>[ˊrætʃɪtwi:l]</tr><word>n
+тех. храповое колесо, храповик</word></ar><ar><origin>-rater</origin><tr>[-ˏreɪtə]</tr><word>n
+в сложных словах:
+first-rater яхта первого разряда;
+ten-rater яхта водоизмещением в 10 тонн</word></ar><ar><origin>ration_book</origin><tr>[ˊræʃnbυk]</tr><word>n
+продовольственная или промтоварная книжка, заборная книжка (на нормированные товары)</word></ar><ar><origin>rattle-brained</origin><tr>[ˊrætlbreɪnd]</tr><word>a
+пустоголовый и крикливый</word></ar><ar><origin>rattle-headed</origin><tr>[ˊrætlˏhedɪd]</tr><word>= rattle-brained</word></ar><ar><origin>rave-up</origin><tr>[ˊreɪvʌp]</tr><word>= rave 2, 3)</word></ar><ar><origin>rawboned</origin><tr>[ˏrɔ:ˊbəυnd]</tr><word>a
+очень худой, костлявый</word></ar><ar><origin>razor_blade</origin><tr>[ˊreɪzəbleɪd]</tr><word>n
+бритвенное лезвие</word></ar><ar><origin>razor_edge</origin><tr>[ˏreɪzərˊedʒ]</tr><word>n
+1) остриё бритвы, ножа; острый край (чего-л.)
+2) острый горный кряж
+3) опасное положение;
+to be on a razor edge (или razor's edge) быть в опасности, на краю гибели
+4) резкая грань;
+to keep on the razor edge of smth. не преступать границы чего-л.</word></ar><ar><origin>razor-sharp</origin><tr>[ˏreɪzəˊʃɑ:p]</tr><word>a
+1) острый, как бритва
+2) очень умный</word></ar><ar><origin>razorback</origin><tr>[ˊreɪzəbæk]</tr><word>n
+1) полосатик (кит)
+2) острый хребет</word></ar><ar><origin>razorbill</origin><tr>[ˊreɪzəbɪl]</tr><word>n
+зоол. гагарка</word></ar><ar><origin>re_83c</origin><tr>[ˊri:-]</tr><word>pref
+снова, заново, ещё раз, обратно;
+recollect вновь собрать;
+re-form вновь формировать;
+reimport ввозить обратно;
+reread перечитывать;
+renew возобновлять</word></ar><ar><origin>re-claim</origin><tr></tr><word>амер. = reclaim 1, 1)</word></ar><ar><origin>re-did</origin><tr>[ˏri:ˊdɪd]</tr><word>past от re-do</word></ar><ar><origin>re-done</origin><tr>[ˏri:ˊdʌn]</tr><word>p. p. от re-do</word></ar><ar><origin>re-formed</origin><tr>[ˏri:ˊfɔ:md]</tr><word>p. p. от re-form</word></ar><ar><origin>re-home</origin><tr>[ri:ˊhəυm]</tr><word>v
+передать домашнее животное новому хозяину</word></ar><ar><origin>read-only_memory</origin><tr>[ˏri:dəυnlɪˊmemɔrɪ]</tr><word>n
+информ. компакт-диск только для чтения</word></ar><ar><origin>reading_desk</origin><tr>[ˊri:dɪŋdesk]</tr><word>n
+пюпитр</word></ar><ar><origin>reading_glass</origin><tr>[ˊri:dɪŋglɑ:s]</tr><word>n
+увеличительное стекло</word></ar><ar><origin>reading_lamp</origin><tr>[ˊri:dɪŋlæmp]</tr><word>n
+настольная лампа</word></ar><ar><origin>reading_room</origin><tr>[ˊri:dɪŋru:m]</tr><word>n
+1) читальный зал, читальня
+2) корректорская</word></ar><ar><origin>ready_money</origin><tr>[ˏredɪˊmʌnɪ]</tr><word>n
+наличные деньги</word></ar><ar><origin>ready_reckoner</origin><tr>[ˏredɪˊrekənə]</tr><word>n
+(арифметические) таблицы (готовых расчётов)</word></ar><ar><origin>real_estate</origin><tr>[ˊrɪəlɪˏsteɪt]</tr><word>n
+недвижимость</word></ar><ar><origin>real_estate_agent</origin><tr>[ˊrɪəlɪsteɪtˏeɪdʒǝnt]</tr><word>n
+агент по продаже недвижимости, риэлтор</word></ar><ar><origin>reanimation</origin><tr>[ri:ænɪˊmeɪʃn]</tr><word>n
+реанимация</word></ar><ar><origin>rear_admiral</origin><tr>[ˏrɪəˊædmrǝl]</tr><word>n
+контр-адмирал</word></ar><ar><origin>rearview_mirror</origin><tr>[ˏrɪəvju:ˊmɪrə]</tr><word>n
+авто зеркало задней обзорности</word></ar><ar><origin>Reaumur</origin><tr>[ˊreɪəʋmjυə]</tr><word>n
+1) термометр Реомюра
+2) attr.:
+Reaumur scale физ. температурная шкала Реомюра</word></ar><ar><origin>reboot</origin><tr>[ˏri:ˊbu:t]</tr><word>v
+информ. перезагружать компьютер</word></ar><ar><origin>rebuilt</origin><tr>[ri:ˊbɪlt]</tr><word>past и p. p. от rebuild</word></ar><ar><origin>reception_room</origin><tr>[rɪˊsepʃnru:m]</tr><word>n
+гостиная, приёмная</word></ar><ar><origin>reciprocating_engine</origin><tr>[rɪˏsɪprəkeɪtɪŋ-ˊendʒɪn]</tr><word>n
+поршневой двигатель</word></ar><ar><origin>recliner</origin><tr>[rɪˊklaɪnə]</tr><word>n
+кресло с откидывающейся спинкой</word></ar><ar><origin>record_changer</origin><tr>[ˊrekɔ:dˏtʃeɪndʒə]</tr><word>n
+устройство для автоматического переворачивания пластинок на проигрывателе</word></ar><ar><origin>record_film</origin><tr>[ˊrekɔ:dfɪlm]</tr><word>n
+документальный фильм</word></ar><ar><origin>record_player</origin><tr>[ˊrekɔ:dˏpleɪə]</tr><word>n
+проигрыватель граммофонных пластинок</word></ar><ar><origin>recta</origin><tr>[ˊrektə]</tr><word>pl от rectum</word></ar><ar><origin>recurring_decimal</origin><tr>[rɪˏkɜ:rɪŋˊdesəml]</tr><word>n
+мат. периодическая бесконечная десятичная дробь</word></ar><ar><origin>recycling</origin><tr>[ˏri:ˊsaɪklɪŋ]</tr><word>n
+переработка для вторичного использования</word></ar><ar><origin>red_admiral</origin><tr>[redˊædmrǝl]</tr><word>n
+адмирал (бабочка)</word></ar><ar><origin>red_bark</origin><tr>[ˏredˊbɑ:k]</tr><word>n
+красная перуанская кора (разновидность хинной коры)</word></ar><ar><origin>red_bilberry</origin><tr>[ˏredˊbɪlbǝrɪ]</tr><word>n
+брусника</word></ar><ar><origin>red_box</origin><tr>[ˊredbɒks]</tr><word>n
+красный кожаный ящик для официальных бумаг членов английского правительства</word></ar><ar><origin>red_brass</origin><tr>[ˊredbrɑ:s]</tr><word>n
+томпак, красная латунь</word></ar><ar><origin>red_cedar</origin><tr>[ˏredˊsi:də]</tr><word>n
+можжевельник виргинский</word></ar><ar><origin>red_cell</origin><tr>[ˊredsel]</tr><word>n
+эритроцит</word></ar><ar><origin>red_cent</origin><tr>[ˏredˊsent]</tr><word>n
+амер. (медная) монета в 1 цент
+◊ I don't care a red cent (for) мне наплевать (на);
+not worth a red cent гроша медного не стоит</word></ar><ar><origin>Red_Crescent</origin><tr>[ˏredˊkresnt]</tr><word>n
+Красный Полумесяц</word></ar><ar><origin>Red_Cross</origin><tr>[ˏredˊkrɒs]</tr><word>n
+1) Красный Крест
+2) (r.c.) крест св. Георгия (национальная эмблема Англии)</word></ar><ar><origin>red_deer</origin><tr>[ˏredˊdɪə]</tr><word>n
+зоол. олень благородный</word></ar><ar><origin>Red_Ensign</origin><tr>[redˊensaɪn]</tr><word>n
+флаг торгового флота Великобритании</word></ar><ar><origin>red_giant</origin><tr>[ˏredˊdʒaɪənt]</tr><word>n
+астр. красный гигант (о звезде)</word></ar><ar><origin>red_gum</origin><tr>[ˊredgʌm]</tr><word>n
+1) сыпь у детей, потница
+2) бот. эвкалипт австралийский, красное камедное дерево</word></ar><ar><origin>red_hardness</origin><tr>[redˊhɑ:dnəs]</tr><word>n
+метал. красностойкость</word></ar><ar><origin>red_herring</origin><tr>[ˏredˊherɪŋ]</tr><word>n
+1) копчёная селёдка
+2) отвлекающий манёвр;
+to draw (или to track, to trail) a red herring across the path направлять по ложному следу намеренно; отвлекать внимание от обсуждаемого вопроса</word></ar><ar><origin>red_huckleberry</origin><tr>[ˏredˊhʌklbǝrɪ]</tr><word>= red bilberry</word></ar><ar><origin>Red_Indian</origin><tr>[ˏredˊɪndɪən]</tr><word>n
+презр. (североамериканский) индеец, краснокожий</word></ar><ar><origin>red_lamp</origin><tr>[redˊlæmp]</tr><word>n
+1) красный фонарь, горящий ночью у квартиры доктора или у дверей аптеки
+2) = red light 1);
+3) сл. красный фонарь, публичный дом</word></ar><ar><origin>red_lane</origin><tr>[ˏredˊleɪn]</tr><word>n
+детск. горлышко (ребёнка)</word></ar><ar><origin>red_lead</origin><tr>[ˏredˊled]</tr><word>n
+свинцовый сурик</word></ar><ar><origin>red_light</origin><tr>[ˏredˊlaɪt]</tr><word>n
+1) красный свет (сигнал опасности на транспорте и т.п.);
+to see the red light предчувствовать приближение опасности, беды и т.п.
+2) = red lamp 3)</word></ar><ar><origin>red_man</origin><tr>[ˊredmæn]</tr><word>n
+амер. презр. краснокожий, (североамериканский) индеец</word></ar><ar><origin>red_meat</origin><tr>[ˏredˊmi:t]</tr><word>n
+чёрное мясо (баранина, говядина)</word></ar><ar><origin>red_ochre</origin><tr>[ˏredˊəυkə]</tr><word>n
+красная охра, гематит</word></ar><ar><origin>red_rag</origin><tr>[ˏredˊræg]</tr><word>n
+1) «красная тряпка»; нечто приводящее в бешенство (как быка красный цвет)
+2) сл. язык</word></ar><ar><origin>red_rot</origin><tr>[ˏredˊrɒt]</tr><word>n
+краснуха, красная гниль (древесины)</word></ar><ar><origin>red_soil</origin><tr>[ˏredˊsɔɪl]</tr><word>n
+краснозём</word></ar><ar><origin>red_tape</origin><tr>[ˏredˊteɪp]</tr><word>n
+бюрократизм, канцелярщина, волокита</word></ar><ar><origin>red-headed</origin><tr>[ˊredhedɪd]</tr><word>a
+рыжеволосый</word></ar><ar><origin>red-letter_day</origin><tr>[ˏredˊletədeɪ]</tr><word>n
+красный день в календаре, праздничный или счастливый день</word></ar><ar><origin>redcurrant</origin><tr>[ˏredˊkʌrǝnt]</tr><word>n
+красная смородина</word></ar><ar><origin>redd</origin><tr>[red]</tr><word>n
+диал. приводить в порядок</word></ar><ar><origin>redirection</origin><tr>[ˏri:dəˊrekʃn]</tr><word>n
+переадресация</word></ar><ar><origin>reducing_agent</origin><tr>[rɪˏdju:sɪŋˊeɪdʒǝnt]</tr><word>n
+хим. восстановитель</word></ar><ar><origin>reducing_gear</origin><tr>[rɪˏdju:sɪŋˊgɪə]</tr><word>n
+тех. редукционная передача, редуктор</word></ar><ar><origin>reductionism</origin><tr>[rɪˊdʌkʃnɪzǝm]</tr><word>n
+филос. редукционизм, философия сведения высшего к низшему и т.п.; механицизм</word></ar><ar><origin>redwing</origin><tr>[ˊredwɪŋ]</tr><word>n
+зоол. дрозд-белобровик</word></ar><ar><origin>reed_pipe</origin><tr>[ˊri:dpaɪp]</tr><word>n
+1) свирель
+2) муз. язычковая трубка органа</word></ar><ar><origin>reedmace</origin><tr>[ˊri:dmeɪs]</tr><word>n
+бот. рогоз</word></ar><ar><origin>reef_knot</origin><tr>[ˊri:fnɒt]</tr><word>n
+рифовый узел</word></ar><ar><origin>Reekie</origin><tr>[ˊri:kɪ]</tr><word>n:
+Auld Reekie шотл. разг. г. Эдинбург</word></ar><ar><origin>reentrant</origin><tr></tr><word>геом.
+1. a входящий
+2. n входящий угол</word></ar><ar><origin>reentry</origin><tr>[rɪˊentrɪ]</tr><word>n
+1) вход или возвращение в плотные слои атмосферы (о космических кораблях и т.п.)
+2) юр. обратное завладение, восстановление владения недвижимостью</word></ar><ar><origin>reestablish</origin><tr>[ˏri:ɪˊstæblɪʃ]</tr><word>v
+восстанавливать</word></ar><ar><origin>reference_mark</origin><tr>[ˊrefrǝnsmɑ:k]</tr><word>n
+полигр. знак сноски</word></ar><ar><origin>referenda</origin><tr>[ˏrefəˊrendə]</tr><word>pl от referendum</word></ar><ar><origin>referent</origin><tr>[ˊrefrǝnt]</tr><word>n
+референт, то, с чем соотносится мысль, символ, знак</word></ar><ar><origin>referred_pain</origin><tr>[rɪˏfɜ:dˊpeɪn]</tr><word>n
+мед. иррадиирующая боль</word></ar><ar><origin>reflation</origin><tr>[ri:ˊfleɪʃn]</tr><word>n
+эк. рефляция</word></ar><ar><origin>reflex_camera</origin><tr>[ˊri:fleksˏkæmǝrə]</tr><word>n
+зеркальный фотоаппарат</word></ar><ar><origin>reflexology</origin><tr>[ˏri:flekˊsɒlədʒɪ]</tr><word>n
+1) мед. рефлексотерапия
+2) психол. рефлексология</word></ar><ar><origin>refresher_course</origin><tr>[rɪˊfreʃəkɔ:s]</tr><word>n
+курсы повышения квалификации</word></ar><ar><origin>reft</origin><tr>[reft]</tr><word>past и p. p. от reave</word></ar><ar><origin>regisseur</origin><tr>[ˏreɪʒɪˊsɜ:]</tr><word>n
+режиссёр, особ. постановщик балета</word></ar><ar><origin>registered_nurse</origin><tr>[ˏredʒɪstədˊnɜ:s]</tr><word>n
+дипломированная медицинская сестра</word></ar><ar><origin>registered_office</origin><tr>[ˊredʒɪstədˏɒfɪs]</tr><word>n
+официальный адрес компании (в Британии)</word></ar><ar><origin>registration_mark</origin><tr>[ˏredʒɪˊstreɪʃnmɑ:k]</tr><word>n
+авто номерной знак</word></ar><ar><origin>Regius</origin><tr>[ˊri:dʒɪəs]</tr><word>a:
+Regius Professor профессор, кафедра которого учреждена одним из английских королей</word></ar><ar><origin>regressive_tax</origin><tr>[rɪˊgresɪvtæks]</tr><word>n
+эк. регрессивный налог</word></ar><ar><origin>reheard</origin><tr>[ˏri:ˊhɜ:d]</tr><word>past и p. p. от rehear</word></ar><ar><origin>Reich</origin><tr>[raɪk]</tr><word>n
+ист. рейх, германское государство;
+Third Reich «третья империя», гитлеровский рейх</word></ar><ar><origin>Reichstag</origin><tr>[ˊraɪkstɑ:g]</tr><word>n
+ист. рейхстаг</word></ar><ar><origin>reimport</origin><tr>[ˏri:ɪmˊpɔ:t]</tr><word>v
+ввозить обратно</word></ar><ar><origin>reinforced_concrete</origin><tr>[ˏri:ɪnfɔ:stˊkɒŋkri:t]</tr><word>n
+железобетон</word></ar><ar><origin>relapsing_fever</origin><tr>[rɪˏlæpsɪŋˊfi:və]</tr><word>n
+мед. возвратный тиф</word></ar><ar><origin>relaxant</origin><tr>[rɪˊlæksnt]</tr><word>n
+релаксант</word></ar><ar><origin>relay_race</origin><tr>[ˊri:leɪreɪs]</tr><word>n
+эстафетный бег, эстафетная гонка</word></ar><ar><origin>relay_station</origin><tr>[ˊri:leɪˏsteɪʃn]</tr><word>n
+радио ретрансляционная станция</word></ar><ar><origin>release_gear</origin><tr>[rɪˊli:sgɪə]</tr><word>n
+ав. бомбосбрасыватель</word></ar><ar><origin>relieving_officer</origin><tr>[rɪˏli:vɪŋˊɒfɪsə]</tr><word>n
+попечитель, ведающий помощью бедным (в приходе, районе)</word></ar><ar><origin>remade</origin><tr>[ˏri:ˊmeɪd]</tr><word>past и p. p. от remake 1</word></ar><ar><origin>remand_home</origin><tr>[rɪˏmɑ:ndˊhəυm]</tr><word>n
+дом предварительного заключения для малолетних преступников</word></ar><ar><origin>Remembrance_Day</origin><tr>[rɪˊmembrǝnsdeɪ]</tr><word>n
+день памяти погибших в двух мировых войнах</word></ar><ar><origin>remittance_man</origin><tr>[rɪˊmɪtnsmæn]</tr><word>n
+уст. эмигрант, живущий на деньги, присылаемые с родины</word></ar><ar><origin>removal_van</origin><tr>[rɪˊmu:vlvæn]</tr><word>n
+фургон для перевозки мебели</word></ar><ar><origin>renegade</origin><tr></tr><word>1. n
+1) ренегат, изменник; перебежчик
+2) вероотступник
+2. a предательский, изменнический</word></ar><ar><origin>renominate</origin><tr>[rɪˊnɒmɪneɪt]</tr><word>v
+вновь выдвинуть кандидатуру</word></ar><ar><origin>rent-boy</origin><tr>[ˊrentbɒɪ]</tr><word>n
+молодой мужчина, торгующий своим телом</word></ar><ar><origin>repaid</origin><tr>[rɪˊpeɪd]</tr><word>past и p. p. от repay</word></ar><ar><origin>repat</origin><tr>[rɪˊpæt]</tr><word>n
+разг.
+1) репатриант
+2) репатриация</word></ar><ar><origin>repeat_order</origin><tr>[rɪˏpi:tˊɔ:də]</tr><word>n
+повторный заказ</word></ar><ar><origin>repeating_rifle</origin><tr>[rɪˊpi:tɪŋˏraɪfl]</tr><word>n
+магазинная винтовка</word></ar><ar><origin>repeating_watch</origin><tr>[rɪˊpi:tɪŋˏwɒtʃ]</tr><word>n
+часы с репетиром</word></ar><ar><origin>repertory_theatre</origin><tr>[ˊrepətǝrɪˏθɪətə]</tr><word>n
+театр с постоянной труппой и определённым репертуаром</word></ar><ar><origin>repetend</origin><tr>[ˊrepɪtend]</tr><word>n
+1) мат. период (периодической дроби)
+2) муз. рефрен</word></ar><ar><origin>repetition_work</origin><tr>[ˏrepəˊtɪʃnwɜ:k]</tr><word>n
+тех. массовое производство; серийное производство; шаблонная работа</word></ar><ar><origin>replan</origin><tr>[rɪˊplæn]</tr><word>v
+планировать заново; переработать прежний план</word></ar><ar><origin>report_card</origin><tr>[rɪˏpɔ:tˊkɑ:d]</tr><word>= report 1, 5)</word></ar><ar><origin>report_centre</origin><tr>[rɪˏpɔ:tˊsentə]</tr><word>n
+воен. пункт сбора донесений</word></ar><ar><origin>reportorial</origin><tr>[ˏrɪpɔ:ˊtɔ:rɪəl]</tr><word>a
+амер. репортёрский</word></ar><ar><origin>repressor</origin><tr>[rɪˊpresə]</tr><word>= represser</word></ar><ar><origin>repro</origin><tr>[ˊri:prəυ]</tr><word>n
+разг. репродукция</word></ar><ar><origin>reprogram</origin><tr>[ri:ˊprəυgræm]</tr><word>v
+информ. перепрограммировать</word></ar><ar><origin>republish</origin><tr>[ri:ˊpʌblɪʃ]</tr><word>v
+переиздать, опубликовать вновь</word></ar><ar><origin>repurify</origin><tr>[ri:ˊpjυərɪfaɪ]</tr><word>v
+очищать вновь</word></ar><ar><origin>reputedly</origin><tr>[ˊrepjυtədlɪ]</tr><word>adv
+по общему мнению</word></ar><ar><origin>request_programme</origin><tr>[rɪˊkwestˏprəυ-græm]</tr><word>n
+программа, составленная по заявкам зрителей</word></ar><ar><origin>request_stop</origin><tr>[rɪˊkweststɒp]</tr><word>n
+остановка по требованию (автобусная)</word></ar><ar><origin>reread</origin><tr>[ri:ˊri:d]</tr><word>v (reread [ri:ˊred])
+перечитывать</word></ar><ar><origin>reredos</origin><tr>[ˊrɪədɒs]</tr><word>n
+архит. экран (за алтарём)</word></ar><ar><origin>reroute</origin><tr>[rɪˊru:t]</tr><word>v
+изменять маршрут</word></ar><ar><origin>resat</origin><tr>[rɪˊsæt]</tr><word>v past и p. p. от resit 2</word></ar><ar><origin>reserpine</origin><tr>[ˊresəpi:n]</tr><word>n
+резерпин</word></ar><ar><origin>residential_care</origin><tr>[ˏrezɪˊdenʃlkeə]</tr><word>n
+система помощи на дому старым и больным людям</word></ar><ar><origin>residua</origin><tr>[rɪˊzɪdjυə]</tr><word>pl от residuum</word></ar><ar><origin>resistance_movement</origin><tr>[rɪˏzɪstǝnsˊmu:vmənt]</tr><word>n
+движение Сопротивления</word></ar><ar><origin>resite</origin><tr>[ˏri:ˊsaɪt]</tr><word>v
+перемещать; передислоцировать</word></ar><ar><origin>reskilling</origin><tr>[ˏri:ˊskɪlɪŋ]</tr><word>n
+профессиональная переподготовка (особ. безработных)</word></ar><ar><origin>resold</origin><tr>[ˏri:ˊsəυld]</tr><word>past и p. p. от resell</word></ar><ar><origin>resonate</origin><tr>[ˊresəneɪt]</tr><word>v
+резонировать</word></ar><ar><origin>resorption</origin><tr>[rɪˊzɔ:pʃn]</tr><word>n
+резорпция, поглощение</word></ar><ar><origin>responsory</origin><tr>[rɪˊspɒnsərɪ]</tr><word>n
+церк. респонсорий (песнопение)</word></ar><ar><origin>respray</origin><tr>[ˏri:ˊspreɪ]</tr><word>v
+перекрашивать автомобиль</word></ar><ar><origin>rest_cure</origin><tr>[ˊrestkjυə]</tr><word>n
+лечение покоем</word></ar><ar><origin>rest_day</origin><tr>[ˊrestdeɪ]</tr><word>n
+день отдыха</word></ar><ar><origin>rest_home</origin><tr>[ˊresthəυm]</tr><word>n
+1) дом призрения для престарелых и инвалидов
+2) санаторий для выздоравливающих</word></ar><ar><origin>rest_room</origin><tr>[ˊrestru:m]</tr><word>n
+амер. туалет, уборная (в театре, ресторане и т.п.) с помещением для отдыха</word></ar><ar><origin>retaining_fee</origin><tr>[rɪˏteɪnɪŋˊfi:]</tr><word>n
+предварительный гонорар адвокату</word></ar><ar><origin>retaining_wall</origin><tr>[rɪˏteɪnɪŋˊwɔ:l]</tr><word>n
+стр. подпорная стенка</word></ar><ar><origin>retardate</origin><tr></tr><word>амер. = retarded</word></ar><ar><origin>retarded</origin><tr>[rɪˊtɑ:dɪd]</tr><word>a
+умственно отсталый</word></ar><ar><origin>rethought</origin><tr>[ˏri:ˊθɔ:t]</tr><word>past и p. p. от rethink</word></ar><ar><origin>retinae</origin><tr>[ˊretɪni:]</tr><word>pl от retina</word></ar><ar><origin>retold</origin><tr>[ˏri:ˊtəυld]</tr><word>past и p. p. от retell</word></ar><ar><origin>retransmit</origin><tr>[ˏri:trænzˊmɪt]</tr><word>v
+радио ретранслировать</word></ar><ar><origin>retread</origin><tr>[ˊri:tred]</tr><word>новая покрышка; новый протектор
+2. v [ˏri:ˊtred] (retrod; retrodden) сменить покрышку; возобновлять протектор</word></ar><ar><origin>retrod</origin><tr>[ˏri:ˊtrɒd]</tr><word>past от retread 2</word></ar><ar><origin>retrodden</origin><tr>[ˏri:ˊtrɒdn]</tr><word>p. p. от retread 2</word></ar><ar><origin>retrorocket</origin><tr>[ˊretrəυˏrɒkɪt]</tr><word>n
+косм. тормозная ракета</word></ar><ar><origin>retroverted</origin><tr>[ˏretrəʋˊvɜ:tɪd]</tr><word>a
+повёрнутый назад, загнутый</word></ar><ar><origin>returning_officer</origin><tr>[rɪˊtɜ:nɪŋˏɒfɪsə]</tr><word>n
+уполномоченный по выборам</word></ar><ar><origin>revanchist</origin><tr></tr><word>1. n реваншист
+2. a реваншистский</word></ar><ar><origin>reverberatory_furnace</origin><tr>[rɪˊvɜ:bǝrə-tǝrɪˏfɜ:nɪs]</tr><word>n
+метал. отражательная печь</word></ar><ar><origin>revers</origin><tr>[rɪˊvɪə]</tr><word>n
+отворот, лацкан</word></ar><ar><origin>reverse_gear</origin><tr>[rɪˏvɜ:sˊgɪə]</tr><word>n
+авто задняя передача</word></ar><ar><origin>rewritten</origin><tr>[ˏri:ˊrɪtn]</tr><word>p. p. от rewrite</word></ar><ar><origin>rewrote</origin><tr>[ˏri:ˊrəυt]</tr><word>past от rewrite</word></ar><ar><origin>Rex</origin><tr></tr><word>лат. n правящий король</word></ar><ar><origin>Reynard</origin><tr>[ˊrenɑ:d]</tr><word>n
+Рейнеке-лис (сказочный персонаж)</word></ar><ar><origin>rhesus_factor</origin><tr>[ˊri:səsˏfæktə]</tr><word>n
+биол. резус-фактор</word></ar><ar><origin>Rhine_wine</origin><tr>[ˏraɪnˊwaɪn]</tr><word>n
+рейнское (вино), рейнвейн</word></ar><ar><origin>rhombi</origin><tr>[ˊrɒmbaɪ]</tr><word>pl от rhombus</word></ar><ar><origin>rib_cage</origin><tr>[ˊrɪbkeɪdʒ]</tr><word>n
+грудная клетка</word></ar><ar><origin>riboflavin</origin><tr>[ˏraɪbəʋˊfleɪvɪn]</tr><word>n
+рибофлавин, витамин B2</word></ar><ar><origin>ribosome</origin><tr>[ˊraɪbəʋsəυm]</tr><word>n
+биол. рибосома</word></ar><ar><origin>rice_paper</origin><tr>[ˊraɪsˏpeɪpə]</tr><word>n
+рисовая бумага</word></ar><ar><origin>riceflakes</origin><tr>[ˊraɪsˏfleɪks]</tr><word>n pl
+кул. рисовые хлопья</word></ar><ar><origin>Richard_Roe</origin><tr>[ˏrɪtʃədˊrəυ]</tr><word>n
+юр. ответчик в судебном процессе (употр. нарицательно о человеке, настоящее имя которого неизвестно) [см. тж. John Doe]</word></ar><ar><origin>Richter_scale</origin><tr>[ˊrɪktəskeɪl]</tr><word>n
+шкала Рихтера</word></ar><ar><origin>-ridden</origin><tr></tr><word>в сложных словах означает во власти (чего-л.); одержимый (чем-л.);
+bedridden прикованный к постели;
+fear-ridden охваченный страхом</word></ar><ar><origin>ridgepole</origin><tr>[ˊrɪdʒpəυl]</tr><word>n
+растяжка, распорка (у палатки)</word></ar><ar><origin>riding_hall</origin><tr>[ˊraɪdɪŋhɔ:l]</tr><word>n
+(крытый) манеж</word></ar><ar><origin>riding_master</origin><tr>[ˊraɪdɪŋˏmɑ:stə]</tr><word>n
+1) инструктор по верховой езде
+2) берейтор</word></ar><ar><origin>Riesling</origin><tr>[ˊri:slɪŋ]</tr><word>n
+рислинг</word></ar><ar><origin>riffraff</origin><tr></tr><word>1. n (обыкн. the riffraff) подонки общества, отбросы
+2. a разг. никчёмный, никудышный</word></ar><ar><origin>rig-out</origin><tr>[ˊrɪgaυt]</tr><word>n
+разг. одежда, экипировка</word></ar><ar><origin>righten</origin><tr>[ˊraɪtǝn]</tr><word>v
+исправлять</word></ar><ar><origin>rightward</origin><tr>[ˊraɪtwəd(z)]</tr><word>adv
+направо</word></ar><ar><origin>Riksdag</origin><tr></tr><word>швед. n риксдаг</word></ar><ar><origin>-rimmed</origin><tr></tr><word>в сложных словах означает в оправе;
+gold-rimmed spectacles очки в золотой оправе</word></ar><ar><origin>ring_finger</origin><tr>[ˊrɪŋˏfɪŋgə]</tr><word>n
+безымянный палец (особ. на левой руке)</word></ar><ar><origin>ring_ouzel</origin><tr>[ˊrɪŋˏu:zl]</tr><word>n
+зоол. дрозд белозобый</word></ar><ar><origin>ring_road</origin><tr>[ˊrɪŋrəυd]</tr><word>n
+кольцевая дорога (обыкн. вокруг города)</word></ar><ar><origin>ringbark</origin><tr>[ˊrɪŋbɑ:k]</tr><word>v
+кольцевать, окольцовывать (дерево)</word></ar><ar><origin>ringbolt</origin><tr>[ˊrɪŋbəυlt]</tr><word>n
+мор. рым-болт</word></ar><ar><origin>ringdove</origin><tr>[ˊrɪŋdʌv]</tr><word>n
+зоол. вяхирь, витютень</word></ar><ar><origin>ringway</origin><tr>[ˊrɪŋweɪ]</tr><word>n
+кольцевая автодорога</word></ar><ar><origin>riot_police</origin><tr>[ˊraɪətpəˏli:s]</tr><word>n
+отряды полиции для борьбы с уличными беспорядками</word></ar><ar><origin>rip_cord</origin><tr>[ˊrɪpkɔ:d]</tr><word>n
+вытяжной трос (парашюта); разрывная верёвка (аэростата)</word></ar><ar><origin>ripost</origin><tr></tr><word>1. n
+1) быстрый, находчивый ответ
+2) ответный удар, укол (в фехтовании)
+2. v
+1) отвечать быстро и находчиво
+2) парировать удар, укол (в фехтовании)</word></ar><ar><origin>ripsaw</origin><tr>[ˊrɪpsɔ:]</tr><word>n
+тех. продольная пила</word></ar><ar><origin>ripsnorter</origin><tr>[ˊrɪpsnɔ:tə]</tr><word>n
+разг. энергичный, деятельный человек; отличный человек; превосходная вещь</word></ar><ar><origin>risen</origin><tr>[ˊrɪzn]</tr><word>p. p. от rise 2</word></ar><ar><origin>risk_management</origin><tr>[ˊrɪskˏmænɪdʒmənt]</tr><word>n
+система предупреждения рисков</word></ar><ar><origin>risqu%C3%A9</origin><tr>[ˊrɪskeɪ]</tr><word>a
+рискованный; сомнительный, непристойный (об остроте, шутке)</word></ar><ar><origin>riverbed</origin><tr>[ˊrɪvəbed]</tr><word>n
+русло реки</word></ar><ar><origin>riviera</origin><tr>[ˏrɪvɪˊeərə]</tr><word>n
+ривьера</word></ar><ar><origin>rivi%C3%A8re</origin><tr>[ˏrɪvɪˊeə]</tr><word>n
+ожерелье (обыкн. из нескольких нитей)</word></ar><ar><origin>road_capacity</origin><tr>[ˏrəυdkəˊpæsətɪ]</tr><word>n
+пропускная способность дороги</word></ar><ar><origin>road_clearance</origin><tr>[ˏrəυdˊklɪərəns]</tr><word>n
+авто просвет, клиренс</word></ar><ar><origin>road_hog</origin><tr>[ˊrəυdhɒg]</tr><word>n
+разг. неосторожный автомобилист, лихач, нарушитель дорожных правил</word></ar><ar><origin>road_metal</origin><tr>[ˊrəυdˏmetl]</tr><word>n
+щебень, щебёнка</word></ar><ar><origin>road_roller</origin><tr>[ˊrəυdˏrəυlə]</tr><word>n
+тяжёлый дорожный каток</word></ar><ar><origin>road_scraper</origin><tr>[ˊrəυdˏskreɪpə]</tr><word>n
+тех. скрепер; грейдер</word></ar><ar><origin>road_show</origin><tr>[ˊrəυdʃəυ]</tr><word>n
+амер. представление гастролирующей труппы (особ. исполнителями поп-музыки)</word></ar><ar><origin>road_test</origin><tr>[ˊrəυdtest]</tr><word>v
+испытывать автомашину в естественных условиях</word></ar><ar><origin>Road_up</origin><tr>[ˊrəυdˏʌp]</tr><word>n
+«проезд запрещён» (дорожный знак)</word></ar><ar><origin>roadbed</origin><tr>[ˊrəυdbed]</tr><word>n
+полотно дороги</word></ar><ar><origin>roadhouse</origin><tr>[ˊrəυdhaυs]</tr><word>n
+придорожная закусочная, буфет</word></ar><ar><origin>roadworthy</origin><tr>[ˊrəυdˏwɜ:ðɪ]</tr><word>a
+пригодный для эксплуатации</word></ar><ar><origin>roaming</origin><tr>[ˊrəυmɪŋ]</tr><word>n
+роуминг; использование мобильного телефона в другом районе с подключением к другой сети</word></ar><ar><origin>Robin_Goodfellow</origin><tr>[ˏrɒbɪnˊgυdfeləυ]</tr><word>n
+Робин Гудфеллоу (добрый и проказливый дух; персонаж английских народных сказаний)</word></ar><ar><origin>robotize</origin><tr>[ˊrəυbɒtaɪz]</tr><word>v
+1) автоматизировать
+2) превращать в робота</word></ar><ar><origin>rock_bottom</origin><tr>[ˏrɒkˊbɒtəm]</tr><word>n
+1) твёрдое основание
+2) нижний предел</word></ar><ar><origin>rock_crystal</origin><tr>[ˏrɒkˊkrɪstl]</tr><word>n
+горный хрусталь</word></ar><ar><origin>rock_garden</origin><tr>[ˊrɒkˏgɑ:dn]</tr><word>n
+сад с декоративными каменными горками</word></ar><ar><origin>rock_oil</origin><tr>[ˊrɒkɔɪl]</tr><word>n
+нефть</word></ar><ar><origin>rock_salt</origin><tr>[ˊrɒksɔ:lt]</tr><word>n
+каменная соль</word></ar><ar><origin>rock_n_roll</origin><tr>[ˏrɒkǝnˊrəυl]</tr><word>n
+рок-н-ролл</word></ar><ar><origin>rock-climber</origin><tr>[ˊrɒkˏklaɪmə]</tr><word>n
+скалолаз</word></ar><ar><origin>rockfall</origin><tr>[ˊrɒkfɔ:l]</tr><word>n
+камнепад, обвал</word></ar><ar><origin>Rockies</origin><tr>[ˊrɒkɪz]</tr><word>n pl
+амер. разг. (сокр. от Rocky Mountains) Скалистые горы</word></ar><ar><origin>rocking_chair</origin><tr>[ˊrɒkɪŋtʃeə]</tr><word>n
+кресло-качалка</word></ar><ar><origin>rocking_horse</origin><tr>[ˊrɒkɪŋhɔ:s]</tr><word>n
+игрушечный конь-качалка</word></ar><ar><origin>roentgen</origin><tr>[ˊrɒntgən]</tr><word>n
+физ. рентген</word></ar><ar><origin>Roentgen_rays</origin><tr>[ˏrɒntgənˊreɪz]</tr><word>n pl
+рентгеновы лучи</word></ar><ar><origin>Roger</origin><tr>[ˊrɒdʒə]</tr><word>n
+1) название английского деревенского танца (тж. Sir Roger de Coverley)
+2):
+the jolly Roger «Весёлый Роджер», пиратский флаг (череп и две скрещённые кости на чёрном фоне)</word></ar><ar><origin>Roland</origin><tr>[ˊrəυlənd]</tr><word>n
+ист. Роланд
+◊ a Roland for an Oliver достойный ответ;
+to give smb. a Roland for an Oliver дать достойный ответ, удачно парировать</word></ar><ar><origin>roll_call</origin><tr>[ˊrəυlkɔ:l]</tr><word>n
+перекличка</word></ar><ar><origin>roll-on</origin><tr>[ˊrəυlɒn]</tr><word>a
+шариковый (о флаконе дезодоранта и т.п.)</word></ar><ar><origin>roll-top_desk</origin><tr>[ˏrəυltɒpˊdesk]</tr><word>n
+письменный стол-бюро с убирающейся крышкой</word></ar><ar><origin>rolled_oats</origin><tr>[ˏrəυldˊəυts]</tr><word>n pl
+овсяные хлопья (для каши)</word></ar><ar><origin>roller_blind</origin><tr>[ˊrəυləblaɪnd]</tr><word>n
+занавеска на ролике</word></ar><ar><origin>roller_coaster</origin><tr>[ˊrəυləˏkəυstə]</tr><word>n
+амер. американские горы (аттракцион)</word></ar><ar><origin>roller_skate</origin><tr>[ˊrəυləskeɪt]</tr><word>n
+конёк на роликах;
+pair of roller skates, roller skates ролики</word></ar><ar><origin>roller_towel</origin><tr>[ˊrəυləˏtaʋəl]</tr><word>n
+полотенце на ролике</word></ar><ar><origin>rolling_mill</origin><tr>[ˊrəυlɪŋmɪl]</tr><word>n
+тех. прокатный стан</word></ar><ar><origin>rolling_pin</origin><tr>[ˊrəυlɪŋpɪn]</tr><word>n
+скалка</word></ar><ar><origin>rolling_stock</origin><tr>[ˊrəυlɪŋstɒk]</tr><word>n
+ж.-д. подвижной состав</word></ar><ar><origin>rolling_stone</origin><tr>[ˊrəυlɪŋstəυn]</tr><word>n
+перекати-поле (о человеке)</word></ar><ar><origin>rollmop</origin><tr>[ˊrəυlmɒp]</tr><word>n
+кул. ральмопс</word></ar><ar><origin>Rom</origin><tr>[rɒm]</tr><word>n (pl Roma)
+цыган</word></ar><ar><origin>Roma</origin><tr>[ˊrɒmə]</tr><word>pl от Rom</word></ar><ar><origin>Romaic</origin><tr></tr><word>1. a новогреческий
+2. n новогреческий язык</word></ar><ar><origin>Roman</origin><tr></tr><word>1. n
+1) римлянин
+2) католик
+3) полигр. прямой светлый шрифт
+2. a
+1) римский; латинский;
+Roman alphabet латинский алфавит;
+Roman law юр. римское право;
+Roman letters (или type) полигр. прямой светлый шрифт;
+Roman nose римский, орлиный нос;
+Roman numerals римские цифры
+2) католический</word></ar><ar><origin>Roman_balance</origin><tr>[ˏrəυmənˊbæləns]</tr><word>n
+безмен</word></ar><ar><origin>Roman_Catholic</origin><tr></tr><word>1. n католик
+2. a римско-католический</word></ar><ar><origin>Roman_Catholicism</origin><tr>[ˏrəυmənkəˊθɒlɪsɪzǝm]</tr><word>n
+католичество</word></ar><ar><origin>Romance</origin><tr></tr><word>1. n собир. романские языки
+2. a романский</word></ar><ar><origin>Romanes</origin><tr>[ˊrɒmənes]</tr><word>n
+цыганский язык</word></ar><ar><origin>Romanesque</origin><tr></tr><word>архит.
+1. a романский (о стиле)
+2. n романский стиль</word></ar><ar><origin>Romanian</origin><tr></tr><word>1. a румынский
+2. n
+1) румын; румынка
+2) румынский язык</word></ar><ar><origin>Romanic</origin><tr></tr><word>1. a романский
+2. n романские языки</word></ar><ar><origin>Romanism</origin><tr>[ˊrəυmənɪzǝm]</tr><word>n
+неодобр. католицизм, папизм</word></ar><ar><origin>Romanist</origin><tr>[ˊrəυmənɪst]</tr><word>n
+1) специалист по романистике, романист
+2) неодобр. католик</word></ar><ar><origin>Romanize</origin><tr>[ˊrəυmənaɪz]</tr><word>v
+1) романизировать; латинизировать
+2) обращать в католичество
+3) переходить в католичество</word></ar><ar><origin>Romany</origin><tr></tr><word>1. n
+1) цыган; цыганка;
+the Romany собир. цыгане
+2) цыганский язык
+2. a цыганский</word></ar><ar><origin>Romish</origin><tr>[ˊrəυmɪʃ]</tr><word>a
+неодобр. римско-католический, папистский</word></ar><ar><origin>roof_garden</origin><tr>[ˊru:fˏgɑ:dn]</tr><word>n
+сад на крыше (дома)</word></ar><ar><origin>roof_rack</origin><tr>[ˊru:fræk]</tr><word>n
+багажник на крыше автомобиля</word></ar><ar><origin>room_service</origin><tr>[ˊru:mˏsɜ:vɪs]</tr><word>n
+дополнительное обслуживание номеров в гостинице (подача еды и т.п.)</word></ar><ar><origin>-roomed</origin><tr></tr><word>в сложных словах означает состоящий из стольких-то комнат;
+one-roomed однокомнатный;
+three-roomed трёхкомнатный</word></ar><ar><origin>rooming_house</origin><tr>[ˊru:mɪŋhaυs]</tr><word>n
+меблированные комнаты</word></ar><ar><origin>roommate</origin><tr>[ˊru:mmeɪt]</tr><word>n
+сосед(ка) по комнате или квартире (с которыми вместе снимается данное помещение)</word></ar><ar><origin>root_crop</origin><tr>[ˊru:tkrɒp]</tr><word>n
+корнеплод</word></ar><ar><origin>root_vegetable</origin><tr>[ˊru:tˏvedʒtəbl]</tr><word>n
+корнеплод</word></ar><ar><origin>rope_ladder</origin><tr>[ˏrəυpˊlædə]</tr><word>n
+1) верёвочная лестница
+2) мор. штормтрап</word></ar><ar><origin>ropedancer</origin><tr>[ˊrəυpˏdɑ:nsə]</tr><word>= ropewalker</word></ar><ar><origin>ropewalker</origin><tr>[ˊrəυpˏwɔ:kə]</tr><word>n
+канатоходец, канатный плясун</word></ar><ar><origin>Roquefort</origin><tr>[ˊrɒkfɔ:]</tr><word>n
+рокфор (сорт сыра)</word></ar><ar><origin>rorty</origin><tr>[ˊrɔ:tɪ]</tr><word>a
+сл. отличный; шумный, весёлый</word></ar><ar><origin>rosarian</origin><tr>[rəυˊzeɪrɪən]</tr><word>n
+любитель роз; розовод</word></ar><ar><origin>roscoe</origin><tr>[ˊrɒskəυ]</tr><word>n
+амер. сл. «пушка», револьвер, пистолет</word></ar><ar><origin>rose_colour</origin><tr>[ˊrəυzˏkʌlə]</tr><word>n
+1) розовый цвет
+2) привлекательный вид
+3) что-л. приятное</word></ar><ar><origin>rose_diamond</origin><tr>[ˏrəυzˊdaɪəmənd]</tr><word>n
+бриллиант, огранённый в виде розочки</word></ar><ar><origin>rose_garden</origin><tr>[ˊrəυzˏgɑ:dn]</tr><word>n
+розарий</word></ar><ar><origin>rose_water</origin><tr>[ˊrəυzˏwɔ:tə]</tr><word>n
+1) розовая вода
+2) притворная чувствительность; приторная любезность; слащавость</word></ar><ar><origin>rose_window</origin><tr>[ˏrəυzˊwɪndəυ]</tr><word>n
+архит. круглое окно-розетка</word></ar><ar><origin>rose-coloured_starling</origin><tr>[ˏrəυzkʌləd-ˊstɑ:lɪŋ]</tr><word>n
+зоол. розовый скворец</word></ar><ar><origin>rosebush</origin><tr>[ˊrəυzbυʃ]</tr><word>n
+розовый куст, куст роз</word></ar><ar><origin>rosery</origin><tr>[ˊrəυzǝrɪ]</tr><word>= rose garden</word></ar><ar><origin>rostra</origin><tr>[ˊrɒstrə]</tr><word>pl от rostrum</word></ar><ar><origin>Rotary_Club</origin><tr>[ˊrəυtǝrɪˏklʌb]</tr><word>n
+деловой клуб «Ротари»; клуб деловых людей</word></ar><ar><origin>rotisserie</origin><tr>[rəʋˊtɪsǝrɪ]</tr><word>n
+1) ресторан, где мясо жарится при публике
+2) приспособление с вертелом (для жарения мяса)</word></ar><ar><origin>rotor_plane</origin><tr>[ˊrəυtəpleɪn]</tr><word>n
+вертолёт</word></ar><ar><origin>rough-hewn</origin><tr></tr><word>1. p. p. от rough-hew
+2. a грубый, неотёсанный</word></ar><ar><origin>roughhouse</origin><tr></tr><word>разг.
+1. n скандал, шум
+2. v
+1) обращаться плохо
+2) буянить, хулиганить, скандалить</word></ar><ar><origin>roughneck</origin><tr>[ˊrʌfnek]</tr><word>n
+разг. хулиган, буян</word></ar><ar><origin>roughrider</origin><tr>[ˏrʌfˊraɪdə]</tr><word>n
+берейтор</word></ar><ar><origin>rouleaux</origin><tr>[ˊru:ləυz]</tr><word>pl от rouleau</word></ar><ar><origin>Roumanian</origin><tr>[rυˊmeɪnɪən]</tr><word>= Romanian</word></ar><ar><origin>round_robin</origin><tr>[ˏraυndˊrɒbɪn]</tr><word>n
+1) петиция с подписями, расположенными кружком (чтобы скрыть, кто подписался первым)
+2) спорт. соревнования по круговой системе</word></ar><ar><origin>round_table</origin><tr>[ˏraυndˊteɪbl]</tr><word>n
+«круглый стол», конференция за круглым столом</word></ar><ar><origin>round-trip_ticket</origin><tr>[ˏraυndtrɪpˊtɪkɪt]</tr><word>n
+амер. билет туда и обратно</word></ar><ar><origin>Roundhead</origin><tr>[ˊraυndhed]</tr><word>n
+ист. круглоголовый, пуританин</word></ar><ar><origin>roundhouse</origin><tr>[ˊraυndhaυs]</tr><word>n
+1) амер. паровозное депо
+2) ист. арестантская
+3) мор. кормовая рубка</word></ar><ar><origin>roundtrip</origin><tr>[ˏraυndˊtrɪp]</tr><word>n
+турне, круиз и т.п.</word></ar><ar><origin>roundup</origin><tr>[ˊraυndʌp]</tr><word>n
+1) загон скота (для клеймения и т.п.)
+2) облава
+3) сбор; сборище;
+a roundup of old friends встреча старых друзей
+4) сводка новостей (по радио, в газете);
+press roundup обзор печати</word></ar><ar><origin>route_march</origin><tr>[ˊru:tmɑ:tʃ]</tr><word>n
+воен. движение в походном порядке</word></ar><ar><origin>rou%C3%A9</origin><tr>[ˊru:eɪ]</tr><word>n
+повеса, распутник (особ. немолодой)</word></ar><ar><origin>rowboat</origin><tr></tr><word>амер. = rowing boat</word></ar><ar><origin>rowing_boat</origin><tr>[ˊrəυɪŋbəυt]</tr><word>n
+гребная шлюпка</word></ar><ar><origin>royal_stag</origin><tr>[ˊrɔɪǝlˏstæg]</tr><word>n
+благородный олень (не моложе шести лет)</word></ar><ar><origin>rubber_band</origin><tr>[ˏrʌbəˊbænd]</tr><word>n
+резинка (для упаковки лекарств и т.п.)</word></ar><ar><origin>rubber_plant</origin><tr>[ˊrʌbəplɑ:nt]</tr><word>n
+каучуконос</word></ar><ar><origin>rubber_stamp</origin><tr>[ˏrʌbəˊstæmp]</tr><word>n
+1) штамп, печать
+2) штамп, стереотипная фраза
+3) человек без собственного мнения</word></ar><ar><origin>rubber_tree</origin><tr>[ˊrʌbətri:]</tr><word>n
+каучуковое дерево, каучуконос</word></ar><ar><origin>Rubicon</origin><tr>[ˊru:bɪkǝn]</tr><word>n:
+to pass (или to cross) the Rubicon перейти Рубикон, сделать решительный и необратимый шаг</word></ar><ar><origin>rudbeckia</origin><tr>[rʌdˊbekɪə]</tr><word>n
+бот. рудбекия</word></ar><ar><origin>rudderpost</origin><tr>[ˊrʌdəpəυst]</tr><word>n
+1) мор. рудерпост
+2) ав. ось руля направления</word></ar><ar><origin>Rumanian</origin><tr>[rυˊmeɪnɪən]</tr><word>= Romanian</word></ar><ar><origin>rumina</origin><tr>[ˊru:mɪnə]</tr><word>pl от rumen</word></ar><ar><origin>rummage_sale</origin><tr>[ˊrʌmɪdʒseɪl]</tr><word>n
+амер. распродажа подержанных вещей (обыкн. с благотворительной целью)</word></ar><ar><origin>rumormonger</origin><tr>[ˊru:məˏmʌŋgə]</tr><word>n
+распространитель слухов</word></ar><ar><origin>rump_steak</origin><tr>[ˏrʌmpˊsteɪk]</tr><word>n
+кусок вырезки, ромштекс</word></ar><ar><origin>rumpus_room</origin><tr>[ˊrʌmpəsru:m]</tr><word>n
+комната для игр и развлечений (в квартире)</word></ar><ar><origin>rundown</origin><tr></tr><word>1. n
+1) сокращение численности, количества
+2) краткое изложение
+2. a
+1) захудалый, жалкий
+2) уставший, истощённый
+3) незаведённый (о часах)</word></ar><ar><origin>running_board</origin><tr>[ˊrʌnɪŋbɔ:d]</tr><word>n
+подножка (автомобиля старой марки)</word></ar><ar><origin>running_knot</origin><tr>[ˊrʌnɪŋˏnɒt]</tr><word>n
+затяжной узел, удавка</word></ar><ar><origin>running_mate</origin><tr>[ˊrʌnɪŋmeɪt]</tr><word>n
+1) амер. кандидат на пост вице-президента
+2) человек, которого часто видят в компании другого</word></ar><ar><origin>running_title</origin><tr>[ˊrʌnɪŋˏtaɪtl]</tr><word>n
+полигр. колонтитул</word></ar><ar><origin>rupiah</origin><tr>[rυˊpi:ə]</tr><word>n
+рупия (денежная единица Индонезии)</word></ar><ar><origin>rush_candle</origin><tr>[ˊrʌʃˏkændl]</tr><word>= rushlight 1)</word></ar><ar><origin>rush_hours</origin><tr>[ˊrʌʃaʋəz]</tr><word>n pl
+часы пик</word></ar><ar><origin>Russia_leather</origin><tr>[ˏrʌʃəˊleðə]</tr><word>n
+юфть</word></ar><ar><origin>Russian</origin><tr></tr><word>1. a русский
+2. n
+1) русский; русская;
+the Russians pl собир. русские
+2) русский язык</word></ar><ar><origin>Russian_salad</origin><tr>[ˏrʌʃnˊsæləd]</tr><word>n
+кул. салат-оливье; винегрет</word></ar><ar><origin>Russify</origin><tr>[ˊrʌsɪfaɪ]</tr><word>v
+руссифицировать</word></ar><ar><origin>rye_bread</origin><tr>[ˊraɪbred]</tr><word>n
+ржаной хлеб</word></ar><ar><origin>ryegrass</origin><tr>[ˊraɪgrɑ:s]</tr><word>n
+бот. райграс</word></ar><ar><origin>r%C3%A9chauff%C3%A9</origin><tr></tr><word>фр. n
+1) разогретое кушанье
+2) что-л., переделанное из старого; переработка своего или чужого литературного произведения</word></ar><ar><origin>r%C3%A9clame</origin><tr>[reɪˊklɑ:m]</tr><word>n
+1) реклама, рекламирование
+2) стремление к известности</word></ar><ar><origin>r%C3%A9gie</origin><tr></tr><word>фр. n государственная монополия, особ. на табак и соль</word></ar><ar><origin>r%C3%A9gime</origin><tr>[reɪˊʒi:m]</tr><word>n
+1) режим; строй
+2) = regimen 1)</word></ar><ar><origin>r%C3%A9sum%C3%A9</origin><tr>[ˊrezjυmeɪ]</tr><word>n
+1) резюме; сводка; конспект
+2) амер. краткая автобиография (поступающего на работу и т.п.)</word></ar><ar><origin>R%C3%B6ntgen_rays</origin><tr>[ˏrɒntgənˊreɪz]</tr><word>= Roentgen rays</word></ar>

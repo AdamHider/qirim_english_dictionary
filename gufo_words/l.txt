@@ -1,0 +1,493 @@
+<ar><origin>L</origin><tr>[el]</tr><word>(pl Ls, L's [elz])
+1) 12-я буква англ. алфавита
+2) что-л., имеющее форму буквы L</word></ar><ar><origin>L-plate</origin><tr>[ˊelpleɪt]</tr><word>n
+авто предупреждающий знак на учебном автомобиле</word></ar><ar><origin>L-square</origin><tr>[ˊelskweə]</tr><word>n
+угольник для черчения</word></ar><ar><origin>L_s_d</origin><tr>[ˏelesˊdi:]</tr><word>n
+1) фунты стерлингов, шиллинги и пенсы (от лат. librae, solidi, denarii)
+2) разг. деньги; богатство;
+it is only a matter of L. s. d. вопрос только в деньгах</word></ar><ar><origin>labelling_gun</origin><tr>[ˏleɪbəlɪŋˊgʌn]</tr><word>n
+пистолет для наклейки этикеток</word></ar><ar><origin>labour_camp</origin><tr>[ˊleɪbəkæmp]</tr><word>n
+исправительно-трудовой лагерь</word></ar><ar><origin>Labour_Day</origin><tr>[ˊleɪbədeɪ]</tr><word>n
+амер. День труда (первый понедельник сентября)</word></ar><ar><origin>Labour_Exchange</origin><tr>[ˊleɪbəɪksˏtʃeɪndʒ]</tr><word>n
+биржа труда</word></ar><ar><origin>labour_market</origin><tr>[ˊleɪbəˏmɑ:kɪt]</tr><word>n
+рынок труда; спрос и предложение труда</word></ar><ar><origin>Labour_Party</origin><tr>[ˊleɪbəˏpɑ:tɪ]</tr><word>n
+лейбористская партия</word></ar><ar><origin>labour_union</origin><tr>[ˊleɪbəˏju:nɪən]</tr><word>n
+амер. профсоюз</word></ar><ar><origin>Labourist</origin><tr>[ˊleɪbǝrɪst]</tr><word>= Labourite</word></ar><ar><origin>Labourite</origin><tr>[ˊleɪbəraɪt]</tr><word>n
+лейборист, член лейбористской партии</word></ar><ar><origin>laboursaving</origin><tr>[ˊleɪbəˏseɪvɪŋ]</tr><word>a
+дающий экономию в труде; рационализаторский</word></ar><ar><origin>Labrador</origin><tr>[ˊlæbrədɔ:(rɪˊtri:və)]</tr><word>n
+лабрадор (порода собак)</word></ar><ar><origin>Labrador_retriever</origin><tr>[ˊlæbrədɔ:(rɪˊtri:və)]</tr><word>n
+лабрадор (порода собак)</word></ar><ar><origin>lace_boots</origin><tr>[ˊleɪsbu:ts]</tr><word>n pl
+ботинки на шнурках</word></ar><ar><origin>Lacedaemonian</origin><tr></tr><word>1. a спартанский
+2. n спартанец</word></ar><ar><origin>lacunae</origin><tr>[ləˊkju:ni:]</tr><word>pl от lacuna</word></ar><ar><origin>ladies_man</origin><tr>[ˊleɪdɪzmæn]</tr><word>n
+кавалер, дамский угодник</word></ar><ar><origin>ladies_room</origin><tr>[ˊleɪdɪzru:m]</tr><word>n
+амер. женская уборная</word></ar><ar><origin>ladies-in-waiting</origin><tr>[ˏleɪdɪzɪnˊweɪtɪŋ]</tr><word>pl от lady-in-waiting</word></ar><ar><origin>Lady_Day</origin><tr>[ˊleɪdɪdeɪ]</tr><word>n
+церк. Благовещение (25 марта)</word></ar><ar><origin>lady_help</origin><tr>[ˊleɪdɪhelp]</tr><word>n
+экономка благородного происхождения (к которой относятся как к члену семьи)</word></ar><ar><origin>lady_s_bedstraw</origin><tr>[ˏleɪdɪzˊbedstrɔ:]</tr><word>n
+бот. подмаренник</word></ar><ar><origin>lady_s_finger</origin><tr>[ˊleɪdɪzˏfɪŋgə]</tr><word>n
+1) бот. язвенник
+2) виноград «дамские пальчики»</word></ar><ar><origin>lady_s_man</origin><tr>[ˊleɪdɪzmæn]</tr><word>n = ladies' man</word></ar><ar><origin>lady_s_purse</origin><tr>[ˊleɪdɪzpɜ:s]</tr><word>n
+бот. пастушья сумка</word></ar><ar><origin>lady_s_slipper</origin><tr>[ˏleɪdɪzˊslɪpə]</tr><word>n
+бот. венерин башмачок</word></ar><ar><origin>lady_s-maid</origin><tr>[ˊleɪdɪzmeɪd]</tr><word>n
+горничная, камеристка</word></ar><ar><origin>ladybeetle</origin><tr>[ˊleɪdɪˏbi:tl]</tr><word>= ladybird</word></ar><ar><origin>ladybug</origin><tr></tr><word>амер. = ladybird</word></ar><ar><origin>ladycow</origin><tr>[ˊleɪdɪkaυ]</tr><word>= ladybird</word></ar><ar><origin>ladylove</origin><tr>[ˊleɪdɪlʌv]</tr><word>n
+возлюбленная</word></ar><ar><origin>lager_beer</origin><tr>[ˊlɑ:gə(bɪə)]</tr><word>n
+лёгкое пиво</word></ar><ar><origin>lah</origin><tr>[lɑ:]</tr><word>n
+муз. ля</word></ar><ar><origin>laid_paper</origin><tr>[ˏleɪdˊpeɪpə]</tr><word>n
+бумага верже</word></ar><ar><origin>laissez-aller</origin><tr></tr><word>фр. n неограниченная свобода; полное отсутствие принуждения</word></ar><ar><origin>lake_country</origin><tr>[ˊleɪkˏkʌntrɪ]</tr><word>n
+район озёр (в Англии), озёрный край</word></ar><ar><origin>lake_dwelling</origin><tr>[ˊleɪkˏdwelɪŋ]</tr><word>n
+доисторическая свайная постройка (на озере)</word></ar><ar><origin>lake_poets</origin><tr>[ˊleɪkˏpəυɪts]</tr><word>n pl
+поэты «Озёрной школы» (Вордсворт, Кольридж, Саути)</word></ar><ar><origin>lakeland</origin><tr>[ˊleɪklənd]</tr><word>= lake country</word></ar><ar><origin>Lallan</origin><tr>[ˊlælən]</tr><word>n
+диалект южной части Шотландии</word></ar><ar><origin>lamb_s-wool</origin><tr>[ˊlæmzwυl]</tr><word>n
+тонкая овечья шерсть; поярок</word></ar><ar><origin>Lambeth</origin><tr>[ˊlæmbəθ]</tr><word>n
+Лондонская резиденция архиепископа Кентерберийского (тж. Lambeth Palace)</word></ar><ar><origin>lambswool</origin><tr>[ˊlæmzwυl]</tr><word>n
+тонкая овечья шерсть; поярок</word></ar><ar><origin>lamellae</origin><tr>[ləˊmeli:]</tr><word>pl от lamella</word></ar><ar><origin>laminae</origin><tr>[ˊlæmɪni:]</tr><word>pl от lamina</word></ar><ar><origin>Lammas</origin><tr>[ˊlæməs]</tr><word>n
+ист. праздник урожая (1 августа)</word></ar><ar><origin>lamp-black</origin><tr>[ˊlæmpblæk]</tr><word>n
+1) ламповая копоть, сажа
+2) чёрная краска из ламповой сажи</word></ar><ar><origin>lampshade</origin><tr>[ˊlæmpʃeɪd]</tr><word>n
+абажур; плафон</word></ar><ar><origin>lam%C3%A9</origin><tr>[lɑ:ˊmeɪ]</tr><word>n
+ламе (парчовая ткань для вечерних туалетов)</word></ar><ar><origin>Lancastrian</origin><tr></tr><word>1. a
+1) лан-каширский
+2) ист. ланкастерский
+2. n
+1) уроженец Ланкашира
+2) ист. сторонник ланкастерской династии</word></ar><ar><origin>lance_corporal</origin><tr>[ˊlɑ:nsˏkɔ:prǝl]</tr><word>n
+младший капрал</word></ar><ar><origin>lance_knight</origin><tr>[ˊlɑ:nsnaɪt]</tr><word>n
+ист. ландскнехт</word></ar><ar><origin>lance_sergeant</origin><tr>[ˊlɑ:nsˏsɑ:dʒǝnt]</tr><word>n
+младший сержант</word></ar><ar><origin>lancet_arch</origin><tr>[ˏlɑ:nsɪtˊɑ:tʃ]</tr><word>n
+стрельчатая арка</word></ar><ar><origin>lancet_window</origin><tr>[ˏlɑ:nsɪtˊwɪndəυ]</tr><word>n
+стрельчатое окно</word></ar><ar><origin>land_agent</origin><tr>[ˊlændˏeɪdʒǝnt]</tr><word>n
+1) управляющий имением
+2) агент по продаже земельных участков</word></ar><ar><origin>land_bank</origin><tr>[ˊlændbæŋk]</tr><word>n
+земельный банк</word></ar><ar><origin>land_breeze</origin><tr>[ˊlændbri:z]</tr><word>n
+береговой ветер, бриз</word></ar><ar><origin>land_grant</origin><tr>[ˊlændgrɑ:nt]</tr><word>n
+амер. отвод земельного участка для постройки железной дороги или для нужд сельскохозяйственного колледжа</word></ar><ar><origin>land_office</origin><tr>[ˊlændˏɒfɪs]</tr><word>n
+амер. государственная контора, регистрирующая земельные сделки</word></ar><ar><origin>land_power</origin><tr>[ˊlændˏpaυə]</tr><word>n
+1) военная мощь
+2) мощная военная держава</word></ar><ar><origin>land_rover</origin><tr>[ˊlændˏrəυvə]</tr><word>n
+легковой автомобиль «вездеход», лендровер</word></ar><ar><origin>land_tax</origin><tr>[ˊlændtæks]</tr><word>n
+земельный налог</word></ar><ar><origin>land_waiter</origin><tr>[ˊlændˏweɪtə]</tr><word>n
+контролёр экспортно-импортных операций на таможне (в Англии)</word></ar><ar><origin>land_wind</origin><tr>[ˊlændwɪnd]</tr><word>= land breeze</word></ar><ar><origin>land-office_building</origin><tr>[ˊlændˏɒfɪsˊbɪldɪŋ]</tr><word>n
+амер. разг. доходное, процветающее дело</word></ar><ar><origin>landing_craft</origin><tr>[ˊlændɪŋkrɑ:ft]</tr><word>n
+собир. десантные суда, десантные плавучие средства</word></ar><ar><origin>landing_field</origin><tr>[ˊlændɪŋfi:ld]</tr><word>n
+посадочная площадка; аэродром</word></ar><ar><origin>landing_gear</origin><tr>[ˊlændɪŋgɪə]</tr><word>n
+1) ав. шасси
+2) шутл. ноги</word></ar><ar><origin>landing_ground</origin><tr>[ˊlændɪŋgraυnd]</tr><word>= landing place 2)</word></ar><ar><origin>landing_mark</origin><tr>[ˊlændɪŋmɑ:k]</tr><word>n
+ав. посадочный знак</word></ar><ar><origin>landing_net</origin><tr>[ˊlændɪŋnet]</tr><word>n
+1) рыболовный сачок
+2) воен. десантная сеть</word></ar><ar><origin>landing_place</origin><tr>[ˊlændɪŋpleɪs]</tr><word>n
+1) место высадки, пристань
+2) ав. посадочная площадка</word></ar><ar><origin>landing_stage</origin><tr>[ˊlændɪŋsteɪdʒ]</tr><word>n
+пристань</word></ar><ar><origin>landing_strip</origin><tr>[ˊlændɪŋstrɪp]</tr><word>n
+ав. взлётно-посадочная полоса</word></ar><ar><origin>landing_troops</origin><tr>[ˊlændɪŋtru:ps]</tr><word>n pl
+десантные войска</word></ar><ar><origin>landjobber</origin><tr>[ˊlændˏdʒɒbə]</tr><word>n
+спекулянт земельными участками</word></ar><ar><origin>landlocked</origin><tr>[ˊlændlɒkt]</tr><word>a
+1) n окружённый сушей; закрытый (о заливе, гавани)
+2) пресноводный (о рыбе)</word></ar><ar><origin>landscape_architect</origin><tr>[ˏlændskeɪp-ˊɑ:kɪtekt]</tr><word>n
+ландшафтный архитектор</word></ar><ar><origin>landscape_architecture</origin><tr>[ˏlændskeɪp-ˊɑ:kɪtektʃə]</tr><word>n
+ландшафтная архитектура</word></ar><ar><origin>landscape_gardener</origin><tr>[ˏlændskeɪp-ˊgɑ:dnə]</tr><word>n
+садовник-декоратор</word></ar><ar><origin>landscape_gardening</origin><tr>[ˏlændskeɪp-ˊgɑ:dnɪŋ]</tr><word>n
+садово-парковая архитектура; декоративное садоводство</word></ar><ar><origin>landscape_painter</origin><tr>[ˊlændskeɪpˏpeɪntə]</tr><word>n
+пейзажист</word></ar><ar><origin>lang_syne</origin><tr></tr><word>шотл.
+1. n старина, былые дни
+2. adv давным-давно, в старину, встарь</word></ar><ar><origin>language_laboratory</origin><tr>[ˊlæŋgwɪdʒləˏbɒrətrɪ]</tr><word>n
+лаборатория устной речи</word></ar><ar><origin>Laodicean</origin><tr>[ˏleɪəʋdɪˊsi:ən]</tr><word>a
+безразличный, индифферентный (в вопросах религии или политики)</word></ar><ar><origin>Laotian</origin><tr></tr><word>1. n лаосец, лаоска
+2. a лаосский</word></ar><ar><origin>lap_joint</origin><tr>[ˊlæpdʒɔɪnt]</tr><word>n
+тех. соединение внахлёстку</word></ar><ar><origin>laparoscopy</origin><tr>[ˏlæpəˊrɒskəpɪ]</tr><word>n
+мед. лапароскопия</word></ar><ar><origin>lapdog</origin><tr>[ˊlæpdɒg]</tr><word>n
+1) комнатная собачка, болонка
+2) презр. «собачонка» (человек, рабски повинующийся кому-л.)</word></ar><ar><origin>lapis_lazuli</origin><tr>[ˏlæpɪsˊlæzjυlɪ]</tr><word>n
+ляпис-лазурь, лазурит</word></ar><ar><origin>Laplander</origin><tr>[ˊlæplændə]</tr><word>= Lapp 1)</word></ar><ar><origin>Lapp</origin><tr></tr><word>1) саам; саамка; лопарь; лопарка
+2) язык саами</word></ar><ar><origin>Lappish</origin><tr></tr><word>1. a саамский; лопарский
+2. n язык саами</word></ar><ar><origin>larboard</origin><tr>[ˊlɑ:bəd]</tr><word>n
+мор. левый борт судна</word></ar><ar><origin>large_intestine</origin><tr>[ˏlɑ:dʒɪnˊtestɪn]</tr><word>n
+анат. толстая кишка</word></ar><ar><origin>large_scale</origin><tr>[ˏlɑ:dʒˊskeɪl]</tr><word>n
+крупный масштаб;
+on a large scale в крупном масштабе</word></ar><ar><origin>largehearted</origin><tr>[ˏlɑ:dʒˊhɑ:tɪd]</tr><word>a
+1) великодушный
+2) терпимый, благожелательный</word></ar><ar><origin>larvae</origin><tr>[ˊlɑ:vi:]</tr><word>pl от larva</word></ar><ar><origin>Lascar</origin><tr>[ˊlæskə]</tr><word>n
+матрос-индиец</word></ar><ar><origin>laser_disc</origin><tr>[ˊleɪzəˏdɪsk]</tr><word>n
+информ. (аналоговый) лазерный диск</word></ar><ar><origin>laser_pointer</origin><tr>[ˊleɪzəˏpɔɪntə]</tr><word>n
+лазерная указка</word></ar><ar><origin>laser_printer</origin><tr>[ˊleɪzəˏprɪntə]</tr><word>n
+информ. лазерный принтер</word></ar><ar><origin>laser_surgery</origin><tr>[ˊleɪzəˏsɜ:dʒərɪ]</tr><word>n
+мед. лазерная хирургия</word></ar><ar><origin>lashings</origin><tr>[ˊlæʃɪŋs]</tr><word>n pl
+разг. масса, обилие (of — чего-л.)</word></ar><ar><origin>last-mentioned</origin><tr>[ˏlɑ:stˊmenʃǝnd]</tr><word>a
+1) вышеупомянутый
+2) последний из упомянутых</word></ar><ar><origin>last-named</origin><tr>[ˏlɑ:stˊneɪmd]</tr><word>= last-mentioned</word></ar><ar><origin>latchkey</origin><tr>[ˊlætʃki:]</tr><word>n
+1) ключ от американского замка
+2) отмычка
+◊ to win one's latchkey ≅ стать взрослым, получить относительную свободу от родителей</word></ar><ar><origin>latchkey_child</origin><tr>[ˊlætʃki:ˏtʃaɪld]</tr><word>n
+ребёнок работающих родителей (имеющий ключ от квартиры)</word></ar><ar><origin>lateral_thinking</origin><tr>[ˏlætǝrəlˊθɪŋkɪŋ]</tr><word>n
+нестандартное мышление</word></ar><ar><origin>Latin</origin><tr></tr><word>1. n латинский язык;
+classical (late) Latin классическая (поздняя) латынь;
+low (или vulgar) Latin вульгарная латынь;
+dog Latin ломаная латынь
+◊ thieves' Latin воровской жаргон
+2. a латинский; романский;
+Latin Church западная церковь, римско-католическая церковь;
+the Latin languages романские языки</word></ar><ar><origin>Latino</origin><tr>[læˊti:nəυ]</tr><word>n
+амер. латиноамериканец</word></ar><ar><origin>latitudinarian</origin><tr></tr><word>1. n веротерпимый человек; человек широких взглядов
+2. a допускающий отклонения от догмы; веротерпимый</word></ar><ar><origin>latte</origin><tr>[ˊlæteɪ]</tr><word>n
+кофе с (горячим) молоком</word></ar><ar><origin>Latvian</origin><tr></tr><word>1. a латвийский; латышский
+2. n
+1) латыш; латышка
+2) латышский язык</word></ar><ar><origin>laughing_gas</origin><tr>[ˊlɑ:fɪŋgæs]</tr><word>n
+веселящий газ</word></ar><ar><origin>laughing_jackass</origin><tr>[ˏlɑ:fɪŋˊdʒækæs]</tr><word>n
+зимородок-хохотун (птица)</word></ar><ar><origin>laughingstock</origin><tr>[ˊlɑ:fɪŋstɒk]</tr><word>n
+посмешище;
+to make a laughingstock of smb. выставить кого-л. на посмешище</word></ar><ar><origin>launch_pad</origin><tr>[ˊlɔ:ntʃɪŋpæd]</tr><word>n
+стартовая, пусковая платформа (в космонавтике)</word></ar><ar><origin>launching_pad</origin><tr>[ˊlɔ:ntʃɪŋpæd]</tr><word>n
+стартовая, пусковая платформа (в космонавтике)</word></ar><ar><origin>laurel_oak</origin><tr>[ˏlɒrəlˊəυk]</tr><word>n
+дуб лавролистный</word></ar><ar><origin>lavaliere_microphone</origin><tr>[ˏlævəlɪəˊmaɪkrəfəʋn]</tr><word>n
+петличный микрофон</word></ar><ar><origin>lavatory_paper</origin><tr>[ˊlævətrɪˏpeɪpə]</tr><word>n
+туалетная бумага</word></ar><ar><origin>lavender_water</origin><tr>[ˊlævəndəˏwɔ:tə]</tr><word>n
+лавандовая вода</word></ar><ar><origin>lavishness</origin><tr>[ˊlævɪʃnəs]</tr><word>n
+1) щедрость; расточительность;
+2) обилие</word></ar><ar><origin>law_officer</origin><tr>[ˊlɔ:ˏɒfɪsə]</tr><word>n
+служащий судебного ведомства;
+law officers of the Crown юристы короны (генеральный прокурор и его заместитель)</word></ar><ar><origin>law_term</origin><tr>[ˊlɔ:ˏtɜ:m]</tr><word>n
+1) юридический термин
+2) период судебной сессии</word></ar><ar><origin>lawmaking</origin><tr></tr><word>1. n издание законов, законодательство
+2. a законодательный</word></ar><ar><origin>lawn_hockey</origin><tr>[ˏlɔ:nˊhɒkɪ]</tr><word>n
+хоккей на траве</word></ar><ar><origin>lawn_mower</origin><tr>[ˊlɔ:nˏməυə]</tr><word>n
+газонокосилка</word></ar><ar><origin>lawn_party</origin><tr></tr><word>амер. см. garden party</word></ar><ar><origin>lawn_sprinkler</origin><tr>[ˊlɔ:nˏsprɪŋklə]</tr><word>n
+машина для поливки газонов</word></ar><ar><origin>lawn_tennis</origin><tr>[ˏlɔ:nˊtenɪs]</tr><word>n
+спорт. лаун-теннис</word></ar><ar><origin>lay_figure</origin><tr>[ˏleɪˊfɪgə]</tr><word>n
+1) манекен (художника)
+2) неправдоподобный персонаж; нереальный образ
+3) ничтожество; человек, лишённый индивидуальности или значения</word></ar><ar><origin>layby</origin><tr>[ˊleɪbaɪ]</tr><word>n
+1) придорожная площадка для стоянки автомобилей
+2) ж.-д. ветка</word></ar><ar><origin>layer-out</origin><tr>[ˊleɪəˏaυt]</tr><word>n
+тот, кто обряжает покойника</word></ar><ar><origin>layout</origin><tr>[ˊleɪaυt]</tr><word>n
+1) расположение; планировка; план, разбивка, разметка (сада и т.п.)
+2) показ, выставка;
+the layout of goods выкладка товаров
+3) макет (книги, газеты и т.п.)
+4) оборудование; набор инструментов
+5) разг. угощение;
+the dinner was a splendid layout обед был великолепен</word></ar><ar><origin>layshaft</origin><tr>[ˊleɪʃɑ:ft]</tr><word>n
+тех. промежуточный вал</word></ar><ar><origin>lazybones</origin><tr>[ˊleɪzɪbəυnz]</tr><word>n
+разг. лентяй, ленивец</word></ar><ar><origin>lead_glance</origin><tr>[ˊledglɑ:ns]</tr><word>n
+мин. свинцовый блеск, галенит</word></ar><ar><origin>lead_line</origin><tr>[ˊledlaɪn]</tr><word>n
+мор. лотлинь</word></ar><ar><origin>lead_pencil</origin><tr>[ˏledˊpensǝl]</tr><word>n
+графитовый карандаш</word></ar><ar><origin>lead_time</origin><tr>[ˊli:dtaɪm]</tr><word>n
+1) время на освоение новой продукции, на выполнение нового заказа
+2) задержка, затягивание</word></ar><ar><origin>lead_up</origin><tr>[ˊli:dʌp]</tr><word>n
+подготовка, введение</word></ar><ar><origin>leading_strings</origin><tr>[ˊli:dɪŋstrɪŋz]</tr><word>n pl
+1) вожжи, помочи (для детей)
+2) жёсткий контроль
+◊ to be in leading strings быть на поводу, быть несамостоятельным</word></ar><ar><origin>leap_day</origin><tr>[ˊli:pdeɪ]</tr><word>n
+29 февраля</word></ar><ar><origin>leap_year</origin><tr>[ˊli:pjɪə]</tr><word>n
+високосный год</word></ar><ar><origin>leapfrog</origin><tr></tr><word>1. n чехарда
+2. v
+1) прыгать, перепрыгивать; попеременно опережать (over)
+2) воен. двигаться перекатами</word></ar><ar><origin>leastways</origin><tr>[ˊli:stweɪz]</tr><word>adv
+диал. по крайней мере</word></ar><ar><origin>leatherback</origin><tr>[ˊleðəbæk]</tr><word>n
+кожистая черепаха</word></ar><ar><origin>leathercloth</origin><tr>[ˊleðəklɒθ]</tr><word>n
+ткань, обработанная под кожу</word></ar><ar><origin>leatherhead</origin><tr>[ˊleðəhed]</tr><word>n
+разг. болван, тупица</word></ar><ar><origin>-leaved</origin><tr></tr><word>в сложных словах означает:
+1. имеющий какие-л. листья;
+large-leaved tree дерево с большими листьями;
+2. имеющий створки;
+two-leaved door двустворчатая дверь</word></ar><ar><origin>leaves</origin><tr>[li:vz]</tr><word>pl от leaf 1</word></ar><ar><origin>Lebanese</origin><tr></tr><word>1. a ливанский
+2. n ливанец; ливанка;
+the Lebanese pl собир. ливанцы</word></ar><ar><origin>lech</origin><tr></tr><word>разг.
+1. n сильное желание, особ. похоть
+2. v быть распущенным, похотливым</word></ar><ar><origin>ledger_bait</origin><tr>[ˊledʒəbeɪt]</tr><word>n
+наживка</word></ar><ar><origin>left_wing</origin><tr>[ˊleftwɪŋ]</tr><word>n
+1) левое крыло политической партии
+2) спорт. левое крыло команды</word></ar><ar><origin>left-luggage_office</origin><tr>[ˏleftˊlʌgɪdʒˏɒfɪs]</tr><word>n
+ж.-д. камера хранения</word></ar><ar><origin>leftover</origin><tr>[ˊleftəυvə]</tr><word>n
+1) остаток
+2) пережиток</word></ar><ar><origin>Lego</origin><tr>[ˊlegəυ]</tr><word>n
+Лего (детский конструктор)</word></ar><ar><origin>legwork</origin><tr>[ˊlegwɜ:k]</tr><word>n
+разг. тяжёлая, нудная работа</word></ar><ar><origin>lei</origin><tr>[leɪ]</tr><word>pl от leu</word></ar><ar><origin>leitmotif</origin><tr>[ˊlaɪtməυˏti:f]</tr><word>n
+муз. лейтмотив</word></ar><ar><origin>leitmotive</origin><tr>[ˊlaɪtməυˏti:f]</tr><word>n
+муз. лейтмотив</word></ar><ar><origin>lemon_grass</origin><tr>[ˊleməngrɑ:s]</tr><word>n
+бот. сорго лимонное</word></ar><ar><origin>lemon_squash</origin><tr>[ˏlemənˊskwɒʃ]</tr><word>n
+содовая (вода) с лимонным соком</word></ar><ar><origin>lending_library</origin><tr>[ˊlendɪŋˏlaɪbrərɪ]</tr><word>n
+библиотека с выдачей книг на дом</word></ar><ar><origin>Lent</origin><tr>[lent]</tr><word>n
+церк. Великий пост</word></ar><ar><origin>lent_lily</origin><tr>[ˊlentˏlɪlɪ]</tr><word>n
+бот. жёлтый нарцисс</word></ar><ar><origin>Lent_term</origin><tr>[ˊlenttɜ:m]</tr><word>n
+весенний семестр</word></ar><ar><origin>Lenten</origin><tr>[ˊlentǝn]</tr><word>a
+1) церк. великопостный
+2) постный (о пище); пресный (о хлебе);
+Lenten fare постная пища</word></ar><ar><origin>Leo</origin><tr>[ˊli:əυ]</tr><word>n
+Лев (созвездие и знак зодиака)</word></ar><ar><origin>Lethe</origin><tr>[ˊli:θɪ]</tr><word>n
+греч. миф. Лета</word></ar><ar><origin>Lethean</origin><tr>[lɪˊθi:ən]</tr><word>a:
+Lethean stream греч. миф. Лета, река забвения</word></ar><ar><origin>Lett</origin><tr>[let]</tr><word>n
+1) латыш; латышка
+2) латышский язык</word></ar><ar><origin>letter_bomb</origin><tr>[ˊletəbɒm]</tr><word>n
+бомба в конверте</word></ar><ar><origin>letter_box</origin><tr>[ˊletəbɒks]</tr><word>n
+почтовый ящик</word></ar><ar><origin>letter_card</origin><tr>[ˊletəkɑ:d]</tr><word>n
+письмо-секретка</word></ar><ar><origin>Lettish</origin><tr></tr><word>1. a латышский
+2. n латышский язык</word></ar><ar><origin>letup</origin><tr>[ˊletʌp]</tr><word>n
+разг.
+1) ослабление
+2) прекращение; приостановка;
+it rained without letup дождь не прекращался ни на минуту</word></ar><ar><origin>leukemia</origin><tr>[lu:ˊki:mɪə]</tr><word>n
+мед. лейкемия</word></ar><ar><origin>leukocyte</origin><tr></tr><word>= leucocyte</word></ar><ar><origin>leva</origin><tr>[ˊlevɑ:]</tr><word>pl от lev</word></ar><ar><origin>Levanter</origin><tr>[lɪˊvæntə]</tr><word>n
+1) сильный восточный ветер (в районе Средиземного моря)
+2) = Levantine</word></ar><ar><origin>Levantine</origin><tr></tr><word>1. n
+1) житель Леванта
+2) судно, торгующее с Левантом
+2. a левантийский</word></ar><ar><origin>levelheaded</origin><tr>[ˏlevlˊhedɪd]</tr><word>a
+уравновешенный</word></ar><ar><origin>Levis</origin><tr>[ˊli:vaɪz]</tr><word>n pl
+фирменные джинсы</word></ar><ar><origin>Leviticus</origin><tr>[ləˊvɪtɪkəs]</tr><word>n
+библ. Левит (3-я книга Ветхого Завета)</word></ar><ar><origin>Leyden_jar</origin><tr>[ˊlaɪdnˏdʒɑ:]</tr><word>n
+эл. лейденская банка</word></ar><ar><origin>liaison_officer</origin><tr>[lɪˏeɪzǝnˊɒfɪsə]</tr><word>n
+воен. офицер связи</word></ar><ar><origin>liberty_boat</origin><tr>[ˏlɪbətɪˊbəυt]</tr><word>n
+1) шлюпка с матросами, увольняемыми на берег
+2) разг. автобус для отпускников</word></ar><ar><origin>liberty_man</origin><tr>[ˊlɪbətɪmæn]</tr><word>n
+матрос, увольняемый на берег</word></ar><ar><origin>Libra</origin><tr>[ˊli:brə]</tr><word>n
+Весы (созвездие и знак зодиака)</word></ar><ar><origin>libretti</origin><tr>[lɪˊbreti:]</tr><word>pl от libretto</word></ar><ar><origin>Libyan</origin><tr></tr><word>1. a ливийский; поэт. африканский
+2. n ливиец; ливийка</word></ar><ar><origin>lice</origin><tr>[laɪs]</tr><word>pl от louse 1, 1)</word></ar><ar><origin>license_plate</origin><tr>[ˊlaɪsǝnspleɪt]</tr><word>n
+амер. авто номерной знак</word></ar><ar><origin>lichenous</origin><tr>[ˊlaɪkənəs]</tr><word>a
+покрытый лишайником</word></ar><ar><origin>lie_detector</origin><tr>[ˊlaɪdɪˏtektə]</tr><word>n
+«детектор лжи» (прибор для проверки правильности показаний)</word></ar><ar><origin>liege_man</origin><tr>[ˊli:dʒmæn]</tr><word>n
+ист. вассал</word></ar><ar><origin>lieutenant_colonel</origin><tr>[lefˏtenəntˊkɜ:nl]</tr><word>n
+подполковник</word></ar><ar><origin>lieutenant_commander</origin><tr>[leˏtenəntkə-ˊmɑ:ndə]</tr><word>n
+мор. капитан-лейтенант</word></ar><ar><origin>lieutenant_general</origin><tr>[lefˏtenəntˊdʒenǝrǝl]</tr><word>n
+1) генерал-лейтенант
+2) ист. наместник</word></ar><ar><origin>lieutenant_governor</origin><tr>[lefˏtenəntˊgʌvǝnə]</tr><word>губернатор провинции (в англ. колонии)
+2) [lju:ˏtenəntˊgʌvǝnə] амер. заместитель губернатора (штата)</word></ar><ar><origin>life_assurance</origin><tr>[ˊlaɪfəˏʃυǝrəns]</tr><word>= life insurance</word></ar><ar><origin>life_belt</origin><tr>[ˊlaɪfbelt]</tr><word>n
+спасательный пояс</word></ar><ar><origin>life_buoy</origin><tr>[ˊlaɪfbɔɪ]</tr><word>n
+спасательный буй; спасательный круг</word></ar><ar><origin>life_estate</origin><tr>[ˊlaɪfɪˏsteɪt]</tr><word>n
+юр. имущество в пожизненном пользовании</word></ar><ar><origin>life_expectancy</origin><tr>[ˏlaɪfɪkˊspektənsɪ]</tr><word>n
+вероятная продолжительность жизни</word></ar><ar><origin>Life_Guards</origin><tr>[ˊlaɪfgɑ:dz]</tr><word>n
+лейб-гвардия</word></ar><ar><origin>life_insurance</origin><tr>[ˊlaɪfɪnˏʃυǝrəns]</tr><word>n
+страхование жизни</word></ar><ar><origin>life_jacket</origin><tr>[ˊlaɪfˏdʒækɪt]</tr><word>n
+спасательный жилет</word></ar><ar><origin>life_office</origin><tr>[ˊlaɪfˏɒfɪs]</tr><word>n
+контора по страхованию жизни</word></ar><ar><origin>life_preserver</origin><tr>[ˊlaɪfprɪˏzɜ:və]</tr><word>n
+1) тяжёлая дубинка или трость, налитая свинцом
+2) спасательный пояс</word></ar><ar><origin>life_vest</origin><tr></tr><word>амер. = life jacket</word></ar><ar><origin>life_work</origin><tr>[ˏlaɪfˊwɜ:k]</tr><word>n
+труд или дело всей жизни</word></ar><ar><origin>lifeblood</origin><tr>[ˊlaɪfblʌd]</tr><word>n
+1) кровь
+2) источник жизненной силы</word></ar><ar><origin>lifeguard</origin><tr>[ˊlaɪfgɑ:d]</tr><word>n
+1) спасатель на водах
+2) личная охрана</word></ar><ar><origin>lifelike</origin><tr>[ˊlaɪflaɪk]</tr><word>a
+словно живой; очень похожий</word></ar><ar><origin>lifeline</origin><tr>[ˊlaɪflaɪn]</tr><word>n
+1) спасательный трос
+2) жизненно важный путь; жизненно важная коммуникация; «дорога жизни»</word></ar><ar><origin>lifesaver</origin><tr>[ˊlaɪfˏseɪvə]</tr><word>n
+разг.
+1) спаситель
+2) австрал. спасатель на водах</word></ar><ar><origin>lifesaving</origin><tr>[ˊlaɪfˏseɪvɪŋ]</tr><word>a
+спасательный;
+lifesaving service служба спасания на водах;
+lifesaving station спасательная станция</word></ar><ar><origin>lifespan</origin><tr>[ˊlaɪfspæn]</tr><word>n
+продолжительность жизни;
+within the lifespan of one generation в течение жизни одного поколения</word></ar><ar><origin>lifestyle</origin><tr>[ˊlaɪfstaɪl]</tr><word>n
+образ или уклад жизни</word></ar><ar><origin>light_heavyweight</origin><tr>[ˏlaɪtˊhevɪweɪt]</tr><word>n
+борец или боксёр полутяжёлого веса</word></ar><ar><origin>light_housekeeping</origin><tr>[ˏlaɪtˊhaυsˏki:pɪŋ]</tr><word>n
+лёгкая работа по дому; ведение хозяйства без приготовления пищи</word></ar><ar><origin>light_year</origin><tr>[ˊlaɪtjɪə]</tr><word>n
+астр. световой год</word></ar><ar><origin>light-o_-love</origin><tr>[ˏlaɪtəˊlʌv]</tr><word>n
+1) ветреная, капризная женщина
+2) проститутка</word></ar><ar><origin>lightface</origin><tr>[ˊlaɪtfeɪs]</tr><word>n
+полигр. светлый шрифт</word></ar><ar><origin>lighthearted</origin><tr>[ˏlaɪtˊhɑ:tɪd]</tr><word>a
+беззаботный, беспечный, весёлый</word></ar><ar><origin>lightning_arrester</origin><tr>[ˊlaɪtnɪŋəˏrestə]</tr><word>n
+эл. молниеотвод; грозовой разрядник</word></ar><ar><origin>lightning_conductor</origin><tr>[ˊlaɪtnɪŋkənˏdʌktə]</tr><word>n
+молниеотвод</word></ar><ar><origin>lightning_rod</origin><tr>[ˊlaɪtnɪŋrɒd]</tr><word>= lightning conductor</word></ar><ar><origin>lightning_strike</origin><tr>[ˏlaɪtnɪŋˊstraɪk]</tr><word>n
+спонтанная забастовка (без предварительного объявления)</word></ar><ar><origin>lightweight</origin><tr></tr><word>1. n
+1) человек ниже среднего веса, животное или вещь легче стандартного веса
+2) спорт. лёгкий вес; боксёр или борец лёгкого веса
+3) несерьёзный, поверхностный человек
+2. a
+1) лёгкий;
+lightweight gas mask облегчённый противогаз
+2) несерьёзный, поверхностный</word></ar><ar><origin>lignum_vitae</origin><tr>[ˏlɪgnəmˊvaɪtɪ]</tr><word>n
+бот. бакаут; железное дерево</word></ar><ar><origin>Lilliputian</origin><tr></tr><word>1. n лилипут; карлик
+2. a карликовый, крошечный</word></ar><ar><origin>lily_of_the_valley</origin><tr>[ˏlɪlɪəvðəˊvælɪ]</tr><word>n
+ландыш</word></ar><ar><origin>lime_juice</origin><tr>[ˊlaɪmdʒu:s]</tr><word>n
+сок лайма</word></ar><ar><origin>lime_tree</origin><tr>[ˊlaɪmtri:]</tr><word>= lime Ⅲ</word></ar><ar><origin>limewater</origin><tr>[ˊlaɪmˏwɔ:tə]</tr><word>n
+известковая вода</word></ar><ar><origin>Limey</origin><tr>[ˊlaɪmɪ]</tr><word>n
+амер. пренебр. англичанин (первонач. английский матрос)</word></ar><ar><origin>limm</origin><tr>[lɪm]</tr><word>v
+уст.
+1) писать (картину, портрет)
+2) украшать рукопись рисунками, виньетками</word></ar><ar><origin>limo</origin><tr>[ˊlɪməυ]</tr><word>n
+разг. лимузин</word></ar><ar><origin>linctus</origin><tr>[ˊlɪŋktəs]</tr><word>n
+микстура от кашля</word></ar><ar><origin>line_drawing</origin><tr>[ˊlaɪnˏdrɔ:ɪŋ]</tr><word>n
+рисунок пером или карандашом</word></ar><ar><origin>line_engraving</origin><tr>[ˊlaɪnɪnˏgreɪvɪŋ]</tr><word>n
+штриховая гравюра</word></ar><ar><origin>line_map</origin><tr>[ˊlaɪnmæp]</tr><word>n
+контурная карта</word></ar><ar><origin>line_officer</origin><tr>[ˊlaɪnˏɒfɪsə]</tr><word>n
+строевой офицер</word></ar><ar><origin>lingua_franca</origin><tr></tr><word>1) смешанный язык из элементов романских, греческого и восточных языков, служащий для общения в восточном Средиземноморье
+2) смешанный язык, используемый людьми из разных стран</word></ar><ar><origin>linkman</origin><tr>[ˊlɪŋkmæn]</tr><word>n
+1) тлв., радио ведущий программы
+2) спорт. полузащитник
+3) посредник</word></ar><ar><origin>linkup</origin><tr>[ˊlɪŋkʌp]</tr><word>n
+1) соединение;
+linkup on the Elbe ист. встреча на Эльбе
+2) стыковка космических кораблей</word></ar><ar><origin>lino_operator</origin><tr>[ˊlaɪnəʋˏɒpəreɪtə]</tr><word>n
+линотипист</word></ar><ar><origin>linocut</origin><tr>[ˊlaɪnəυkʌt]</tr><word>n
+линогравюра</word></ar><ar><origin>lionheart</origin><tr>[ˏla(ɪ)ənˊhɑ:t]</tr><word>n
+смелый человек, храбрец</word></ar><ar><origin>lionhearted</origin><tr>[ˏlaɪənˊhɑ:tɪd]</tr><word>a
+храбрый, неустрашимый</word></ar><ar><origin>lip_gloss</origin><tr>[ˊlɪpglɒs]</tr><word>n
+блеск для губ</word></ar><ar><origin>lip_service</origin><tr>[ˊlɪpˏsɜ:vɪs]</tr><word>n
+неискренние словоизлияния; пустые слова;
+to pay lip service to smth. признавать что-л. только на словах;
+to pay lip service to smb. неискренне уверять кого-л. в преданности</word></ar><ar><origin>lip-balm</origin><tr>[ˊlɪpˏbɑ:m]</tr><word>= lipsalve 1)</word></ar><ar><origin>liposuction</origin><tr>[ˊlɪpəυˏsʌkʃn]</tr><word>n
+мед. липосакция</word></ar><ar><origin>lippy</origin><tr>[ˊlɪpɪ]</tr><word>a
+разг.
+1) наглый, нахальный
+2) болтливый</word></ar><ar><origin>lipreading</origin><tr>[ˊlɪpˏri:dɪŋ]</tr><word>n
+чтение с губ (особ. как метод обучения глухонемых)</word></ar><ar><origin>lire</origin><tr>[ˊlɪǝrəɪ]</tr><word>pl от lira</word></ar><ar><origin>listed_building</origin><tr>[ˏlɪstɪdˊbɪldɪŋ]</tr><word>n
+памятник архитектуры, охраняемый государством</word></ar><ar><origin>litchi</origin><tr>[ˊlaɪtʃi:]</tr><word>= lychee</word></ar><ar><origin>lithoprint</origin><tr>[ˊlɪθəprɪnt]</tr><word>= lithograph 2</word></ar><ar><origin>Lithuanian</origin><tr></tr><word>1. a литовский
+2. n
+1) литовец; литовка
+2) литовский язык</word></ar><ar><origin>litter_bin</origin><tr>[ˊlɪtəbɪn]</tr><word>n
+урна для мусора</word></ar><ar><origin>live_farming</origin><tr>[ˊlaɪvˏfɑ:mɪŋ]</tr><word>n
+животноводческое хозяйство</word></ar><ar><origin>live_oak</origin><tr>[ˊlaɪvˏəυk]</tr><word>n
+бот. дуб виргинский</word></ar><ar><origin>Liverpudlian</origin><tr></tr><word>1. n житель Ливерпуля
+2. a ливерпульский</word></ar><ar><origin>livery_stable</origin><tr>[ˊlɪvǝrɪˏsteɪbl]</tr><word>n
+платная конюшня; извозчичий двор</word></ar><ar><origin>lives</origin><tr>[laɪvz]</tr><word>pl от life</word></ar><ar><origin>livestock</origin><tr>[ˊlaɪvstɒk]</tr><word>n
+1) (обыкн. pl) живой инвентарь, домашний скот
+2) attr.:
+livestock breeding племенное животноводство;
+livestock capita поголовье скота</word></ar><ar><origin>living_room</origin><tr>[ˊlɪvɪŋrυm]</tr><word>n
+гостиная, общая комната</word></ar><ar><origin>living_space</origin><tr>[ˊlɪvɪŋspeɪs]</tr><word>n
+1) жизненное пространство
+2) жилая площадь</word></ar><ar><origin>_ll</origin><tr></tr><word>сокр. разг. от will и shall: he'll = he will, they'll = they will и т.д.</word></ar><ar><origin>Lloyd_s</origin><tr>[lɔɪdz]</tr><word>n
+1) Ллойд (морское страховое объединение)
+2) регистр Ллойда (тж. Lloyd's register)</word></ar><ar><origin>load_line</origin><tr>[ˊləυdlaɪn]</tr><word>n
+грузовая ватерлиния</word></ar><ar><origin>loan_collection</origin><tr>[ˊləυnkəˏlekʃn]</tr><word>n
+коллекция картин, временно предоставленная владельцами для выставки</word></ar><ar><origin>loan_show</origin><tr>[ˊləυnʃəυ]</tr><word>n
+выставка картин, предоставленных музею на определённый срок</word></ar><ar><origin>loan_translation</origin><tr>[ˊləυntrænsˏleɪʃn]</tr><word>n
+лингв. калька</word></ar><ar><origin>loanword</origin><tr>[ˊləυnwɜ:d]</tr><word>n
+заимствованное слово</word></ar><ar><origin>loaves</origin><tr>[ləυvz]</tr><word>pl от loaf 1</word></ar><ar><origin>lobotomy</origin><tr>[ləυˊbɒtəmɪ]</tr><word>n
+мед. лоботомия</word></ar><ar><origin>loci</origin><tr>[ˊləυsaɪ]</tr><word>pl от locus</word></ar><ar><origin>Lock_Hospital</origin><tr>[ˏlɒkˊhɒspɪtl]</tr><word>= lock Ⅱ, 1, 6)</word></ar><ar><origin>locker_room</origin><tr>[ˊlɒkəru:m]</tr><word>n
+раздевалка (на заводе, стадионе и т.п. со шкафчиками для личных вещей)</word></ar><ar><origin>lockjaw</origin><tr>[ˊlɒkdʒɔ:]</tr><word>n
+мед. сжатие челюстей, тризм челюсти</word></ar><ar><origin>lockkeeper</origin><tr>[ˊlɒkˏki:pə]</tr><word>n
+начальник шлюза</word></ar><ar><origin>locknut</origin><tr>[ˊlɒknʌt]</tr><word>n
+контргайка</word></ar><ar><origin>lockout</origin><tr>[ˊlɒkaυt]</tr><word>n
+локаут</word></ar><ar><origin>lockstitch</origin><tr>[ˊlɒkstɪtʃ]</tr><word>n
+текст. закрытый стежок; челночный стежок</word></ar><ar><origin>lockup</origin><tr>[ˊlɒkʌp]</tr><word>n
+1) арестантская камера; разг. тюрьма
+2) время закрытия, прекращения работы
+3) мёртвый капитал
+4) attr. запираемый, запирающийся;
+lockup shop лавка без жилого помещения</word></ar><ar><origin>locum_tenens</origin><tr>[ˏləυkəmˊtenenz]</tr><word>n
+временный заместитель (особ. о враче и священнике)</word></ar><ar><origin>lodestone</origin><tr>[ˊləυdstəυn]</tr><word>n
+1) магнетит; магнитный железняк
+2) что-л. притягивающее, привлекательное, «магнит»</word></ar><ar><origin>lodging_house</origin><tr>[ˊlɒdʒɪŋhaυs]</tr><word>n
+меблированные комнаты;
+common lodging house ночлежный дом</word></ar><ar><origin>log_cabin</origin><tr>[ˏlɒgˊkæbɪn]</tr><word>n
+бревенчатый домик</word></ar><ar><origin>log_frame</origin><tr>[ˊlɒgfreɪm]</tr><word>n
+лесопильная рама</word></ar><ar><origin>log_hut</origin><tr>[ˊlɒghʌt]</tr><word>= log cabin</word></ar><ar><origin>logbook</origin><tr>[ˊlɒgbυk]</tr><word>n
+1) вахтенный журнал; бортовой журнал (самолёта); журнал радиостанции и т.п.
+2) формуляр (автомашины, самолёта)</word></ar><ar><origin>logroll</origin><tr>[ˊlɒgrəυl]</tr><word>v
+амер. оказывать взаимные услуги (в политике); взаимно восхвалять (в печати)</word></ar><ar><origin>logrolling</origin><tr>[ˊlɒgˏrəυlɪŋ]</tr><word>n
+амер. взаимные услуги (в политике); взаимное восхваление (в печати)</word></ar><ar><origin>loincloth</origin><tr>[ˊlɔɪnklɒθ]</tr><word>n
+набедренная повязка</word></ar><ar><origin>loiterer</origin><tr>[ˊlɔɪtərə]</tr><word>n
+1) бездельник
+2) копуша</word></ar><ar><origin>Lollard</origin><tr>[ˊlɒləd]</tr><word>n
+ист. лоллард</word></ar><ar><origin>Lombard</origin><tr></tr><word>1. n
+1) ист. лангобард
+2) ломбардец, житель Ломбардии
+◊ Lombard Street финансовый рынок, финансовый мир Англии (по названию улицы в лондонском Сити, на которой находится много банков)
+2. a ломбардский</word></ar><ar><origin>Lombardy_poplar</origin><tr>[ˏlɒmbədɪˊpɒplə]</tr><word>n
+пирамидальный тополь</word></ar><ar><origin>Londoner</origin><tr>[ˊlʌndənə]</tr><word>n
+лондонец</word></ar><ar><origin>Londonism</origin><tr>[ˊlʌndənɪzǝm]</tr><word>n
+1) местное лондонское выражение
+2) лондонский обычай</word></ar><ar><origin>lone_electron</origin><tr>[ˏləυnɪˊlektrɒn]</tr><word>n
+одиночный электрон</word></ar><ar><origin>long_ago</origin><tr></tr><word>1. n далёкое прошлое; давние времена
+2. a давнопрошедший, далёкий</word></ar><ar><origin>long_boat</origin><tr>[ˊlɒŋbəυt]</tr><word>n
+мор. баркас</word></ar><ar><origin>long_hundredweight</origin><tr>[ˏlɒŋˊhʌndrədweɪt]</tr><word>n
+английский центнер (112 фунтов = 50, 8 кг)</word></ar><ar><origin>long_jump</origin><tr>[ˊlɒŋdʒʌmp]</tr><word>n
+спорт. прыжок в длину</word></ar><ar><origin>long_shot</origin><tr>[ˊlɒŋʃɒt]</tr><word>n
+1) рискованное предприятие, авантюра
+2) рискованное пари
+3) кино общий план</word></ar><ar><origin>long_ton</origin><tr>[ˏlɒŋˊtʌn]</tr><word>= gross ton</word></ar><ar><origin>long-service_pay</origin><tr>[ˊlɒŋˏsɜ:vɪsˊpeɪ]</tr><word>n
+надбавка за выслугу лет</word></ar><ar><origin>longbow</origin><tr>[ˊlɒŋbəυ]</tr><word>n
+большой лук (оружие)
+◊ to draw (или to pull) the longbow рассказывать небылицы; преувеличивать</word></ar><ar><origin>longhair</origin><tr>[ˊlɒŋˏheə]</tr><word>n
+пренебр.
+1) хиппи
+2) интеллектуал</word></ar><ar><origin>longheaded</origin><tr>[ˏlɒŋˊhedɪd]</tr><word>a
+1) проницательный, предусмотрительный, хитрый
+2) длинноголовый, долихоцефальный</word></ar><ar><origin>longsighted</origin><tr>[ˏlɒŋˊsaɪtɪd]</tr><word>a
+1) дальнозоркий
+2) дальновидный</word></ar><ar><origin>looker-in</origin><tr>[ˏlυkərˊɪn]</tr><word>n (pl lookers-in)
+телезритель</word></ar><ar><origin>lookers-in</origin><tr>[ˏlυkəzˊɪn]</tr><word>pl от looker-in</word></ar><ar><origin>lookers-on</origin><tr>[ˏlυkəzˊɒn]</tr><word>pl от looker-on</word></ar><ar><origin>looking_glass</origin><tr>[ˊlυkɪŋglɑ:s]</tr><word>n
+зеркало</word></ar><ar><origin>lookout</origin><tr>[ˊlυkaυt]</tr><word>n
+1) бдительность, насторожённость;
+to be on the lookout (for) быть настороже
+2) наблюдательный пункт
+3) наблюдатель; вахта; дозорные
+4) вид;
+a wonderful lookout over the sea чудесный вид на море
+5) разг. виды, шансы
+◊ that's my lookout это моё дело</word></ar><ar><origin>loony_bin</origin><tr>[ˊlυ:nɪbɪn]</tr><word>n
+сл. дурдом, психбольница</word></ar><ar><origin>loop_line</origin><tr>[ˊlu:plaɪn]</tr><word>= loop 1 3)</word></ar><ar><origin>loophole</origin><tr></tr><word>1. n
+1) лазейка, увёртка
+2) бойница, амбразура
+2. v проделывать бойницы</word></ar><ar><origin>loose_box</origin><tr>[ˊlu:sbɒks]</tr><word>n
+денник (для лошади)</word></ar><ar><origin>lopsided</origin><tr>[ˏlɒpˊsaɪdɪd]</tr><word>a
+1) кривобокий; наклонённый, накренённый
+2) односторонний; неравномерный;
+lopsided development неравномерное, одностороннее развитие</word></ar><ar><origin>Lord_Chancellor</origin><tr>[ˏlɔ:dˊtʃɑ:nsǝlə]</tr><word>n
+лорд-канцлер (председатель палаты лордов и хранитель печати)</word></ar><ar><origin>Lord_Lieutenant</origin><tr>[ˏlɔ:dlefˊtenənt]</tr><word>n
+1) глава судебной и исполнительной власти в графстве
+2) генерал-губернатор Ольстера (Сев. Ирландия)
+3) ист. вице-король Ирландии (до 1922 г.)</word></ar><ar><origin>Lord_Mayor</origin><tr>[ˏlɔ:dˊmeə]</tr><word>n
+лорд-мэр;
+Lord Mayor's Day 9 ноября (день вступления в должность лондонского лорд-мэра);
+Lord Mayor's show пышная процессия в день вступления лорд-мэра в должность</word></ar><ar><origin>Lord_Provost</origin><tr>[lɔ:dˊprɒvəst]</tr><word>n
+лорд-мэр (некоторых больших шотландских городов)</word></ar><ar><origin>Lord_Rector</origin><tr>[ˏlɔ:dˊrektə]</tr><word>n
+почётный ректор (в шотландских университетах)</word></ar><ar><origin>loss_leader</origin><tr>[ˊlɒsli:də]</tr><word>n
+товар, продаваемый с убытком с целью привлечения покупателей</word></ar><ar><origin>Lothario</origin><tr>[ləˊθɑ:rɪəυ]</tr><word>n (pl -os [-əυz])
+повеса, волокита (тж. gay Lothario)</word></ar><ar><origin>loudspeaker</origin><tr>[ˏlaυdˊspi:kə]</tr><word>n
+радио громкоговоритель, репродуктор</word></ar><ar><origin>lounge_suit</origin><tr>[ˊlaυndʒsu:t]</tr><word>n
+пиджачный костюм</word></ar><ar><origin>love_affair</origin><tr>[ˊlʌvəˏfeə]</tr><word>n
+роман, любовная интрига, любовное похождение</word></ar><ar><origin>love_letter</origin><tr>[ˊlʌvˏletə]</tr><word>n
+любовное письмо</word></ar><ar><origin>love_match</origin><tr>[ˊlʌvmætʃ]</tr><word>n
+брак по любви</word></ar><ar><origin>love_seat</origin><tr>[ˊlʌvsi:t]</tr><word>n
+кресло, вмещающее двоих</word></ar><ar><origin>love_story</origin><tr>[ˊlʌvˏstɔ:rɪ]</tr><word>n
+любовная история; рассказ, роман о любви</word></ar><ar><origin>lovebird</origin><tr>[ˊlʌvbɜ:d]</tr><word>n
+небольшой попугай</word></ar><ar><origin>lovechild</origin><tr>[ˊlʌvtʃaɪld]</tr><word>n
+дитя любви (о внебрачном ребёнке)</word></ar><ar><origin>Lovelace</origin><tr>[ˊlʌvleɪs]</tr><word>n
+ловелас, волокита (по имени героя из романа Ричардсона «Кларисса Харлоу»)</word></ar><ar><origin>lovelorn</origin><tr>[ˊlʌvlɔ:n]</tr><word>a
+1) страдающий от безнадёжной любви
+2) покинутый (любимым человеком)</word></ar><ar><origin>lovemaking</origin><tr>[ˊlʌvˏmeɪkɪŋ]</tr><word>n
+1) физическая близость
+2) уст. ухаживание</word></ar><ar><origin>loving_cup</origin><tr>[ˊlʌvɪŋkʌp]</tr><word>n
+круговая чаша</word></ar><ar><origin>Low_Church</origin><tr>[ˏləυˊtʃɜ:tʃ]</tr><word>n
+низкая церковь (направление в англиканской церкви, противоп. High Church)</word></ar><ar><origin>Low_Countries</origin><tr>[ˊləυˏkʌntrɪz]</tr><word>n pl
+Нидерланды, Бельгия и Люксембург</word></ar><ar><origin>low_ground</origin><tr>[ˊləυgraυnd]</tr><word>n
+низменность, низина</word></ar><ar><origin>low_life</origin><tr>[ˊləυlaɪf]</tr><word>n
+жалкое существование, дно жизни</word></ar><ar><origin>low_profile</origin><tr>[ˏləυˊprəυfaɪl]</tr><word>n
+сдержанность, желание оставаться в тени</word></ar><ar><origin>low_relief</origin><tr>[ˏləυrɪˊli:f]</tr><word>n
+барельеф</word></ar><ar><origin>low_spirits</origin><tr>[ˏləυˊspɪrɪts]</tr><word>n
+депрессия</word></ar><ar><origin>low_water_mark</origin><tr>[ˏləυˊwɔ:təˏmɑ:k]</tr><word>n
+1) низшая точка отлива
+2) предел (чего-л.);
+to be at low water mark разг. быть совершенно без денег; быть на мели</word></ar><ar><origin>lowborn</origin><tr>[ˏləυˊbɔ:n]</tr><word>a
+низкого происхождения</word></ar><ar><origin>lowbred</origin><tr>[ˏləυˊbred]</tr><word>a
+невоспитанный, неотёсанный</word></ar><ar><origin>lowdown</origin><tr>[ˊləυdaυn]</tr><word>n
+разг. подноготная</word></ar><ar><origin>lox</origin><tr>[lɒks]</tr><word>n
+жидкий кислород</word></ar><ar><origin>LSD</origin><tr>[ˏelesˊdi:]</tr><word>n
+ЛСД (наркотик, вызывающий галлюцинации)</word></ar><ar><origin>Lucifer</origin><tr>[ˊlu:sɪfə]</tr><word>n
+1) миф. Люцифер, сатана
+2) поэт. утренняя звезда, планета Венера
+3) (l.) уст. спичка
+◊ as proud as Lucifer гордый как Люцифер</word></ar><ar><origin>lucky_dip</origin><tr>[ˏlʌkɪˊdɪp]</tr><word>n
+род лотереи (мешок, откуда наудачу вытаскивают что-л.)</word></ar><ar><origin>Lucullean</origin><tr>[lu:ˊkʌlɪən]</tr><word>a:
+Lucullean banquet Лукуллов пир</word></ar><ar><origin>Lucullian</origin><tr>[lu:ˊkʌlɪən]</tr><word>a:
+Lucullean banquet Лукуллов пир</word></ar><ar><origin>Luddites</origin><tr>[ˊlʌdaɪts]</tr><word>n pl
+ист. луддиты</word></ar><ar><origin>Luftwaffe</origin><tr></tr><word>нем. n люфтваффе (воздушные силы гитлеровской Германии)</word></ar><ar><origin>luggage_office</origin><tr>[ˊlʌgɪdʒˏɒfɪs]</tr><word>n
+камера хранения багажа</word></ar><ar><origin>lumberyard</origin><tr>[ˊlʌmbəjɑ:d]</tr><word>n
+амер. лесной склад</word></ar><ar><origin>lunar_caustic</origin><tr>[ˏlu:nəˊkɔ:stɪk]</tr><word>n
+хим. ляпис</word></ar><ar><origin>lunatic_asylum</origin><tr>[ˊlu:nətɪkəˏsaɪləm]</tr><word>n
+психиатрическая больница; сумасшедший дом</word></ar><ar><origin>lunch_counter</origin><tr>[ˊlʌntʃˏkaυntə]</tr><word>n
+буфет, буфетная стойка</word></ar><ar><origin>lunchbox</origin><tr>[ˊlʌntʃbɒks]</tr><word>n
+коробка для завтрака (школьника и т.п.)</word></ar><ar><origin>luncheon_voucher</origin><tr>[ˊlʌntʃǝnˏvaυtʃə]</tr><word>n
+талон на еду (выдаётся предприятием рабочему)</word></ar><ar><origin>lunchhour</origin><tr>[ˊlʌntʃˏaυə]</tr><word>n
+обеденный перерыв</word></ar><ar><origin>lunchtime</origin><tr>[ˊlʌntʃtaɪm]</tr><word>n
+время обеда; обеденный перерыв</word></ar><ar><origin>lung_fever</origin><tr>[ˏlʌŋˊfi:və]</tr><word>n
+мед. крупозное воспаление лёгких</word></ar><ar><origin>lustra</origin><tr>[ˊlʌstrə]</tr><word>pl от lustrum</word></ar><ar><origin>Lutetian</origin><tr>[lu:ˊti:ʃɪən]</tr><word>a
+парижский</word></ar><ar><origin>lutetium</origin><tr>[lu:ˊti:ʃǝm]</tr><word>n
+хим. лютеций</word></ar><ar><origin>Lutheran</origin><tr></tr><word>1. a лютеранский
+2. n лютеранин; лютеранка</word></ar><ar><origin>Lyceum</origin><tr>[laɪˊsi:əm]</tr><word>n
+1) лицей
+2) (l.) амер. уст. лекторий, читальня; организация для устройства лекций-концертов</word></ar><ar><origin>lychee</origin><tr>[ˊlaɪtʃi:]</tr><word>n
+бот. личжи</word></ar><ar><origin>lynch_law</origin><tr>[ˊlɪntʃlɔ:]</tr><word>n
+закон или суд Линча, самосуд, линчевание</word></ar><ar><origin>Lyra</origin><tr>[ˊlaɪrə]</tr><word>n
+астр. Лира (созвездие)</word></ar><ar><origin>lyrebird</origin><tr>[ˊlaɪəbɜ:d]</tr><word>n
+птица-лира, лирохвост</word></ar>

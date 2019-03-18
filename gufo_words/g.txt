@@ -1,0 +1,559 @@
+<ar><origin>G</origin><tr>[dʒi:]</tr><word>n (pl Gs, G's [dʒi:z])
+1) 7-я буква англ. алфавита
+2) муз. соль</word></ar><ar><origin>G-man</origin><tr>[ˊdʒi:mæn]</tr><word>n (сокр. от Government man)
+амер. разг. агент Федерального бюро расследований</word></ar><ar><origin>G-string</origin><tr>[ˊdʒi:strɪŋ]</tr><word>n
+набедренная повязка</word></ar><ar><origin>G-suit</origin><tr>[ˊdʒi:su:t]</tr><word>n
+противоперегрузочный костюм (космонавта, лётчика)</word></ar><ar><origin>gadfly</origin><tr>[ˊgædflaɪ]</tr><word>n
+1) овод, слепень
+2) надоедливый, придирчивый человек</word></ar><ar><origin>Gael</origin><tr>[geɪl]</tr><word>n
+шотландский (реже ирландский) кельт, гэл</word></ar><ar><origin>Gaelic</origin><tr></tr><word>1. a гэльский
+2. n гэльский язык (особ. язык шотландских кельтов)</word></ar><ar><origin>gainsaid</origin><tr>[ˏgeɪnˊsed]</tr><word>past и p. p. от gainsay</word></ar><ar><origin>_gainst</origin><tr>[genst]</tr><word>prep
+поэт. см. against</word></ar><ar><origin>gala_day</origin><tr>[ˊgɑ:lədeɪ]</tr><word>n
+день празднества; праздник</word></ar><ar><origin>gala_night</origin><tr>[ˊgɑ:lənaɪt]</tr><word>n
+гала-представление; торжественный вечер</word></ar><ar><origin>galanty_show</origin><tr>[gəˏlæntɪˊʃəυ]</tr><word>n
+театр. китайские тени</word></ar><ar><origin>gall_bladder</origin><tr>[ˊgɔ:lˏblædə]</tr><word>n
+анат. жёлчный пузырь</word></ar><ar><origin>galley_proof</origin><tr>[ˊgælɪpru:f]</tr><word>n
+полигр. гранка</word></ar><ar><origin>galley_slave</origin><tr>[ˊgælɪsleɪv]</tr><word>n
+1) ист. гребец на галере (раб или осуждённый престуник)
+2) человек, обречённый на тяжёлый труд</word></ar><ar><origin>Gallic</origin><tr>[ˊgælɪk]</tr><word>a
+1) галльский
+2) шутл. французский</word></ar><ar><origin>Gallicism</origin><tr>[ˊgælɪˏsɪzǝm]</tr><word>n
+галлицизм</word></ar><ar><origin>Gallophile</origin><tr>[ˊgæləʋfaɪl]</tr><word>n
+галлофил</word></ar><ar><origin>Gallophobe</origin><tr>[ˊgæləʋfəυb]</tr><word>n
+галлофоб</word></ar><ar><origin>gallows_bird</origin><tr>[ˊgæləυzbɜ:d]</tr><word>n
+разг. негодяй, висельник</word></ar><ar><origin>gallows_tree</origin><tr>[ˊgæləυztri:]</tr><word>= gallows</word></ar><ar><origin>gallstone</origin><tr>[ˊgɔ:lstəυn]</tr><word>n
+мед. жёлчный камень</word></ar><ar><origin>Gallup_poll</origin><tr>[ˏgæləpˊpəυl]</tr><word>n
+опрос Гэллапа, социологический опрос населения; выявление общественного мнения по различным вопросам</word></ar><ar><origin>gam</origin><tr>[gæm]</tr><word>n
+сл. нога</word></ar><ar><origin>gamba</origin><tr>[ˊgæmbə]</tr><word>= viola da gamba</word></ar><ar><origin>gambling</origin><tr>[ˊgæmblɪŋ]</tr><word>n
+азартная игра, игра на деньги</word></ar><ar><origin>game_fish</origin><tr>[ˊgeɪmfɪʃ]</tr><word>n
+непромысловая рыба</word></ar><ar><origin>game_point</origin><tr>[ˏgeɪmˊpɔɪnt]</tr><word>n
+спорт. очко, решающее исход гейма</word></ar><ar><origin>game_reserve</origin><tr>[ˏgeɪmrɪˊzɜ:v]</tr><word>n
+охотничий заповедник</word></ar><ar><origin>game_show</origin><tr>[ˊgeɪmʃəʋ]</tr><word>n
+телевизионная игра, игровое шоу</word></ar><ar><origin>gamebag</origin><tr>[ˊgeɪmbæg]</tr><word>n
+ягдташ, охотничья сумка</word></ar><ar><origin>gamecock</origin><tr>[ˊgeɪmkɒk]</tr><word>n
+бойцовый петух</word></ar><ar><origin>gamey</origin><tr>[ˊgeɪmɪ]</tr><word>= gamy</word></ar><ar><origin>gamma_globulin</origin><tr>[ˏgæməˊglɒbjυlɪn]</tr><word>n
+гамма-глобулин</word></ar><ar><origin>gamma_rays</origin><tr>[ˊgæməreɪz]</tr><word>n pl
+физ. гамма-лучи</word></ar><ar><origin>ganglia</origin><tr>[ˊgæŋglɪə]</tr><word>pl от ganglion</word></ar><ar><origin>gangplank</origin><tr>[ˊgæŋplæŋk]</tr><word>n
+сходня, трап</word></ar><ar><origin>ganja</origin><tr>[ˊgændʒə]</tr><word>n
+марихуана</word></ar><ar><origin>gannet</origin><tr>[ˊgænɪt]</tr><word>n
+1) зоол. олуша; баклан
+2) разг. жадина</word></ar><ar><origin>gaolbird</origin><tr>[ˊdʒeɪlbɜ:d]</tr><word>n
+арестант; уголовник</word></ar><ar><origin>garage_sale</origin><tr>[ˊgærɑ:ʒˏseɪl]</tr><word>n
+«гаражная распродажа» (распродажа пожитков на дому обыкн. с благотворительной целью)</word></ar><ar><origin>garbage_can</origin><tr>[ˊgɑ:bɪdʒˏkæn]</tr><word>n
+амер. мусорный ящик</word></ar><ar><origin>garden_city</origin><tr>[ˏgɑ:dnˊsɪtɪ]</tr><word>n
+город-сад</word></ar><ar><origin>garden_hose</origin><tr>[ˊgɑ:dnhəυz]</tr><word>n
+садовый шланг</word></ar><ar><origin>garden_party</origin><tr>[ˊgɑ:dnˏpɑ:tɪ]</tr><word>n
+приём (гостей в саду)</word></ar><ar><origin>garden_truck</origin><tr>[ˏgɑ:dnˊtrʌk]</tr><word>n
+амер. овощи и фрукты, выращиваемые для продажи</word></ar><ar><origin>garotte</origin><tr>[gəˊrɒt]</tr><word>= garrotte</word></ar><ar><origin>gar%C3%A7on</origin><tr></tr><word>фр. n официант, гарсон</word></ar><ar><origin>gas_attack</origin><tr>[ˊgæsəˏtæk]</tr><word>n
+химическое нападение</word></ar><ar><origin>gas_chamber</origin><tr>[ˊgæsˏtʃeɪmbə]</tr><word>n
+газовая камера, душегубка</word></ar><ar><origin>gas_fire</origin><tr>[ˏgæsˊfa(ɪ)ə]</tr><word>n
+газовая плита</word></ar><ar><origin>gas_fitter</origin><tr>[ˊgæsˏfɪtə]</tr><word>n
+газопроводчик, слесарь-газовщик</word></ar><ar><origin>gas_furnace</origin><tr>[ˊgæsˏfɜ:nɪs]</tr><word>n
+газовая печь</word></ar><ar><origin>gas_jet</origin><tr>[ˊgæsdʒet]</tr><word>n
+газовый рожок, горелка</word></ar><ar><origin>gas_mask</origin><tr>[ˊgæsmɑ:sk]</tr><word>n
+противогаз</word></ar><ar><origin>gas_meter</origin><tr>[ˊgæsˏmi:tə]</tr><word>n
+газовый счётчик</word></ar><ar><origin>gas_producer</origin><tr>[ˊgæsprəˏdju:sə]</tr><word>n
+газогенератор</word></ar><ar><origin>gas_ring</origin><tr>[ˊgæsrɪŋ]</tr><word>n
+газовое кольцо, горелка</word></ar><ar><origin>gas_shell</origin><tr>[ˊgæsʃel]</tr><word>n
+химический снаряд</word></ar><ar><origin>gas_shelter</origin><tr>[ˊgæsˏʃeltə]</tr><word>n
+газоубежище</word></ar><ar><origin>gas_station</origin><tr>[ˊgæsˏsteɪʃn]</tr><word>n
+амер. автозаправочная станция; бензоколонка</word></ar><ar><origin>gas_stove</origin><tr>[ˊgæsstəυv]</tr><word>n
+газовая плита</word></ar><ar><origin>gas_warfare</origin><tr>[ˊgæsˏwɔ:feə]</tr><word>n
+химическая война</word></ar><ar><origin>gasalarm</origin><tr>[ˏgæsəˊlɑ:m]</tr><word>n
+химическая тревога</word></ar><ar><origin>gasbag</origin><tr>[ˊgæsbæg]</tr><word>n
+1) газовый баллон
+2) разг. болтун; пустозвон</word></ar><ar><origin>gasbomb</origin><tr>[ˊgæsbɒm]</tr><word>n
+химическая бомба</word></ar><ar><origin>Gascon</origin><tr>[ˊgæskən]</tr><word>n
+1) гасконец
+2) (g.) хвастун</word></ar><ar><origin>gasholder</origin><tr>[ˊgæsˏhəυldə]</tr><word>n
+газгольдер, газохранилище</word></ar><ar><origin>gaskin</origin><tr>[ˊgæskɪn]</tr><word>n
+голень лошади</word></ar><ar><origin>gasman</origin><tr>[ˊgæsmæn]</tr><word>n
+1) инкассатор по счетам за газ
+2) = gas fitter</word></ar><ar><origin>gasolier</origin><tr>[ˏgæsəˊlɪə]</tr><word>n
+газовая люстра</word></ar><ar><origin>gasser</origin><tr>[ˊgæsə]</tr><word>n
+1) разг. болтун, пустомеля
+2) = gas 1, 7)</word></ar><ar><origin>gastropod</origin><tr>[ˊgæstrəˏpɒd]</tr><word>n
+зоол. моллюск из семейства брюхоногих</word></ar><ar><origin>gastroscopy</origin><tr>[gæˊstrɒskəpɪ]</tr><word>n
+мед. гастроскопия</word></ar><ar><origin>gasworks</origin><tr>[ˊgæswɜ:ks]</tr><word>n
+газовый завод</word></ar><ar><origin>gatecrash</origin><tr>[ˊgeɪtkræʃ]</tr><word>v
+1) приходить незваным
+2) проходить без билета, «зайцем»
+3) проникнуть на внешний рынок</word></ar><ar><origin>gatecrasher</origin><tr>[ˊgeɪtˏkræʃə]</tr><word>n
+1) незваный гость
+2) «заяц», безбилетный зритель</word></ar><ar><origin>gatefold</origin><tr>[ˊgeɪtfəυld]</tr><word>n
+длинная страница (складывается гармошкой)</word></ar><ar><origin>gatekeeper</origin><tr>[ˊgeɪtˏki:pə]</tr><word>n
+привратник, сторож</word></ar><ar><origin>gateleg</origin><tr>[ˊgeɪtleg]</tr><word>a:
+gateleg table стол с раздвижными ножками и откидной крышкой</word></ar><ar><origin>gateman</origin><tr>[ˊgeɪtmən]</tr><word>= gatekeeper</word></ar><ar><origin>gatepost</origin><tr>[ˊgeɪtpəυst]</tr><word>n
+воротный столб
+◊ between you and me and the gatepost между нами</word></ar><ar><origin>gaucherie</origin><tr>[ˊgəυʃǝrɪ]</tr><word>n
+1) неуклюжесть (в манерах и поведении)
+2) бестактность</word></ar><ar><origin>gaucho</origin><tr>[ˊgaυtʃəυ]</tr><word>n
+гаучо</word></ar><ar><origin>Gaul</origin><tr>[gɔ:l]</tr><word>n
+1) галл
+2) шутл. француз</word></ar><ar><origin>Gauleiter</origin><tr>[ˊgəυˏlaɪtə]</tr><word>n
+гаулейтер (в фашистской Германии)</word></ar><ar><origin>Gaulish</origin><tr></tr><word>1. a
+1) галльский
+2) шутл. французский
+2. n
+1) галльский язык
+2) шутл. французский язык</word></ar><ar><origin>gault</origin><tr>[gɔ:lt]</tr><word>n
+геол. тяжёлая глина</word></ar><ar><origin>gave</origin><tr>[geɪv]</tr><word>past от give 1</word></ar><ar><origin>gazpacho</origin><tr>[gæzˊpætʃəʋ]</tr><word>n
+исп. гаспачо (холодный овощной суп)</word></ar><ar><origin>gear_level</origin><tr>[ˊgɪəˏlevl]</tr><word>n
+тех. рычаг или ручка переключения передач</word></ar><ar><origin>gear_wheel</origin><tr>[ˊgɪəwi:l]</tr><word>n
+зубчатое колесо</word></ar><ar><origin>gearbox</origin><tr>[ˊgɪəbɒks]</tr><word>n
+тех. коробка передач; коробка скоростей</word></ar><ar><origin>gee_whiz</origin><tr>[ˊdʒi:wɪz]</tr><word>int = gee Ⅱ, 2)</word></ar><ar><origin>geese</origin><tr>[gi:s]</tr><word>pl от goose Ⅰ</word></ar><ar><origin>Gehenna</origin><tr>[gɪˊhenə]</tr><word>n
+геенна, ад</word></ar><ar><origin>Geiger_counter</origin><tr>[ˊgaɪgəˏkaυntə]</tr><word>n
+физ. счётчик Гейгера</word></ar><ar><origin>gelly</origin><tr></tr><word>разг. = gelignite</word></ar><ar><origin>gelt</origin><tr>[gelt]</tr><word>past и p. p. от geld</word></ar><ar><origin>Gemini</origin><tr>[ˊdʒemɪnaɪ]</tr><word>n pl
+Близнецы (созвездие и знак зодиака)</word></ar><ar><origin>gemmae</origin><tr>[ˊdʒemi:]</tr><word>pl от gemma</word></ar><ar><origin>gemmule</origin><tr>[ˊdʒemju:l]</tr><word>n
+бот. почечка, мелкая почка</word></ar><ar><origin>gemstone</origin><tr>[ˊdʒemˏstəυn]</tr><word>n
+поделочный камень</word></ar><ar><origin>genealogist</origin><tr>[ˏdʒi:nɪˊælədʒɪst]</tr><word>n
+специалист по генеалогии</word></ar><ar><origin>genera</origin><tr>[ˊdʒenǝrə]</tr><word>pl от genus</word></ar><ar><origin>general_practitioner</origin><tr>[ˏdʒenərəlprækˊtɪʃənnmnnə]</tr><word>n
+врач общей практики, терапевт</word></ar><ar><origin>general_store</origin><tr>[ˊdʒenərəlˏstɔ:]</tr><word>n
+амер. универсальный магазин</word></ar><ar><origin>General-in-Chief</origin><tr>[ˏdʒenrǝlɪnˊtʃi:f]</tr><word>n (pl Generals-in-Chief)
+главнокомандующий</word></ar><ar><origin>general-purpose</origin><tr>[ˏdʒenrǝlˊpɜ:pəs]</tr><word>a
+универсальный, многоцелевой, общего назначения</word></ar><ar><origin>generalist</origin><tr>[ˊdʒenrǝlɪst]</tr><word>n
+эрудит, человек обширных знаний</word></ar><ar><origin>Generals-in_Chief</origin><tr>[ˏdʒenrǝlzɪnˊtʃi:f]</tr><word>pl от General-in-Chief</word></ar><ar><origin>Generation_X</origin><tr>[ˏdʒenərəɪʃənˊeks]</tr><word>n
+группа людей поколения 1960—70-х гг., высокообразованных и не до конца востребованных</word></ar><ar><origin>generatrices</origin><tr>[ˏdʒenəˊreɪtrɪsi:z]</tr><word>pl от generatrix</word></ar><ar><origin>genetic_engineering</origin><tr>[dʒɪˏnetɪkˏendʒɪˊnɪrɪŋ]</tr><word>n
+биол. генная инженерия</word></ar><ar><origin>Genevan</origin><tr></tr><word>1. a женевский
+2. n
+1) женевец
+2) кальвинист; кальвинистка</word></ar><ar><origin>genii</origin><tr>[ˊdʒi:nɪaɪ]</tr><word>pl от genius 3)
+Ⅱ
+genii [ˊdʒi:nɪaɪ] pl от genie</word></ar><ar><origin>genitalia</origin><tr>[ˏdʒenɪˊteɪlɪə]</tr><word>= genital 2</word></ar><ar><origin>Genoese</origin><tr></tr><word>1. a генуэзский
+2. n генуэзец</word></ar><ar><origin>genome</origin><tr>[ˊdʒi:ˏnəυm]</tr><word>n
+биол. геном</word></ar><ar><origin>gentlefolk</origin><tr>[ˊdʒentlfəυk(s)]</tr><word>n pl
+книжн. дворянство, знать</word></ar><ar><origin>geodesic</origin><tr>[ˏdʒɪəʋˊdesɪk]</tr><word>a
+геодезический</word></ar><ar><origin>geometric</origin><tr>[ˏdʒi:əˊmetrɪk(l)]</tr><word>a
+геометрический;
+geometric(al) progression геометрическая прогрессия</word></ar><ar><origin>George</origin><tr>[dʒɔ:dʒ]</tr><word>n
+ав. жарг. автопилот
+◊ by George ! ей-богу!, честное слово; вот так так!</word></ar><ar><origin>Georgian</origin><tr>[ˊdʒɔ:dʒǝn]</tr><word>1. a грузинский
+2. n
+1) грузин; грузинка;
+the Georgians pl собир. грузины
+2) грузинский язык
+Ⅱ
+Georgian [ˊdʒɔ:dʒǝn]
+амер.
+1. a относящийся к штату Джорджия
+2. n уроженец штата Джорджия
+Ⅲ
+Georgian [ˊdʒɔ:dʒǝn] a
+времени, эпохи одного из английских королей Георгов</word></ar><ar><origin>geoscience</origin><tr>[ˏdʒi:əυˊsa(ɪ)əns]</tr><word>n
+наука о Земле (геология, география и т.п.)</word></ar><ar><origin>geostationary</origin><tr>[ˏdʒi:əʋˊsteɪʃnǝrɪ]</tr><word>a
+геостационарный</word></ar><ar><origin>geothermal</origin><tr>[ˏdʒi:əʋˊθɜ:ml]</tr><word>a
+геотермальный</word></ar><ar><origin>gerbil</origin><tr>[ˊdʒɜ:bl]</tr><word>n
+зоол. песчаная крыса, песчанка</word></ar><ar><origin>geriatric</origin><tr>[ˏdʒerɪˊætrɪk]</tr><word>a
+1) гериатрический
+2) разг. старый, устарелый</word></ar><ar><origin>geriatrician</origin><tr>[ˏdʒerɪəˊtrɪʃn]</tr><word>n
+(врач-)гериатр</word></ar><ar><origin>German</origin><tr></tr><word>1. a германский, немецкий
+◊ German Ocean уст. Северное море
+2. n
+1) немец; немка;
+the Germans pl собир. немцы
+2) немецкий язык;
+High (Low) German верхненемецкий (нижненемецкий) язык</word></ar><ar><origin>German_measles</origin><tr>[ˏdʒɜ:mənˊmi:zlz]</tr><word>n
+(коревая) краснуха</word></ar><ar><origin>German_shepherd</origin><tr>[ˏdʒɜ:mənˊʃepəd]</tr><word>n
+немецкая овчарка</word></ar><ar><origin>Germanic</origin><tr></tr><word>1. a
+1) ист. германский
+2) тевтонский
+2. n лингв. германский праязык; общегерманский язык</word></ar><ar><origin>Germanism</origin><tr>[ˊdʒɜ:mənɪzǝm]</tr><word>n
+1) лингв. немецкий оборот, германизм
+2) германофильство</word></ar><ar><origin>Germanize</origin><tr>[ˊdʒɜ:mənaɪz]</tr><word>v
+германизировать, онемечивать</word></ar><ar><origin>germen</origin><tr>[ˊdʒɜ:mən]</tr><word>n
+биол. зачаток, зародыш, росток</word></ar><ar><origin>germicidal</origin><tr>[ˏdʒɜ:mɪˊsaɪdl]</tr><word>a
+гермицидный, бактерицидный</word></ar><ar><origin>Gerry</origin><tr>[ˊdʒerɪ]</tr><word>= Jerry</word></ar><ar><origin>gestalt</origin><tr>[gəˊʃtælt]</tr><word>n
+1) целое, отличающееся от суммы его составляющих
+2) психол. целостное восприятие объекта</word></ar><ar><origin>gestapo</origin><tr>[geˊstɑ:pəυ]</tr><word>n
+гестапо</word></ar><ar><origin>gestate</origin><tr>[dʒeˊsteɪt]</tr><word>v
+1) быть беременной
+2) вынашивать (планы и т.п.)</word></ar><ar><origin>get_together</origin><tr>[ˊgettəˏgeðə]</tr><word>n
+1) встреча, сбор, совещание, сборище, собрание
+2) вечеринка</word></ar><ar><origin>get-up-and-go</origin><tr>[ˏgetʌpǝnˊgəʋ]</tr><word>n
+разг. энергия</word></ar><ar><origin>get-well_card</origin><tr>[getˊwelˏkɑ:d]</tr><word>n
+открытка с пожеланием скорейшего выздоровления</word></ar><ar><origin>getup</origin><tr>[ˊgetʌp]</tr><word>n
+разг.
+1) устройство, общая структура
+2) манера одеваться; стиль
+3) одежда, обмундирование
+4) оформление (книги)
+5) постановка (пьесы)
+6) амер. энергия, предприимчивость</word></ar><ar><origin>ghost_town</origin><tr>[ˊgəυsttaυn]</tr><word>n
+город-призрак; город, некогда процветающий, но оставленный жителями</word></ar><ar><origin>GI</origin><tr>[ˏdʒi:ˊaɪ]</tr><word>(сокр. от government issue)
+амер.
+1. n солдат
+◊ GI bride разг. невеста или жена американского солдата из другой страны
+2. a
+1) казённый, военного образца
+2) армейский</word></ar><ar><origin>gift_shop</origin><tr>[ˊgɪftʃɒp]</tr><word>n
+магазин сувениров</word></ar><ar><origin>gigabyte</origin><tr>[ˊgɪgəbaɪt]</tr><word>n
+информ. гигабайт</word></ar><ar><origin>gigantism</origin><tr>[ˊdʒaɪgænˏtɪzǝm]</tr><word>n
+1) гигантский рост
+2) мед. гигантизм</word></ar><ar><origin>gigot</origin><tr>[ˊdʒɪgət]</tr><word>n
+1) баранья нога
+2) attr.:
+gigot sleeve узкий ниже локтя рукав со сборками у плеча</word></ar><ar><origin>gimcrack</origin><tr></tr><word>1. n мишура; дешёвое украшение
+2. a мишурный; дешёвый, безвкусный</word></ar><ar><origin>gin_mill</origin><tr>[ˊdʒɪnmɪl]</tr><word>n
+амер. разг. бар (с алкогольными напитками)</word></ar><ar><origin>ginger_ale</origin><tr>[ˏdʒɪndʒəˊeɪl]</tr><word>n
+имбирный эль, имбирное ситро</word></ar><ar><origin>ginger_beer</origin><tr>[ˏdʒɪndʒəˊbɪə]</tr><word>n
+имбирное пиво</word></ar><ar><origin>ginger_snap</origin><tr>[ˊdʒɪndʒəsnæp]</tr><word>n
+имбирное печенье</word></ar><ar><origin>Gipsy</origin><tr></tr><word>1. n
+1) цыган; цыганка
+2) цыганский язык
+2. a цыганский
+3. v (g.)
+1) вести бродячий, кочевой образ жизни
+2) устраивать пикник</word></ar><ar><origin>gipsy_moth</origin><tr>[ˊdʒɪpsɪmɒθ]</tr><word>n
+зоол. непарный шелкопряд</word></ar><ar><origin>girlfriend</origin><tr>[ˊgɜ:lfrend]</tr><word>n
+1) подруга, подружка
+2) любимая девушка</word></ar><ar><origin>Girondist</origin><tr>[dʒɪˊrɒndɪst]</tr><word>n
+ист. жирондист</word></ar><ar><origin>giveaway</origin><tr></tr><word>1. n разг.
+1) (ненамеренное) разоблачение тайны или предательство
+2) проданное дёшево или отданное даром; амер. распродажа (по сниженным ценам)
+2. a
+1) низкий (о цене);
+at a giveaway price почти даром
+2):
+a giveaway show рекламная радио- или телевикторина с выдачей призов</word></ar><ar><origin>glaciate</origin><tr>[ˊgleɪsɪeɪt]</tr><word>v
+1) замораживать;
+glaciated подвергшийся действию ледников
+2) наводить матовую поверхность</word></ar><ar><origin>glaciology</origin><tr>[ˏglæsɪˊɒlədʒɪ]</tr><word>n
+гляциология</word></ar><ar><origin>glac%C3%A9</origin><tr>[ˊglæseɪ]</tr><word>a
+1) глазированный; засахаренный
+2) гладкий, сатинированный</word></ar><ar><origin>glad_rags</origin><tr>[ˊglædˏrægz]</tr><word>n
+разг. праздничное, выходное платье; вечернее платье</word></ar><ar><origin>gladioli</origin><tr>[ˏglædɪˊəυlaɪ]</tr><word>pl от gladiolus</word></ar><ar><origin>Gladstone</origin><tr>[ˊglædstǝn]</tr><word>n
+кожаный саквояж (тж. Gladstone bag)</word></ar><ar><origin>glass_wool</origin><tr>[ˊglɑ:swυl]</tr><word>n
+тех. стеклянная вата</word></ar><ar><origin>glassblower</origin><tr>[ˊglɑ:sˏbləυə]</tr><word>n
+стеклодув</word></ar><ar><origin>glassblowing</origin><tr>[ˊglɑ:sˏbləυɪŋ]</tr><word>n
+стеклодувное дело; выдувка стекла</word></ar><ar><origin>glasscutter</origin><tr>[ˊglɑ:sˏkʌtə]</tr><word>n
+1) стекольщик
+2) алмаз (для резки стекла)</word></ar><ar><origin>glasshouse</origin><tr>[ˊglɑ:shaυs]</tr><word>n
+1) теплица, оранжерея
+2) сл. военная тюрьма
+3) стекольный завод
+4) фотоателье (со стеклянной крышей)
+5) attr. тепличный;
+glasshouse culture тепличная культура</word></ar><ar><origin>glasspaper</origin><tr>[ˊglɑ:sˏpeɪpə]</tr><word>n
+наждачная бумага, шкурка</word></ar><ar><origin>glassware</origin><tr>[ˊglɑ:sweə]</tr><word>n
+стеклянная посуда; изделия из стекла</word></ar><ar><origin>glasswork</origin><tr>[ˊglɑ:swɜ:k]</tr><word>n
+1) стекольное производство
+2) стекло (изделия)
+3) вставка стёкол</word></ar><ar><origin>glassworks</origin><tr>[ˊglɑ:swɜ:ks]</tr><word>n
+стекольный завод</word></ar><ar><origin>Glaswegian</origin><tr></tr><word>1. a относящийся к г. Глазго
+2. n уроженец г. Глазго</word></ar><ar><origin>Glauber_s_salt</origin><tr>[ˏglaυbəzˊsɔ:lt(s)]</tr><word>n
+хим. глауберова соль, сернокислый натрий</word></ar><ar><origin>Glauber_s_salts</origin><tr>[ˏglaυbəzˊsɔ:lt(s)]</tr><word>n
+хим. глауберова соль, сернокислый натрий</word></ar><ar><origin>glazing</origin><tr>[ˊgleɪzɪŋ]</tr><word>n
+1) вставка стёкол
+2) глазурование, глазуровка (керамики, посуды и т.п.)
+3) глазурь
+4) жив. лессировка</word></ar><ar><origin>glissando</origin><tr>[glɪˊsændəυ]</tr><word>n
+муз. глиссандо</word></ar><ar><origin>globalisation</origin><tr>[ˏgləυblaɪˊzeɪʃn]</tr><word>n
+распространение или применение в глобальном масштабе</word></ar><ar><origin>globeflower</origin><tr>[ˊgləυbˏflaʋə]</tr><word>n
+бот. купальница</word></ar><ar><origin>globetrotter</origin><tr>[ˊgləυbˏtrɒtə]</tr><word>n
+человек, много путешествующий по свету</word></ar><ar><origin>glom</origin><tr>[glɒm]</tr><word>v
+амер. сл. красть, переть, тибрить</word></ar><ar><origin>glomerulus</origin><tr>[glɒˊmerjυləs]</tr><word>n (pl -li [-laɪ])
+анат. клубочек</word></ar><ar><origin>Gloria</origin><tr>[ˊglɔ:rɪə]</tr><word>n
+1) Слава в вышних Богу (молитва)
+2) (g.) нимб, сияние
+3)(g.) ткань «глория» для зонтов</word></ar><ar><origin>glottal</origin><tr>[ˊglɒtl]</tr><word>a
+1) анат. относящийся к голосовой щели
+2) фон. образованный в голосовой щели</word></ar><ar><origin>glottal_stop</origin><tr>[ˏglɒtlˊstɒp]</tr><word>n
+фон. твёрдый приступ</word></ar><ar><origin>Gloucester</origin><tr>[ˊglɒstə]</tr><word>n
+глостерский сыр</word></ar><ar><origin>glove_compartment</origin><tr>[ˊglʌvkəmˏpɑ:tmənt]</tr><word>n
+авто отделение для мелких вещей; разг. «бардачок»</word></ar><ar><origin>glowworm</origin><tr>[ˊgləυwɜ:m]</tr><word>n
+жук-светляк</word></ar><ar><origin>glycogen</origin><tr>[ˊglaɪkədʒǝn]</tr><word>n
+биол. гликоген</word></ar><ar><origin>glyph</origin><tr>[glɪf]</tr><word>n
+1) архит. глиф
+2) рельефно вырезанная фигура или символический знак</word></ar><ar><origin>gnosis</origin><tr>[ˊnəυsɪs]</tr><word>n
+филос. гнозис, тайное познание божественной истины, доступное только посвящённым</word></ar><ar><origin>goaltender</origin><tr></tr><word>амер. = goalkeeper</word></ar><ar><origin>Gobelin</origin><tr></tr><word>1. n гобелен
+2. a гобеленовый;
+gobelin tapestry гобелен</word></ar><ar><origin>God_s_acre</origin><tr>[ˊgɒdzˏeɪkə]</tr><word>n
+кладбище</word></ar><ar><origin>goddam</origin><tr></tr><word>1. n проклятие
+2. v проклинать, посылать к чёрту</word></ar><ar><origin>goddamned</origin><tr></tr><word>1. a проклятый
+2. adv чертовски</word></ar><ar><origin>goggle_box</origin><tr>[ˊgɒglbɒks]</tr><word>n
+разг. шутл. телевизор</word></ar><ar><origin>gold_digger</origin><tr>[ˊgəυldˏdɪgə]</tr><word>n
+1) золотоискатель
+2) разг. авантюристка, вымогательница</word></ar><ar><origin>gold_dust</origin><tr>[ˊgəυlddʌst]</tr><word>n
+золотоносный песок</word></ar><ar><origin>gold_fever</origin><tr>[ˊgəυldˏfi:və]</tr><word>n
+золотая лихорадка</word></ar><ar><origin>gold_leaf</origin><tr>[ˊgəυldli:f]</tr><word>n
+1) сусальное золото
+2) золотая фольга</word></ar><ar><origin>gold_mine</origin><tr>[ˊgəυldmaɪn]</tr><word>n
+1) золотой рудник, прииск
+2) разг. «золотое дно», источник обогащения</word></ar><ar><origin>gold_rush</origin><tr>[ˊgəυldrʌʃ]</tr><word>= gold fever</word></ar><ar><origin>goldbeater</origin><tr>[ˊgəυldˏbi:tə]</tr><word>n
+золотобит</word></ar><ar><origin>goldbrick</origin><tr>[ˊgəυldbrɪk]</tr><word>n
+разг. что-л. нестоящее, выдаваемое за ценность
+◊ to sell a goldbrick надуть, обмануть</word></ar><ar><origin>golden_handshake</origin><tr>[ˏgəυldǝnˊhændʃeɪk]</tr><word>n
+крупное денежное пособие, которое компания выплачивает своему сотруднику, уходящему на пенсию</word></ar><ar><origin>golden_mean</origin><tr>[ˏgəυldǝnˊmi:n]</tr><word>n
+золотая середина</word></ar><ar><origin>golden_rule</origin><tr>[ˏgəυldǝnˊru:l]</tr><word>n
+«золотое правило» (заключающееся в том, что человек должен поступать с другим так, как он хотел бы, чтобы поступали с ним)</word></ar><ar><origin>golden_syrup</origin><tr>[ˏgəυldǝnˊsɪrəp]</tr><word>n
+светлая патока</word></ar><ar><origin>goldfield</origin><tr>[ˊgəυldfi:ld]</tr><word>n
+золотой прииск</word></ar><ar><origin>golf_club</origin><tr>[ˊgɒlfklʌb]</tr><word>n
+1) клюшка для игры в гольф
+2) гольф-клуб</word></ar><ar><origin>golf_course</origin><tr>[ˊgɒlfkɔ:s]</tr><word>n
+площадка для игры в гольф</word></ar><ar><origin>golf_links</origin><tr>[ˊgɒlflɪŋks]</tr><word>n (употр. как sing)
+площадка для игры в гольф (обыкн. у моря)</word></ar><ar><origin>Golgotha</origin><tr>[ˊgɒlgəθə]</tr><word>n
+1) библ. Голгофа
+2) место мучений, источник страданий</word></ar><ar><origin>Goliath</origin><tr>[gəˊla(ɪ)əθ]</tr><word>n
+библ. Голиаф; перен. тж. гигант</word></ar><ar><origin>gollop</origin><tr>[ˊgɒləp]</tr><word>v
+разг. быстро и жадно глотать, заглатывать</word></ar><ar><origin>gombeen-man</origin><tr></tr><word>ирл. n ростовщик</word></ar><ar><origin>gonad</origin><tr>[ˊgəυnæd]</tr><word>n
+анат. яичник; яичко</word></ar><ar><origin>gonorrhea</origin><tr>[ˏgɒnəˊri:ə]</tr><word>n
+мед. гонорея</word></ar><ar><origin>good_looks</origin><tr>[ˏgʋdˊlʋks]</tr><word>n pl
+привлекательность;
+to keep one's good looks сохранять привлекательность</word></ar><ar><origin>good_sense</origin><tr>[ˏgυdˊsens]</tr><word>n
+здравый смысл</word></ar><ar><origin>goodbye</origin><tr>[ˏgυdˊbaɪ]</tr><word>прощание
+2. int до свидания!; прощайте!</word></ar><ar><origin>goods_shed</origin><tr>[ˊgυdzʃed]</tr><word>n
+пакгауз</word></ar><ar><origin>goods_yard</origin><tr>[ˊgυdzjɑ:d]</tr><word>n
+склад (для открытого хранения)</word></ar><ar><origin>goodwill</origin><tr>[ˏgυdˊwɪl]</tr><word>n
+1) доброжелательность; расположение (to, towards — к)
+2) добрая воля
+3) ком. ценность фирмы, определяющаяся её клиентурой, репутацией и т.п.; престиж фирмы
+4) рвение, готовность сделать что-л.</word></ar><ar><origin>goose_egg</origin><tr>[ˊgu:seg]</tr><word>n
+1) гусиное яйцо
+2) нуль (в играх)</word></ar><ar><origin>goose_fat</origin><tr>[ˊgu:sfæt]</tr><word>n
+гусиный жир, гусиное сало</word></ar><ar><origin>goose_grass</origin><tr>[ˊgu:sgrɑ:s]</tr><word>n
+бот. подорожник (большой)</word></ar><ar><origin>goose_grease</origin><tr>[ˊgu:sgri:z]</tr><word>n
+гусиный жир</word></ar><ar><origin>goose_step</origin><tr>[ˊgu:sstep]</tr><word>n
+воен. гусиный шаг</word></ar><ar><origin>gooseflesh</origin><tr>[ˊgu:sfleʃ]</tr><word>n
+гусиная кожа (от холода, страха)</word></ar><ar><origin>gooseneck</origin><tr>[ˊgu:snek]</tr><word>n
+1) предмет, похожий на гусиную шею или изогнутый в виде буквы S
+2) тех. S-образное колено</word></ar><ar><origin>gorblimey</origin><tr>[gɔ:ˊblaɪmɪ]</tr><word>int
+разг. чёрт-те что!, надо же!; чтоб тебе (провалиться)!</word></ar><ar><origin>Gordian_knot</origin><tr>[ˏgɔ:dɪənˊnɒt]</tr><word>n
+гордиев узел</word></ar><ar><origin>Gorgon</origin><tr>[ˊgɔ:gǝn]</tr><word>n
+1) миф. Горгона, Медуза
+2) (g.) мегера, страшилище</word></ar><ar><origin>Gorgonzola</origin><tr>[ˏgɔ:gǝnˊzəυlə]</tr><word>n
+горгонзола (сорт острого овечьего сыра)</word></ar><ar><origin>gorse</origin><tr>[gɔ:s]</tr><word>n
+бот. утёсник обыкновенный</word></ar><ar><origin>got</origin><tr>[gɒt]</tr><word>past и p. p.
+от get 1</word></ar><ar><origin>Goth</origin><tr>[gɒθ]</tr><word>n
+1) ист. гот
+2) варвар, вандал</word></ar><ar><origin>Gotham</origin><tr>[ˊgəυtəm]</tr><word>n:
+a man of Gotham, a wise man of Gotham простак, дурак</word></ar><ar><origin>Gothic</origin><tr></tr><word>1. a
+1) готский
+2) готический (о стиле)
+3) варварский, грубый, жестокий
+4) полигр. готический (о шрифте)
+2. n
+1) готский язык
+2) готический стиль
+3) полигр. готический шрифт</word></ar><ar><origin>gotten</origin><tr></tr><word>амер. p. p. от get 1</word></ar><ar><origin>Gouda</origin><tr>[ˊgaʋdə]</tr><word>n
+гауда (сорт голландского сыра)</word></ar><ar><origin>Government_house</origin><tr>[ˊgʌvnmənthaυs]</tr><word>n
+официальная резиденция губернатора</word></ar><ar><origin>Governor-General</origin><tr>[ˏgʌvnəˊdʒenrəl]</tr><word>n
+губернатор колонии или доминиона, генерал-губернатор</word></ar><ar><origin>gracile</origin><tr>[ˊgræsaɪl]</tr><word>a
+1) стройный, худой
+2) грациозный</word></ar><ar><origin>grade_crossing</origin><tr>[ˊgreɪdˏkrɒsɪŋ]</tr><word>n
+амер. пересечение железнодорожного пути с шоссе (на одном уровне или в одной плоскости)</word></ar><ar><origin>grade_school</origin><tr>[ˊgreɪdsku:l]</tr><word>n
+амер. начальная школа</word></ar><ar><origin>graduand</origin><tr>[ˊgrædʒυænd]</tr><word>n
+студент-выпускник</word></ar><ar><origin>graduate_school</origin><tr>[ˊgrædʒυətˏsku:l]</tr><word>n
+аспирантура</word></ar><ar><origin>graduate_student</origin><tr>[ˊgrædʒυətˏstju:dnt]</tr><word>n
+аспирант</word></ar><ar><origin>Graeco-Roman</origin><tr>[ˏgri:kəυˊrəυmən]</tr><word>a
+греко-римский;
+Graeco-Roman wrestling классическая борьба</word></ar><ar><origin>Grail</origin><tr>[greɪl]</tr><word>n:
+The (Holy) Grail миф. Грааль, чаша Грааля</word></ar><ar><origin>grain_alcohol</origin><tr>[ˊgreɪnˏælkəhɒl]</tr><word>n
+хлебный спирт</word></ar><ar><origin>grain_binder</origin><tr>[ˊgreɪnˏbaɪndə]</tr><word>n
+с.-х. сноповязалка</word></ar><ar><origin>grain_elevator</origin><tr>[ˊgreɪnˏelɪveɪtə]</tr><word>n
+с.-х. элеватор</word></ar><ar><origin>grain_grower</origin><tr>[ˊgreɪnˏgrəυə]</tr><word>n
+хлебороб</word></ar><ar><origin>grain_tank</origin><tr>[ˊgreɪntæŋk]</tr><word>n
+с.-х. бункер для зерна</word></ar><ar><origin>grammar_school</origin><tr>[ˊgræməsku:l]</tr><word>n
+1) классическая средняя школа
+2) амер. старшие классы средней школы</word></ar><ar><origin>Grand_Duchess</origin><tr>[ˏgrændˊdʌtʃɪs]</tr><word>n
+великая герцогиня; жена или вдова великого герцога</word></ar><ar><origin>Grand_Duke</origin><tr>[ˏgrændˊdju:k]</tr><word>n
+1) великий герцог
+2) великий князь</word></ar><ar><origin>grand_jury</origin><tr>[ˏgrændˊdʒυərɪ]</tr><word>n
+юр. большое жюри; присяжные, решающие вопрос о предании суду</word></ar><ar><origin>Grand_Master</origin><tr>[ˊgrændˏmɑ:stə]</tr><word>n
+шахм. гроссмейстер</word></ar><ar><origin>grand_opera</origin><tr>[ˏgrændˊɒprə]</tr><word>n
+большая опера (в отличие от комической оперы и оперетты)</word></ar><ar><origin>grand_piano</origin><tr>[ˏgrændˊpjænəυ]</tr><word>n
+рояль</word></ar><ar><origin>grand_prix</origin><tr>[ˏgrɒŋˊpri:]</tr><word>n
+большой приз, гран-при</word></ar><ar><origin>grand_slam</origin><tr>[ˏgrændˊslæm]</tr><word>n
+1) карт. большой шлем
+2) спорт. «Большой шлем» (победа спортсмена на основных соревнованиях по отдельному виду спорта в течение одного года)</word></ar><ar><origin>grandad</origin><tr>[ˊgrændæd]</tr><word>= granddad</word></ar><ar><origin>granddad</origin><tr>[ˊgrændæd]</tr><word>n
+разг. дедушка</word></ar><ar><origin>grandnephew</origin><tr>[ˊgrænˏnefju:]</tr><word>n
+внучатый племянник</word></ar><ar><origin>grandniece</origin><tr>[ˊgrænni:s]</tr><word>n
+внучатая племянница</word></ar><ar><origin>granola</origin><tr>[grəˊnəυlə]</tr><word>n
+гранола (подслащённая овсянка с добавлением орехов и изюма)</word></ar><ar><origin>granulated_sugar</origin><tr>[ˏgrænjυleɪtɪdˊʃυgə]</tr><word>n
+сахарный песок</word></ar><ar><origin>granulose</origin><tr>[ˊgrænjυləυs]</tr><word>a
+зернистый, гранулированный</word></ar><ar><origin>grape_sugar</origin><tr>[ˊgreɪpˏʃυgə]</tr><word>n
+виноградный сахар, глюкоза</word></ar><ar><origin>grapefruit</origin><tr>[ˊgreɪpfru:t]</tr><word>n (pl без измен.)
+грейпфрут</word></ar><ar><origin>grapeshot</origin><tr>[ˊgreɪpʃɒt]</tr><word>n
+воен. ист. крупная картечь</word></ar><ar><origin>grapevine</origin><tr>[ˊgreɪpvaɪn]</tr><word>n
+виноградная лоза
+Ⅱ
+grapevine [ˊgreɪpvaɪn] n
+разг.
+1) система сообщения с помощью сигналов; способ тайного сообщения (тж. grapevine telegraph)
+2) ложные слухи</word></ar><ar><origin>graphics</origin><tr>[ˊgræfɪks]</tr><word>n
+графика; иллюстративный материал в виде графиков</word></ar><ar><origin>grappling_iron</origin><tr>[ˊgræplɪŋˏa(ɪ)ən]</tr><word>= grapnel</word></ar><ar><origin>grass_roots</origin><tr>[ˏgrɑ:sˊru:ts]</tr><word>n pl
+1) простые люди, широкие массы
+2) основа, источник</word></ar><ar><origin>grass_snake</origin><tr>[ˊgrɑ:ssneɪk]</tr><word>n
+зоол. уж (обыкновенный)</word></ar><ar><origin>grass_widow</origin><tr>[ˏgrɑ:sˊwɪdəυ]</tr><word>n
+соломенная вдова</word></ar><ar><origin>graticule</origin><tr>[ˊgrætɪkju:l]</tr><word>n
+тех.
+1) масштабная сетка
+2) сетка координат (в картографии)</word></ar><ar><origin>gravamina</origin><tr>[grəˊveɪmɪnə]</tr><word>pl от gravamen</word></ar><ar><origin>graveclothes</origin><tr>[ˊgreɪvkləυðz]</tr><word>n pl
+саван</word></ar><ar><origin>gravedigger</origin><tr>[ˊgreɪvˏdɪgə]</tr><word>n
+могильщик, гробокопатель</word></ar><ar><origin>graven_image</origin><tr>[ˏgreɪvnˊɪmɪdʒ]</tr><word>n
+идол, кумир</word></ar><ar><origin>Graves_disease</origin><tr>[ˊgreɪvzdɪˏzi:z]</tr><word>n
+базедова болезнь</word></ar><ar><origin>graving_dock</origin><tr>[ˊgreɪvɪŋdɒk]</tr><word>n
+ремонтный док (сухой или плавучий)</word></ar><ar><origin>gravy_boat</origin><tr>[ˊgreɪvɪbəυt]</tr><word>n
+соусник</word></ar><ar><origin>graying</origin><tr></tr><word>амер. = greying</word></ar><ar><origin>grease_gun</origin><tr>[ˊgri:sgʌn]</tr><word>n
+шприц для густой смазки</word></ar><ar><origin>greasepaint</origin><tr>[ˊgri:speɪnt]</tr><word>n
+театр. грим</word></ar><ar><origin>greaseproof</origin><tr>[ˊgri:spru:f]</tr><word>a
+жиронепроницаемый</word></ar><ar><origin>great_circle</origin><tr>[ˏgreɪtˊsɜ:kl]</tr><word>n
+мат. большой круг</word></ar><ar><origin>Great_go</origin><tr>[ˏgreɪtˊgəυ]</tr><word>n
+уст. разг. выпускной экзамен на степень бакалавра (преим. гуманитарных наук в Кембридже)</word></ar><ar><origin>Great_War</origin><tr>[ˊgreɪtwɔ:]</tr><word>n
+первая мировая война 1914—18 гг.</word></ar><ar><origin>greathearted</origin><tr>[ˏgreɪtˊhɑ:tɪd]</tr><word>a
+великодушный</word></ar><ar><origin>Greats</origin><tr>[greɪts]</tr><word>n pl
+разг. выпускной экзамен на степень бакалавра искусств по классическим языкам и философии в Оксфорде</word></ar><ar><origin>Grecian</origin><tr></tr><word>1. a греческий (о стиле)
+2. n эллинист</word></ar><ar><origin>greedy-guts</origin><tr>[ˊgri:dɪgʌts]</tr><word>n
+разг. обжора</word></ar><ar><origin>Greek</origin><tr></tr><word>1. n
+1) грек; гречанка
+2) греческий язык
+◊ it is all Greek to me ≅ это для меня «китайская грамота»
+2. a греческий</word></ar><ar><origin>green_belt</origin><tr>[ˊgri:nbelt]</tr><word>n
+зелёная зона (вокруг города)</word></ar><ar><origin>green_card</origin><tr>[ˏgri:nˊkɑ:d]</tr><word>n
+«зелёная карточка», документ, выдаваемый живущим в США иностранцам</word></ar><ar><origin>green_cheese</origin><tr>[ˊgri:ntʃi:z]</tr><word>n
+1) молодой сыр
+2) зелёный сыр</word></ar><ar><origin>green_cloth</origin><tr>[ˊgri:nklɒθ]</tr><word>n
+1) зелёное сукно (на столе, бильярде)
+2) игорный стол
+◊ (Board of) G. C. гофмаршальская контора (при английском дворе)</word></ar><ar><origin>green_crop</origin><tr>[ˊgri:nkrɒp]</tr><word>n
+с.-х. кормовая культура</word></ar><ar><origin>green_fingers</origin><tr>[ˏgri:nˊfɪŋgəz]</tr><word>n pl
+садоводческое (цветоводческое) искусство</word></ar><ar><origin>green_goods</origin><tr>[ˊgri:ngυdz]</tr><word>n pl
+1) свежие овощи
+2) амер. фальшивые бумажные деньги</word></ar><ar><origin>green_light</origin><tr>[ˏgri:nˊlaɪt]</tr><word>n
+1) зелёный свет (светофора)
+2) разг. разрешение на беспрепятственное прохождение (работы, проекта и т.п.); «зелёная улица»</word></ar><ar><origin>green_linnet</origin><tr>[ˊgri:nˏlɪnɪt]</tr><word>= greenfinch</word></ar><ar><origin>green_manure</origin><tr>[ˏgri:nməˊnju:ə]</tr><word>n
+с.-х. зелёное удобрение</word></ar><ar><origin>green_revolution</origin><tr>[ˏgri:nrevəˊlu:ʃn]</tr><word>n
+«зелёная революция» (резкое увеличение производства зерновых в развивающихся странах)</word></ar><ar><origin>green_thumb</origin><tr></tr><word>амер. = green fingers</word></ar><ar><origin>green-fingered</origin><tr>[ˏgri:nˊfɪŋgəd]</tr><word>a
+искусный, умелый в обращении с растениями</word></ar><ar><origin>green-thumbed</origin><tr></tr><word>амер. = green-fingered</word></ar><ar><origin>greenfly</origin><tr>[ˊgri:nflaɪ]</tr><word>n
+зоол. тля</word></ar><ar><origin>greenroom</origin><tr>[ˊgri:nru:m]</tr><word>n
+артистическое фойе</word></ar><ar><origin>greenstuff</origin><tr>[ˊgri:nstʌf]</tr><word>n
+свежие овощи, огородная зелень</word></ar><ar><origin>Gregorian</origin><tr>[grɪˊgɔ:rɪən]</tr><word>a
+григорианский;
+Gregorian style новый стиль;
+Gregorian calendar григорианский календарь</word></ar><ar><origin>Gregory_s_powder</origin><tr>[ˊgregǝrɪzˏpaυdə]</tr><word>n
+ист. фарм. слабительное (из ревеня, имбиря и магнезии)</word></ar><ar><origin>greige</origin><tr>[greɪʒ]</tr><word>n
+сочетание цветов серого и беж</word></ar><ar><origin>Gretna-Green_marriage</origin><tr>[ˏgretnəgri:nˊmærɪdʒ]</tr><word>n
+брак между убежавшими любовниками без выполнения формальностей</word></ar><ar><origin>grew</origin><tr>[gru:]</tr><word>past от grow</word></ar><ar><origin>grey_friar</origin><tr>[ˊgreɪˏfra(ɪ)ə]</tr><word>n
+францисканец (монах)</word></ar><ar><origin>grey_matter</origin><tr>[ˊgreɪˏmætə]</tr><word>n
+1) серое вещество мозга
+2) разг. ум</word></ar><ar><origin>greyhen</origin><tr>[ˊgreɪhen]</tr><word>n
+тетёрка</word></ar><ar><origin>greying</origin><tr>[ˊgreɪɪŋ]</tr><word>n
+1) старение
+2) увеличение среднего возраста населения</word></ar><ar><origin>griddle_cake</origin><tr>[ˊgrɪdlkeɪk]</tr><word>n
+лепёшка, оладья</word></ar><ar><origin>griffon_vulture</origin><tr>[ˊgrɪfnˏvʌltʃə]</tr><word>= griffin 2)</word></ar><ar><origin>grillroom</origin><tr>[ˊgrɪlru:m]</tr><word>n
+гриль-бар, зал или ресторан, где мясо или рыба жарятся при посетителях</word></ar><ar><origin>grinding_machine</origin><tr>[ˊgraɪndɪŋməˏʃi:n]</tr><word>n
+шлифовальный станок</word></ar><ar><origin>gristmill</origin><tr>[ˊgrɪstmɪl]</tr><word>n
+мукомольная мельница</word></ar><ar><origin>grommet</origin><tr>[ˊgrɒmɪt]</tr><word>= grummet</word></ar><ar><origin>gross_ton</origin><tr>[ˏgrəυsˊtʌn]</tr><word>n
+длинная (или английская) тонна (= 1016,06 кг)</word></ar><ar><origin>ground_control</origin><tr>[ˊgraυndkənˏtrəυl]</tr><word>n
+управление с земли (ракетой и т.п.)</word></ar><ar><origin>ground_cover</origin><tr>[ˊgraυndˏkʌvə]</tr><word>n
+зелёное покрытие из стелющихся или ползучих растений (плющ, мирт и т.п.), используемое вместо травы</word></ar><ar><origin>ground_crew</origin><tr>[ˊgraυndkru:]</tr><word>n
+ав. аэродромная команда</word></ar><ar><origin>ground_floor</origin><tr>[ˏgraυndˊflɔ:]</tr><word>n
+нижний, цокольный этаж
+◊ to get (или to be let) in on the ground floor разг.
+а) получить акции на общих основаниях с учредителями;
+б) занять равное положение;
+в) оказаться в выигрышном положении</word></ar><ar><origin>ground_forces</origin><tr>[ˊgraυndˏfɔ:sɪz]</tr><word>n pl
+сухопутные войска</word></ar><ar><origin>ground_glass</origin><tr>[ˏgraυndˊglɑ:s]</tr><word>n
+матовое стекло</word></ar><ar><origin>ground_oak</origin><tr>[ˊgraυndəυk]</tr><word>n
+карликовый дуб</word></ar><ar><origin>ground_plan</origin><tr>[ˊgraυndplæn]</tr><word>n
+план первого этажа здания</word></ar><ar><origin>ground_rice</origin><tr>[ˊgraυndraɪs]</tr><word>n
+рис-сечка, дроблёный рис</word></ar><ar><origin>ground_rule</origin><tr>[ˊgraυndru:l]</tr><word>n
+основной принцип; главное правило</word></ar><ar><origin>ground_squirrel</origin><tr>[ˊgraυndˏskwɪrǝl]</tr><word>n
+зоол.
+1) бурундук
+2) суслик</word></ar><ar><origin>ground_swell</origin><tr>[ˊgraυndswel]</tr><word>n
+1) донные волны
+2) растущая общественная поддержка</word></ar><ar><origin>ground-to-air_guided_missile</origin><tr>[ˏgraυndtυˊeə(ˏgaɪdɪd)ˊmɪsaɪl]</tr><word>n
+воен. (управляемая) ракета класса «земля — воздух»</word></ar><ar><origin>ground-to-air_missile</origin><tr>[ˏgraυndtυˊeə(ˏgaɪdɪd)ˊmɪsaɪl]</tr><word>n
+воен. (управляемая) ракета класса «земля — воздух»</word></ar><ar><origin>ground-to-ground_guided_missile</origin><tr>[ˏgraυndtəˊgraυnd(ˏgaɪdɪd)ˊmɪsaɪl]</tr><word>n
+воен. (управляемая) ракета класса «земля — земля»</word></ar><ar><origin>ground-to-ground_missile</origin><tr>[ˏgraυndtəˊgraυnd(ˏgaɪdɪd)ˊmɪsaɪl]</tr><word>n
+воен. (управляемая) ракета класса «земля — земля»</word></ar><ar><origin>groundhog</origin><tr>[ˊgraυndhɒg]</tr><word>n
+сурок лесной американский</word></ar><ar><origin>groundnut</origin><tr>[ˊgraυndnʌt]</tr><word>n
+земляной орех, арахис</word></ar><ar><origin>groundsheet</origin><tr>[ˊgraυndʃi:t]</tr><word>n
+непромокаемая ткань, постилаемая на земле (напр., в палатке)</word></ar><ar><origin>groundwater</origin><tr>[ˊgraυndˏwɔ:tə]</tr><word>n
+почвенная, грунтовая вода; подпочвенные воды</word></ar><ar><origin>group_captain</origin><tr>[ˊgru:pˏkæptɪn]</tr><word>n
+полковник авиации (в Англии)</word></ar><ar><origin>group_therapy</origin><tr>[ˏgru:pˊθerəpɪ]</tr><word>n
+психол. групповая терапия</word></ar><ar><origin>growing_pains</origin><tr>[ˊgrəυɪŋpeɪnz]</tr><word>n pl
+1) боль в ногах у растущих детей, причина которой необъяснима
+2) болезнь роста</word></ar><ar><origin>growth_ring</origin><tr>[ˊgrəυθrɪŋ]</tr><word>n
+годичное кольцо (в древесине)</word></ar><ar><origin>Grub_street</origin><tr>[ˊgrʌbstri:t]</tr><word>n
+разг.
+1) журнальные компиляторы, писаки (от названия улицы в Лондоне, где в ⅩⅦ—ⅩⅧ вв. жили бедные литераторы)
+2) дешёвые компиляции (тж. Grub street writings)</word></ar><ar><origin>Grundyism</origin><tr>[ˊgrʌndɪˏɪzǝm]</tr><word>n
+условная мораль (по имени Mrs Grundy — персонаж пьесы Мортона (1798 г.), олицетворение общественного мнения в вопросах приличия;
+what will Mrs Grundy say? что скажут люди?)</word></ar><ar><origin>guard_dog</origin><tr>[ˊgɑ:ddɒg]</tr><word>n
+сторожевая собака</word></ar><ar><origin>guarded</origin><tr>[ˊgɑ:dɪd]</tr><word>a
+сдержанный, осторожный</word></ar><ar><origin>guardian_angel</origin><tr>[ˏgɑ:dɪənˊeɪndʒǝl]</tr><word>n
+ангел-хранитель, добрый гений</word></ar><ar><origin>guardrail</origin><tr>[ˊgɑ:dreɪl]</tr><word>n
+1) перила, поручень
+2) направляющий рельс</word></ar><ar><origin>Guatemalan</origin><tr></tr><word>1. n гватемалец; гватемалка
+2. a гватемальский</word></ar><ar><origin>guelder_rose</origin><tr>[ˊgeldərəυz]</tr><word>n
+бот. калина (обыкновенная)</word></ar><ar><origin>guerilla_tactics</origin><tr>[gəˊrɪləˏtæktɪks]</tr><word>n pl
+партизанщина</word></ar><ar><origin>Guernsey</origin><tr>[ˊgɜ:nzɪ]</tr><word>n
+1) гернзейская порода молочного скота
+2) (g.) шерстяная фуфайка (тж. Guernsey shirt)</word></ar><ar><origin>guesswork</origin><tr>[ˊgeswɜ:k]</tr><word>n
+догадки; предположения</word></ar><ar><origin>guestroom</origin><tr>[ˊgestru:m]</tr><word>n
+комната для гостей</word></ar><ar><origin>guide_dog</origin><tr>[ˊgaɪddɒg]</tr><word>n
+собака-поводырь</word></ar><ar><origin>guide_mark</origin><tr>[ˊgaɪdmɑ:k]</tr><word>n
+отметка, метка</word></ar><ar><origin>guide_rope</origin><tr>[ˊgaɪdrəυp]</tr><word>n
+ав. гайдроп</word></ar><ar><origin>guidebook</origin><tr>[ˊgaɪdbυk]</tr><word>n
+путеводитель</word></ar><ar><origin>guided_missile</origin><tr>[ˏgaɪdɪdˊmɪsaɪl]</tr><word>n
+управляемая ракета</word></ar><ar><origin>guided_tour</origin><tr>[ˏgaɪdɪdˊtυə]</tr><word>n
+экскурсия с гидом</word></ar><ar><origin>guideline</origin><tr>[ˊgaɪdlaɪn]</tr><word>n
+1) общий курс, генеральная линия
+2) директива, руководящие указания, установка</word></ar><ar><origin>guidepost</origin><tr>[ˊgaɪdpəυst]</tr><word>n
+указательный столб (на перекрёстке)</word></ar><ar><origin>Guildhall</origin><tr>[ˊgɪldhɔ:l]</tr><word>n
+1) (the Guildhall) ратуша (в Лондоне)
+2) (g.) ист. место собраний гильдии, цеха</word></ar><ar><origin>guinea_fowl</origin><tr>[ˊgɪnɪfaυl]</tr><word>n
+цесарка</word></ar><ar><origin>guinea_pig</origin><tr>[ˊgɪnɪpɪg]</tr><word>n
+1) морская свинка
+2) «подопытный кролик», человек, над которым производят научные опыты
+3) ист. шутл. адвокат, врач и т.п., получающий гонорар в гинеях</word></ar><ar><origin>guinea_worm</origin><tr>[ˊgɪnɪwɜ:m]</tr><word>n
+ришта (подкожный червь)</word></ar><ar><origin>Guinness</origin><tr>[ˊgɪnɪs]</tr><word>n
+сорт пива</word></ar><ar><origin>gum_arabic</origin><tr>[ˏgʌmˊærəbɪk]</tr><word>n
+гуммиарабик</word></ar><ar><origin>gum_elastic</origin><tr>[ˊgʌmɪˏlæstɪk]</tr><word>n
+резина, каучук</word></ar><ar><origin>gum_tree</origin><tr>[ˊgʌmtri:]</tr><word>n
+камеденосное дерево, особ. эвкалипт
+◊ up a gum tree в большом затруднении, в тупике</word></ar><ar><origin>gumboot</origin><tr>[ˊgʌmbu:t]</tr><word>n
+резиновый сапог</word></ar><ar><origin>gun_carriage</origin><tr>[ˊgʌnˏkærɪdʒ]</tr><word>n
+воен. лафет</word></ar><ar><origin>gun_cotton</origin><tr>[ˊgʌnˏkɒtn]</tr><word>n
+пироксилин</word></ar><ar><origin>gun_room</origin><tr>[ˊgʌnru:m]</tr><word>n
+1) комната, где хранятся охотничьи ружья
+2) кают-компания младших офицеров (на военных кораблях)</word></ar><ar><origin>gundog</origin><tr>[ˊgʌndɒg]</tr><word>n
+охотничья собака, наученная подбирать и приносить дичь</word></ar><ar><origin>gunfight</origin><tr>[ˊgʌnfaɪt]</tr><word>n
+драка с применением огнестрельного оружия (револьверов)</word></ar><ar><origin>gunfire</origin><tr>[ˊgʌnˏfaɪə]</tr><word>n
+орудийный огонь; артиллерийский огонь</word></ar><ar><origin>gung-ho</origin><tr>[ˏgʌŋˊhəυ]</tr><word>a
+разг. чрезмерно восторженный</word></ar><ar><origin>gunlayer</origin><tr>[ˊgʌnˏleɪə]</tr><word>n
+воен. (орудийный) наводчик</word></ar><ar><origin>gunlock</origin><tr>[ˊgʌnlɒk]</tr><word>n
+замок огнестрельного оружия</word></ar><ar><origin>gunmetal</origin><tr>[ˊgʌnˏmetl]</tr><word>n
+1) ист. пушечная бронза
+2) тёмно-серый цвет</word></ar><ar><origin>gunrunning</origin><tr>[ˊgʌnˏrʌnɪŋ]</tr><word>n
+незаконный ввоз оружия</word></ar><ar><origin>gunshy</origin><tr>[ˊgʌnʃaɪ]</tr><word>a
+пугающийся выстрелов (особ. об охотничьих собаках)</word></ar><ar><origin>Gurkha</origin><tr>[ˊgɜ:kə]</tr><word>n
+1) гурк (представитель народности, живущей в Непале)
+2) attr.:
+Gurkha regiments полки гуркских стрелков (в английской армии)</word></ar><ar><origin>gushy</origin><tr>[ˊgʌʃɪ]</tr><word>a
+обильный, чрезмерный; излишне сентиментальный</word></ar><ar><origin>gut</origin><tr></tr><word>1. n
+1) кишка; пищеварительный канал; pl кишки, внутренности;
+blind gut слепая кишка
+2) pl разг. мужество; выдержка, сила воли; характер;
+a man with plenty of guts сильный человек;
+there's no guts in him он немногого стоит
+3) pl ценная или существенная часть чего-л.
+4) струна или леса из кишки
+5) хир. кетгут
+6) узкий проход или пролив
+7) attr. инстинктивный, слепой
+8) attr. насущный
+2. v
+1) потрошить (дичь и т.п.)
+2) опустошать (о пожаре)
+3) схватывать суть (книги), бегло просматривая
+4) груб. жадно есть</word></ar><ar><origin>gutter_press</origin><tr>[ˊgʌtəpres]</tr><word>n
+бульварная пресса</word></ar><ar><origin>guttersnipe</origin><tr>[ˊgʌtəsnaɪp]</tr><word>n
+беспризорный ребёнок; уличный мальчишка</word></ar><ar><origin>gym_shoe</origin><tr>[ˊdʒɪmʃu:]</tr><word>n
+лёгкая спортивная обувь</word></ar><ar><origin>gymnasia</origin><tr>[dʒɪmˊneɪzɪə]</tr><word>pl от gymnasium 1)</word></ar><ar><origin>gymslip</origin><tr>[ˊdʒɪmslɪp]</tr><word>n
+платье-сарафан (часть школьной формы)</word></ar><ar><origin>Gypsy</origin><tr>[ˊdʒɪpsɪ]</tr><word>= Gipsy</word></ar><ar><origin>Gyrene</origin><tr>[dʒaɪˊri:n]</tr><word>n
+амер. воен. жарг. солдат морской пехоты</word></ar><ar><origin>gyrfalcon</origin><tr>[ˊdʒɜ:ˏfɔ:lkǝn]</tr><word>n
+зоол. (исландский) кречет</word></ar><ar><origin>gyro_8da</origin><tr>[ˊdʒaɪrəʋ-]</tr><word>pref
+гиро-, гироскопический</word></ar><ar><origin>gyrocompass</origin><tr>[ˊdʒaɪrəυˏkʌmpəs]</tr><word>n
+ав. гирокомпас</word></ar>

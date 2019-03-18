@@ -1,0 +1,146 @@
+<ar><origin>Z</origin><tr>[zed]</tr><word>n (pl Zs, Z's [zedz])
+1) последняя, 26-я буква англ. алфавита
+2) что-л., напоминающее по форме букву Z
+3) мат. зет, неизвестная величина</word></ar><ar><origin>Z-bar</origin><tr>[ˊzedbɑ:]</tr><word>n
+метал. зетовая сталь</word></ar><ar><origin>zany</origin><tr>[ˊzeɪnɪ]</tr><word>n
+1) сумасброд, дурак; фигляр
+2) уст. шут
+3) дзанни (слуга просцениума в итальянской комедии масок)</word></ar><ar><origin>zap</origin><tr></tr><word>разг.
+1. v
+1) убить, укокошить; нанести поражение
+2) разгонять(ся)
+3) амер. приготовить еду в микроволновой печи
+4) переключать телевизионные каналы при помощи пульта дистанционного управления
+2. n энергия; жизненная сила</word></ar><ar><origin>zapper</origin><tr>[ˊzæpə]</tr><word>n
+пульт дистанционного управления</word></ar><ar><origin>zariba</origin><tr>[zəˊri:bə]</tr><word>n
+колючая изгородь; палисад</word></ar><ar><origin>zeal</origin><tr>[zi:l]</tr><word>n
+рвение, усердие</word></ar><ar><origin>zealot</origin><tr>[ˊzelət]</tr><word>n
+фанатический приверженец; фанатик</word></ar><ar><origin>zealotry</origin><tr>[ˊzelətrɪ]</tr><word>n
+фанатизм</word></ar><ar><origin>zealous</origin><tr>[ˊzeləs]</tr><word>a
+1) рьяный, усердный
+2) жаждущий;
+to be zealous for smth. страстно желать чего-л.</word></ar><ar><origin>zebra</origin><tr>[ˊzebrə]</tr><word>n
+зоол. зебра</word></ar><ar><origin>zebu</origin><tr>[ˊzi:bu:]</tr><word>n
+зоол. зебу</word></ar><ar><origin>zed</origin><tr>[zed]</tr><word>n
+название буквы Z</word></ar><ar><origin>zee</origin><tr>[zi:]</tr><word>n
+амер. название буквы Z</word></ar><ar><origin>Zeitgeist</origin><tr></tr><word>нем. n дух времени</word></ar><ar><origin>Zen</origin><tr>[zen]</tr><word>n
+буддийская секта «дзэн» (в Японии), проповедующая созерцание и интуицию как основу прозрения</word></ar><ar><origin>zenana</origin><tr>[zeˊnɑ:nə]</tr><word>n
+женская половина дома (в Индии и Иране)</word></ar><ar><origin>Zend</origin><tr>[zend]</tr><word>n
+язык Авесты</word></ar><ar><origin>Zend-Avesta</origin><tr>[ˏzendəˊvestə]</tr><word>n
+лит. Зенд-Авеста</word></ar><ar><origin>zenith</origin><tr>[ˊzenɪθ]</tr><word>n
+зенит;
+at the zenith of fame в зените славы</word></ar><ar><origin>zenith_distance</origin><tr>[ˏzenɪθˊdɪstǝns]</tr><word>n
+угловое расстояние (небесного тела) от зенита; зенитное расстояние</word></ar><ar><origin>zenithal</origin><tr>[ˊzenɪθl]</tr><word>a
+астр. зенитный</word></ar><ar><origin>zeolite</origin><tr>[ˊzi:əlaɪt]</tr><word>n
+геол. цеолит</word></ar><ar><origin>zephyr</origin><tr>[ˊzefə]</tr><word>n
+1) поэт. зефир, ласкающий ветерок
+2) зефир (ткань)
+3) лёгкая шаль или блузка
+4) западный ветер</word></ar><ar><origin>Zeppelin</origin><tr>[ˊzepǝlɪn]</tr><word>n
+ист. цеппелин</word></ar><ar><origin>zero</origin><tr></tr><word>1. n (pl -os [-əυz])
+1) нуль, ничто;
+to reduce to zero свести на нет
+2) нулевая точка; первая основная точка температурной шкалы;
+below zero ниже нуля
+3) attr.:
+zero setting установка прибора на нуль
+4):
+zero hour
+a) воен. час начала атаки, выступления и т.п.;
+б) решительный час
+2. v устанавливать (прибор и т.п.) на нуль
+zero in (on)
+a) прицеливаться;
+б) нацеливаться на (что-то); избрать мишенью</word></ar><ar><origin>zero-gravity</origin><tr>[ˏzɪərəυˊgrævətɪ]</tr><word>n
+невесомость</word></ar><ar><origin>zest</origin><tr></tr><word>1. n
+1) то, что придаёт вкус; пикантность; «изюминка»;
+to give zest to smth. придавать вкус (или пикантность, интерес) чему-л.
+2) интерес; жар;
+he entered into the game with zest он с жаром принялся играть
+3) энергия, живость
+4) цедра
+2. v придавать пикантность; придавать интерес</word></ar><ar><origin>zeugma</origin><tr>[ˊzju:gmə]</tr><word>n
+лингв. зевгма</word></ar><ar><origin>Zeus</origin><tr>[zju:s]</tr><word>n
+греч. миф. Зевс</word></ar><ar><origin>Zibet</origin><tr>[ˊzɪbɪt]</tr><word>n
+зоол. цибет, азиатская виверра</word></ar><ar><origin>zigzag</origin><tr></tr><word>1. n зигзаг
+2. a зигзагообразный
+3. adv зигзагообразно
+4. v делать зигзаги</word></ar><ar><origin>zinc</origin><tr></tr><word>1. n
+1) цинк
+2) attr. цинковый
+2. v оцинковывать</word></ar><ar><origin>zinciferous</origin><tr>[zɪŋˊkɪfərəs]</tr><word>a
+содержащий цинк</word></ar><ar><origin>zincography</origin><tr>[zɪŋˊkɒgrəfɪ]</tr><word>n
+цинкография</word></ar><ar><origin>zing</origin><tr></tr><word>разг.
+1. n жизнь, оживление, энергия
+2. v нестись, мчаться, рассекая воздух (об автомобиле и т.п.)</word></ar><ar><origin>zinnia</origin><tr>[ˊzɪnɪə]</tr><word>n
+бот. цинния</word></ar><ar><origin>Zionism</origin><tr>[ˊzaɪənɪzǝm]</tr><word>n
+сионизм</word></ar><ar><origin>zip</origin><tr></tr><word>1. n
+1) свист пули
+2) треск разрываемой ткани
+3) энергия, темперамент
+4) = zipper 1)
+2. v
+1) застёгивать(ся) на молнию
+2) быть энергичным, полным энергии
+3) промелькнуть</word></ar><ar><origin>zip_code</origin><tr>[ˊzɪpkəυd]</tr><word>n
+амер. почтовый индекс</word></ar><ar><origin>zip-fastener</origin><tr>[ˊzɪpfɑ:snə]</tr><word>= zipper 1)</word></ar><ar><origin>zipper</origin><tr>[ˊzɪpə]</tr><word>n
+1) (преим. амер.) застёжка-молния
+2) pl ботинки или сапоги на молнии</word></ar><ar><origin>zippy</origin><tr>[ˊzɪpɪ]</tr><word>a
+разг.
+1) живой, яркий, энергичный
+2) проворный, быстрый</word></ar><ar><origin>zircon</origin><tr>[ˊzɜ:kɒn]</tr><word>n
+мин. циркон</word></ar><ar><origin>zirconium</origin><tr>[zɜ:ˊkəυnɪəm]</tr><word>n
+хим. цирконий</word></ar><ar><origin>zither</origin><tr>[ˊzɪðə]</tr><word>n
+цитра</word></ar><ar><origin>zodiac</origin><tr>[ˊzəυdɪæk]</tr><word>n
+астр. зодиак;
+signs of the zodiac знаки зодиака</word></ar><ar><origin>zodiacal</origin><tr>[zəυˊdaɪəkl]</tr><word>a
+астр. зодиакальный;
+zodiacal light зодиакальный свет</word></ar><ar><origin>zoic</origin><tr>[ˊzəυɪk]</tr><word>a
+геол. содержащий окаменелости</word></ar><ar><origin>zombi</origin><tr>[ˊzɒmbɪ]</tr><word>n
+1) разг. скучный или глупый человек; чудной тип
+2) зомби, оживший мертвец
+3) воен. жарг. новобранец
+4) коктейль из рома, фруктового сока с содовой водой</word></ar><ar><origin>zombie</origin><tr>[ˊzɒmbɪ]</tr><word>n
+1) разг. скучный или глупый человек; чудной тип
+2) зомби, оживший мертвец
+3) воен. жарг. новобранец
+4) коктейль из рома, фруктового сока с содовой водой</word></ar><ar><origin>zonal</origin><tr>[ˊzəυnl]</tr><word>a
+зональный</word></ar><ar><origin>zone</origin><tr></tr><word>1. n
+1) зона, пояс; полоса; район;
+temperate zones умеренные пояса
+2) амер. район отделения связи
+3) уст., поэт. пояс, кушак
+4) attr. зональный; поясной; региональный;
+zone time поясное время
+2. v
+1) опоясывать
+2) разделять на зоны
+3) устанавливать зональный тариф или зональные цены</word></ar><ar><origin>zoo</origin><tr>[zu:]</tr><word>n
+зоопарк;
+the Z. зоопарк в Лондоне</word></ar><ar><origin>zoogeography</origin><tr>[ˏzəυədʒɪˊɒgrəfɪ]</tr><word>n
+зоогеография</word></ar><ar><origin>zoological</origin><tr>[ˏzəυəˊlɒdʒɪkl]</tr><word>a
+зоологический;
+zoological garden(s) зоопарк, зоосад</word></ar><ar><origin>zoologist</origin><tr>[zəυˊɒlədʒɪst]</tr><word>n
+зоолог</word></ar><ar><origin>zoology</origin><tr>[zəυˊɒlədʒɪ]</tr><word>n
+зоология</word></ar><ar><origin>zoom</origin><tr></tr><word>1. n ав. «горка», «свечка»
+2. v
+1) ав. взмыть, резко подняться; сделать «горку» или «свечку»
+2) резко подняться, «взлететь»;
+prices zoomed цены резко повысились</word></ar><ar><origin>zoophyte</origin><tr>[ˊzəυəfaɪt]</tr><word>n
+биол. зоофит</word></ar><ar><origin>zoster</origin><tr>[ˊzɒstə]</tr><word>n
+опоясывающий лишай</word></ar><ar><origin>Zouave</origin><tr>[zυˊɑ:v]</tr><word>n
+воен. ист. зуав</word></ar><ar><origin>zounds</origin><tr>[zaυndz]</tr><word>int
+уст. чёрт возьми!</word></ar><ar><origin>Zulu</origin><tr></tr><word>1. a зулусский
+2. n
+1) зулус; зулуска
+2) зулусский язык</word></ar><ar><origin>zwieback</origin><tr>[ˊzwi:bæk]</tr><word>n
+амер. сдобный сухарь</word></ar><ar><origin>zygoma</origin><tr>[zaɪˊgəυmə]</tr><word>n (pl -ata)
+слоновая кость</word></ar><ar><origin>zygomata</origin><tr>[zaɪˊgəυmətə]</tr><word>pl от zygoma</word></ar><ar><origin>zygote</origin><tr>[ˊzaɪgəυt]</tr><word>n
+биол. зигота</word></ar><ar><origin>zymase</origin><tr>[ˊzaɪmeɪs]</tr><word>n
+хим. дрожжевой фермент брожения, зимаза</word></ar><ar><origin>zymosis</origin><tr>[zaɪˊməυsɪs]</tr><word>n
+уст. брожение</word></ar><ar><origin>zymotic</origin><tr>[zaɪˊmɒtɪk]</tr><word>a
+уст.
+1) бродильный
+2) заразный;
+zymotic diseases инфекционные болезни</word></ar><ar><origin>zymurgy</origin><tr>[ˊzaɪmɜ:dʒɪ]</tr><word>n
+технология бродильных производств</word></ar>

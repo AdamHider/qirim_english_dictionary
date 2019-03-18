@@ -1,0 +1,354 @@
+<ar><origin>Y</origin><tr>[waɪ]</tr><word>n (pl Ys, Y's [waɪz])
+1) 25-я буква англ. алфавита
+2) что-л., напоминающее по форме букву Y
+3) мат. игрек, неизвестная величина</word></ar><ar><origin>Y-axis</origin><tr>[ˊwaɪˏæksɪs]</tr><word>n
+мат. ось ординат</word></ar><ar><origin>Y-shaped</origin><tr>[ˊwaɪʃeɪpt]</tr><word>a
+Y-образный; вилкообразный</word></ar><ar><origin>yacht</origin><tr></tr><word>1. n яхта
+2. v плавать, ходить на яхте</word></ar><ar><origin>yacht-club</origin><tr>[ˊjɒtklʌb]</tr><word>n
+яхт-клуб</word></ar><ar><origin>yachting</origin><tr></tr><word>1. pres. p. от yacht 2
+2. n парусный спорт (тж. yachting sport)</word></ar><ar><origin>yachtsman</origin><tr>[ˊjɒtsmən]</tr><word>n
+1) спорт. яхтсмен
+2) владелец яхты</word></ar><ar><origin>yaffil</origin><tr>[ˊjæfl]</tr><word>n
+диал. зелёный дятел</word></ar><ar><origin>yaffle</origin><tr>[ˊjæfl]</tr><word>n
+диал. зелёный дятел</word></ar><ar><origin>yah</origin><tr>[jɑ:]</tr><word>int
+да ну? (выражает насмешку, презрение)</word></ar><ar><origin>yahoo</origin><tr>[jɑ:ˊhu:]</tr><word>n
+1) иеху [слово, созданное Свифтом в романе «Путешествие Гулливера»]
+2) отвратительное существо, гадина
+3) амер. деревенщина, мужлан</word></ar><ar><origin>yak</origin><tr>[jæk]</tr><word>n
+зоол. як</word></ar><ar><origin>Yakut</origin><tr></tr><word>1. n
+1) якут; якутка
+2) якутский язык
+2. a якутский</word></ar><ar><origin>Yale_lock</origin><tr>[ˊjeɪllɒk]</tr><word>n
+автоматический «американский» замок</word></ar><ar><origin>yam</origin><tr>[jæm]</tr><word>n
+бот.
+1) ямс
+2) батат</word></ar><ar><origin>yammer</origin><tr>[ˊjæmə]</tr><word>v
+разг.
+1) жаловаться, ныть
+2) болтать без умолку; говорить глупости, нести вздор</word></ar><ar><origin>Yank</origin><tr>[jæŋk]</tr><word>n
+разг. (часто пренебр.) янки</word></ar><ar><origin>yank</origin><tr></tr><word>разг.
+1. n рывок, дёрганье
+2. v налегать с размаху на рычаг; дёргать (обыкн. yank out, yank off)</word></ar><ar><origin>Yankee</origin><tr>[ˊjæŋkɪ]</tr><word>n
+разг.
+1) (часто пренебр.) янки, американец
+2) уроженец или житель Новой Англии
+3) attr. американский</word></ar><ar><origin>yankeefied</origin><tr>[ˊjæŋkɪfaɪd]</tr><word>a
+обамериканившийся</word></ar><ar><origin>yap</origin><tr></tr><word>1. n
+1) лай; тявканье
+2) разг. болтовня
+3) сл. трепло
+4) сл. рот; хайло
+2. v
+1) пронзительно лаять; тявкать
+2) разг. болтать</word></ar><ar><origin>yapp</origin><tr>[jæp]</tr><word>n
+мягкий кожаный переплёт</word></ar><ar><origin>yard</origin><tr>[jɑ:d]</tr><word>n
+1) ярд (= 3 футам или 914,4 мм);
+by the yard в ярдах;
+can you still buy cloth by the yard in Britain? в Англии ещё мерят ткани на ярды?
+2) мор. рей
+Ⅱ
+yard [jɑ:d]
+1. n
+1) двор
+2) лесной склад
+3) амер. сад
+4) (the Y.) разг. = Scotland Yard
+5) загон
+6) ж.-д. парк; сортировочная станция
+2. v загонять (скотину на двор)</word></ar><ar><origin>yard-bird</origin><tr>[ˊjɑ:dbɜ:d]</tr><word>n
+амер. сл.
+1) новобранец
+2) заключённый</word></ar><ar><origin>yard-measure</origin><tr>[ˊjɑ:dˏmeʒə]</tr><word>n
+измерительная линейка или рулетка, «метр» длиной в один ярд</word></ar><ar><origin>yard-wand</origin><tr>[ˊjɑ:dwɒnd]</tr><word>= yard-measure</word></ar><ar><origin>yardarm</origin><tr>[ˊjɑ:dɑ:m]</tr><word>n
+мор. нок-рея</word></ar><ar><origin>yardman</origin><tr>[ˊjɑ:dmən]</tr><word>n
+ж.-д. рабочий депо или парка</word></ar><ar><origin>yardmaster</origin><tr>[ˊjɑ:dˏmɑ:stə]</tr><word>n
+ж.-д. составитель поездов; диспетчер станции</word></ar><ar><origin>yardstick</origin><tr>[ˊjɑ:dstɪk]</tr><word>n
+1) = yard-measure
+2) мерка; мерило; критерий;
+to measure (или to judge) others by one's own yardstick ≅ мерить всех на свой аршин</word></ar><ar><origin>yarmulke</origin><tr>[ˊjɑ:mυlkə]</tr><word>n
+ермолка</word></ar><ar><origin>yarn</origin><tr></tr><word>1. n
+1) пряжа, нить
+2) разг. (длинный) рассказ
+2. v разг. рассказывать байки; болтать</word></ar><ar><origin>yarn-beam</origin><tr>[ˊjɑ:nbi:m]</tr><word>n
+текст. ткацкий навой с пряжей</word></ar><ar><origin>yarn-dyed</origin><tr>[ˊjɑ:ndaɪd]</tr><word>a
+крашенный в пряже</word></ar><ar><origin>yarrow</origin><tr>[ˊjærəυ]</tr><word>n
+бот. тысячелистник обыкновенный</word></ar><ar><origin>yashmak</origin><tr>[ˊjæʃmæk]</tr><word>n
+чадра</word></ar><ar><origin>yataghan</origin><tr>[ˊjætəgǝn]</tr><word>n
+ятаган</word></ar><ar><origin>yaw</origin><tr></tr><word>мор., ав.
+1. n отклонение от направления движения, рыскание
+2. v отклоняться от курса</word></ar><ar><origin>yawl</origin><tr>[jɔ:l]</tr><word>n
+мор. ял; иол</word></ar><ar><origin>yawn</origin><tr></tr><word>1. n
+1) зевота
+2) разг. скучища, нечто нудное
+3) тех. зазор
+2. v
+1) зевать;
+he yawned good night зевая, он пожелал доброй ночи
+2) зиять
+3) разверзаться;
+a gulf yawned at our feet бездна разверзлась у наших ног
+◊ to make a person yawn нагнать сон или скуку на кого-л.</word></ar><ar><origin>yclept</origin><tr>[ɪˊklept]</tr><word>a
+уст., шутл. называемый, именуемый</word></ar><ar><origin>ye</origin><tr></tr><word>уст., поэт. = you
+◊ how d'ye do? здравствуйте; как поживаете?;
+ye gods! о, боги!</word></ar><ar><origin>yea</origin><tr></tr><word>уст.
+1. n согласие; утвердительный ответ
+◊ yea and nay нерешительность;
+yeas and nays парл. поимённое голосование
+2. adv
+1) да
+2) больше того; даже;
+I will give you a pound, yea two pounds я дам вам фунт, даже больше, два фунта стерлингов
+3. int действительно?(!), правда?(!) (выражает недоверие, иронию и т.п.)</word></ar><ar><origin>yeah</origin><tr>[jeə]</tr><word>adv
+разг. да</word></ar><ar><origin>yean</origin><tr>[ji:n]</tr><word>v
+уст. ягниться</word></ar><ar><origin>yeanling</origin><tr>[ˊji:nlɪŋ]</tr><word>n
+уст. козлёнок; ягнёнок</word></ar><ar><origin>year</origin><tr>[jɪə]</tr><word>n
+1) год;
+year in year out из года в год;
+from year to year, year by year, year after year с каждым годом; каждый год; год от году;
+years (and years) ago очень давно, целую вечность;
+the year of grace год нашей эры;
+in the year of grace (или of our Lord) 1975 в 1975 году от Рождества Христова
+2) pl возраст, годы;
+he looks young for his years он молодо выглядит для своих лет;
+in years пожилой</word></ar><ar><origin>yearbook</origin><tr>[ˊjɪəbυk]</tr><word>n
+ежегодник</word></ar><ar><origin>yearling</origin><tr></tr><word>1. n
+1) годовик, годовалое животное; саженец
+2) амер. воен. жарг. призывник
+2. a годовалый</word></ar><ar><origin>yearlong</origin><tr>[ˏjɪəˊlɒŋ]</tr><word>a
+длящийся целый год</word></ar><ar><origin>yearly</origin><tr></tr><word>1. a
+1) ежегодный
+2) длящийся год
+2. adv каждый год; раз в год</word></ar><ar><origin>yearn</origin><tr>[jɜ:n]</tr><word>v
+1) томиться, тосковать (for, after — по ком-л., чём-л.);
+he yearned to be home again он рвался домой
+2) жаждать, стремиться (for, to — к чему-л.)</word></ar><ar><origin>yearning</origin><tr></tr><word>1. pres. p. от yearn
+2. n сильное желание; острая тоска;
+popular yearnings народные чаяния</word></ar><ar><origin>yeast</origin><tr>[ji:st]</tr><word>n
+дрожжи, закваска</word></ar><ar><origin>yeasty</origin><tr>[ˊji:stɪ]</tr><word>a
+1) пенистый
+2) бродящий
+3) пустой (о словах и т.п.)</word></ar><ar><origin>yegg</origin><tr>[jeg]</tr><word>n
+амер. сл. взломщик, грабитель</word></ar><ar><origin>yell</origin><tr></tr><word>1. n
+1) пронзительный крик
+2) амер. возгласы одобрения, принятые в каждом колледже (выкрикиваемые на студенческих спортивных состязаниях)
+3) сл. занятный тип; смешная забавная вещица, штуковина
+2. v
+1) кричать, вопить
+2) выкрикивать;
+to yell out curses изрыгать проклятия</word></ar><ar><origin>yellow</origin><tr></tr><word>1. a
+1) жёлтый
+2) разг. трусливый;
+he has a yellow streak in him он трусоват
+3) завистливый, ревнивый, подозрительный (о взгляде и т.п.)
+◊ the yellow press жёлтая пресса;
+yellow flag карантинный флаг
+2. n
+1) желтизна, жёлтый цвет
+2) желток
+3) разг. трусость
+3. v
+1) желтеть
+2) желтить</word></ar><ar><origin>yellow_card</origin><tr>[ˏjeləυˊkɑ:d]</tr><word>n
+спорт. жёлтая карточка</word></ar><ar><origin>yellow_dog</origin><tr>[ˏjeləυˊdɒg]</tr><word>n
+амер. подлый человек, трус; презренная личность</word></ar><ar><origin>yellow_fever</origin><tr>[ˏjeləυˊfi:və]</tr><word>n
+мед. жёлтая лихорадка</word></ar><ar><origin>yellow_jack</origin><tr>[jeləυˏdʒæk]</tr><word>n
+1) = yellow fever
+2) карантинный флаг</word></ar><ar><origin>Yellow_Pages</origin><tr>[ˏjeləυˊpeɪdʒɪz]</tr><word>n
+«жёлтые страницы»(телефонный справочник организаций и учреждений, напечатанный на бумаге жёлтого цвета)</word></ar><ar><origin>yellow_spot</origin><tr>[ˏjeləʋˊspɒt]</tr><word>n
+анат. жёлтое пятно</word></ar><ar><origin>yellow-bark_oak</origin><tr>[ˏjeləυbɑ:kˊəυk]</tr><word>n
+бот. бархатный дуб</word></ar><ar><origin>yellow-belly</origin><tr>[ˊjeləυˏbelɪ]</tr><word>n
+разг. трус</word></ar><ar><origin>yellow-dog_contract</origin><tr>[ˏjeləυdɒgˊkɒn-trækt]</tr><word>n
+амер. обязательство рабочего о невступлении в профсоюз</word></ar><ar><origin>yellow-dog_fund</origin><tr>[ˏjeləυdɒgˊfʌnd]</tr><word>n
+амер. фонд для подкупа, взяток и т.п.</word></ar><ar><origin>yellow-livered</origin><tr>[ˊjeləυˏlɪvəd]</tr><word>a
+разг. трусливый</word></ar><ar><origin>yellowback</origin><tr>[ˊjeləυbæk]</tr><word>n
+1) дешёвый бульварный роман
+2) роман (особ. французский, в жёлтой обложке)</word></ar><ar><origin>yellowhammer</origin><tr>[ˊjeləυˏhæmə]</tr><word>n
+овсянка обыкновенная (птица)</word></ar><ar><origin>yellowish</origin><tr>[ˊjeləυɪʃ]</tr><word>a
+желтоватый</word></ar><ar><origin>yellowness</origin><tr>[ˊjeləυnəs]</tr><word>n
+желтизна</word></ar><ar><origin>yellowy</origin><tr>[ˊjeləυɪ]</tr><word>= yellowish</word></ar><ar><origin>yelp</origin><tr></tr><word>1. n визг; лай
+2. v визжать; лаять; тявкать</word></ar><ar><origin>Yemeni</origin><tr>[ˊjemənɪ]</tr><word>= Yemenite</word></ar><ar><origin>Yemenite</origin><tr></tr><word>1. a йеменский
+2. n йеменец; йеменка</word></ar><ar><origin>yen</origin><tr>[jen]</tr><word>n (pl без измен.)
+иена (денежная единица Японии)
+Ⅱ
+yen [jen]
+разг.
+1. n сильное желание
+2. v жаждать, стремиться (сделать что-л.)</word></ar><ar><origin>yeoman</origin><tr>[ˊjəυmən]</tr><word>n
+1) ист. йомен
+2) фермер, мелкий землевладелец
+3) амер. мор. писарь
+4):
+yeoman of signals мор. старшина-сигнальщик
+◊ yeoman of the Guard английский дворцовый страж;
+yeoman('s) service
+a) помощь в нужде;
+б) безупречная служба</word></ar><ar><origin>yeomanry</origin><tr>[ˊjeυmənrɪ]</tr><word>n
+1) ист. сословие йоменов
+2) ист. территориальная конница
+3) воен. территориальная добровольческая часть</word></ar><ar><origin>yep</origin><tr>[jep]</tr><word>adv
+разг. да</word></ar><ar><origin>yes</origin><tr></tr><word>1. adv да
+2. n утверждение; согласие</word></ar><ar><origin>yes-man</origin><tr>[ˊjesmæn]</tr><word>n
+разг. подхалим, подпевала</word></ar><ar><origin>yesterday</origin><tr></tr><word>1. adv
+1) вчера;
+yesterday morning вчера утром
+2) совсем недавно
+2. n вчерашний день;
+yesterday's incident вчерашний случай</word></ar><ar><origin>yesterevening</origin><tr></tr><word>поэт.
+1. n вчерашний вечер
+2. adv вчера вечером</word></ar><ar><origin>yesternight</origin><tr>[ˊjestənaɪt]</tr><word>= yesterevening</word></ar><ar><origin>yesteryear</origin><tr></tr><word>книжн.
+1. n прошлый год
+2. adv в прошлом году</word></ar><ar><origin>yestreen</origin><tr></tr><word>шотл. = yesterevening</word></ar><ar><origin>yet</origin><tr></tr><word>1. adv
+1) ещё, всё ещё;
+he has not come yet он ещё не пришёл;
+not yet ещё не(т);
+never yet никогда ещё не;
+yet more ещё больше
+2) ещё, кроме того;
+he has yet much to say ему ещё многое надо сказать
+3) уже (в вопр. предложениях);
+need you go yet? вам уже надо идти?
+4) даже; более;
+this question is more important yet этот вопрос даже важнее;
+he will not accept help nor yet advice он не примет ни помощи, ни даже совета
+5) до сих пор, когда-либо;
+it is the largest specimen yet found это самый крупный экземпляр из найденных до сих пор;
+as yet всё ещё, пока, до сих пор;
+the scheme has worked well as yet пока эта схема вполне себя оправдывает
+6) тем не менее, всё же, всё-таки;
+it is strange and yet true это странно, но (тем не менее) верно
+2. cj однако, всё же, несмотря на это; но</word></ar><ar><origin>yeti</origin><tr>[ˊjetɪ]</tr><word>n
+снежный человек</word></ar><ar><origin>yew</origin><tr>[ju:]</tr><word>n
+бот. тис</word></ar><ar><origin>yew-tree</origin><tr>[ˊju:tri:]</tr><word>= yew</word></ar><ar><origin>Yiddish</origin><tr>[ˊjɪdɪʃ]</tr><word>n
+еврейский язык, идиш</word></ar><ar><origin>yield</origin><tr></tr><word>1. n
+1) сбор плодов, урожай;
+a good yield of wheat хороший урожай пшеницы
+2) размер выработки; количество добытого или произведённого продукта; выход (продукции);
+milk yield надой молока
+3) эк. доход; доходность
+4) текучесть (металла)
+2. v
+1) производить, приносить, давать (плоды, урожай, доход);
+this land yields poorly эта земля даёт плохой урожай;
+to yield no results не давать никаких результатов
+2) сдавать(ся);
+to yield oneself prisoner сдаться в плен
+3) уступать; соглашаться (на что-л.);
+to yield a point сделать уступку (в споре);
+to yield to the advice последовать совету;
+to yield to none не уступать никому (по красоте, доброте и т.п.)
+4) поддаваться; подаваться; пружинить;
+the door yielded to a strong push от сильного толчка дверь подалась;
+the disease yields to treatment эта болезнь поддаётся лечению
+5) амер. парл. уступить трибуну, прервать оратора (тж. to yield the floor);
+Will Mr. N. yield? Прошу разрешения прервать речь мистера Н.
+yield up
+а) сдавать, уступая силе;
+to yield up a fort сдать крепость;
+б) передавать, отдавать; уступать
+◊ to yield up the ghost отдать богу душу, умереть</word></ar><ar><origin>yielding</origin><tr></tr><word>1. pres. p. от yield 2
+2. a
+1) уступчивый, покладистый
+2) мягкий, податливый (о материале)
+3) упругий; пружинистый
+4) неустойчивый; оседающий</word></ar><ar><origin>yip</origin><tr>[jɪp]</tr><word>n
+амер. тявканье, лай</word></ar><ar><origin>yippee</origin><tr>[ˊjɪpi:]</tr><word>int
+ура</word></ar><ar><origin>yo-heave-ho</origin><tr>[ˏjəυhi:vˊhəυ]</tr><word>int ≅
+взяли!, дружно! возглас матросов при работе)</word></ar><ar><origin>yob</origin><tr>[jɒb]</tr><word>n
+сл. хулиган</word></ar><ar><origin>yobbo</origin><tr>[ˊjɒbəυ]</tr><word>= yob</word></ar><ar><origin>yodel</origin><tr></tr><word>1. n йодль (манера пения тирольцев)
+2. v петь йодлем</word></ar><ar><origin>yoga</origin><tr>[ˊjəυgə]</tr><word>n
+йога</word></ar><ar><origin>yoghurt</origin><tr>[ˊjɒgət]</tr><word>n
+йогурт</word></ar><ar><origin>yogi</origin><tr>[ˊjəυgɪ]</tr><word>n
+йог</word></ar><ar><origin>yogurt</origin><tr>[ˊjɒgət]</tr><word>= yoghurt</word></ar><ar><origin>yoke</origin><tr></tr><word>1. n
+1) ярмо
+2) (pl без измен.) пара запряжённых волов
+3) коромысло
+4) кокетка (на платье)
+5) иго, рабство;
+to endure (to shake off) the yoke терпеть (сбросить) иго;
+to pass (или to come) under the yoke примириться с поражением
+6) узы (особ. брака)
+7) тех. скоба; бугель; хомут, обойма
+8) ав. ручка управления
+2. v
+1) впрягать в ярмо
+2) соединять, сочетать</word></ar><ar><origin>yokefellow</origin><tr>[ˊjəυkfeləυ]</tr><word>n
+товарищ (по работе); супруг(а)</word></ar><ar><origin>yokel</origin><tr>[ˊjəυkl]</tr><word>n
+деревенщина; неотёсанный парень</word></ar><ar><origin>yokemate</origin><tr>[ˊjəυkmeɪt]</tr><word>= yokefellow</word></ar><ar><origin>yolk</origin><tr>[jəυk]</tr><word>n
+желток</word></ar><ar><origin>yolk_sac</origin><tr>[ˊjəυksæk]</tr><word>n
+биол. желточный мешок (зародыша)</word></ar><ar><origin>yolk-bag</origin><tr>[ˊjəυkbæg]</tr><word>= yolk sac</word></ar><ar><origin>yon</origin><tr></tr><word>уст., диал. = yonder</word></ar><ar><origin>yonder</origin><tr></tr><word>1. a вон тот
+2. adv вон там</word></ar><ar><origin>yore</origin><tr>[jɔ:]</tr><word>n
+книжн.:
+of yore давным-давно;
+in days of yore во время оно</word></ar><ar><origin>Yorkist</origin><tr>[ˊjɔ:kɪst]</tr><word>n
+ист. сторонник Йоркской династии</word></ar><ar><origin>Yorkshire</origin><tr>[ˊjɔ:kʃə]</tr><word>n
+1) йоркширская порода белой свиньи
+2) пирог из взбитого теста, запечённого под куском мяса (тж. Yorkshire pudding) [см. тж. Список географических названий]</word></ar><ar><origin>you</origin><tr>[ju: (полная форма)<span style="color:lightslategray">; jυ (редуцированная форма)<span style="color:lightslategray">]</tr><word>pron pers. (косв. п. без измен.)
+1) ты, вы
+2) употр. для усиления восклицания:
+you fool! дурак!
+3) (в безличных оборотах):
+you never can tell разг. никогда нельзя сказать, как знать
+4) уст. см. yourself</word></ar><ar><origin>you_d</origin><tr></tr><word>сокр. разг. = you had; you would</word></ar><ar><origin>you_ll</origin><tr></tr><word>сокр. разг. = you will; you shall</word></ar><ar><origin>you_re</origin><tr></tr><word>сокр. разг. = you are</word></ar><ar><origin>you_ve</origin><tr></tr><word>сокр. разг. = you have</word></ar><ar><origin>you-all</origin><tr>[jυˊɔ:l]</tr><word>pron pers. pl
+амер. разг. вы (в обращении к нескольким лицам)</word></ar><ar><origin>you-know-what</origin><tr>[ju:ˊnəυwɒt]</tr><word>n
+эвф. формула, служащая для выражения чего-л. крайне неприличного или того, что говорящий считает излишним называть</word></ar><ar><origin>young</origin><tr></tr><word>1. a
+1) молодой, юный; юношеский;
+he is young for his age он молодо выглядит для своего возраста;
+young man молодой человек (тж. шутл.);
+my young man (lady или woman) разг. мой возлюбленный (моя возлюбленная);
+young one's дети; детёныши; птенчики; зверёныши
+2) неопытный
+3) молодой, младший (для обозначения двух людей в одной семье, носящих одно и то же имя)
+4) новый, недавний;
+the night is yet young ещё не поздно
+◊ young blood
+a) молодёжь;
+б) новые веяния или идеи
+2. n (тж. the young) pl собир.
+1) молодёжь;
+old and young стар и млад
+2) детёныши
+◊ to be with young быть супоросой, стельной и пр.</word></ar><ar><origin>youngish</origin><tr>[ˊjʌŋɪʃ]</tr><word>a
+моложавый</word></ar><ar><origin>youngling</origin><tr></tr><word>1. n поэт.
+1) ребёнок; детёныш; птенец
+2) неопытный человек
+2. a молодой</word></ar><ar><origin>youngster</origin><tr>[ˊjʌŋstə]</tr><word>n
+1) мальчик, юноша; юнец
+2) амер. курсант второго курса военно-морского училища</word></ar><ar><origin>your</origin><tr>[jɔ:]</tr><word>pron poss. (употр. атрибутивно: ср. yours)
+ваш; твой</word></ar><ar><origin>yours</origin><tr>[jɔ:z]</tr><word>pron poss. (абсолютная форма; не употр. атрибутивно; ср. your)
+ваш; твой;
+this book is yours эта книга ваша;
+I saw a friend of yours я видел вашего друга;
+you and yours вы и ваши (родные);
+yours sincerely или sincerely yours с искренним уважением (в письме);
+yours of the 7th ваше письмо от 7-го числа</word></ar><ar><origin>yourself</origin><tr>[jɔ:ˊself]</tr><word>pron (pl yourselves)
+1) refl. себя, -ся, -сь; себе;
+have you hurt yourself? вы ушиблись?;
+how's yourself? как вы поживаете?
+2) emph. сам, сами;
+you told me so yourself вы сами мне это сказали;
+have you been all by yourself the whole day? вы были одни целый день?;
+you are sure to do it all by yourself вы, конечно, можете сделать это без посторонней помощи
+◊ you are not quite yourself вы не в своей тарелке</word></ar><ar><origin>yourselves</origin><tr>[jɔ:ˊselvz]</tr><word>pl от yourself</word></ar><ar><origin>youth</origin><tr>[ju:θ]</tr><word>n
+1) юность; молодость;
+the fountain of youth источник молодости
+2) юноша
+3) молодёжь
+4) attr. молодёжный;
+youth culture молодёжная культура;
+youth organizations молодёжные организации;
+a youth festival фестиваль молодёжи</word></ar><ar><origin>youthful</origin><tr>[ˊju:θfǝl]</tr><word>a
+1) юный, молодой
+2) юношеский
+3) новый; ранний
+4) энергичный, живой</word></ar><ar><origin>yowl</origin><tr></tr><word>1. n вой
+2. v выть</word></ar><ar><origin>yoyo</origin><tr>[ˊjəυjəυ]</tr><word>n
+йо-йо (игрушка)</word></ar><ar><origin>ytterbium</origin><tr>[ɪˊtɜ:bɪəm]</tr><word>n
+хим. иттербий</word></ar><ar><origin>yttrium</origin><tr>[ˊɪtrɪəm]</tr><word>n
+хим. иттрий</word></ar><ar><origin>yucca</origin><tr>[ˊjʌkə]</tr><word>n
+бот. юкка</word></ar><ar><origin>Yule</origin><tr>[ju:l]</tr><word>n
+Святки</word></ar><ar><origin>yule-log</origin><tr>[ˊju:llɒg]</tr><word>n
+уст. большое полено, сжигаемое в сочельник</word></ar><ar><origin>yule-tide</origin><tr>[ˊju:ltaɪd]</tr><word>= Yule</word></ar><ar><origin>yummy</origin><tr>[ˊjʌmɪ]</tr><word>a
+разг.
+1) вкусный
+2) привлекательный</word></ar><ar><origin>yuppie</origin><tr>[ˊjʌpɪ]</tr><word>n
+часто пренебр. яппи (состоятельный молодой человек, работающий по профессии и ведущий светский образ жизни)</word></ar><ar><origin>yuppy</origin><tr>[ˊjʌpɪ]</tr><word>= yuppie</word></ar>

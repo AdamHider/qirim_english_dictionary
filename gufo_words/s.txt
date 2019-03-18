@@ -1,0 +1,1702 @@
+<ar><origin>S</origin><tr>[es]</tr><word>(pl Ss, S's [ˊesɪz])
+1) 19-я буква англ. алфавита
+2) предмет или линия в виде буквы S;
+the river makes a great S река прихотливо извивается</word></ar><ar><origin>_s</origin><tr></tr><word>сокр. разг.
+1) = is в форме Present Continuous, в функции глагола-связки в сложном сказуемом или в обороте there is:
+he's (= he is) going to London one of these days он на днях едет в Лондон;
+she's (= she is) gone она ушла;
+it's (= it is) time to get up пора вставать;
+there's (= there is) no use не стоит
+2) = has в форме Present Perfect:
+she's (= she has) taken it она взяла это
+3) = us в сочетании let us:
+let's (= let us) have a look давайте посмотрим
+4) = does в вопр. предл.:
+what's (= what does) he say about it? что он говорит по этому поводу?</word></ar><ar><origin>sabbath_school</origin><tr>[ˊsæbəθsku:l]</tr><word>n
+воскресная школа</word></ar><ar><origin>sack_race</origin><tr>[ˊsækreɪs]</tr><word>n
+бег в мешках (аттракцион)</word></ar><ar><origin>sacra</origin><tr>[ˊseɪkrə]</tr><word>pl от sacrum</word></ar><ar><origin>sacred_cow</origin><tr>[ˏseɪkrɪdˊkaυ]</tr><word>n
+1) священная корова (в Индии)
+2) разг. человек, которого нельзя критиковать; представление, считающееся непреложным</word></ar><ar><origin>saddle_blanket</origin><tr>[ˊsædlˏblæŋkɪt]</tr><word>n
+потник</word></ar><ar><origin>saddle_horse</origin><tr>[ˊsædlhɔ:s]</tr><word>n
+верховая лошадь</word></ar><ar><origin>saddle_shoes</origin><tr>[ˊsædlʃu:z]</tr><word>n pl
+туфли с цветными союзками</word></ar><ar><origin>saddle_spring</origin><tr>[ˊsædlsprɪŋ]</tr><word>n
+седельный амортизатор (у велосипеда и т.п.)</word></ar><ar><origin>saddlebag</origin><tr>[ˊsædlbæg]</tr><word>n
+седельный вьюк; перемётная сума</word></ar><ar><origin>saddlebow</origin><tr>[ˊsædlbəυ]</tr><word>n
+седельная лука</word></ar><ar><origin>saddlecloth</origin><tr>[ˊsædlklɒθ]</tr><word>n
+чепрак</word></ar><ar><origin>saddlegirth</origin><tr>[ˊsædlgɜ:θ]</tr><word>n
+подпруга</word></ar><ar><origin>saddlepin</origin><tr>[ˊsædlpɪn]</tr><word>n
+опорная стойка седла (у велосипеда и т.п.)</word></ar><ar><origin>saddletree</origin><tr>[ˊsædltri:]</tr><word>n
+1) каркас сиденья (велосипеда и т.п.)
+2) бот. тюльпанное дерево</word></ar><ar><origin>sadhu</origin><tr>[ˊsɑ:du:]</tr><word>n
+святой человек, мудрец, аскет (в Индии)</word></ar><ar><origin>sadiron</origin><tr>[ˊsædˏa(ɪ)ən]</tr><word>n
+тяжёлый утюг</word></ar><ar><origin>sadomasochism</origin><tr>[ˏseɪdəυˊmæsəkɪzǝm]</tr><word>n
+садомазохизм</word></ar><ar><origin>safari_park</origin><tr>[səˊfɑ:rɪpɑ:k]</tr><word>n
+(зоо)парк «сафари» (с бесклеточным содержанием зверей)</word></ar><ar><origin>safe_deposit</origin><tr>[ˊseɪfdɪˏpɒzɪt]</tr><word>n
+хранилище; сейф</word></ar><ar><origin>safe-conduct</origin><tr>[ˏseɪfˊkɒndʌkt]</tr><word>n
+1) охрана, эскорт
+2) охранное свидетельство</word></ar><ar><origin>safety_belt</origin><tr>[ˊseɪftɪbelt]</tr><word>n
+1) = seat belt
+2) спасательный пояс</word></ar><ar><origin>safety_bolt</origin><tr>[ˊseɪftɪbəυlt]</tr><word>n
+тех. предохранительный болт</word></ar><ar><origin>safety_curtain</origin><tr>[ˊseɪftɪˏkɜ:tn]</tr><word>n
+театр. противопожарный асбестовый занавес</word></ar><ar><origin>safety_film</origin><tr>[ˊseɪftɪfɪlm]</tr><word>n
+безопасная, невоспламеняющаяся киноплёнка</word></ar><ar><origin>safety_fuse</origin><tr>[ˊseɪftɪfju:z]</tr><word>n
+1) горн. огнепроводный шнур
+2) эл. плавкий предохранитель</word></ar><ar><origin>safety_glass</origin><tr>[ˊseɪftɪglɑ:s]</tr><word>n
+небьющееся, безосколочное стекло</word></ar><ar><origin>safety_island</origin><tr>[ˊseɪftɪˏaɪlənd]</tr><word>n
+островок безопасности (для пешеходов)</word></ar><ar><origin>safety_lamp</origin><tr>[ˊseɪftɪlæmp]</tr><word>n
+безопасная лампа, рудничная лампа</word></ar><ar><origin>safety_match</origin><tr>[ˊseɪftɪmætʃ]</tr><word>n
+(безопасная) спичка</word></ar><ar><origin>safety_net</origin><tr>[ˊseɪftɪnet]</tr><word>n
+предохранительная сетка (для акробатов и т.п.)</word></ar><ar><origin>safety_nut</origin><tr>[ˊseɪftɪnʌt]</tr><word>n
+тех. контргайка</word></ar><ar><origin>safety_pin</origin><tr>[ˊseɪftɪpɪn]</tr><word>n
+безопасная, английская булавка</word></ar><ar><origin>safety_razor</origin><tr>[ˊseɪftɪˏreɪzə]</tr><word>n
+безопасная бритва</word></ar><ar><origin>safety_strip</origin><tr>[ˊseɪftɪstrɪp]</tr><word>n
+полоса безопасности (вырубка для предупреждения распространения лесного пожара)</word></ar><ar><origin>safety_valve</origin><tr>[ˊseɪftɪvælv]</tr><word>n
+1) предохранительный клапан
+2) выход, отдушина
+◊ to sit on the safety valve
+а) не давать выхода страстям, чувствам и т.п.;
+б) проводить политику репрессий</word></ar><ar><origin>safety_zone</origin><tr></tr><word>амер. = safety island</word></ar><ar><origin>safety-catch</origin><tr>[ˊseɪftɪkætʃ]</tr><word>n
+предохранитель</word></ar><ar><origin>sage_green</origin><tr>[ˏseɪdʒˊgri:n]</tr><word>a
+серовато-зелёный</word></ar><ar><origin>sage_tea</origin><tr>[ˊseɪdʒti:]</tr><word>n
+настой шалфея</word></ar><ar><origin>Sagittarius</origin><tr>[ˏsædʒɪˊteərɪəs]</tr><word>n
+Стрелец (созвездие и знак зодиака)</word></ar><ar><origin>sailboard</origin><tr>[ˊseɪlbɔ:d]</tr><word>n
+доска с парусом для сёрфинга</word></ar><ar><origin>sailcloth</origin><tr>[ˊseɪlklɒθ]</tr><word>n
+парусина</word></ar><ar><origin>sailing_craft</origin><tr>[ˊseɪlɪŋkrɑ:ft]</tr><word>n
+парусное судно</word></ar><ar><origin>sailing_master</origin><tr>[ˊseɪlɪŋˏmɑ:stə]</tr><word>n
+штурман</word></ar><ar><origin>sailing_ship</origin><tr>[ˊseɪlɪŋʃɪp]</tr><word>n
+парусное судно, парусник</word></ar><ar><origin>sailing_vessel</origin><tr>[ˊseɪlɪŋˏvesl]</tr><word>= sailing ship</word></ar><ar><origin>sailplane</origin><tr>[ˊseɪlpleɪn]</tr><word>n
+планёр</word></ar><ar><origin>sal_ammoniac</origin><tr>[ˏsæləˊməυnɪæk]</tr><word>n
+нашатырь</word></ar><ar><origin>sal_volatile</origin><tr>[ˏsælvəˊlætǝlɪ]</tr><word>n
+нюхательная соль</word></ar><ar><origin>salad_days</origin><tr>[ˊsæləddeɪz]</tr><word>n
+пора юношеской неопытности; зелёная юность</word></ar><ar><origin>salad_dressing</origin><tr>[ˊsælədˏdresɪŋ]</tr><word>n
+заправка для салата</word></ar><ar><origin>salad_oil</origin><tr>[ˊsælədɔɪl]</tr><word>n
+оливковое, прованское масло; масло для салата</word></ar><ar><origin>sale_of_work</origin><tr>[ˏseɪləvˊwɜ:k]</tr><word>n
+благотворительный базар, где продаются рукоделия прихожан</word></ar><ar><origin>sale_price</origin><tr>[ˊseɪlpraɪs]</tr><word>n
+1) эк. продажная цена
+2) сниженная цена;
+to sell at sale price продавать по цене сезонной распродажи</word></ar><ar><origin>saleroom</origin><tr>[ˊseɪlru:m]</tr><word>n
+аукционный зал</word></ar><ar><origin>sales_clerk</origin><tr>[ˊseɪlzklɑ:k]</tr><word>n
+амер. продавец; продавщица</word></ar><ar><origin>sales_talk</origin><tr>[ˊseɪlztɔ:k]</tr><word>n
+1) расхваливание своего товара
+2) агитация в пользу своего предложения и т.п.</word></ar><ar><origin>sales_tax</origin><tr>[ˊseɪlztæks]</tr><word>n
+налог с оборота</word></ar><ar><origin>Salic</origin><tr>[ˊsælɪk]</tr><word>a
+ист. салический</word></ar><ar><origin>salina</origin><tr>[səˊlaɪnə]</tr><word>n
+соляное озеро, соляное болото</word></ar><ar><origin>Sally_Lunn</origin><tr>[ˏsælɪˊlʌn]</tr><word>n
+разг. сладкая булочка</word></ar><ar><origin>salmon_trout</origin><tr>[ˊsæmənˏtraυt]</tr><word>n
+зоол. кумжа, лосось-таймень</word></ar><ar><origin>salmonellae</origin><tr>[ˏsælməˊneli:]</tr><word>pl от salmonella</word></ar><ar><origin>saloon_car</origin><tr>[səˊlu:nkɑ:, səˊlu:nˏkærɪdʒ]</tr><word>= saloon 6)</word></ar><ar><origin>saloon_carriage</origin><tr>[səˊlu:nkɑ:, səˊlu:nˏkærɪdʒ]</tr><word>= saloon 6)</word></ar><ar><origin>saloon_deck</origin><tr>[səˊlu:ndek]</tr><word>n
+пассажирская палуба 1 класса</word></ar><ar><origin>saloon_keeper</origin><tr>[səˊlu:nˏki:pə]</tr><word>n
+амер. трактирщик; владелец бара</word></ar><ar><origin>Salopian</origin><tr>[səˊləυpɪən]</tr><word>n
+уроженец графства Шропшир или города Шрусбери</word></ar><ar><origin>salt_beef</origin><tr>[ˊsɔ:ltbi:f]</tr><word>n
+солонина</word></ar><ar><origin>salt_cake</origin><tr>[ˊsɔ:ltkeɪk]</tr><word>n
+хим. сульфат натрия</word></ar><ar><origin>salt_junk</origin><tr>[ˊsɔ:ltdʒʌŋk]</tr><word>n
+мор. жарг. солонина</word></ar><ar><origin>salt_lick</origin><tr>[ˊsɔ:ltlɪk]</tr><word>n
+1) соляной участок, привлекающий диких животных
+2) лизунец</word></ar><ar><origin>salt_marsh</origin><tr>[ˊsɔ:ltmɑ:ʃ]</tr><word>n
+солончак; низина, затопляемая морской водой</word></ar><ar><origin>salt-free</origin><tr>[ˏsɔ:ltˊfri:]</tr><word>a
+бессолевой;
+salt-free diet бессолевая диета</word></ar><ar><origin>salt-shaker</origin><tr>[ˊsɔ:ltʃeɪkə]</tr><word>n
+амер. солонка с дырочками</word></ar><ar><origin>saltcellar</origin><tr>[ˊsɔ:ltˏselə]</tr><word>n
+солонка</word></ar><ar><origin>saltmine</origin><tr>[ˊsɔ:ltmaɪn]</tr><word>n
+соляная шахта</word></ar><ar><origin>saltpan</origin><tr>[ˊsɔ:ltpæn]</tr><word>n
+1) чрен для выпарки рассола, варница
+2) соляное озеро</word></ar><ar><origin>saltwater</origin><tr>[ˊsɔ:ltˏwɔ:tə]</tr><word>a
+морской</word></ar><ar><origin>Salvation_Army</origin><tr>[sælˏveɪʃnˊɑ:mɪ]</tr><word>n
+Армия спасения</word></ar><ar><origin>Salvationist</origin><tr>[sælˊveɪʃnɪst]</tr><word>n
+член Армии спасения</word></ar><ar><origin>Sam_Browne</origin><tr>[ˏsæmˊbraυn]</tr><word>n
+офицерская портупея (тж. Sam Browne belt)</word></ar><ar><origin>Samaritan</origin><tr></tr><word>1. n ист. самаритянин; самаритянка
+◊ good Samaritan
+а) библ. добрый самаритянин;
+б) добросердечный человек
+2. a
+1) ист. самаритянский
+2) благотворительный</word></ar><ar><origin>Sambo</origin><tr>[ˊsæmbəυ]</tr><word>n (pl -os, -oes [-əυz])
+1) пренебр. чёрный, негр
+2) (s.) самбо (потомок смешанного брака индейцев и негров в Латинской Америке)</word></ar><ar><origin>Sammy</origin><tr>[ˊsæmɪ]</tr><word>n
+сл. Сэмми (прозвище американского солдата во время первой мировой войны)</word></ar><ar><origin>Samson</origin><tr>[ˊsæmsǝn]</tr><word>n
+1) библ. Самсон
+2) силач</word></ar><ar><origin>Samuel</origin><tr>[ˊsæmjυǝl]</tr><word>n
+библ. Самуил</word></ar><ar><origin>sanatoria</origin><tr>[ˏsænəˊtɔ:rɪə]</tr><word>pl от sanatorium</word></ar><ar><origin>sanctum_sanctorum</origin><tr>[ˏsæŋktəm(sæŋkˊtɔ:rəm)]</tr><word>n
+1) рел. святая святых
+2) разг. рабочий кабинет</word></ar><ar><origin>sand_crack</origin><tr>[ˊsændkræk]</tr><word>n
+трещина на копыте у лошади</word></ar><ar><origin>sand_dune</origin><tr>[ˊsænddju:n]</tr><word>n
+дюна</word></ar><ar><origin>sand_eel</origin><tr>[ˏsændˊi:l]</tr><word>n
+песчанка (рыба)</word></ar><ar><origin>sand_hill</origin><tr>[ˊsændhɪl]</tr><word>n
+дюна</word></ar><ar><origin>sand_martin</origin><tr>[ˊsændˏmɑ:tɪn]</tr><word>n
+береговая ласточка</word></ar><ar><origin>sandalwood</origin><tr>[ˊsændlwυd]</tr><word>n
+сандаловое дерево</word></ar><ar><origin>sandbar</origin><tr>[ˊsændbɑ:]</tr><word>n
+наносный песчаный бар</word></ar><ar><origin>sandbath</origin><tr>[ˊsændbɑ:θ]</tr><word>n
+тех. песчаная баня</word></ar><ar><origin>sandbed</origin><tr>[ˊsændbed]</tr><word>n
+песчаное дно, русло</word></ar><ar><origin>sandblast</origin><tr></tr><word>тех.
+1. n
+1) струя песка
+2) пескоструйный аппарат
+2. v обдувать песочной струёй</word></ar><ar><origin>sandbox</origin><tr>[ˊsændbɒks]</tr><word>n
+1) песочница (для детских игр)
+2) тех. песочница
+3) ист. песочница с промокательным песком
+4) литейная форма с песком</word></ar><ar><origin>sandglass</origin><tr>[ˊsændglɑ:s]</tr><word>n
+песочные часы</word></ar><ar><origin>sandhog</origin><tr>[ˊsændhɒg]</tr><word>n
+амер. рабочий на кессонных или подземных работах</word></ar><ar><origin>sandpit</origin><tr>[ˊsændpɪt]</tr><word>n
+песчаный карьер</word></ar><ar><origin>sandshoes</origin><tr>[ˊsændʃu:z]</tr><word>n
+пляжные туфли</word></ar><ar><origin>sandspout</origin><tr>[ˊsændspaυt]</tr><word>n
+песчаный смерч</word></ar><ar><origin>sandstorm</origin><tr>[ˊsændstɔ:m]</tr><word>n
+песчаная буря</word></ar><ar><origin>sandwich_board</origin><tr>[ˊsænwɪdʒbɔ:d]</tr><word>n
+рекламные щиты (прикрепляемые спереди и сзади к несущему их человеку)</word></ar><ar><origin>sandwich_man</origin><tr>[ˊsænwɪdʒmæn]</tr><word>n
+человек-реклама [см. тж. sandwich board]</word></ar><ar><origin>Sanhedrim</origin><tr>[ˊsænədrɪm]</tr><word>= Sanhedrin</word></ar><ar><origin>Sanhedrin</origin><tr>[ˊsænədrɪn]</tr><word>n
+ист. синедрион</word></ar><ar><origin>sanitary_napkin</origin><tr></tr><word>амер. = sanitary towel</word></ar><ar><origin>sanitary_towel</origin><tr>[ˊsænətǝrɪˏtaυəl]</tr><word>n
+женская гигиеническая прокладка</word></ar><ar><origin>sanitary_ware</origin><tr>[ˊsænətǝrɪˏweə]</tr><word>n
+сантехническая керамика (раковины, ванны и т.п.)</word></ar><ar><origin>Sanskrit</origin><tr></tr><word>1. n санскрит
+2. a санскритский</word></ar><ar><origin>Santa_Claus</origin><tr>[ˊsæntəklɔ:z]</tr><word>n
+Санта Клаус, дед-мороз, рождественский дед</word></ar><ar><origin>saphead</origin><tr>[ˊsæphed]</tr><word>n
+1) воен. голова сапы
+2) разг. олух, дурак</word></ar><ar><origin>saprot</origin><tr>[ˊsæprɒt]</tr><word>n
+бот. заболонная гниль</word></ar><ar><origin>sapwood</origin><tr>[ˊsæpwυd]</tr><word>n
+бот. заболонь</word></ar><ar><origin>Saracen</origin><tr>[ˊsærəsǝn]</tr><word>n
+ист. сарацин</word></ar><ar><origin>Saracenic</origin><tr>[ˏsærəˊsenɪk]</tr><word>a
+ист. сарацинский</word></ar><ar><origin>Saratoga</origin><tr>[ˏsærəˊtəυgə]</tr><word>n
+амер. большой чемодан, дорожный сундук (тж. Saratoga trunk)</word></ar><ar><origin>sarcomata</origin><tr>[sɑ:ˊkəυmətə]</tr><word>pl от sarcoma</word></ar><ar><origin>sarcophagi</origin><tr>[sɑ:ˊkɒfəgaɪ]</tr><word>pl от sarcophagus</word></ar><ar><origin>Sard</origin><tr>[sɑ:d]</tr><word>= Sardinian</word></ar><ar><origin>Sardinian</origin><tr></tr><word>1. a сардинский
+2. n
+1) сардинец
+2) сардинский диалект итальянского языка</word></ar><ar><origin>sarge</origin><tr>[sɑ:dʒ]</tr><word>n
+разг. сержант</word></ar><ar><origin>sash_door</origin><tr>[ˊsæʃdɔ:]</tr><word>n
+застеклённая дверь</word></ar><ar><origin>sash_frame</origin><tr>[ˊsæʃfreɪm]</tr><word>= sash Ⅱ, 2)</word></ar><ar><origin>sash_window</origin><tr>[ˊsæʃˏwɪndəυ]</tr><word>n
+подъёмное окно</word></ar><ar><origin>sass</origin><tr>[sæs]</tr><word>n
+амер. разг. нахальство</word></ar><ar><origin>Sassenach</origin><tr>[ˊsæsənæk]</tr><word>n
+ирл., шотл. презр. англичанин</word></ar><ar><origin>Satan</origin><tr>[ˊseɪtn]</tr><word>n
+сатана</word></ar><ar><origin>Satanic</origin><tr>[səˊtænɪk]</tr><word>a
+сатанинский</word></ar><ar><origin>satellite_television</origin><tr>[ˏsætəlaɪtˊteləvɪʒǝn]</tr><word>n
+спутниковое телевидение</word></ar><ar><origin>satellite_town</origin><tr>[ˊsætəlaɪttaυn]</tr><word>n
+город-спутник</word></ar><ar><origin>satin_paper</origin><tr>[ˊsætɪnˏpeɪpə]</tr><word>n
+сатинированная бумага</word></ar><ar><origin>satinette</origin><tr>[ˏsætɪˊnet]</tr><word>n
+текст. сатинет</word></ar><ar><origin>satinwood</origin><tr>[ˊsætɪnwυd]</tr><word>n
+атласное дерево или его древесина</word></ar><ar><origin>Saturday</origin><tr>[ˊsætədeɪ]</tr><word>n
+суббота</word></ar><ar><origin>Saturn</origin><tr>[ˊsætɜ:n]</tr><word>n
+астр., римск. миф. Сатурн</word></ar><ar><origin>sauce_boat</origin><tr>[ˊsɔ:sbəυt]</tr><word>n
+соусник</word></ar><ar><origin>sausage_meat</origin><tr>[ˊsɒsɪdʒmi:t]</tr><word>n
+колбасный фарш</word></ar><ar><origin>sausage_roll</origin><tr>[ˊsɒsɪdʒrəυl]</tr><word>n
+пирожок с мясом или сосиской</word></ar><ar><origin>saut%C3%A9</origin><tr>[ˊsəυteɪ]</tr><word>n
+соте</word></ar><ar><origin>savings_account</origin><tr>[ˊseɪvɪŋzəˏkaυnt]</tr><word>n
+счёт в сберегательном банке</word></ar><ar><origin>savings_bank</origin><tr>[ˊseɪvɪŋzbæŋk]</tr><word>n
+сберегательная касса; сберегательный банк</word></ar><ar><origin>Savoyard</origin><tr>[səˊvɔɪɑ:d]</tr><word>n
+савояр, уроженец Савойи</word></ar><ar><origin>saw_frame</origin><tr>[ˊsɔ:freɪm]</tr><word>n
+тех. лесопильная рама</word></ar><ar><origin>saw_set</origin><tr>[ˊsɔ:set]</tr><word>n
+разводка для пилы (инструмент)</word></ar><ar><origin>saw_tones</origin><tr>[ˊsɔ:təυnz]</tr><word>n pl
+визгливый тон, голос;
+to speak (или to utter) in saw tones говорить визгливым голосом</word></ar><ar><origin>sawblade</origin><tr>[ˊsɔ:bleɪd]</tr><word>n
+полотно пилы</word></ar><ar><origin>sawbuck</origin><tr>[ˊsɔ:bʌk]</tr><word>n
+1) = sawhorse
+2) десятидолларовая бумажка</word></ar><ar><origin>sawfly</origin><tr>[ˊsɔ:flaɪ]</tr><word>n
+пилильщик (насекомое)</word></ar><ar><origin>sawhorse</origin><tr>[ˊsɔ:hɔ:s]</tr><word>n
+козлы для пилки дров</word></ar><ar><origin>sawn</origin><tr>[sɔ:n]</tr><word>p. p. от saw Ⅲ, 2</word></ar><ar><origin>Sawney</origin><tr>[ˊsɔ:nɪ]</tr><word>n
+1) разг. простак, простофиля
+2) презр. шотландец</word></ar><ar><origin>sawtooth</origin><tr>[ˊsɔ:tu:θ]</tr><word>n
+зуб пилы</word></ar><ar><origin>Saxon</origin><tr></tr><word>1. n
+1) ист. сакс
+2) древнесаксонский язык; германский элемент в английском языке
+3) англичанин (в отличие от ирландца или валлийца)
+4) саксонец
+5) шотландец из Южной Шотландии (в отличие от шотландцагорца)
+2. a (древне)саксонский; германский</word></ar><ar><origin>Saxon_blue</origin><tr>[ˏsæksnˊblu:]</tr><word>n
+тёмно-голубой цвет</word></ar><ar><origin>scale_beam</origin><tr>[ˊskeɪlbi:m]</tr><word>n
+коромысло (весов)</word></ar><ar><origin>scaleboard</origin><tr>[ˊskeɪlbɔ:d]</tr><word>n
+тонкая доска, защищающая зеркало или холст картины с обратной стороны</word></ar><ar><origin>scaling_ladder</origin><tr>[ˊskeɪlɪŋˏlædə]</tr><word>n
+ист. штурмовая лестница</word></ar><ar><origin>scandalbearer</origin><tr>[ˊskændlˏbeərə]</tr><word>= scandalmonger</word></ar><ar><origin>Scandinavian</origin><tr></tr><word>1. a скандинавский
+2. n
+1) скандинав; скандинавка
+2) собир. скандинавские языки</word></ar><ar><origin>scapulae</origin><tr>[ˊskæpjυli:]</tr><word>pl от scapula</word></ar><ar><origin>scarf_pin</origin><tr>[ˊskɑ:fpɪn]</tr><word>n
+булавка для галстука</word></ar><ar><origin>scarfskin</origin><tr>[ˊskɑ:fskɪn]</tr><word>n
+анат. надкожица, эпидерма</word></ar><ar><origin>scarlet_fever</origin><tr>[ˏskɑ:lətˊfi:və]</tr><word>n
+скарлатина</word></ar><ar><origin>scarlet_hat</origin><tr>[ˏskɑ:lətˊhæt]</tr><word>n
+кардинальская шапка</word></ar><ar><origin>scarlet_runner</origin><tr>[ˏskɑ:lətˊrʌnə]</tr><word>n
+бот. фасоль огненная</word></ar><ar><origin>scarlet_whore</origin><tr>[ˏskɑ:lətˊhɔ:]</tr><word>n
+1) библ. блудница в пурпуре
+2) проститутка
+3) презр. римско-католическая церковь; папизм</word></ar><ar><origin>scarlet_woman</origin><tr>[ˏskɑ:lətˊwυmən]</tr><word>= scarlet whore</word></ar><ar><origin>scarves</origin><tr>[skɑ:vz]</tr><word>pl от scarf Ⅰ</word></ar><ar><origin>scatterbrain</origin><tr>[ˊskætəbreɪn]</tr><word>n
+вертопрах, легкомысленный человек</word></ar><ar><origin>scatterbrained</origin><tr>[ˊskætəbreɪnd]</tr><word>a
+легкомысленный, ветреный</word></ar><ar><origin>scattering</origin><tr>[ˊskætərɪŋ]</tr><word>n
+1) небольшое количество
+2) физ. рассеяние</word></ar><ar><origin>scavenger_s_daughter</origin><tr>[ˏskævɪndʒəz-ˊdɔ:tə]</tr><word>n
+ист. тиски (орудие пытки)</word></ar><ar><origin>scene_designer</origin><tr>[ˊsi:ndɪˏzaɪnə]</tr><word>= scene painter</word></ar><ar><origin>scene_dock</origin><tr>[ˊsi:ndɒk]</tr><word>n
+склад декораций</word></ar><ar><origin>scene_painter</origin><tr>[ˊsi:nˏpeɪntə]</tr><word>n
+художник-декоратор</word></ar><ar><origin>sceneshifter</origin><tr>[ˊsi:nˏʃɪftə]</tr><word>n
+рабочий сцены</word></ar><ar><origin>schematize</origin><tr>[ˊski:mətaɪz]</tr><word>v
+1) расположить в определённом порядке, систематизировать
+2) представить в виде схемы</word></ar><ar><origin>Schiedam</origin><tr>[skɪˊdæm]</tr><word>n
+голландский джин</word></ar><ar><origin>schizo</origin><tr>[ˊskɪtsəυ]</tr><word>n
+разг. шизик, шизо</word></ar><ar><origin>schmuck</origin><tr>[ʃmʌk]</tr><word>n
+амер. разг. тупица, ничтожество, подонок</word></ar><ar><origin>schnaps</origin><tr>[ʃnæps]</tr><word>n
+шнапс, крепкий спиртной напиток</word></ar><ar><origin>schnitzel</origin><tr>[ˊʃnɪtsl]</tr><word>n
+кул. шницель</word></ar><ar><origin>scholia</origin><tr>[ˊskəυlɪə]</tr><word>pl
+от scholium</word></ar><ar><origin>school_board</origin><tr>[ˊsku:lbɔ:d]</tr><word>n
+амер., ист. местный школьный совет</word></ar><ar><origin>school_miss</origin><tr>[ˊsku:lmɪs]</tr><word>n
+застенчивая, наивная девушка</word></ar><ar><origin>school_ship</origin><tr>[ˊsku:lʃɪp]</tr><word>n
+мор. учебное судно</word></ar><ar><origin>school_year</origin><tr>[ˏsku:lˊjɪə]</tr><word>n
+учебный год</word></ar><ar><origin>school-leaver</origin><tr>[ˏsku:lˊlɪ:və]</tr><word>n
+1) ученик, бросивший школу
+2) выпускник</word></ar><ar><origin>schoolbook</origin><tr>[ˊsku:lbυk]</tr><word>n
+учебник, учебное пособие</word></ar><ar><origin>schoolmarm</origin><tr>[ˊsku:lmɑ:m]</tr><word>n
+разг.
+1) ирон. женщина, говорящая назидательным тоном, любящая читать наставления
+2) амер. уст. школьная учительница</word></ar><ar><origin>schoolmate</origin><tr>[ˊsku:lmeɪt]</tr><word>n
+школьный товарищ</word></ar><ar><origin>schoolteacher</origin><tr>[ˊsku:lˏti:tʃə]</tr><word>n
+школьный учитель, педагог</word></ar><ar><origin>schooltime</origin><tr>[ˊsku:ltaɪm]</tr><word>n
+1) часы занятий
+2) годы учения, школьные годы</word></ar><ar><origin>science_fiction</origin><tr>[ˏsaɪənsˊfɪkʃn]</tr><word>n
+научная фантастика</word></ar><ar><origin>Sclav</origin><tr>[sklɑ:v, skləˊvɒnɪk]</tr><word>= Slav, Slavonic</word></ar><ar><origin>Sclavonic</origin><tr>[sklɑ:v, skləˊvɒnɪk]</tr><word>= Slav, Slavonic</word></ar><ar><origin>sclera</origin><tr>[ˊsklɪərə]</tr><word>n
+анат. склера</word></ar><ar><origin>scleroses</origin><tr>[skləˊrəυsi:z]</tr><word>pl от sclerosis</word></ar><ar><origin>scoliosis</origin><tr>[ˏskɒlɪˊəυsɪs]</tr><word>n
+сколиоз</word></ar><ar><origin>scoop_neck</origin><tr>[ˊsku:pnek]</tr><word>n
+глубокий круглый вырез (у платья)</word></ar><ar><origin>scoop_net</origin><tr>[ˊsku:pnet]</tr><word>n
+сачок</word></ar><ar><origin>scoreboard</origin><tr>[ˊskɔ:bɔ:d]</tr><word>n
+спорт. табло, демонстрационный щит</word></ar><ar><origin>scoriae</origin><tr>[ˊskɔ:rɪi:]</tr><word>pl от scoria</word></ar><ar><origin>Scorpio</origin><tr>[ˊskɔ:pɪəυ]</tr><word>n
+Скорпион (созвездие и знак зодиака)</word></ar><ar><origin>Scot</origin><tr>[skɒt]</tr><word>n
+1) шотландец
+2) ист. скотт</word></ar><ar><origin>Scotch</origin><tr></tr><word>1. a шотландский
+◊ Scotch broth перловый суп;
+Scotch fir (или pine) сосна лесная (или обыкновенная);
+Scotch kale краснокочанная капуста
+2. n
+1) (the Scotch) собир. шотландцы
+2) шотландский диалект
+3) разг. шотландское виски</word></ar><ar><origin>Scotch_tape</origin><tr>[ˏskɒtʃˊteɪp]</tr><word>n
+клейкая лента, «скотч»</word></ar><ar><origin>Scotchman</origin><tr>[ˊskɒtʃmən]</tr><word>n
+шотландец
+◊ Flying Scotchman экспресс Лондон—Эдинбург</word></ar><ar><origin>Scotchwoman</origin><tr>[ˊskɒtʃˏwυmən]</tr><word>n
+шотландка</word></ar><ar><origin>Scotland_Yard</origin><tr>[ˏskɒtləndˊjɑ:d]</tr><word>n
+Скотленд-ярд (центральное управление полиции и сыскного отделения в Лондоне)</word></ar><ar><origin>Scots</origin><tr></tr><word>1. n шотландский диалект
+2. a шотландский</word></ar><ar><origin>Scotsman</origin><tr>[ˊskɒtsmən]</tr><word>= Scotchman</word></ar><ar><origin>Scotswoman</origin><tr>[ˊskɒtsˏwυmən]</tr><word>= Scotchwoman</word></ar><ar><origin>Scotticism</origin><tr>[ˊskɒtɪsɪzǝm]</tr><word>n
+шотландское слово, выражение, шотландизм</word></ar><ar><origin>Scotticize</origin><tr>[ˊskɒtɪsaɪz]</tr><word>v
+подражать шотландским обычаям или шотландскому диалекту</word></ar><ar><origin>Scottish</origin><tr>[ˊskɒtɪʃ]</tr><word>a
+шотландский;
+Scottish dialect шотландский диалект</word></ar><ar><origin>Scoutmaster</origin><tr>[ˊskaυtˏmɑ:stə]</tr><word>n
+начальник отряда бойскаутов</word></ar><ar><origin>scrambled_eggs</origin><tr>[ˏskræmbldˊegz]</tr><word>n pl
+1) яичница-болтунья
+2) воен. разг. кокарда</word></ar><ar><origin>scrap_heap</origin><tr>[ˊskræphi:p]</tr><word>n
+свалка, помойка (тж. перен.);
+to throw on the scrap heap выкинуть за ненадобностью</word></ar><ar><origin>scrap_iron</origin><tr>[ˊskræpaɪən]</tr><word>= scrap Ⅰ, 1, 4)</word></ar><ar><origin>scrap_metal</origin><tr>[ˊskræpmetl]</tr><word>= scrap Ⅰ, 1, 4)</word></ar><ar><origin>scrapbook</origin><tr>[ˊskræpbυk]</tr><word>n
+альбом для наклеивания вырезок</word></ar><ar><origin>Scratch</origin><tr></tr><word>1. n
+1) царапина;
+to get off with a scratch отделаться царапиной; легко отделаться
+2) скрип; царапанье; чирканье
+3) почёсывание, расчёсывание
+4) спорт. стартовая черта;
+to come (up) to the scratch
+а) подойти к стартовой черте;
+б) решиться (на что-л.); быть готовым к борьбе; быть в форме;
+to start from scratch
+а) спорт. не иметь преимущества;
+б) начать всё с (самого) начала
+5) спорт. участник состязания, не получающий преимущества (тж. scratch man)
+6) росчерк; пометка; каракули;
+a scratch of the pen росчерк пера
+7) насечка, метка
+8) pl вет. мокрец (у лошади)
+◊ up to scratch на должной высоте
+2. a
+1) случайный
+2) разношёрстный, сборный; собранный наспех;
+scratch crew (или team, pack) случайно или наспех подобранная спортивная команда;
+scratch dinner обед, приготовленный из того, что оказалось под рукой, импровизированный обед
+3) используемый для черновиков, набросков;
+scratch paper бумага для заметок
+3. v
+1) царапать(ся), скрести(сь); расцарапать, оцарапать;
+to scratch the surface of smth.
+а) не проникать глубже поверхности чего-л.;
+б) относиться поверхностно к чему-л.
+2) чесать(ся);
+to scratch one's head почесать затылок (тж. перен.)
+3) рыть (когтями), выкапывать
+4) скрипеть (о пере)
+5) нацарапать (письмо, рисунок)
+6) вычёркивать (из списка участников, кандидатов; тж. scratch off, scratch out, scratch through)
+7) отказываться (от чего-л.); бросать
+scratch along перебиваться; с трудом сводить концы с концами;
+scratch off, scratch out вычёркивать;
+scratch together, scratch up наскрести, накопить
+◊ scratch my back and I will scratch yours ≅ услуга за услугу</word></ar><ar><origin>scratch_pad</origin><tr>[ˊskrætʃpæd]</tr><word>n
+1) амер. блокнот для черновых записей
+2) информ. «блокнот», прикладная программа</word></ar><ar><origin>scratch_race</origin><tr>[ˊskrætʃreɪs]</tr><word>n
+спорт. состязание без гандикапа</word></ar><ar><origin>scratch_wig</origin><tr>[ˊskrætʃwɪg]</tr><word>n
+накладка из волос</word></ar><ar><origin>scratchwork</origin><tr>[ˊskrætʃwɜ:k]</tr><word>n
+иск. сграффито</word></ar><ar><origin>screech_owl</origin><tr>[ˊskri:tʃaυl]</tr><word>n
+1) зоол. сипуха
+2) предвестник несчастья</word></ar><ar><origin>screen_adaptation</origin><tr>[ˊskri:nˏædəpˏteɪʃǝn]</tr><word>n
+экранизация литературного произведения</word></ar><ar><origin>screen_test</origin><tr>[ˊskri:nˏtest]</tr><word>n
+кинопроба</word></ar><ar><origin>screenwiper</origin><tr>[ˊskri:nˏwaɪpə]</tr><word>n
+стеклоочиститель ветрового стекла (в автомобиле), «дворник»</word></ar><ar><origin>screw_cap</origin><tr>[ˊskru:kæp]</tr><word>= screw top</word></ar><ar><origin>screw_jack</origin><tr>[ˊskru:dʒæk]</tr><word>n
+винтовой домкрат</word></ar><ar><origin>screw_propeller</origin><tr>[ˊskru:prəˏpelə]</tr><word>= screw 1, 4)</word></ar><ar><origin>screw_steamer</origin><tr>[ˊskru:ˏsti:mə]</tr><word>n
+винтовой пароход</word></ar><ar><origin>screw_thread</origin><tr>[ˊskru:θred]</tr><word>n
+тех. резьба, винтовая нарезка</word></ar><ar><origin>screw_top</origin><tr>[ˊskru:tɒp]</tr><word>n
+завинчивающийся колпачок бутылки; завинчивающаяся крышка банки</word></ar><ar><origin>screw_valve</origin><tr>[ˊskru:vælv]</tr><word>n
+тех. винтовой клапан</word></ar><ar><origin>screw_wheel</origin><tr>[ˊskru:wi:l]</tr><word>n
+тех. винтовое, зубчатое колесо</word></ar><ar><origin>screw_wrench</origin><tr>[ˊskru:rentʃ]</tr><word>n
+тех. разводной гаечный ключ</word></ar><ar><origin>screwball</origin><tr>[ˊskru:bɔ:l]</tr><word>n
+амер. разг.
+1) сумасброд, эксцентричный человек
+2) сумасбродство</word></ar><ar><origin>screwcutter</origin><tr>[ˊskru:ˏkʌtə]</tr><word>n
+винторезный станок</word></ar><ar><origin>screwnut</origin><tr>[ˊskru:nʌt]</tr><word>n
+гайка</word></ar><ar><origin>screwplate</origin><tr>[ˊskru:pleɪt]</tr><word>n
+тех. винтовальная доска</word></ar><ar><origin>scriptoria</origin><tr>[skrɪpˊtɔ:rɪə]</tr><word>pl от scriptorium</word></ar><ar><origin>scrollwork</origin><tr>[ˊskrəυlwɜ:k]</tr><word>n
+орнамент в виде завитков</word></ar><ar><origin>scrota</origin><tr>[ˊskrəυtə]</tr><word>pl от scrotum</word></ar><ar><origin>scrub_brush</origin><tr></tr><word>амер. = scrubbing brush</word></ar><ar><origin>scrubbing_brush</origin><tr>[ˊskrʌbɪŋbrʌʃ]</tr><word>n
+жёсткая щётка (для пола)</word></ar><ar><origin>scuba_diving</origin><tr>[ˊsku:bəˏdaɪvɪŋ]</tr><word>n
+подводное плавание со скубой</word></ar><ar><origin>scuta</origin><tr>[ˊskju:tə]</tr><word>pl от scutum</word></ar><ar><origin>scuttlebutt</origin><tr>[ˊskʌtlbʌt]</tr><word>n
+1) мор. бачок с питьевой водой
+2) разг. слух; сплетня</word></ar><ar><origin>Scythian</origin><tr></tr><word>1. a скифский
+2. n
+1) скиф
+2) язык скифов</word></ar><ar><origin>sea_anchor</origin><tr>[ˊsi:ˏæŋkə]</tr><word>n
+мор. плавучий якорь</word></ar><ar><origin>sea_bear</origin><tr>[ˊsi:beə]</tr><word>n
+зоол.
+1) морской котик
+2) белый медведь</word></ar><ar><origin>sea_biscuit</origin><tr>[ˊsi:ˏbɪskɪt]</tr><word>n
+ист. сухарь; галета</word></ar><ar><origin>sea_breeze</origin><tr>[ˊsi:bri:z]</tr><word>n
+ветер с моря, морской бриз</word></ar><ar><origin>sea_captain</origin><tr>[ˊsi:ˏkæptɪn]</tr><word>n
+1) капитан дальнего плавания
+2) поэт. знаменитый мореплаватель или флотоводец</word></ar><ar><origin>sea_chest</origin><tr>[ˊsi:tʃest]</tr><word>n
+матросский сундучок</word></ar><ar><origin>sea_cow</origin><tr>[ˊsi:kaυ]</tr><word>n
+зоол.
+1) ламантин
+2) дюгонь
+3) морж
+4) гиппопотам</word></ar><ar><origin>sea_cucumber</origin><tr>[ˊsi:ˏkju:kʌmbə]</tr><word>n
+зоол. морской огурец</word></ar><ar><origin>sea_dog</origin><tr>[ˊsi:dɒg]</tr><word>n
+1) тюлень
+2) налим
+3) свечение моря в тумане
+4) опытный моряк, морской волк
+5) ист. пират; пиратское судно</word></ar><ar><origin>sea_elephant</origin><tr>[ˊsi:ˏelɪfǝnt]</tr><word>n
+зоол. морской слон</word></ar><ar><origin>sea_fight</origin><tr>[ˊsi:faɪt]</tr><word>n
+морской бой</word></ar><ar><origin>sea_fire</origin><tr>[ˊsi:ˏfaɪə]</tr><word>n
+ночное свечение моря, фосфоресценция моря</word></ar><ar><origin>sea_green</origin><tr></tr><word>1. n цвет морской волны
+2. a цвета морской волны</word></ar><ar><origin>sea_jelly</origin><tr>[ˊsi:dʒelɪ]</tr><word>n
+медуза</word></ar><ar><origin>sea_king</origin><tr>[ˊsi:kɪŋ]</tr><word>n
+викинг</word></ar><ar><origin>sea_lawyer</origin><tr>[ˏsi:ˊlɔ:jə]</tr><word>n
+мор. жарг. придира, критикан</word></ar><ar><origin>sea_legs</origin><tr>[ˊsi:legz]</tr><word>n pl:
+to find (или to get, to have) one's sea legs привыкнуть к морской качке</word></ar><ar><origin>sea_letter</origin><tr>[ˊsi:ˏletə]</tr><word>n
+охранное свидетельство (выдаваемое нейтральному кораблю во время войны)</word></ar><ar><origin>Sea_Lord</origin><tr>[ˏsi:ˊlɔ:d]</tr><word>n
+морской лорд (член совета Адмиралтейства в Великобритании)</word></ar><ar><origin>sea_mew</origin><tr>[ˊsi:mju:]</tr><word>= seagull</word></ar><ar><origin>sea_pay</origin><tr>[ˊsi:peɪ]</tr><word>n
+мор. жалованье во время плавания</word></ar><ar><origin>sea_pen</origin><tr>[ˊsi:pen]</tr><word>n
+зоол. морское перо (полип)</word></ar><ar><origin>sea_power</origin><tr>[ˊsi:ˏpaυə]</tr><word>n
+1) военно-морская мощь
+2) морская держава</word></ar><ar><origin>sea_rover</origin><tr>[ˊsi:ˏrəυvə]</tr><word>n
+1) морской пират
+2) пиратский корабль</word></ar><ar><origin>sea_salt</origin><tr>[ˊsi:sɔ:lt]</tr><word>n
+морская соль</word></ar><ar><origin>sea_serpent</origin><tr>[ˊsi:ˏsɜ:pənt]</tr><word>n
+1) морская змея
+2) морское чудовище</word></ar><ar><origin>sea_snake</origin><tr>[ˊsi:sneɪk]</tr><word>= sea serpent</word></ar><ar><origin>sea_urchin</origin><tr>[ˊsi:ɜ:tʃɪn]</tr><word>n
+зоол. морской ёж</word></ar><ar><origin>seaborn</origin><tr>[ˊsi:bɔ:n]</tr><word>a
+поэт. рождённый морем;
+the seaborn town Венеция</word></ar><ar><origin>seaborne</origin><tr>[ˊsi:bɔ:n]</tr><word>a
+перевозимый морем;
+seaborne trade морская торговля;
+a seaborne invasion вторжение с моря</word></ar><ar><origin>seacock</origin><tr>[ˊsi:kɒk]</tr><word>n
+1) мор. кингстон, забортный клапан
+2) шутл. морской волк</word></ar><ar><origin>seafood</origin><tr>[ˊsi:fu:d]</tr><word>n
+съедобная морская рыба, крабы, моллюски и т.п.</word></ar><ar><origin>seafront</origin><tr>[ˊsi:frʌnt]</tr><word>n
+приморская часть города; приморский бульвар, набережная</word></ar><ar><origin>seagirt</origin><tr>[ˊsi:gɜ:t]</tr><word>a
+поэт. опоясанный морями</word></ar><ar><origin>seagull</origin><tr>[ˊsi:gʌl]</tr><word>n
+чайка</word></ar><ar><origin>seahare</origin><tr>[ˊsi:heə]</tr><word>n
+зоол. морской заяц (моллюск)</word></ar><ar><origin>seahorse</origin><tr>[ˊsi:hɔ:s]</tr><word>n
+1) зоол. морской конёк
+2) морж
+3) полурыба-полуконь (сказочное морское чудовище)</word></ar><ar><origin>seakale</origin><tr>[ˊsi:keɪl]</tr><word>n
+бот. крамбе приморская</word></ar><ar><origin>seal_ring</origin><tr>[ˊsi:lrɪŋ]</tr><word>n
+перстень с печаткой</word></ar><ar><origin>seal_rookery</origin><tr>[ˊsi:lˏrυkǝrɪ]</tr><word>= sealery</word></ar><ar><origin>sealing_wax</origin><tr>[ˊsi:lɪŋwæks]</tr><word>n
+сургуч</word></ar><ar><origin>seamaid</origin><tr>[ˊsi:meɪd]</tr><word>n
+русалка; морская нимфа</word></ar><ar><origin>seamark</origin><tr>[ˊsi:mɑ:k]</tr><word>n
+1) навигационный знак; ориентировочный предмет на берегу
+2) линия уровня полной воды (в море)</word></ar><ar><origin>Seanad</origin><tr>[ˊʃænəd]</tr><word>n
+сенат, верхняя палата (в Ирландии)</word></ar><ar><origin>seapiece</origin><tr>[ˊsi:pi:s]</tr><word>n
+жив. марина, морской пейзаж</word></ar><ar><origin>seaquake</origin><tr>[ˊsi:kweɪk]</tr><word>n
+моретрясение</word></ar><ar><origin>search_party</origin><tr>[ˊsɜ:tʃˏpɑ:tɪ]</tr><word>n
+поисковая группа</word></ar><ar><origin>search_warrant</origin><tr>[ˊsɜ:tʃˏwɒrǝnt]</tr><word>n
+ордер на обыск</word></ar><ar><origin>seascape</origin><tr>[ˊsi:skeɪp]</tr><word>= seapiece</word></ar><ar><origin>seashell</origin><tr>[ˊsi:ʃel]</tr><word>n
+морская ракушка</word></ar><ar><origin>season_ticket</origin><tr>[ˊsi:znˏtɪkɪt]</tr><word>n
+1) сезонный билет
+2) абонемент</word></ar><ar><origin>seat_belt</origin><tr>[ˊsi:tbelt]</tr><word>n
+1) авто ремень безопасности
+2) ав. привязной ремень</word></ar><ar><origin>seated</origin><tr>[ˊsi:tɪd]</tr><word>a
+1) сидящий; проводящийся за столом
+2) с рассадкой (приглашённых) на заранее указанные места (об официальном обеде и т.п.)</word></ar><ar><origin>-seater</origin><tr></tr><word>в сложных словах означает транспортное средство на столько-то мест;
+two-seater, four-seater двухместный, четырёхместный автомобиль, самолёт и т.п.</word></ar><ar><origin>seawall</origin><tr>[ˏsi:ˊwɔ:l]</tr><word>n
+дамба; стенка набережной</word></ar><ar><origin>seaway</origin><tr>[ˊsi:weɪ]</tr><word>n
+1) фарватер, судоходная часть моря
+2) волнение на море;
+in a heavy seaway в сильную волну</word></ar><ar><origin>second_chamber</origin><tr>[ˏsekǝndˊtʃeɪmbə]</tr><word>n
+верхняя палата (парламента)</word></ar><ar><origin>second_childhood</origin><tr>[ˏsekǝndˊtʃaɪldhυd]</tr><word>n
+второе детство, старческий маразм;
+he's in his second childhood он выжил из ума, он впал в детство</word></ar><ar><origin>second_floor</origin><tr>[ˏsekǝndˊflɔ:]</tr><word>n
+1) третий этаж
+2) амер. второй этаж</word></ar><ar><origin>second_hand</origin><tr>[ˊsekǝndhænd]</tr><word>n
+секундная стрелка</word></ar><ar><origin>second_name</origin><tr>[ˏsekǝndˊneɪm]</tr><word>n
+фамилия</word></ar><ar><origin>second_nature</origin><tr>[ˏsekǝndˊneɪtʃə]</tr><word>n
+вторая натура;
+habit is second nature привычка — вторая натура</word></ar><ar><origin>second_thoughts</origin><tr>[ˏsekǝndˊθɔ:ts]</tr><word>n
+мысли, пришедшие в голову позднее; иное мнение или решение, возникшее по зрелом размышлении</word></ar><ar><origin>secretary_bird</origin><tr>[ˊsekrətǝrɪbɜ:d]</tr><word>n
+секретарь (птица)</word></ar><ar><origin>Security_Council</origin><tr>[sɪˊkjυərətɪˏkaυnsl]</tr><word>n
+Совет Безопасности (ООН)</word></ar><ar><origin>sedan_chair</origin><tr>[sɪˏdænˊtʃeə]</tr><word>= sedan 2)</word></ar><ar><origin>see-through</origin><tr>[ˊsi:θru:]</tr><word>a
+прозрачный, просвечивающий</word></ar><ar><origin>seed_corn</origin><tr>[ˊsi:dkɔ:n]</tr><word>n
+посевное зерно</word></ar><ar><origin>seed_fish</origin><tr>[ˊsi:dfɪʃ]</tr><word>n
+нерестующая рыба</word></ar><ar><origin>seed_leaf</origin><tr>[ˊsi:dli:f]</tr><word>n
+бот. семенодоля</word></ar><ar><origin>seed_money</origin><tr>[ˊsi:dmʌnɪ]</tr><word>n
+1) деньги на первое обзаведение
+2) эк. начальные инвестиции</word></ar><ar><origin>seed_oil</origin><tr>[ˊsi:dɔɪl]</tr><word>n
+масло из семян растений</word></ar><ar><origin>seed_pearl</origin><tr>[ˏsi:dˊpɜ:l]</tr><word>n
+мелкий жемчуг</word></ar><ar><origin>seed_plot</origin><tr>[ˊsi:dplɒt]</tr><word>n
+питомник, рассадник (тж. перен.)</word></ar><ar><origin>seed_potato</origin><tr>[ˏsi:dpəˊteɪtə]</tr><word>n
+посевной картофель</word></ar><ar><origin>seedbed</origin><tr>[ˊsi:dbed]</tr><word>n
+грядка с рассадой</word></ar><ar><origin>seedcake</origin><tr>[ˊsi:dkeɪk]</tr><word>n
+печенье или кекс с тмином</word></ar><ar><origin>seeding_machine</origin><tr>[ˊsi:dɪŋməˏʃi:n]</tr><word>n
+сеялка</word></ar><ar><origin>seedtime</origin><tr>[ˊsi:dtaɪm]</tr><word>n
+время сева; посевной сезон</word></ar><ar><origin>seedvessel</origin><tr>[ˊsi:dˏvesl]</tr><word>n
+бот. семенная коробочка; околоплодник, зерновик</word></ar><ar><origin>self_47a</origin><tr></tr><word>в сложных словах выражает:
+1) направленность действия на самого себя, связь с самим собой само-, себя-; свое-;
+self-violence самоубийство;
+self-love себялюбие;
+self-will своеволие
+2) отсутствие посредничества, самопроизвольность, автоматический характер действия или состояния само-;
+self-binder жнейка-сноповязалка;
+self-loading machine автопогрузчик;
+self-healing самозаживление;
+self-winding с автоматическим заводом</word></ar><ar><origin>self-abuse</origin><tr>[ˏselfəˊbju:s]</tr><word>n
+самоунижение</word></ar><ar><origin>self-addressed</origin><tr>[ˏselfəˊdrest]</tr><word>a
+адресованный самому себе</word></ar><ar><origin>self-advertisement</origin><tr>[ˏselfədˊvɜ:tɪsmənt]</tr><word>n
+самореклама</word></ar><ar><origin>self-analysis</origin><tr>[ˏselfəˊnæləsɪs]</tr><word>n
+самоанализ</word></ar><ar><origin>self-appreciation</origin><tr>[ˏselfəpri:ʃɪˊeɪʃn]</tr><word>n
+самомнение; самодовольство</word></ar><ar><origin>self-censorship</origin><tr>[ˏselfˊsensəʃɪp]</tr><word>n
+самоцензура</word></ar><ar><origin>self-certification</origin><tr>[ˏselfsɜ:tɪfɪˊkeɪʃn]</tr><word>n
+система, при которой сотрудник письменно объясняет, что его отсутствие связано с болезнью</word></ar><ar><origin>self-cocking</origin><tr>[ˏselfˊkɒkɪŋ]</tr><word>a
+самовзводный (об оружии)</word></ar><ar><origin>self-conquest</origin><tr>[ˏselfˊkɒŋkwest]</tr><word>n
+победа над самим собой, преодоление собственных недостатков и пороков</word></ar><ar><origin>self-content</origin><tr>[ˏselfkənˊtent]</tr><word>n
+самодовольство</word></ar><ar><origin>self-correcting</origin><tr>[ˏselfkəˊrektɪŋ]</tr><word>a
+саморегулирующийся; самокорректирующийся</word></ar><ar><origin>self-dependence</origin><tr>[ˏselfdɪˊpendǝns]</tr><word>n
+собственная независимость, самостоятельность</word></ar><ar><origin>self-deprecation</origin><tr>[ˏselfdeprəˊkeɪʃn]</tr><word>n
+самоунижение</word></ar><ar><origin>self-discipline</origin><tr>[ˏselfˊdɪsəplɪn]</tr><word>n
+самодисциплина; самоконтроль</word></ar><ar><origin>self-forgetful</origin><tr>[ˏselffəˊgetfǝl]</tr><word>a
+самозабвенный</word></ar><ar><origin>self-fulfilment</origin><tr>[ˏselffυlˊfɪlmənt]</tr><word>n
+реализация своих способностей и возможностей</word></ar><ar><origin>self-locking</origin><tr>[ˏselfˊlɒkɪŋ]</tr><word>a
+спец. с автоматической блокировкой</word></ar><ar><origin>self-regulating</origin><tr>[ˏselfˊregjυleɪtɪŋ]</tr><word>a
+саморегулирующийся</word></ar><ar><origin>self-winding</origin><tr>[ˏselfˊwaɪndɪŋ]</tr><word>a
+с автоматическим заводом</word></ar><ar><origin>sell-by_date</origin><tr>[ˊselbaɪdeɪt]</tr><word>n
+срок реализации товара</word></ar><ar><origin>seller_s_market</origin><tr>[ˏseləzˊmɑ:kɪt]</tr><word>n
+эк. рынок, на котором спрос превышает предложение</word></ar><ar><origin>selling-price</origin><tr>[ˊselɪŋpraɪs]</tr><word>n
+продажная цена</word></ar><ar><origin>selves</origin><tr>[selvz]</tr><word>pl от self 1</word></ar><ar><origin>semiannual</origin><tr>[ˏsemɪˊænjυəl]</tr><word>a
+полугодовой</word></ar><ar><origin>semiautomatic</origin><tr>[ˏsemɪɔ:təˊmætɪk]</tr><word>a
+полуавтоматический</word></ar><ar><origin>semibasement</origin><tr>[ˏsemɪˊbeɪsmənt]</tr><word>n
+полуподвал</word></ar><ar><origin>semicentennial</origin><tr></tr><word>1. a полувековой
+2. n пятидесятилетний юбилей</word></ar><ar><origin>semiconscious</origin><tr>[ˏsemɪˊkɒnʃəs]</tr><word>a
+полубессознательный</word></ar><ar><origin>semidetached</origin><tr>[ˏsemɪdɪˊtætʃt]</tr><word>a
+имеющий общую стену;
+semidetached house половина двухквартирного дома с отдельным входом</word></ar><ar><origin>semidiurnal</origin><tr>[ˏsemɪdaɪˊɜ:nl]</tr><word>a
+астр. полусуточный</word></ar><ar><origin>semidocumentary</origin><tr>[ˏsemɪdɒkjυˊmentǝrɪ]</tr><word>n
+художественно-документальный фильм</word></ar><ar><origin>semifinalist</origin><tr>[ˏsemɪˊfaɪnəlɪst]</tr><word>n
+полуфиналист</word></ar><ar><origin>semifitted</origin><tr>[ˏsemɪˊfɪtɪd]</tr><word>a
+полуприталенный</word></ar><ar><origin>semifluid</origin><tr>[ˏsemɪˊflu:ɪd]</tr><word>a
+полужидкий, вязкий</word></ar><ar><origin>semilunar</origin><tr>[ˏsemɪˊlu:nə]</tr><word>a
+в виде полумесяца, серповидный</word></ar><ar><origin>semimonthly</origin><tr></tr><word>1. a выходящий два раза в месяц (о периодическом издании)
+2. n журнал, бюллетень и т.п., выходящий два раза в месяц
+3. adv дважды в месяц</word></ar><ar><origin>semiofficial</origin><tr>[ˏsemɪəˊfɪʃl]</tr><word>a
+полуофициальный; официозный;
+semiofficial newspaper официоз</word></ar><ar><origin>semirigid</origin><tr>[ˏsemɪˊrɪdʒɪd]</tr><word>a
+ав. полужёсткий</word></ar><ar><origin>semiskilled</origin><tr>[ˏsemɪˊskɪld]</tr><word>a
+малоопытный, недостаточно квалифицированный</word></ar><ar><origin>semisolid</origin><tr>[ˏsemɪˊsɒlɪd]</tr><word>a
+полутвёрдый</word></ar><ar><origin>Semite</origin><tr>[ˊsi:maɪt]</tr><word>n
+семит</word></ar><ar><origin>Semitic</origin><tr>[səˊmɪtɪk]</tr><word>a
+семитический</word></ar><ar><origin>semitropical</origin><tr>[ˏsemɪˊtrɒpɪkl]</tr><word>a
+субтропический</word></ar><ar><origin>semiweekly</origin><tr>[ˏsemɪˊwi:klɪ]</tr><word>a
+выходящий два раза в неделю</word></ar><ar><origin>send-up</origin><tr>[ˊsendʌp]</tr><word>n
+разг.
+1) розыгрыш, насмешка
+2) пародия</word></ar><ar><origin>senesce</origin><tr>[sɪˊnes]</tr><word>v
+стареть</word></ar><ar><origin>senior_citizen</origin><tr>[ˏsi:nɪəˊsɪtɪzǝn]</tr><word>n
+представитель старшего поколения (о пенсионере)</word></ar><ar><origin>sensationmonger</origin><tr>[senˊseɪʃnˏmʌŋgə]</tr><word>n
+распространитель сенсационных слухов</word></ar><ar><origin>sense_organ</origin><tr>[ˊsensˏɔ:gǝn]</tr><word>n
+орган чувств</word></ar><ar><origin>sentry_box</origin><tr>[ˊsentrɪbɒks]</tr><word>n
+караульная будка</word></ar><ar><origin>separata</origin><tr>[ˏsepəˊreɪtə]</tr><word>pl от separatum</word></ar><ar><origin>septa</origin><tr>[ˊseptə]</tr><word>pl от septum</word></ar><ar><origin>September</origin><tr>[sepˊtembə]</tr><word>n
+1) сентябрь
+2) attr. сентябрьский</word></ar><ar><origin>sequelae</origin><tr>[sɪˊkwi:li:]</tr><word>pl от sequela</word></ar><ar><origin>sequestra</origin><tr>[sɪˊkwestrə]</tr><word>pl от sequestrum</word></ar><ar><origin>sera</origin><tr>[ˊsɪərə]</tr><word>pl от serum</word></ar><ar><origin>seraphim</origin><tr>[ˊserəfɪm]</tr><word>pl от seraph</word></ar><ar><origin>Serb</origin><tr></tr><word>1. n серб; сербка
+2. a = Serbian 2</word></ar><ar><origin>Serbian</origin><tr></tr><word>1. n
+1) сербский язык
+2) = Serb 1
+2. a сербский</word></ar><ar><origin>Serbo-Croat</origin><tr>[ˏsɜ:bəʋˊkrəυæt, -krəυˊeɪʃn]</tr><word>n
+сербохорватский язык</word></ar><ar><origin>Serbo-Croatian</origin><tr>[ˏsɜ:bəʋˊkrəυæt, -krəυˊeɪʃn]</tr><word>n
+сербохорватский язык</word></ar><ar><origin>sergeant_major</origin><tr>[ˏsɑ:dʒǝntˊmeɪdʒə]</tr><word>n
+1) главный сержант
+2) старшина</word></ar><ar><origin>seriocomic</origin><tr>[ˏsɪərɪəυˊkɒmɪk]</tr><word>a
+трагикомический, полусерьёзный-полушутливый</word></ar><ar><origin>serpent_charmer</origin><tr>[ˊsɜ:pǝntˏtʃɑ:mə]</tr><word>n
+заклинатель змей</word></ar><ar><origin>service_area</origin><tr>[ˊsɜ:vɪseərɪə]</tr><word>n
+1) зона обслуживания автомобилистов (с бензоколонкой, мастерской, кафетерием)
+2) радио зона вещания</word></ar><ar><origin>service_book</origin><tr>[ˊsɜ:vɪsbυk]</tr><word>n
+молитвенник</word></ar><ar><origin>service_charge</origin><tr>[ˊsɜ:vɪstʃɑ:dʒ]</tr><word>n
+дополнительная плата за обслуживание (в ресторане и т.п.)</word></ar><ar><origin>service_dress</origin><tr>[ˊsɜ:vɪsdres]</tr><word>n
+повседневное обмундирование</word></ar><ar><origin>service_entrance</origin><tr>[ˊsɜ:vɪsentrǝns]</tr><word>n
+1) служебный вход
+2) чёрный ход</word></ar><ar><origin>service_flat</origin><tr>[ˊsɜ:vɪsflæt]</tr><word>n
+квартира с гостиничным обслуживанием</word></ar><ar><origin>service_medal</origin><tr>[ˊsɜ:vɪsmedl]</tr><word>n
+амер. воен. памятная медаль (за участие в какой-л. кампании или военной операции)</word></ar><ar><origin>service_pipe</origin><tr>[ˊsɜ:vɪspaɪp]</tr><word>n
+домовая водопроводная или газопроводная труба</word></ar><ar><origin>service_shop</origin><tr>[ˊsɜ:vɪsʃɒp]</tr><word>n
+мастерская текущего ремонта</word></ar><ar><origin>service_station</origin><tr>[ˊsɜ:vɪssteɪʃn]</tr><word>n
+станция обслуживания (автомобилей)</word></ar><ar><origin>service_tree</origin><tr>[ˊsɜ:vɪstri:]</tr><word>n
+бот. рябина домашняя</word></ar><ar><origin>service_uniform</origin><tr>[ˊsɜ:vɪsju:nɪfɔ:m]</tr><word>n
+амер. воен. повседневная форма одежды</word></ar><ar><origin>servomechanism</origin><tr>[ˊsɜ:vəυˏmekənɪzǝm]</tr><word>n
+тех. сервомеханизм; следящая система</word></ar><ar><origin>servomotor</origin><tr>[ˊsɜ:vəυməυtə]</tr><word>n
+тех. серводвигатель; сервопривод</word></ar><ar><origin>sestertii</origin><tr>[sesˊtɜ:ʃɪɪ]</tr><word>pl от sestertius</word></ar><ar><origin>set_screw</origin><tr>[ˊsetskru:]</tr><word>n
+тех. установочный винт</word></ar><ar><origin>set_square</origin><tr>[ˊsetskweə]</tr><word>n
+угольник</word></ar><ar><origin>setae</origin><tr>[ˊsi:ti:]</tr><word>pl от seta</word></ar><ar><origin>setback</origin><tr>[ˊsetbæk]</tr><word>n
+1) задержка (развития и т.п.); регресс; препятствие
+2) неудача;
+to suffer a setback потерпеть неудачу</word></ar><ar><origin>setting_lotion</origin><tr>[ˏsetɪŋˊləυʃn]</tr><word>n
+лосьон для укладки волос</word></ar><ar><origin>Seventh-Day_Adventists</origin><tr>[ˏsevnθdeɪˊædvǝntɪsts]</tr><word>n pl
+адвентисты Седьмого Дня</word></ar><ar><origin>sewage_farm</origin><tr>[ˊsu:ɪdʒfɑ:m]</tr><word>n
+ферма на полях орошения</word></ar><ar><origin>sewage_works</origin><tr>[ˊsu:ɪdʒwɜ:ks]</tr><word>= sewage farm</word></ar><ar><origin>sewing</origin><tr>[ˊsəυɪŋ]</tr><word>n
+шитьё</word></ar><ar><origin>sewing_silk</origin><tr>[ˊsəυɪŋsɪlk]</tr><word>n
+кручёные шёлковые нитки</word></ar><ar><origin>sewn</origin><tr>[səυn]</tr><word>p. p. от sew</word></ar><ar><origin>sex_appeal</origin><tr>[ˊseksəpi:l]</tr><word>n
+физическая, сексуальная привлекательность (обыкн. женщины)</word></ar><ar><origin>sex_shop</origin><tr>[ˊseksʃɒp]</tr><word>n
+секс-шоп</word></ar><ar><origin>sex_symbol</origin><tr>[ˊseksˏsɪmbəl]</tr><word>n
+секс-символ</word></ar><ar><origin>sexploitation</origin><tr>[ˏseksplɔɪˊteɪʃn]</tr><word>n
+разг. эксплуатация сексуальной темы (в коммерческих целях)</word></ar><ar><origin>sexpot</origin><tr>[ˊsekspɒt]</tr><word>n
+разг. сексуальная бабёнка</word></ar><ar><origin>Seym</origin><tr>[seɪm]</tr><word>n
+сейм</word></ar><ar><origin>sgraffiti</origin><tr>[sgrɑ:ˊfi:tɪ]</tr><word>pl от sgraffito</word></ar><ar><origin>shadow_cabinet</origin><tr>[ˏʃædəυˊkæbɪnɪt]</tr><word>n
+полит. «теневой кабинет» (состав кабинета министров, намечаемый лидерами оппозиции)</word></ar><ar><origin>shadow_economy</origin><tr>[ˏʃædəυɪˊkɒnəmɪ]</tr><word>n
+эк. теневая экономика; нелегальная деловая активность</word></ar><ar><origin>shadow_pantomime</origin><tr>[ˏʃædəυˊpæntəmaɪm]</tr><word>= shadow play</word></ar><ar><origin>shadow_play</origin><tr>[ˊʃædəυpleɪ]</tr><word>n
+театр теней, представление театра теней</word></ar><ar><origin>shaft_furnace</origin><tr>[ˊʃɑ:ftˏfɜ:nɪs]</tr><word>n
+тех. шахтная печь</word></ar><ar><origin>shaggy-dog_story</origin><tr>[ˏʃægɪˊdɒgstɔ:rɪ]</tr><word>n
+длинный и скучный анекдот (весь юмор которого заключается в его нелепости)</word></ar><ar><origin>shaken</origin><tr>[ˊʃeɪkǝn]</tr><word>p. p. от shake 2</word></ar><ar><origin>Shakespearian</origin><tr>[ʃeɪkˊspɪərɪən]</tr><word>a
+шекспировский;
+Shakespearian scholar шекспировед</word></ar><ar><origin>shale_oil</origin><tr>[ˊʃeɪlˏɔɪl]</tr><word>n
+сланцевое масло</word></ar><ar><origin>shalt</origin><tr></tr><word>уст. 2-е л. ед. ч. настоящего времени гл. shall</word></ar><ar><origin>shamateur</origin><tr>[ˊʃæmətə]</tr><word>n
+пренебр. спортсмен-профессионал, выдающий себя за любителя</word></ar><ar><origin>shamus</origin><tr>[ˊʃɑ:məs]</tr><word>n
+амер. сл. сыщик, детектив</word></ar><ar><origin>shan_t</origin><tr></tr><word>сокр. разг. = shall not</word></ar><ar><origin>Shangri-La</origin><tr>[ˏʃæŋgrɪˊlɑ:]</tr><word>n
+1) райский уголок
+2) амер. секретная военно-воздушная база; засекреченный район</word></ar><ar><origin>shantytown</origin><tr>[ˊʃæntɪˏtaυn]</tr><word>n
+посёлок из лачуг, времянок</word></ar><ar><origin>-shaped</origin><tr></tr><word>в сложных словах означает имеющий такую-то форму; напр.:
+cone-shaped конусообразный</word></ar><ar><origin>shariah</origin><tr>[ʃəˊri:ə]</tr><word>n
+шариат</word></ar><ar><origin>sharp_practice</origin><tr>[ˏʃɑ:pˊpræktɪs]</tr><word>n
+недобросовестное действие; жульничество</word></ar><ar><origin>sharpie</origin><tr>[ˊʃɑ:pɪ]</tr><word>n
+1) остроносая плоскодонная шлюпка
+2) шулер, мошенник</word></ar><ar><origin>sharpshooter</origin><tr>[ˊʃɑ:pˏʃu:tə]</tr><word>n
+меткий стрелок, снайпер</word></ar><ar><origin>shashlik</origin><tr>[ˊʃæʃlɪk]</tr><word>n
+шашлык</word></ar><ar><origin>shatterbrain</origin><tr>[ˊʃætəbreɪn]</tr><word>= scatterbrain</word></ar><ar><origin>shatterproof</origin><tr>[ˊʃætəpru:f]</tr><word>a
+безосколочный</word></ar><ar><origin>shaven</origin><tr>[ˊʃeɪvn]</tr><word>p. p. от shave 2</word></ar><ar><origin>Shavian</origin><tr></tr><word>1. n последователь, поклонник Бернарда Шоу
+2. a в стиле, в манере Шоу; имеющий отношение к творчеству или личности Бернарда Шоу</word></ar><ar><origin>shaving_brush</origin><tr>[ˊʃeɪvɪŋbrʌʃ]</tr><word>n
+кисточка для бритья</word></ar><ar><origin>shaving_cream</origin><tr>[ˊʃeɪvɪŋkri:m]</tr><word>n
+крем для бритья</word></ar><ar><origin>shaving_foam</origin><tr>[ˊʃeɪvɪŋfəυm]</tr><word>n
+пена для бритья</word></ar><ar><origin>she_d</origin><tr></tr><word>сокр. разг. = she had, she would</word></ar><ar><origin>she_s</origin><tr></tr><word>сокр. разг = she is, she has</word></ar><ar><origin>she_103</origin><tr></tr><word>в сложных словах означает самку животного; напр.:
+she-goat коза;
+she-wolf волчица</word></ar><ar><origin>-shear</origin><tr></tr><word>в сложных словах означает стриженный столько-то раз; напр.:
+a two-shear ram двухлетний баран (дважды стриженный)</word></ar><ar><origin>shearlegs</origin><tr>[ˊʃɪəlegz]</tr><word>n pl
+мор. временная стрела</word></ar><ar><origin>sheatfish</origin><tr>[ˊʃi:tfɪʃ]</tr><word>n
+сом</word></ar><ar><origin>sheaves</origin><tr>[ʃi:vz]</tr><word>pl от sheaf 1</word></ar><ar><origin>sheep_run</origin><tr>[ˊʃi:prʌn]</tr><word>n
+овечье пастбище</word></ar><ar><origin>sheep_walk</origin><tr>[ˊʃi:pwɔ:k]</tr><word>n
+овечий загон</word></ar><ar><origin>sheep_s-head</origin><tr>[ˊʃi:pshed]</tr><word>n
+«баранья голова», дурак</word></ar><ar><origin>sheepcote</origin><tr>[ˊʃi:pkəυt]</tr><word>= sheepfold</word></ar><ar><origin>sheepdog</origin><tr>[ˊʃi:pdɒg]</tr><word>n
+овчарка</word></ar><ar><origin>sheepfold</origin><tr>[ˊʃi:pfəυld]</tr><word>n
+загон для овец, овчарня</word></ar><ar><origin>sheerlegs</origin><tr>[ˊʃɪəlegz]</tr><word>= shearlegs</word></ar><ar><origin>sheet_anchor</origin><tr>[ˊʃi:tˏæŋkə]</tr><word>n
+1) мор. запасный становой якорь
+2) якорь спасения; единственная надежда</word></ar><ar><origin>sheet_lightning</origin><tr>[ˏʃi:tˊlaɪtnɪŋ]</tr><word>n
+зарница</word></ar><ar><origin>sheet_music</origin><tr>[ˊʃi:tˏmju:zɪk]</tr><word>n
+музыкальное произведение, изданное без переплёта</word></ar><ar><origin>shelf_life</origin><tr>[ˊʃelflaɪf]</tr><word>n
+срок хранения; сохраняемость</word></ar><ar><origin>shell_crater</origin><tr>[ˊʃelˏkreɪtə]</tr><word>n
+воронка от снаряда</word></ar><ar><origin>shell_hit</origin><tr>[ˊʃelhɪt]</tr><word>n
+воен. попадание снаряда</word></ar><ar><origin>shell_hole</origin><tr>[ˊʃelhəυl]</tr><word>n
+пробоина; воронка от снаряда</word></ar><ar><origin>shell_pit</origin><tr>[ˊʃelpɪt]</tr><word>= shell crater</word></ar><ar><origin>shell_shock</origin><tr>[ˊʃelʃɒk]</tr><word>n
+контузия</word></ar><ar><origin>shellfire</origin><tr>[ˊʃelfaɪə]</tr><word>n
+артиллерийский обстрел</word></ar><ar><origin>shelling</origin><tr>[ˊʃelɪŋ]</tr><word>= shellfire</word></ar><ar><origin>shellproof</origin><tr>[ˊʃelpru:f]</tr><word>a
+защищённый от артиллерийского огня, бронированный</word></ar><ar><origin>shelves</origin><tr>[ʃelvz]</tr><word>pl от shelf</word></ar><ar><origin>Sheraton</origin><tr>[ˊʃerətǝn]</tr><word>n
+шератон (стиль мебели ⅩⅧ в.)</word></ar><ar><origin>shew</origin><tr>[ʃəυ]</tr><word>v (shewed [-d]; shewn)
+уст. = show 2</word></ar><ar><origin>shewn</origin><tr>[ʃəυn]</tr><word>p. p. от shew</word></ar><ar><origin>shift_key</origin><tr>[ˊʃɪftki:]</tr><word>n
+клавиша на клавиатуре для смены регистра</word></ar><ar><origin>Shiite</origin><tr>[ˊʃi:aɪt]</tr><word>n
+шиит</word></ar><ar><origin>shinbone</origin><tr>[ˊʃɪnbəυn]</tr><word>n
+анат. большеберцовая кость</word></ar><ar><origin>ship_money</origin><tr>[ˊʃɪpˏmʌnɪ]</tr><word>n
+ист. корабельная подать</word></ar><ar><origin>ship_s_articles</origin><tr>[ˊʃɪpɪŋˏɑ:tɪklz, ˊʃɪpsˏɑ:tɪklz]</tr><word>n pl
+договор о найме на судно</word></ar><ar><origin>ship_s_biscuit</origin><tr>[ˊʃɪpsˏbɪskɪt]</tr><word>n
+ист. сухарь, галета</word></ar><ar><origin>shipping_articles</origin><tr>[ˊʃɪpɪŋˏɑ:tɪklz, ˊʃɪpsˏɑ:tɪklz]</tr><word>n pl
+договор о найме на судно</word></ar><ar><origin>shipway</origin><tr>[ˊʃɪpweɪ]</tr><word>n
+стапель</word></ar><ar><origin>shirt-dress</origin><tr>[ˊʃɜ:tdres]</tr><word>= shirtwaister</word></ar><ar><origin>shirtband</origin><tr>[ˊʃɜ:tbænd]</tr><word>n
+ворот рубашки</word></ar><ar><origin>shirtfront</origin><tr>[ˊʃɜ:tfrʌnt]</tr><word>n
+1) крахмальная грудь рубашки, пластрон
+2) манишка</word></ar><ar><origin>shirttail</origin><tr>[ˊʃɜ:tteɪl]</tr><word>n
+низ рубашки</word></ar><ar><origin>shirtwaist</origin><tr>[ˊʃɜ:tweɪst]</tr><word>n
+амер. английская блузка</word></ar><ar><origin>shirtwaister</origin><tr>[ˊʃɜ:tweɪstə]</tr><word>n
+амер. платье спортивного покроя</word></ar><ar><origin>shock_absorber</origin><tr>[ˊʃɒkəbsɔ:bə]</tr><word>n
+тех. амортизатор</word></ar><ar><origin>shock_brigade</origin><tr>[ˊʃɒkbrɪˏgeɪd]</tr><word>n
+ист. ударная бригада</word></ar><ar><origin>shockproof</origin><tr>[ˊʃɒkpru:f]</tr><word>a
+ударопрочный; противоударный</word></ar><ar><origin>shod</origin><tr>[ʃɒd]</tr><word>past и p. p. от shoe 2</word></ar><ar><origin>shoe_polish</origin><tr>[ˊʃu:ˏpɒlɪʃ]</tr><word>n
+крем для (чистки) обуви</word></ar><ar><origin>shoe_tree</origin><tr>[ˊʃu:tri:]</tr><word>n
+распорка для обуви; колодка</word></ar><ar><origin>shoebox</origin><tr>[ˊʃu:bɒks]</tr><word>n
+1) коробка для обуви
+2) крохотная каморка и т.п.</word></ar><ar><origin>shoelace</origin><tr>[ˊʃu:leɪs]</tr><word>n
+шнурок для ботинок</word></ar><ar><origin>shoeleather</origin><tr>[ˊʃu:ˏleðə]</tr><word>n
+сапожная кожа
+◊ as good a man as ever trod shoeleather прекраснейший человек</word></ar><ar><origin>shoeshine</origin><tr>[ˊʃu:ʃaɪn]</tr><word>n
+амер.
+1) чистка обуви
+2) чистильщик обуви</word></ar><ar><origin>shoot-out</origin><tr>[ˊʃu:taυt]</tr><word>n
+перестрелка</word></ar><ar><origin>-shooter</origin><tr></tr><word>в сложных словах:
+six-shooter шестизарядный револьвер</word></ar><ar><origin>shooting_box</origin><tr>[ˊʃu:tɪŋbɒks]</tr><word>n
+охотничий домик</word></ar><ar><origin>shooting_gallery</origin><tr>[ˊʃu:tɪŋˏgælǝrɪ]</tr><word>n
+тир</word></ar><ar><origin>shooting_iron</origin><tr>[ˊʃu:tɪŋˏaɪən]</tr><word>n
+разг. огнестрельное оружие</word></ar><ar><origin>shooting_range</origin><tr>[ˊʃu:tɪŋreɪndʒ]</tr><word>n
+стрельбище, полигон</word></ar><ar><origin>shooting_star</origin><tr>[ˏʃu:tɪŋˊstɑ:]</tr><word>n
+метеор, падающая звезда</word></ar><ar><origin>shooting_stick</origin><tr>[ˊʃu:tɪŋstɪk]</tr><word>n
+трость-сиденье</word></ar><ar><origin>shooting_war</origin><tr>[ˏʃu:tɪŋˊwɔ:]</tr><word>n
+«горячая» война, настоящая война (в противоположность «холодной» войне)</word></ar><ar><origin>shop_floor</origin><tr>[ˏʃɒpˊflɔ:]</tr><word>n
+рабочие какого-л. предприятия (в противоположность дирекции); рядовые члены профсоюза</word></ar><ar><origin>shop_hours</origin><tr>[ˊʃɒpaυəz]</tr><word>n pl
+время работы магазинов</word></ar><ar><origin>shop_steward</origin><tr>[ˏʃɒpˊstju:əd]</tr><word>n
+цеховой староста</word></ar><ar><origin>shop_window</origin><tr>[ˏʃɒpˊwɪndəυ]</tr><word>n
+витрина
+◊ to have everything in the shop window, to have all one's goods in the shop window
+а) быть поверхностным человеком;
+б) выставлять всё напоказ</word></ar><ar><origin>shop-boy</origin><tr>[ˊʃɒpbɔɪ]</tr><word>n
+продавец</word></ar><ar><origin>shoplifter</origin><tr>[ˊʃɒplɪftə]</tr><word>n
+магазинный вор</word></ar><ar><origin>shopping_centre</origin><tr>[ˊʃɒpɪŋˏsentə]</tr><word>n
+торговый центр</word></ar><ar><origin>shore_dinner</origin><tr>[ˊʃɔ:ˏdɪnə]</tr><word>n
+обед из разных блюд</word></ar><ar><origin>shore_leave</origin><tr>[ˊʃɔ:li:v]</tr><word>n
+мор. отпуск на берег</word></ar><ar><origin>shore_patrol</origin><tr>[ˊʃɔ:pəˏtrəυl]</tr><word>n
+амер. береговой дозор</word></ar><ar><origin>shorn</origin><tr>[ʃɔ:n]</tr><word>p. p. от shear 2</word></ar><ar><origin>short_change</origin><tr>[ˏʃɔ:tˊtʃeɪndʒ]</tr><word>n
+мелочь, сдача</word></ar><ar><origin>short_circuit</origin><tr>[ˏʃɔ:tˊsɜ:kɪt]</tr><word>n
+эл. короткое замыкание</word></ar><ar><origin>short_fuse</origin><tr>[ˊʃɔ:tfju:z]</tr><word>n
+вспыльчивость</word></ar><ar><origin>short_list</origin><tr>[ˊʃɔ:tlɪst]</tr><word>n
+список кандидатов и т.п., из которых делается окончательный выбор</word></ar><ar><origin>short_order</origin><tr>[ˊʃɔ:tɔ:də]</tr><word>n
+блюдо (в ресторане и т.п.), не требующее времени на приготовление
+◊ in short order амер. сразу же, быстро</word></ar><ar><origin>short_time</origin><tr>[ˏʃɔ:tˊtaɪm]</tr><word>n
+неполный рабочий день; неполная рабочая неделя</word></ar><ar><origin>short_ton</origin><tr>[ˏʃɔ:tˊtʌn]</tr><word>n
+короткая (малая) тонна (= 907,2 кг)</word></ar><ar><origin>short_wave</origin><tr>[ˏʃɔ:tˊweɪv]</tr><word>n
+радио короткая волна</word></ar><ar><origin>shorthanded</origin><tr>[ˏʃɔ:tˊhændɪd]</tr><word>a
+испытывающий недостаток в рабочих руках, нуждающийся в рабочей силе</word></ar><ar><origin>shortsighted</origin><tr>[ˏʃɔ:tˊsaɪtɪd]</tr><word>a
+1) близорукий
+2) недальновидный</word></ar><ar><origin>shotgun</origin><tr>[ˊʃɒtgʌn]</tr><word>n
+дробовик (ружьё)
+◊ shotgun marriage вынужденный брак</word></ar><ar><origin>shotproof</origin><tr>[ˏʃɒtˊpru:f]</tr><word>a
+пуленепробиваемый</word></ar><ar><origin>shoulder_belt</origin><tr>[ˊʃəυldəbelt]</tr><word>n
+1) перевязь через плечо
+2) воен. портупея
+3) = shoulder harness</word></ar><ar><origin>shoulder_blade</origin><tr>[ˊʃəυldəbleɪd]</tr><word>n
+анат. лопатка</word></ar><ar><origin>shoulder_harness</origin><tr>[ˊʃəυldəˏhɑ:nɪs]</tr><word>n
+авто плечевой ремень безопасности</word></ar><ar><origin>shoulder_loop</origin><tr></tr><word>амер. = shoulder strap 2)</word></ar><ar><origin>shoulder_mark</origin><tr>[ˊʃəυldəmɑ:k]</tr><word>n
+наплечный знак различия (в военно-морском флоте США)</word></ar><ar><origin>shoulder_pads</origin><tr>[ˊʃəυldəpædz]</tr><word>n pl
+подплечники</word></ar><ar><origin>shoulder_strap</origin><tr>[ˊʃəυldəstræp]</tr><word>n
+1) pl бретельки; плечики;
+a dress without shoulder straps платье с открытыми плечами
+2) воен. погон</word></ar><ar><origin>shovel_hat</origin><tr>[ˊʃʌvlhæt]</tr><word>n
+шляпа с широкими полями, загнутыми по бокам (у англ. духовных лиц)</word></ar><ar><origin>show_business</origin><tr>[ˊʃəυˏbɪznəs]</tr><word>n
+разг. шоу-бизнес; индустрия развлечений</word></ar><ar><origin>show_trial</origin><tr>[ˊʃəυtraɪəl]</tr><word>n (особ. ист.)
+показательный судебный процесс</word></ar><ar><origin>show_window</origin><tr>[ˊʃəυˏwɪndəυ]</tr><word>n
+окно магазина, витрина</word></ar><ar><origin>show-off</origin><tr>[ˊʃəυɒf]</tr><word>n
+разг. позёр</word></ar><ar><origin>showcase</origin><tr>[ˊʃəυkeɪs]</tr><word>n
+витрина</word></ar><ar><origin>showdown</origin><tr>[ˊʃəυdaυn]</tr><word>n
+1) раскрытие карт
+2) раскрытие собственных планов
+3) решительное столкновение</word></ar><ar><origin>shower_bath</origin><tr>[ˊʃaυəbɑ:θ]</tr><word>n
+душ</word></ar><ar><origin>showgirl</origin><tr>[ˊʃəυgɜ:l]</tr><word>n
+певичка, танцовщица или актриса на выходах (в эстрадном представлении)</word></ar><ar><origin>shown</origin><tr>[ʃəυn]</tr><word>p. p. от show 2</word></ar><ar><origin>showroom</origin><tr>[ˊʃəυru:m]</tr><word>n
+выставочный зал; демонстрационный зал для показа образцов товара</word></ar><ar><origin>shrew_mole</origin><tr>[ˊʃru:məυl]</tr><word>n
+водяной крот</word></ar><ar><origin>shrieval</origin><tr>[ˊʃri:vǝl]</tr><word>a
+шерифский</word></ar><ar><origin>shrinking_violet</origin><tr>[ˏʃrɪnkɪŋˊvaɪələt]</tr><word>n
+шутл. застенчивый человек</word></ar><ar><origin>shriven</origin><tr>[ˊʃrɪvn]</tr><word>p. p. от shrive</word></ar><ar><origin>shrove</origin><tr>[ʃrəυv]</tr><word>past от shrive</word></ar><ar><origin>Shrovetide</origin><tr>[ˊʃrəυvtaɪd]</tr><word>n
+масленица</word></ar><ar><origin>shucks</origin><tr>[ˊʃʌks]</tr><word>int
+амер. разг. чёрт!; ерунда!</word></ar><ar><origin>_shun</origin><tr>[ʃʌn]</tr><word>int (сокр. от attention)
+воен. разг. смирно!</word></ar><ar><origin>shunting_yard</origin><tr>[ˊʃʌntɪŋjɑ:d]</tr><word>n
+ж.-д. сортировочная станция, маневровый парк</word></ar><ar><origin>shutdown</origin><tr>[ˊʃʌtdaυn]</tr><word>n
+1) закрытие (предприятия)
+2) выключение</word></ar><ar><origin>shuttle_bus</origin><tr>[ˊʃʌtlbʌs]</tr><word>n
+пригородный автобус</word></ar><ar><origin>shuttle_service</origin><tr>[ˊʃʌtlˏsɜ:vɪs]</tr><word>n
+движение туда и обратно (поездов, автобусов и т.п.), маятниковое движение</word></ar><ar><origin>shuttle_train</origin><tr>[ˊʃʌtltreɪn]</tr><word>n
+пригородный поезд</word></ar><ar><origin>Siamese</origin><tr></tr><word>1. a сиамский;
+Siamese twins сиамские близнецы;
+Siamese cat сиамская кошка
+2. n (pl без измен.; прежнее название жителей Таиланда) сиамец; сиамка;
+the Siamese pl собир. сиамцы</word></ar><ar><origin>sib</origin><tr>[sɪb]</tr><word>n
+1) брат; сестра
+2) кровный родственник</word></ar><ar><origin>Siberian</origin><tr></tr><word>1. a сибирский;
+Siberian dog сибирская лайка;
+Siberian plague сибирская язва
+2. n сибиряк; сибирячка</word></ar><ar><origin>Sicilian</origin><tr></tr><word>1. a сицилийский
+2. n житель Сицилии</word></ar><ar><origin>sick_bag</origin><tr>[ˊsɪkbæg]</tr><word>n
+гигиенический пакет в самолёте</word></ar><ar><origin>sick_bay</origin><tr>[ˊsɪkbeɪ]</tr><word>n
+корабельный лазарет</word></ar><ar><origin>sick_benefit</origin><tr>[ˏsɪkˊbenɪfɪt]</tr><word>n
+пособие по болезни</word></ar><ar><origin>sick_call</origin><tr>[ˊsɪkkɔ:l]</tr><word>n
+1) посещение больного на дому
+2) воен. врачебный приём больных; посещение санитарной части</word></ar><ar><origin>sick_flag</origin><tr>[ˊsɪkflæg]</tr><word>n
+карантинный флаг</word></ar><ar><origin>sick_headache</origin><tr>[ˊsɪkˏhedeɪk]</tr><word>n
+мигрень</word></ar><ar><origin>sick_leave</origin><tr>[ˊsɪkli:v]</tr><word>n
+отпуск по болезни</word></ar><ar><origin>sick_list</origin><tr>[ˊsɪklɪst]</tr><word>n
+1) список больных
+2) больничный лист;
+to be on the sick list не присутствовать по болезни, быть на больничном листе</word></ar><ar><origin>sick_pay</origin><tr>[ˊsɪkpeɪ]</tr><word>n
+пособие по болезни; выплата по больничному листу</word></ar><ar><origin>sickbed</origin><tr>[ˊsɪkbed]</tr><word>n
+постель больного</word></ar><ar><origin>sickroom</origin><tr>[ˊsɪkru:m]</tr><word>n
+комната больного</word></ar><ar><origin>side_dish</origin><tr>[ˊsaɪddɪʃ]</tr><word>n
+гарнир, салат</word></ar><ar><origin>side_effect</origin><tr>[ˊsaɪdɪˏfekt]</tr><word>n
+побочный эффект; побочное явление</word></ar><ar><origin>side_issue</origin><tr>[ˊsaɪdˏɪʃu:]</tr><word>n
+побочный, второстепенный, несущественный вопрос</word></ar><ar><origin>side_note</origin><tr>[ˊsaɪdnəυt]</tr><word>n
+заметка на полях</word></ar><ar><origin>side_view</origin><tr>[ˊsaɪdvju:]</tr><word>n
+профиль, вид сбоку</word></ar><ar><origin>side_wind</origin><tr>[ˊsaɪdwɪnd]</tr><word>n
+1) боковой ветер
+2) непрямое влияние;
+by a side wind окольным путём, стороной</word></ar><ar><origin>sidearms</origin><tr>[ˊsaɪdɑ:mz]</tr><word>n
+воен. оружие, носимое на портупее или поясном ремне (шашка, сабля, амер. тж. револьвер, пистолет)</word></ar><ar><origin>sideboards</origin><tr>[ˊsaɪdbɔ:dz]</tr><word>n pl
+бачки, баки</word></ar><ar><origin>sidecar</origin><tr>[ˊsaɪdkɑ:]</tr><word>n
+1) коляска мотоцикла
+2) род коктейля</word></ar><ar><origin>sideline</origin><tr>[ˊsaɪdlaɪn]</tr><word>n
+1) побочная работа
+2) спорт. боковая линия игрового поля
+3) товары, не составляющие главный предмет торговли в данном магазине
+4) ж.-д. боковая ветка</word></ar><ar><origin>sidesaddle</origin><tr>[ˊsaɪdˏsædl]</tr><word>n
+дамское седло</word></ar><ar><origin>sideshow</origin><tr>[ˊsaɪdʃəυ]</tr><word>n
+1) интермедия, вставной номер
+2) несущественное дело, пустяк</word></ar><ar><origin>sideslip</origin><tr></tr><word>1. n
+1) авто, спорт. боковое скольжение
+2) ав. скольжение на крыло
+2. v
+1) авто заносить
+2) ав. скользить на крыло</word></ar><ar><origin>sidesplitting</origin><tr>[ˊsaɪdˏsplɪtɪŋ]</tr><word>a
+разг.
+1) уморительный
+2) громовой (о хохоте)</word></ar><ar><origin>sidestep</origin><tr></tr><word>1. n
+1) шаг в сторону
+2) ступенька; подножка
+3) спорт. подъём «лесенкой» (на лыжах)
+2. v
+1) отступать в сторону; уступать дорогу
+2) уклоняться от удара
+3) уклоняться, обходить;
+to sidestep an issue обходить вопрос;
+to sidestep a decision откладывать решение</word></ar><ar><origin>sidestroke</origin><tr>[ˊsaɪdstrəυk]</tr><word>n
+1) боковой удар, удар сбоку
+2) плавание на боку</word></ar><ar><origin>sidetrack</origin><tr></tr><word>1. n запасный путь; ветка
+2. v
+1) переводить на запасный путь
+2) уводить в сторону; отвлекать (кого-л.) от цели;
+to sidetrack attention отвлечь внимание
+3) откладывать рассмотрение (предложения)</word></ar><ar><origin>sidewinder</origin><tr>[ˊsaɪdˏwaɪndə]</tr><word>n
+амер. удар сбоку</word></ar><ar><origin>siege_train</origin><tr>[ˊsi:dʒtreɪn]</tr><word>n
+воен. осадный парк</word></ar><ar><origin>sign_language</origin><tr>[ˊsaɪnˏlaŋgwɪdʒ]</tr><word>n
+язык жестов</word></ar><ar><origin>signalbook</origin><tr>[ˊsɪgnlbυk]</tr><word>n
+код, сигнальная книга, сборник сигналов</word></ar><ar><origin>signalbox</origin><tr>[ˊsɪgnlbɒks]</tr><word>n
+ж.-д. блокпост; пост централизации</word></ar><ar><origin>signalman</origin><tr>[ˊsɪgnlmən]</tr><word>n
+сигнальщик; связист</word></ar><ar><origin>signature_tune</origin><tr>[ˊsɪgnətʃəˏtju:n]</tr><word>n
+радио, тлв. мелодия, возвещающая начало или конец какой-л. передачи</word></ar><ar><origin>signet_ring</origin><tr>[ˊsɪgnɪtrɪŋ]</tr><word>n
+кольцо с печаткой</word></ar><ar><origin>Sikh</origin><tr></tr><word>инд. n сикх</word></ar><ar><origin>silicone</origin><tr>[ˊsɪlɪkəυn]</tr><word>n
+хим. кремнийорганическое соединение;
+silicone resin силиконовая смола;
+silicone implant силиконовый имплантат</word></ar><ar><origin>silk_stocking</origin><tr>[ˊsɪlkˏstɒkɪŋ]</tr><word>n
+роскошно одетый человек, богач</word></ar><ar><origin>Silurian</origin><tr></tr><word>геол.
+1. a силурийский
+2. n силурийский период</word></ar><ar><origin>silver_birch</origin><tr>[ˏsɪlvəˊbɜ:tʃ]</tr><word>n
+белая берёза</word></ar><ar><origin>silver_fir</origin><tr>[ˏsɪlvəˊfɜ:]</tr><word>n
+бот. пихта благородная</word></ar><ar><origin>silver_fox</origin><tr>[ˏsɪlvəˊfɒks]</tr><word>n
+чернобурая лисица</word></ar><ar><origin>silver_gilt</origin><tr>[ˏsɪlvəˊgɪlt]</tr><word>a
+из позолоченного серебра</word></ar><ar><origin>silver_paper</origin><tr>[ˏsɪlvəˊpeɪpə]</tr><word>n
+1) тонкая папиросная бумага
+2) оловянная фольга, станиоль</word></ar><ar><origin>silver_plate</origin><tr>[ˏsɪlvəˊpleɪt]</tr><word>n
+собир. столовое серебро</word></ar><ar><origin>silver_side</origin><tr>[ˊsɪlvəsaɪd]</tr><word>n
+лучшая часть ссека говядины</word></ar><ar><origin>simnel_cake</origin><tr>[ˊsɪmnlkeɪk]</tr><word>n
+пасхальный кекс</word></ar><ar><origin>simpleminded</origin><tr>[ˏsɪmplˊmaɪndɪd]</tr><word>n
+1) бесхитростный
+2) туповатый, глупый</word></ar><ar><origin>simplex</origin><tr>[ˊsɪmpleks]</tr><word>a
+1) простой, несоставной
+2) информ. симплексный</word></ar><ar><origin>simulacra</origin><tr>[ˏsɪmjυˊleɪkrə]</tr><word>pl от simulacrum</word></ar><ar><origin>simulcast</origin><tr>[ˊsɪmlkɑ:st]</tr><word>n
+одновременная передача одной и той же программы по радио и телевидению</word></ar><ar><origin>Singhalese</origin><tr>[ˏsɪŋəˊli:z]</tr><word>= Sinhalese</word></ar><ar><origin>single_cream</origin><tr>[ˏsɪŋglˊkri:m]</tr><word>n
+одинарные сливки</word></ar><ar><origin>single-decker</origin><tr>[ˏsɪŋglˊdekə]</tr><word>n
+одноэтажный автобус</word></ar><ar><origin>single-parent_family</origin><tr>[ˏsɪŋglˏpeərəntˊfæmɪlɪ]</tr><word>n
+неполная семья</word></ar><ar><origin>Sinhalese</origin><tr></tr><word>1. a сингальский
+2. n (pl без измен.)
+1) сингалец; сингалка
+2) сингальский язык</word></ar><ar><origin>sinking_fund</origin><tr>[ˊsɪŋkɪŋfʌnd]</tr><word>n
+амортизационный фонд, фонд погашения</word></ar><ar><origin>Sinn_Fein</origin><tr>[ˏʃɪnˊfeɪn]</tr><word>n
+ист. движение шинфейнеров (в Ирландии)</word></ar><ar><origin>Sinn_Feiner</origin><tr>[ˏʃɪnˊfeɪnə]</tr><word>n
+ист. шинфейнер</word></ar><ar><origin>Sioux</origin><tr>[su:]</tr><word>n (pl Sioux [su:z])
+сиу (племя североамериканских индейцев и индеец этого племени)</word></ar><ar><origin>Sisyphean</origin><tr>[ˏsɪsɪˊfi:ən]</tr><word>a
+греч. миф. сизифов (труд)</word></ar><ar><origin>situation_comedy</origin><tr>[ˏsɪtʃυeɪʃnˊkɒmədɪ]</tr><word>n
+комедия положений</word></ar><ar><origin>skating_rink</origin><tr>[ˊskeɪtɪŋrɪŋk]</tr><word>n
+каток</word></ar><ar><origin>sked</origin><tr></tr><word>разг. = schedule</word></ar><ar><origin>skeleton_key</origin><tr>[ˊskelɪtǝnki:]</tr><word>n
+отмычка</word></ar><ar><origin>sketchbook</origin><tr>[ˊsketʃbυk]</tr><word>n
+альбом</word></ar><ar><origin>ski_boots</origin><tr>[ˊski:bu:ts]</tr><word>n
+лыжные ботинки</word></ar><ar><origin>ski_jumping</origin><tr>[ˊski:ˏdʒʌmpɪŋ]</tr><word>n
+прыжки на лыжах с трамплина</word></ar><ar><origin>ski_lift</origin><tr>[ˊski:lɪft]</tr><word>n
+подъёмник для горнолыжников</word></ar><ar><origin>ski_pole</origin><tr>[ˊski:pəυl]</tr><word>n
+лыжная палка</word></ar><ar><origin>ski_run</origin><tr>[ˊski:rʌn]</tr><word>n
+лыжня</word></ar><ar><origin>skiagraphy</origin><tr>[skaɪˊægrəfɪ]</tr><word>= sciagraphy</word></ar><ar><origin>skid_row</origin><tr>[ˏskɪdˊrəυ]</tr><word>n
+амер. разг. район притонов и ночлежек; «дно»</word></ar><ar><origin>skiddoo</origin><tr>[skɪˊdu:]</tr><word>v
+амер. сл. уматывать, убегать</word></ar><ar><origin>skidoo</origin><tr>[skɪˊdu:]</tr><word>v
+амер. сл. уматывать, убегать</word></ar><ar><origin>skied</origin><tr>[ski:d]</tr><word>past и p. p. от ski 2</word></ar><ar><origin>skiffle</origin><tr>[ˊskɪfl]</tr><word>n
+скиффл (народная музыка, исполняемая небольшим ансамблем и певцом-гитаристом)</word></ar><ar><origin>skiing</origin><tr>[ˊski:ɪŋ]</tr><word>n
+1) ходьба, катание на лыжах
+2) лыжный спорт</word></ar><ar><origin>skijoring</origin><tr>[ˊski:ˏdʒɔ:rɪŋ]</tr><word>n
+лыжная буксировка лошадью и т.п.</word></ar><ar><origin>skim</origin><tr></tr><word>1. v
+1) снимать (накипь и т.п.);
+to skim milk снимать сливки с молока;
+to skim the cream off снимать сливки (тж. перен.)
+2) едва касаться, нестись, скользить (along, over — по чему-л.)
+3) бегло прочитывать; перелистывать (книгу; through, over)
+4) амер. скрывать доходы (при уплате налогов)
+2. a:
+skim milk снятое молоко</word></ar><ar><origin>skin_diver</origin><tr>[ˊskɪndaɪvə]</tr><word>n
+1) аквалангист, спортсмен, занимающийся подводным плаванием
+2) ловец жемчуга</word></ar><ar><origin>skin_game</origin><tr>[ˊskɪngeɪm]</tr><word>n
+амер. разг. мошенничество, обман</word></ar><ar><origin>skin_graft</origin><tr>[ˊskɪnˏgrɑ:ft]</tr><word>n
+мед.
+1) пересадка кожи
+2) трансплантат</word></ar><ar><origin>skinheads</origin><tr>[ˊskɪnhedz]</tr><word>n pl
+«бритоголовые», хулиганствующие молодёжные группировки</word></ar><ar><origin>skinny-dipping</origin><tr>[ˊskɪnɪdɪpɪŋ]</tr><word>n
+амер. разг. купание нагишом</word></ar><ar><origin>skipping_rope</origin><tr>[ˊskɪpɪŋrəυp]</tr><word>n
+скакалка</word></ar><ar><origin>skol</origin><tr></tr><word>сканд. int ваше здоровье!</word></ar><ar><origin>skullcap</origin><tr>[ˊskʌlkæp]</tr><word>n
+ермолка; тюбетейка</word></ar><ar><origin>sky_blue</origin><tr></tr><word>1. n лазурь
+2. a лазурный</word></ar><ar><origin>sky_pilot</origin><tr>[ˊskaɪˏpaɪlət]</tr><word>n
+сл. священник, особ. капеллан</word></ar><ar><origin>sky_troops</origin><tr>[ˊskaɪtru:ps]</tr><word>n
+парашютно-десантные войска</word></ar><ar><origin>sky_truck</origin><tr>[ˊskaɪtrʌk]</tr><word>n
+амер. разг. транспортный самолёт</word></ar><ar><origin>sky_wave</origin><tr>[ˊskaɪweɪv]</tr><word>n
+радио волна, отражённая от верхних слоёв атмосферы</word></ar><ar><origin>skyrocket</origin><tr></tr><word>1. n сигнальная ракета
+2. v
+1) устремляться ввысь
+2) разг. стремительно подниматься, быстро расти (о ценах, продукции и т.п.)</word></ar><ar><origin>skyscraper</origin><tr>[ˊskaɪskreɪpə]</tr><word>n
+небоскрёб</word></ar><ar><origin>skywriting</origin><tr>[ˊskaɪˏraɪtɪŋ]</tr><word>n
+надпись, вычерчиваемая в воздухе самолётом; воздушная реклама</word></ar><ar><origin>slack_lime</origin><tr>[ˊslæklaɪm]</tr><word>n
+гашёная известь</word></ar><ar><origin>slack_suit</origin><tr>[ˊslæksu:t]</tr><word>n
+амер. свободная одежда для работы и отдыха</word></ar><ar><origin>slain</origin><tr>[sleɪn]</tr><word>p. p. от slay Ⅰ</word></ar><ar><origin>slaphappy</origin><tr>[ˊslæphæpɪ]</tr><word>a
+разг.
+1) беспечный, необдуманный; шальной
+2) ошеломлённый, потрясённый</word></ar><ar><origin>slaughterhouse</origin><tr>[ˊslɔ:təhaυs]</tr><word>n
+бойня</word></ar><ar><origin>Slav</origin><tr></tr><word>1. n славянин; славянка;
+the Slavs pl собир. славяне
+2. a славянский</word></ar><ar><origin>slave_driver</origin><tr>[ˊsleɪvˏdraɪvə]</tr><word>n
+1) надсмотрщик над рабами
+2) эксплуататор</word></ar><ar><origin>slave_trade</origin><tr>[ˊsleɪvtreɪd]</tr><word>n
+работорговля</word></ar><ar><origin>slaveholder</origin><tr>[ˊsleɪvˏhəυldə]</tr><word>n
+рабовладелец</word></ar><ar><origin>Slavic</origin><tr>[ˊslɑ:vɪk]</tr><word>= Slavonic</word></ar><ar><origin>Slavonian</origin><tr></tr><word>1. a
+1) словенский
+2) славянский
+2. n
+1) словенец; словенка
+2) славянин; славянка
+3) славянская группа языков</word></ar><ar><origin>Slavonic</origin><tr></tr><word>1. a славянский
+2. n славянская группа языков</word></ar><ar><origin>Slavophile</origin><tr>[ˊslɑ:vəυfaɪl]</tr><word>n
+славянофил</word></ar><ar><origin>Slavophobe</origin><tr>[ˊslɑ:vəυfəυb]</tr><word>n
+славянофоб</word></ar><ar><origin>sledgehammer</origin><tr>[ˊsledʒˏhæmə]</tr><word>n
+1) кувалда, кузнечный молот
+2) attr. сокрушительный;
+sledgehammer blow сокрушительный удар;
+sledgehammer argument уничтожающий аргумент</word></ar><ar><origin>sleeper</origin><tr>[ˊsli:pə]</tr><word>n
+1) спящий;
+light (heavy) sleeper спящий чутко (крепко)
+2) соня
+3) ж.-д. шпала
+4) = sleeping car
+5) спальное место (в вагоне)
+6) гигиеническая серьга
+7) нечто, неожиданно получившее признание (напр., лошадь, неожиданно пришедшая первой на скачках, неожиданно нашумевшая книга, кинокартина и т.п.)
+8) (обыкн. pl) детская пижама
+9) шпион, выжидающий удобный момент для начала своей деятельности</word></ar><ar><origin>sleeping_bag</origin><tr>[ˊsli:pɪŋbæg]</tr><word>n
+спальный мешок</word></ar><ar><origin>sleeping_car</origin><tr>[ˊsli:pɪŋkɑ:]</tr><word>n
+спальный вагон</word></ar><ar><origin>sleeping_draught</origin><tr>[ˊsli:pɪŋdrɑ:ft]</tr><word>n
+снотворное средство</word></ar><ar><origin>sleeping_partner</origin><tr></tr><word>см. partner 1, 1)</word></ar><ar><origin>sleeping_pills</origin><tr>[ˊsli:pɪŋpɪlz]</tr><word>n pl
+снотворные таблетки</word></ar><ar><origin>sleeping_policeman</origin><tr>[ˏsli:pɪŋpəˊli:smən]</tr><word>n
+«лежачий полицейский»; гребень поперёк проезжей части дороги (чтобы замедлить движение автомашин около школ и т.п.)</word></ar><ar><origin>sleeping_sickness</origin><tr>[ˊsli:pɪŋˏsɪknəs]</tr><word>n
+1) мед. сонная болезнь
+2) амер. летаргический энцефалит</word></ar><ar><origin>sleepwalker</origin><tr>[ˊsli:pˏwɔ:kə]</tr><word>n
+лунатик</word></ar><ar><origin>sleigh_bell</origin><tr>[ˊsleɪbel]</tr><word>n
+бубенчик</word></ar><ar><origin>sleight_of_hand</origin><tr>[ˏslaɪtəvˊhænd]</tr><word>n
+ловкость рук, жонглёрство</word></ar><ar><origin>sleuthhound</origin><tr>[ˊslu:θhaυnd]</tr><word>n
+1) собака-ищейка
+2) разг. сыщик</word></ar><ar><origin>slid</origin><tr>[slɪd]</tr><word>past и p. p. от slide 2</word></ar><ar><origin>slide_fastener</origin><tr>[ˊslaɪdˏfɑ:snə]</tr><word>n
+амер. застёжка-молния</word></ar><ar><origin>slide_rule</origin><tr>[ˊslaɪdru:l]</tr><word>= sliding rule</word></ar><ar><origin>slide_valve</origin><tr>[ˊslaɪdvælv]</tr><word>n
+тех. золотник</word></ar><ar><origin>sliding_rule</origin><tr>[ˏslaɪdɪŋˊru:l]</tr><word>n
+логарифмическая линейка</word></ar><ar><origin>sliding_scale</origin><tr>[ˏslaɪdɪŋˊskeɪl]</tr><word>n
+1) скользящая шкала
+2) движок логарифмической или счётной линейки</word></ar><ar><origin>sliding_seat</origin><tr>[ˏslaɪdɪŋˊsi:t]</tr><word>n
+слайд, подвижная банка (подвижное сиденье в гоночной лодке)</word></ar><ar><origin>slimming</origin><tr>[ˊslɪmɪŋ]</tr><word>n
+похудание</word></ar><ar><origin>slip_carriage</origin><tr>[ˊslɪpˏkærɪdʒ]</tr><word>n
+вагон, отцепляемый на станции без остановки поезда</word></ar><ar><origin>slipknot</origin><tr>[ˊslɪpnɒt]</tr><word>n
+1) передвижная петля на верёвке
+2) скользящий узел</word></ar><ar><origin>slit_trench</origin><tr>[ˊslɪttrentʃ]</tr><word>n
+воен. щель-убежище</word></ar><ar><origin>slitty</origin><tr>[ˊslɪtɪ]</tr><word>a
+узкий, как щёлочка (о глазах)</word></ar><ar><origin>sloane</origin><tr>[sləυn]</tr><word>n
+сл. молодой лондонец, принадлежащий к светской элите</word></ar><ar><origin>slop_basin</origin><tr>[ˊslɒpˏbeɪsn]</tr><word>n
+полоскательница</word></ar><ar><origin>slop_pail</origin><tr>[ˊslɒppeɪl]</tr><word>n
+помойное ведро</word></ar><ar><origin>slot_machine</origin><tr>[ˊslɒtməˏʃi:n]</tr><word>n
+торговый автомат; игорный автомат</word></ar><ar><origin>sloth_bear</origin><tr>[ˊsləυθbeə]</tr><word>n
+медведь-губач</word></ar><ar><origin>slouch_hat</origin><tr>[ˏslaυtʃˊhæt]</tr><word>n
+шляпа с широкими опущенными полями</word></ar><ar><origin>Slovak</origin><tr></tr><word>1. n
+1) словак; словачка
+2) словацкий язык
+2. a словацкий</word></ar><ar><origin>Slovene</origin><tr>[ˊsləυvi:n]</tr><word>n
+словенец; словенка</word></ar><ar><origin>Slovenian</origin><tr></tr><word>1. a словенский
+2. n словенский язык</word></ar><ar><origin>slow_goods</origin><tr>[ˊsləυgυdz]</tr><word>n pl
+груз малой скорости</word></ar><ar><origin>slow_match</origin><tr>[ˊsləυmætʃ]</tr><word>n
+огнепроводный шнур (для взрывных работ и т.п.)</word></ar><ar><origin>slow_motion</origin><tr>[ˏsləυˊməυʃn]</tr><word>n
+эффект замедленного действия</word></ar><ar><origin>slowpoke</origin><tr></tr><word>амер. = slowcoach</word></ar><ar><origin>slugabed</origin><tr>[ˏslʌgəˊbed]</tr><word>n
+уст. соня, лежебока; лентяй</word></ar><ar><origin>sluice_gate</origin><tr>[ˊslu:sgeɪt]</tr><word>n
+шлюзные ворота</word></ar><ar><origin>sluiceway</origin><tr>[ˊslu:sweɪ]</tr><word>= sluice 1, 2)</word></ar><ar><origin>slumber_wear</origin><tr>[ˊslʌmbəweə]</tr><word>n
+ночные рубашки и пижамы</word></ar><ar><origin>slung</origin><tr>[slʌŋ]</tr><word>past и p. p. от sling Ⅰ, 2</word></ar><ar><origin>slunk</origin><tr>[slʌŋk]</tr><word>past и p. p. от slink Ⅰ и slink Ⅱ, 2</word></ar><ar><origin>slush_fund</origin><tr>[ˊslʌʃfʌnd]</tr><word>n
+1) деньги, предназначенные для взяток
+2) мор. экономические суммы</word></ar><ar><origin>small_arms</origin><tr>[ˊsmɔ:lɑ:mz]</tr><word>n pl
+стрелковое оружие</word></ar><ar><origin>small_beer</origin><tr>[ˏsmɔ:lˊbɪə]</tr><word>n
+1) пустяки, мелочи;
+to think no small beer of oneself быть о себе высокого мнения;
+to chronicle small beer отмечать всякие мелочи; заниматься пустяками
+2) слабое пиво</word></ar><ar><origin>small_change</origin><tr>[ˏsmɔ:lˊtʃeɪndʒ]</tr><word>n
+1) мелкие деньги, мелочь
+2) пустые, банальные замечания</word></ar><ar><origin>small_holder</origin><tr>[ˊsmɔ:lˏhəυldə]</tr><word>n
+мелкий собственник; мелкий арендатор</word></ar><ar><origin>small_intestine</origin><tr>[ˏsmɔ:lɪnˊtestɪn]</tr><word>n
+анат. тонкая кишка</word></ar><ar><origin>small-tooth_comb</origin><tr>[ˏsmɔ:ltu:θˊkəυm]</tr><word>n
+частый гребень</word></ar><ar><origin>smallsword</origin><tr>[ˊsmɔ:lsɔ:d]</tr><word>n
+рапира, шпага</word></ar><ar><origin>smart_aleck</origin><tr>[ˊsmɑ:tˏælɪk]</tr><word>n
+разг. самоуверенный человек; хлыщ</word></ar><ar><origin>smart_bomb</origin><tr>[ˊsmɑ:tbɒm]</tr><word>n
+бомба с лазерным или телевизионным наведением</word></ar><ar><origin>smart_card</origin><tr>[ˊsmɑ:tkɑ:d]</tr><word>n
+информ. электронная пластиковая карточка — носитель какой-л. информации</word></ar><ar><origin>smart_money</origin><tr>[ˊsmɑ:tˏmʌnɪ]</tr><word>n
+1) компенсация за увечье
+2) отступные деньги</word></ar><ar><origin>smarty</origin><tr>[ˊsmɑ:tɪ]</tr><word>n
+разг.
+1) всезнайка, самоуверенный человек
+2) хлыщ, щёголь</word></ar><ar><origin>smash_hit</origin><tr>[ˏsmæʃˊhɪt]</tr><word>n
+1) потрясающий успех (фильма, книги и т.п.)
+2) пьеса, фильм и т.п., пользующиеся большим кассовым успехом</word></ar><ar><origin>smash-up</origin><tr>[ˊsmæʃʌp]</tr><word>n
+авария, катастрофа (автомобильная, железнодорожная)</word></ar><ar><origin>smear_campaign</origin><tr>[ˊsmɪəkæmˏpeɪn]</tr><word>n
+клеветническая кампания</word></ar><ar><origin>smear_test</origin><tr>[ˊsmɪətest]</tr><word>n
+мазок (для микроскопического исследования)</word></ar><ar><origin>smegma</origin><tr>[ˊsmegmə]</tr><word>n
+смегма</word></ar><ar><origin>smelling_bottle</origin><tr>[ˊsmelɪŋˏbɒtl]</tr><word>n
+флакон с нюхательной солью</word></ar><ar><origin>smelling_salts</origin><tr>[ˊsmelɪŋsɔ:lts]</tr><word>n
+нюхательная соль</word></ar><ar><origin>smitten</origin><tr>[ˊsmɪtn]</tr><word>p. p. от smite 1</word></ar><ar><origin>smock_frock</origin><tr>[ˏsmɒkˊfrɒk]</tr><word>n
+холщёвый халат (для работы)</word></ar><ar><origin>smoke_black</origin><tr>[ˊsməυkblæk]</tr><word>n
+сажа</word></ar><ar><origin>smoke_bomb</origin><tr>[ˊsməυkbɒm]</tr><word>n
+воен. дымовой снаряд, дымовая бомба</word></ar><ar><origin>smoke_cloud</origin><tr>[ˊsməυkklaυd]</tr><word>n
+дымовое облако, дымовая завеса</word></ar><ar><origin>smoke_consumer</origin><tr>[ˊsməυkkənˏsju:mə]</tr><word>n
+дымопоглощающее устройство</word></ar><ar><origin>smoke_detector</origin><tr>[ˊsməυkdɪˏtektə]</tr><word>n
+детектор дыма</word></ar><ar><origin>smoke_screen</origin><tr>[ˊsməυkskri:n]</tr><word>n
+воен. дымовая завеса (тж. перен.)</word></ar><ar><origin>smokehouse</origin><tr>[ˊsməυkhaυs]</tr><word>n
+коптильня</word></ar><ar><origin>smokestack</origin><tr>[ˊsməυkstæk]</tr><word>n
+дымовая труба</word></ar><ar><origin>smoko</origin><tr>[ˊsməυkəυ]</tr><word>n
+австрал. разг.
+1) перекур
+2) перерыв для чая</word></ar><ar><origin>smoothbore</origin><tr>[ˊsmu:ðbɔ:]</tr><word>n
+воен. гладкоствольное оружие</word></ar><ar><origin>smote</origin><tr>[sməυt]</tr><word>past от smite 1</word></ar><ar><origin>smothered_mate</origin><tr>[ˊsmʌðədmeɪt]</tr><word>n
+шахм. спёртый мат</word></ar><ar><origin>snack_bar</origin><tr>[ˊsnækbɑ:]</tr><word>n
+закусочная, буфет</word></ar><ar><origin>snaggle-tooth</origin><tr>[ˊsnægltu:θ]</tr><word>n
+зуб неправильной формы или выдающийся вперёд</word></ar><ar><origin>snake_charmer</origin><tr>[ˊsneɪkˏtʃɑ:mə]</tr><word>n
+заклинатель змей</word></ar><ar><origin>snakeskin</origin><tr>[ˊsneɪkˏskɪn]</tr><word>n
+змеиная кожа</word></ar><ar><origin>snap_beans</origin><tr>[ˊsnæpbi:nz]</tr><word>n pl
+ломкая фасоль</word></ar><ar><origin>snap_roll</origin><tr>[ˊsnæprəυl]</tr><word>n
+ав. бочка</word></ar><ar><origin>snap_shot</origin><tr>[ˊsnæpʃɒt]</tr><word>n
+выстрел навскидку</word></ar><ar><origin>snarl-up</origin><tr>[ˊsnɑ:lʌp]</tr><word>n
+разг.
+1) скопление транспорта, затор, «пробка»
+2) путаница, неразбериха</word></ar><ar><origin>snavel</origin><tr>[ˊsnævl]</tr><word>v
+австрал. сл. стащить, украсть</word></ar><ar><origin>sniffer</origin><tr>[ˊsnɪfə]</tr><word>n
+1) наркоман, вдыхающий наркотики
+2) сл. нюхалка, нос
+3) разг. прибор для обнаружения газа, радиации и т.п.</word></ar><ar><origin>sniffer_dog</origin><tr>[ˊsnɪfədɒg]</tr><word>n
+собака, обученная находить наркотики и взрывчатые вещества</word></ar><ar><origin>snifter-valve</origin><tr>[ˊsnɪftəvælv]</tr><word>n
+выдувной клапан</word></ar><ar><origin>snow_bunny</origin><tr>[ˊsnəυˏbʌnɪ]</tr><word>n
+неопытная лыжница</word></ar><ar><origin>snow_fence</origin><tr>[ˊsnəυfens]</tr><word>n
+ж.-д. снегозащитное заграждение</word></ar><ar><origin>snowbank</origin><tr>[ˊsnəυbæŋk]</tr><word>n
+снежный нанос, сугроб</word></ar><ar><origin>snowbird</origin><tr>[ˊsnəυbɜ:d]</tr><word>n
+1) юнко зимний (птица)
+2) дрозд-рябинник (птица)
+3) сл. кокаинист</word></ar><ar><origin>snowboots</origin><tr>[ˊsnəυbu:ts]</tr><word>n pl
+зимние сапоги</word></ar><ar><origin>snowbound</origin><tr>[ˊsnəυbaυnd]</tr><word>a
+1) заснеженный, занесённый снегом
+2) задержанный снежными заносами</word></ar><ar><origin>snowcapped</origin><tr>[ˊsnəυkæpt]</tr><word>a
+покрытый снегом (о горах)</word></ar><ar><origin>snowdrift</origin><tr>[ˊsnəυdrɪft]</tr><word>n
+снежный сугроб</word></ar><ar><origin>snowfall</origin><tr>[ˊsnəυfɔ:l]</tr><word>n
+снегопад</word></ar><ar><origin>snowflake</origin><tr>[ˊsnəυfleɪk]</tr><word>n
+снежинка; pl хлопья снега</word></ar><ar><origin>snowplough</origin><tr>[ˊsnəυplaυ]</tr><word>n
+снеговой плуг; снегоочиститель</word></ar><ar><origin>snowshoes</origin><tr>[ˊsnəυʃu:z]</tr><word>n pl
+снегоступы</word></ar><ar><origin>snowslide</origin><tr>[ˊsnəυslaɪd]</tr><word>n
+лавина</word></ar><ar><origin>snowslip</origin><tr>[ˊsnəυslɪp]</tr><word>= snowslide</word></ar><ar><origin>snowstorm</origin><tr>[ˊsnəυstɔ:m]</tr><word>n
+метель, буран, вьюга</word></ar><ar><origin>snuffbox</origin><tr>[ˊsnʌfbɒks]</tr><word>n
+табакерка</word></ar><ar><origin>snuffle_valve</origin><tr>[ˊsnʌflvælv]</tr><word>n
+тех. выдувной или фыркающий клапан</word></ar><ar><origin>soap_opera</origin><tr>[ˊsəυpˏɒprə]</tr><word>n
+многосерийная теле- или радиопостановка на семейные и бытовые темы (обыкн. сентиментального характера)</word></ar><ar><origin>soap_powder</origin><tr>[ˊsəυpˏpaυdə]</tr><word>n
+стиральный порошок</word></ar><ar><origin>soapstone</origin><tr>[ˊsəυpstəυn]</tr><word>n
+мин. мыльный камень, стеатит</word></ar><ar><origin>soapsuds</origin><tr>[ˊsəυpsʌdz]</tr><word>n pl
+1) мыльная пена
+2) обмылки</word></ar><ar><origin>sob_sister</origin><tr>[ˊsɒbˏsɪstə]</tr><word>n
+амер. писательница душещипательных или сенсационных статей, рассказов</word></ar><ar><origin>sob_stuff</origin><tr>[ˊsɒbstʌf]</tr><word>n
+разг. сентиментальщина</word></ar><ar><origin>sobersides</origin><tr>[ˊsəυbəsaɪdz]</tr><word>n
+разг. степенный человек</word></ar><ar><origin>social_climber</origin><tr>[ˏsəυʃlˊklaɪmə]</tr><word>n
+презр. карьерист</word></ar><ar><origin>social_democracy</origin><tr>[ˏsəυʃldɪˊmɒkrəsɪ]</tr><word>n
+социал-демократия</word></ar><ar><origin>social_democrat</origin><tr>[ˏsəυʃlˊdeməkræt]</tr><word>n
+социал-демократ</word></ar><ar><origin>social_democratic</origin><tr>[ˏsəυʃldeməˊkrætɪk]</tr><word>a
+социал-демократический</word></ar><ar><origin>soda_biscuit</origin><tr>[ˊsəυdəˏbɪskɪt]</tr><word>n
+печенье на соде</word></ar><ar><origin>soda_fountain</origin><tr>[ˊsəυdəˏfaυntɪn]</tr><word>n
+сатуратор, тележка с сатуратором для продажи газированной воды; стойка, где продаётся газированная вода</word></ar><ar><origin>soda_jerk</origin><tr>[ˊsəυdədʒɜ:k]</tr><word>n
+разг. продавец газированной воды</word></ar><ar><origin>soda_water</origin><tr>[ˊsəυdəˏwɔ:tə]</tr><word>= soda 2)</word></ar><ar><origin>sofa_bed</origin><tr>[ˊsəυfəbəd]</tr><word>n
+диван-кровать</word></ar><ar><origin>soft_copy</origin><tr>[ˊsɒftˏkɒpɪ]</tr><word>n
+информ. изображение на экране дисплея; недокументальная копия</word></ar><ar><origin>soft_drink</origin><tr>[ˊsɒftdrɪŋk]</tr><word>n
+безалкогольный прохладительный напиток</word></ar><ar><origin>soft_furnishings</origin><tr>[ˏsɒftˊfɜ:nɪʃɪŋz]</tr><word>n pl
+декоративные ткани, обивочный материал</word></ar><ar><origin>soft_goods</origin><tr>[ˏsɒftˊgυdz]</tr><word>n pl
+текстильные изделия</word></ar><ar><origin>soft_money</origin><tr>[ˏsɒftˊmʌnɪ]</tr><word>n
+амер. разг. бумажные деньги</word></ar><ar><origin>soft_pedal</origin><tr>[ˏsɒftˊpedl]</tr><word>n
+1) муз. левая педаль
+2) разг. запрет, ограничение</word></ar><ar><origin>soft_porn</origin><tr>[ˏsɒftˊpɔ:n]</tr><word>n
+мягкое порно</word></ar><ar><origin>soft_sawder</origin><tr>[ˏsɒftˊsɔ:də]</tr><word>n
+лесть, комплименты</word></ar><ar><origin>soft_sell</origin><tr>[ˏsɒftˊsel]</tr><word>n
+скромная, ненавязчивая реклама</word></ar><ar><origin>soft_soap</origin><tr></tr><word>1. n
+1) жидкое мыло; зелёное мыло
+2) разг. лесть
+2. v разг. льстить</word></ar><ar><origin>softheaded</origin><tr>[ˏsɒftˊhedɪd]</tr><word>a
+придурковатый</word></ar><ar><origin>soi-disant</origin><tr></tr><word>фр. a так называемый, мнимый</word></ar><ar><origin>soign%C3%A9</origin><tr></tr><word>фр. a холёный, ухоженный; изысканный; выхоленный</word></ar><ar><origin>soil_pipe</origin><tr>[ˊsɔɪlpaɪp]</tr><word>n
+канализационная труба</word></ar><ar><origin>soir%C3%A9e</origin><tr>[ˊswɑ:reɪ]</tr><word>n
+званый вечер</word></ar><ar><origin>Sol</origin><tr>[sɒl]</tr><word>n
+шутл. солнце (часто old Sol)</word></ar><ar><origin>solaria</origin><tr>[səˊleərɪə]</tr><word>pl от solarium</word></ar><ar><origin>solatia</origin><tr>[səυˊleɪʃɪə]</tr><word>pl от solatium</word></ar><ar><origin>soldering_iron</origin><tr>[ˊsɒldǝrɪŋˏaɪən]</tr><word>n
+паяльник</word></ar><ar><origin>soldi</origin><tr>[ˊsɒldi:]</tr><word>pl от soldo</word></ar><ar><origin>soldier_crab</origin><tr>[ˊsəυldʒəkræb]</tr><word>n
+рак-отшельник</word></ar><ar><origin>soli</origin><tr>[ˊsəυli:]</tr><word>pl от solo</word></ar><ar><origin>Solicitor_General</origin><tr>[səˏlɪsɪtəˊdʒenrǝl]</tr><word>n
+1) заместитель генерального прокурора
+2) амер. заместитель министра юстиции
+3) амер. главный прокурор (некоторых штатов)</word></ar><ar><origin>solid_geometry</origin><tr>[ˏsɒlɪddʒɪˊɒmətrɪ]</tr><word>n
+стереометрия</word></ar><ar><origin>Solomon</origin><tr>[ˊsɒləmən]</tr><word>n
+1) библ. Соломон
+2) мудрец</word></ar><ar><origin>Solomon_s_Seal</origin><tr>[ˏsɒləmənzˊsi:l]</tr><word>n
+1) соломонова печать (шестиконечная звезда, образованная из двух переплетённых треугольников)
+2) бот. купёна</word></ar><ar><origin>someday</origin><tr>[ˊsʌmdeɪ]</tr><word>adv
+когда-нибудь, в один прекрасный день</word></ar><ar><origin>son-of-a-bitch</origin><tr>[ˏsʌnəvəˊbɪtʃ]</tr><word>n (pl sonsof-bitches)
+амер. груб.
+1) сукин сын
+2) трудная задача; нудная тяжёлая работа
+3) в грам. знач. междометия чёрт тебя подери!; ах, чтоб тебе!</word></ar><ar><origin>songbird</origin><tr>[ˊsɒŋbɜ:d]</tr><word>n
+певчая птица</word></ar><ar><origin>sons-in-law</origin><tr>[ˊsʌnzɪnlɔ:]</tr><word>pl от son-in-law</word></ar><ar><origin>sons-of-bitches</origin><tr>[ˏsʌnzəvˊbɪtʃɪz]</tr><word>pl от son-of-a-bitch</word></ar><ar><origin>soot_pit</origin><tr>[ˊsυtpɪt]</tr><word>n
+тех. зольник</word></ar><ar><origin>sooty_shearwater</origin><tr>[ˏsυtɪˊʃɪəwɔ:tə]</tr><word>n
+зоол. буревестник серый</word></ar><ar><origin>soph</origin><tr></tr><word>разг. сокр. от sophomore</word></ar><ar><origin>soprani</origin><tr>[səˊprɑ:ni:]</tr><word>pl от soprano</word></ar><ar><origin>sordini</origin><tr>[sɔ:ˊdi:nɪ]</tr><word>pl от sordino</word></ar><ar><origin>sordino</origin><tr>[sɔ:ˊdi:nəυ]</tr><word>n (pl -ni)
+муз. сурдинка</word></ar><ar><origin>SOS</origin><tr></tr><word>1. n (радио)сигнал бедствия
+2. v давать (радио)сигнал бедствия</word></ar><ar><origin>sotto_voce</origin><tr></tr><word>ит. adv вполголоса; про себя</word></ar><ar><origin>sou_c23</origin><tr></tr><word>в сложных словах юго-;
+sou'east юго-восток;
+sou'west юго-запад</word></ar><ar><origin>sou_easter</origin><tr>[ˏsaυˊi:stə]</tr><word>= southeaster</word></ar><ar><origin>sou_wester</origin><tr>[saυˊwestə]</tr><word>n
+мор.
+1) = southwester
+2) зюйдвестка</word></ar><ar><origin>Soudanese</origin><tr>[ˏsu:dəˊni:z]</tr><word>= Sudanese</word></ar><ar><origin>souffl%C3%A9</origin><tr>[ˊsu:fleɪ]</tr><word>n
+суфле</word></ar><ar><origin>sound_barrier</origin><tr>[ˊsaυndˏbærɪə]</tr><word>n
+звуковой барьер</word></ar><ar><origin>sound_box</origin><tr>[ˊsaυndbɒks]</tr><word>n
+1) звукосниматель (граммофона)
+2) резонирующий корпус (скрипки и т.п.)</word></ar><ar><origin>sound_effects</origin><tr>[ˊsaυndɪˏfekts]</tr><word>n pl
+звуковые эффекты</word></ar><ar><origin>sound_engineer</origin><tr>[ˏsaυndendʒɪˊnɪə]</tr><word>n
+звукооператор</word></ar><ar><origin>sound_film</origin><tr>[ˊsaυndfɪlm]</tr><word>n
+звуковой фильм</word></ar><ar><origin>sound_locator</origin><tr>[ˏsaυndləυˊkeɪtə]</tr><word>n
+шумопеленгатор</word></ar><ar><origin>sound_man</origin><tr>[ˊsaυndmæn]</tr><word>n
+амер. радио, тлв.
+1) звукооператор
+2) звукорежиссёр</word></ar><ar><origin>sound_rocket</origin><tr>[ˏsaυndˊrɒkɪt]</tr><word>n
+воен. звуковая сигнальная ракета</word></ar><ar><origin>sound_wave</origin><tr>[ˊsaυndweɪv]</tr><word>n
+звуковая волна</word></ar><ar><origin>sounding_balloon</origin><tr>[ˏsaυndɪŋbəˊlu:n]</tr><word>n
+метео шар-зонд</word></ar><ar><origin>sounding_board</origin><tr>[ˊsaυndɪŋbɔ:d]</tr><word>n
+резонатор, дека</word></ar><ar><origin>soundproof</origin><tr></tr><word>1. a звуконепроницаемый
+2. v делать звуконепроницаемым</word></ar><ar><origin>soundtrack</origin><tr>[ˊsaυndtræk]</tr><word>n
+кино звуковая дорожка</word></ar><ar><origin>soup_kitchen</origin><tr>[ˊsu:pˏkɪtʃǝn]</tr><word>n
+1) бесплатная столовая для нуждающихся
+2) амер. воен. разг. походная кухня</word></ar><ar><origin>soup_plate</origin><tr>[ˊsu:ppleɪt]</tr><word>n
+глубокая тарелка</word></ar><ar><origin>soup_spoon</origin><tr>[ˊsu:pspu:n]</tr><word>n
+столовая ложка</word></ar><ar><origin>soup_ticket</origin><tr>[ˊsu:pˏtɪkɪt]</tr><word>n
+талон на бесплатный обед</word></ar><ar><origin>soup%C3%A7on</origin><tr>[ˊsu:psɒn]</tr><word>n
+малая толика (чего-л.); чуточка</word></ar><ar><origin>sour_cream</origin><tr>[ˏsaυəˊkri:m]</tr><word>n
+сметана</word></ar><ar><origin>source_book</origin><tr>[ˊsɔ:sbυk]</tr><word>n
+собрание подлинных письменных источников для изучения (какого-л. предмета)</word></ar><ar><origin>source_language</origin><tr>[ˊsɔ:sˏlæŋgwɪdʒ]</tr><word>n
+1) язык, с которого делается перевод, язык оригинала
+2) информ. входной язык</word></ar><ar><origin>sourpuss</origin><tr>[ˊsaυəpυs]</tr><word>n
+разг. ворчун, брюзга; мрачная личность</word></ar><ar><origin>Southdown</origin><tr>[ˊsaυθdaυn]</tr><word>n
+английская порода безрогих короткошёрстных овец</word></ar><ar><origin>southeast</origin><tr></tr><word>1. n юго-восток; мор. зюйд-ост
+2. a юго-восточный
+3. adv на юго-восток, в юго-восточном направлении, к юго-востоку</word></ar><ar><origin>southeaster</origin><tr>[ˏsaυθˊi:stə]</tr><word>n
+юго-восточный ветер; мор. зюйд-ост</word></ar><ar><origin>southeasterly</origin><tr></tr><word>1. a
+1) расположенный к юго-востоку
+2) дующий с юго-востока
+2. adv в юго-восточном направлении</word></ar><ar><origin>southeastern</origin><tr>[saυθˊi:stǝn]</tr><word>a
+юго-восточный</word></ar><ar><origin>southeastward</origin><tr></tr><word>1. adv в юго-восточном направлении
+2. a расположенный на юго-востоке
+3. n юго-восток</word></ar><ar><origin>southeastwards</origin><tr>[saυθˊi:stwədz]</tr><word>= southeastward 1</word></ar><ar><origin>southwest</origin><tr></tr><word>1. n юго-запад; мор. зюйд-вест
+2. a юго-западный
+3. adv на юго-запад, в юго-западном направлении, к юго-западу</word></ar><ar><origin>southwester</origin><tr>[saυθˊwestə, <em style="color:green">мор.</em> <span style="color:lightslategray">saυˊwestə]</tr><word>n
+юго-западный ветер; мор. зюйд-вест</word></ar><ar><origin>southwestward</origin><tr></tr><word>1. adv в юго-западном направлении
+2. a расположенный на юго-западе
+3. n юго-запад</word></ar><ar><origin>southwestwards</origin><tr>[saυθˊwestwədz]</tr><word>= southwestward 1</word></ar><ar><origin>Soviet</origin><tr></tr><word>1. n совет
+2. a советский</word></ar><ar><origin>sow_thistle</origin><tr>[ˊsəυˏθɪsl]</tr><word>n
+бот. осот</word></ar><ar><origin>sowing_machine</origin><tr>[ˊsəυɪŋməˏʃi:n]</tr><word>n
+сеялка</word></ar><ar><origin>sown</origin><tr>[səυn]</tr><word>p. p. от sow Ⅰ;
+the sky sown with stars небо, усеянное звёздами</word></ar><ar><origin>sox</origin><tr>[sɒks]</tr><word>n pl
+амер. носки (преим. в рекламе)</word></ar><ar><origin>soy_sauce</origin><tr>[ˏsɔɪˊsɔ:s]</tr><word>n
+соевый соус</word></ar><ar><origin>soya_bean</origin><tr></tr><word>1) соя
+2) соевый боб</word></ar><ar><origin>soybean</origin><tr></tr><word>амер. = soya bean</word></ar><ar><origin>space_bar</origin><tr>[ˊspeɪsbɑ:]</tr><word>n
+клавиша для интервалов (на пишущей машинке)</word></ar><ar><origin>space_heater</origin><tr>[ˊspeɪsˏhi:tə]</tr><word>n
+комнатный электрообогреватель</word></ar><ar><origin>space_rocket</origin><tr>[ˊspeɪsrɒkɪt]</tr><word>n
+космическая ракета</word></ar><ar><origin>space_satellite</origin><tr>[ˏspeɪsˊsætəlaɪt]</tr><word>n
+искусственный спутник</word></ar><ar><origin>space_shuttle</origin><tr>[ˊspeɪsʃʌtl]</tr><word>n
+шаттл, космический летательный аппарат многоразового использования</word></ar><ar><origin>space_station</origin><tr>[ˊspeɪsˏsteɪʃǝn]</tr><word>n
+космическая станция</word></ar><ar><origin>space_suit</origin><tr>[ˊspeɪssu:t]</tr><word>n
+скафандр</word></ar><ar><origin>space_writer</origin><tr>[ˊspeɪsˏraɪtə]</tr><word>n
+репортёр, получающий построчный гонорар</word></ar><ar><origin>space-age</origin><tr>[ˊspeɪseɪdʒ]</tr><word>a
+разг. изготовленный с использованием передовых технологий, по последнему слову техники</word></ar><ar><origin>spacewalk</origin><tr>[ˊspeɪswɔ:k]</tr><word>n
+выход в открытый космос</word></ar><ar><origin>spadework</origin><tr>[ˊspeɪdwɜ:k]</tr><word>n
+кропотливая подготовительная работа</word></ar><ar><origin>spadones</origin><tr>[speɪˊdəυni:z]</tr><word>pl от spado</word></ar><ar><origin>spae</origin><tr>[speɪ]</tr><word>v
+шотл. предсказывать, предвещать; пророчить</word></ar><ar><origin>spaewife</origin><tr>[ˊspeɪwaɪf]</tr><word>n
+шотл. предсказательница или ведьма</word></ar><ar><origin>span_roof</origin><tr>[ˊspænˏru:f]</tr><word>n
+двускатная крыша</word></ar><ar><origin>Spaniard</origin><tr>[ˊspænjəd]</tr><word>n
+испанец; испанка</word></ar><ar><origin>Spanish</origin><tr></tr><word>1. a испанский
+◊ Spanish fly шпанская муха
+2. n испанский язык</word></ar><ar><origin>spark_arrester</origin><tr>[ˊspɑ:kəˏrestə]</tr><word>n
+тех. искроуловитель, искрогаситель</word></ar><ar><origin>spark_coil</origin><tr>[ˊspɑ:kkɔɪl]</tr><word>n
+эл. индукционная катушка</word></ar><ar><origin>spark_gap</origin><tr>[ˊspɑ:kgæp]</tr><word>n
+эл.
+1) искровой промежуток
+2) разрядник</word></ar><ar><origin>spark_plug</origin><tr>[ˊspɑ:kplʌg]</tr><word>n
+амер.
+1) = sparking plug
+2) разг. человек, заражающий других своей кипучей энергией</word></ar><ar><origin>sparking_plug</origin><tr>[ˊspɑ:kɪŋplʌg]</tr><word>n
+авто запальная свеча, свеча зажигания</word></ar><ar><origin>sparrow_hawk</origin><tr>[ˊspærəυhɔ:k]</tr><word>n
+ястреб-перепелятник</word></ar><ar><origin>sparrowgrass</origin><tr>[ˊspærəυgrɑ:s]</tr><word>n
+диал., разг. спаржа</word></ar><ar><origin>Spartan</origin><tr></tr><word>1. a спартанский
+2. n спартанец</word></ar><ar><origin>spatiotemporal</origin><tr>[ˏspeɪʃɪəυˊtemprǝl]</tr><word>a
+пространственно-временной</word></ar><ar><origin>speaking_clock</origin><tr>[ˏspi:kɪŋˊklɒk]</tr><word>n
+телефонная служба точного времени</word></ar><ar><origin>speaking_trumpet</origin><tr>[ˊspi:kɪŋˏtrʌmpɪt]</tr><word>n
+ист. рупор, мегафон</word></ar><ar><origin>speaking_tube</origin><tr>[ˊspi:kɪŋtju:b]</tr><word>n
+переговорная трубка</word></ar><ar><origin>spec</origin><tr>[spek]</tr><word>n
+разг. спекуляция;
+on spec
+а) наудачу, на риск;
+б) с расчётом на выгоду
+Ⅱ
+spec [spek] n
+разг. спецификация</word></ar><ar><origin>special_delivery</origin><tr>[ˏspeʃǝldɪˊlɪvərɪ]</tr><word>n
+срочная доставка почтовых отправлений</word></ar><ar><origin>special_effect</origin><tr>[ˏspeʃǝlɪˊfekt]</tr><word>n
+кино специальный эффект, спецэффект</word></ar><ar><origin>special_forces</origin><tr>[ˏspeʃǝlˊfɔ:sɪz]</tr><word>n pl
+части особого назначения, спецназ</word></ar><ar><origin>spectator_sport</origin><tr>[spekˊteɪtəˏspɔ:t]</tr><word>n
+зрелищный вид спорта</word></ar><ar><origin>spectra</origin><tr>[ˊspektrə]</tr><word>pl от spectrum</word></ar><ar><origin>specula</origin><tr>[ˊspekjυlə]</tr><word>pl от speculum</word></ar><ar><origin>speech_day</origin><tr>[ˊspi:tʃdeɪ]</tr><word>n
+акт, актовый день (в школе)</word></ar><ar><origin>-speed</origin><tr></tr><word>в сложных словах:
+three-speed engine трёхскоростной двигатель</word></ar><ar><origin>speed_cop</origin><tr>[ˊspi:dkɒp]</tr><word>n
+сл. полицейский, следящий за скоростью движения</word></ar><ar><origin>speed_limit</origin><tr>[ˊspi:dˏlɪmɪt]</tr><word>n
+дозволенная скорость (езды)</word></ar><ar><origin>speed_reducer</origin><tr>[ˊspi:drɪˏdju:sə]</tr><word>n
+тех. редуктор</word></ar><ar><origin>speed-up_system</origin><tr>[ˏspi:dʌpˊsɪstəm]</tr><word>= sweating system</word></ar><ar><origin>speedball</origin><tr>[ˊspi:dbɔ:l]</tr><word>n
+сл. смесь кокаина с героином или морфином</word></ar><ar><origin>speedboat</origin><tr>[ˊspi:dbəυt]</tr><word>n
+быстроходный катер</word></ar><ar><origin>speedo</origin><tr></tr><word>разг. = speedometer</word></ar><ar><origin>speleologist</origin><tr>[ˏspi:lɪˊɒlədʒɪst]</tr><word>n
+спелеолог</word></ar><ar><origin>speleology</origin><tr>[ˏspi:lɪˊɒlədʒɪ]</tr><word>n c
+пелеология</word></ar><ar><origin>spell-checker</origin><tr>[ˊspelˏtʃekə]</tr><word>n
+информ. программа проверки орфографии</word></ar><ar><origin>spelling_bee</origin><tr>[ˊspelɪŋbi:]</tr><word>n
+конкурс на лучшее правописание</word></ar><ar><origin>spelling_book</origin><tr>[ˊspelɪŋbυk]</tr><word>n
+1) орфографический справочник
+2) сборник упражнений по правописанию</word></ar><ar><origin>Spenserian</origin><tr>[spenˊsɪərɪən]</tr><word>a:
+Spenserian stanza прос. спенсерова строфа</word></ar><ar><origin>sperm_whale</origin><tr>[ˊspɜ:mweɪl]</tr><word>n
+зоол. кашалот</word></ar><ar><origin>spermatozoa</origin><tr>[ˏspɜ:mətəˊzəυə]</tr><word>pl от spermatozoon</word></ar><ar><origin>sphagna</origin><tr>[ˊsfægnə]</tr><word>pl от sphagnum</word></ar><ar><origin>spick_and_span</origin><tr>[ˏspɪkǝnˊspæn]</tr><word>a
+1) новый, свежий; с иголочки
+2) безупречно чистый</word></ar><ar><origin>spider_crab</origin><tr>[ˊspaɪdəkræb]</tr><word>n
+зоол. морской паук</word></ar><ar><origin>spiderman</origin><tr>[ˊspaɪdəmæn]</tr><word>n
+разг. верхолаз</word></ar><ar><origin>spiderweb</origin><tr>[ˊspaɪdəweb]</tr><word>n
+паутина</word></ar><ar><origin>spifflicate</origin><tr>[ˊspɪflɪkeɪt]</tr><word>v (обыкн. шутл.)
+1) разделаться (с кем-л.)
+2) поколотить, измордовать</word></ar><ar><origin>spiflicate</origin><tr>[ˊspɪflɪkeɪt]</tr><word>v (обыкн. шутл.)
+1) разделаться (с кем-л.)
+2) поколотить, измордовать</word></ar><ar><origin>spillover</origin><tr>[ˊspɪləυvə]</tr><word>n
+1) переливание через край
+2) избыток (чего-л.)</word></ar><ar><origin>spilt</origin><tr>[spɪlt]</tr><word>past и p. p. от spill Ⅰ, 2</word></ar><ar><origin>spin-drier</origin><tr>[ˏspɪnˊdraɪə]</tr><word>n
+центрифуга</word></ar><ar><origin>spin-dry</origin><tr>[ˏspɪnˊdraɪ]</tr><word>v
+сушить (бельё и т.п.) в центрифуге</word></ar><ar><origin>spine-chiller</origin><tr>[ˊspaɪnˏtʃɪlə]</tr><word>n
+книга или фильм, от которых мороз по коже подирает</word></ar><ar><origin>spinning_machine</origin><tr>[ˊspɪnɪŋməˏʃi:n]</tr><word>n
+прядильная машина</word></ar><ar><origin>spinning_wheel</origin><tr>[ˊspɪnɪŋwi:l]</tr><word>n
+прялка, самопрялка</word></ar><ar><origin>spirilla</origin><tr>[spaɪˊrɪlə]</tr><word>pl от spirillum</word></ar><ar><origin>spirit_lamp</origin><tr>[ˊspɪrɪtlæmp]</tr><word>n
+спиртовка</word></ar><ar><origin>spirit_level</origin><tr>[ˊspɪrɪtˏlevl]</tr><word>n
+спиртовой уровень, ватерпас</word></ar><ar><origin>spirit_rapping</origin><tr>[ˊspɪrɪtˏræpɪŋ]</tr><word>n
+столоверчение, спиритизм</word></ar><ar><origin>-spirited</origin><tr></tr><word>в сложных словах означает имеющий такой-то характер или находящийся в таком-то расположении духа;
+low-spirited в подавленном состоянии</word></ar><ar><origin>spirituel</origin><tr>[ˏspɪrɪtʃυˊel]</tr><word>a
+изысканный, утончённый, тонкий</word></ar><ar><origin>spirochaete</origin><tr>[ˊspaɪrǝυki:t]</tr><word>n
+спирохета</word></ar><ar><origin>spirograph</origin><tr>[ˊspaɪrəυgrɑ:f]</tr><word>n
+спирограф</word></ar><ar><origin>spitting_image</origin><tr>[ˏspɪtɪŋˊɪmɪdʒ]</tr><word>n
+разг. вылитый портрет, «копия»</word></ar><ar><origin>splash_guard</origin><tr>[ˊsplæʃgɑ:d]</tr><word>n
+амер. авто брызговик</word></ar><ar><origin>splashboard</origin><tr>[ˊsplæʃbɔ:d]</tr><word>n
+1) крыло, щиток (автомобиля, экипажа)
+2) гидр. шлюзный щит</word></ar><ar><origin>splayfoot</origin><tr>[ˏspleɪˊfυt(ɪd)]</tr><word>a
+косолапый, имеющий плоские вывернутые ступни</word></ar><ar><origin>splayfooted</origin><tr>[ˏspleɪˊfυt(ɪd)]</tr><word>a
+косолапый, имеющий плоские вывернутые ступни</word></ar><ar><origin>splenectomy</origin><tr>[spləˊnektəmɪ]</tr><word>n
+мед. спленэктомия, удаление селезёнки</word></ar><ar><origin>splenomegaly</origin><tr>[ˏspli:nəυˊmegǝlɪ]</tr><word>n
+мед. спленомегалия, увеличение селезёнки</word></ar><ar><origin>splint_bone</origin><tr>[ˊsplɪntbəυn]</tr><word>n
+анат. малоберцовая кость</word></ar><ar><origin>splinter_group</origin><tr>[ˊsplɪntəgru:p]</tr><word>n
+отколовшаяся (политическая) группировка</word></ar><ar><origin>split_ends</origin><tr>[ˏsplɪtˊendz]</tr><word>n pl
+посекшиеся кончики волос</word></ar><ar><origin>split_infinitive</origin><tr>[ˏsplɪtɪnˊfɪnətɪv]</tr><word>n
+грам. инфинитив с отделённой частицей to (напр.: I wish to highly recommend him)</word></ar><ar><origin>split_mind</origin><tr>[ˊsplɪtmaɪnd]</tr><word>n
+шизофрения</word></ar><ar><origin>split_personality</origin><tr>[ˏsplɪtpɜ:səˊnælətɪ]</tr><word>n
+раздвоение личности (особ. при шизофрении и истерии)</word></ar><ar><origin>split_pin</origin><tr>[ˏsplɪtˊpɪn]</tr><word>n
+тех. шплинт</word></ar><ar><origin>split_ring</origin><tr>[ˏsplɪtˊrɪŋ]</tr><word>n
+кольцо для ключей</word></ar><ar><origin>split_screen</origin><tr>[ˏsplɪtˊskri:n]</tr><word>n
+кино, тлв. комбинированная съёмка</word></ar><ar><origin>split_second</origin><tr>[ˏsplɪtˊsekǝnd]</tr><word>n
+доля секунды</word></ar><ar><origin>split_the_ticket</origin><tr>[ˏsplɪtðəˊtɪkɪt]</tr><word>n
+амер. бюллетень, в котором избиратель голосует за представителей двух или нескольких партий</word></ar><ar><origin>spoilsport</origin><tr>[ˊspɔɪlspɔ:t]</tr><word>n
+тот, кто портит удовольствие другим</word></ar><ar><origin>spoke_bone</origin><tr>[ˊspəυkbəυn]</tr><word>n
+анат. лучевая кость</word></ar><ar><origin>sponge_bag</origin><tr>[ˊspʌndʒbæg]</tr><word>n
+клеёнчатый мешочек для туалетных принадлежностей</word></ar><ar><origin>sponge_cake</origin><tr>[ˊspʌndʒkeɪk]</tr><word>n
+бисквит</word></ar><ar><origin>spontoon</origin><tr>[spɒnˊtu:n]</tr><word>n
+воен. ист. эспонтон, полупика</word></ar><ar><origin>spoon_meat</origin><tr>[ˊspu:nmi:t]</tr><word>n
+жидкая пища для младенца</word></ar><ar><origin>spoon-feed</origin><tr>[ˊspu:nfi:d]</tr><word>v (spoon-fed)
+1) кормить с ложки (о ребёнке и т.п.)
+2) снабжать помощью, информацией и т.п. человека, не прилагающего к этому никаких усилий
+3) находиться на государственной дотации (об отрасли промышленности)</word></ar><ar><origin>spoonbill</origin><tr>[ˊspu:nbɪl]</tr><word>n
+зоол. колпица</word></ar><ar><origin>spoondrift</origin><tr>[ˊspu:ndrɪft]</tr><word>= spindrift</word></ar><ar><origin>sporangia</origin><tr>[spəˊrændʒɪə]</tr><word>pl от sporangium</word></ar><ar><origin>sports_car</origin><tr>[ˊspɔ:tskɑ:]</tr><word>n
+спортивный автомобиль</word></ar><ar><origin>sports_jacket</origin><tr>[ˊspɔ:tsˏdʒækɪt]</tr><word>n
+пиджак спортивного покроя (обыкн. твидовый)</word></ar><ar><origin>sports_writer</origin><tr>[ˊspɔ:tsˏraɪtə]</tr><word>n
+журналист, пишущий на спортивную тему</word></ar><ar><origin>sportscast</origin><tr>[ˊspɔ:tskɑ:st]</tr><word>n
+амер. репортаж о спортивных соревнованиях, спортивная передача</word></ar><ar><origin>spot-on</origin><tr>[ˏspɒtˊɒn]</tr><word>a
+разг. точный, безошибочный; попадающий в цель</word></ar><ar><origin>spotted_fever</origin><tr>[ˏspɒtɪdˊfi:və]</tr><word>n
+1) сыпной тиф
+2) цереброспинальный менингит</word></ar><ar><origin>spread_eagle</origin><tr>[spredˊi:gl]</tr><word>n
+орёл с распростёртыми крыльями (на государственных гербах)</word></ar><ar><origin>spring_balance</origin><tr>[ˏsprɪŋˊbæləns]</tr><word>n
+пружинные весы, безмен</word></ar><ar><origin>spring_bed</origin><tr>[ˊsprɪŋbed]</tr><word>n
+кровать с пружинным матрацем</word></ar><ar><origin>spring_chicken</origin><tr>[ˏsprɪŋˊtʃɪkɪn]</tr><word>n
+1) цыплёнок
+2) неодобр. наивный, неопытный человек (особ. о женщине)</word></ar><ar><origin>spring_fever</origin><tr>[ˏsprɪŋˊfi:və]</tr><word>n
+весенняя лихорадка</word></ar><ar><origin>spring_roll</origin><tr>[ˏsprɪŋˊrəυl]</tr><word>= egg roll</word></ar><ar><origin>spring_tide</origin><tr>[ˏsprɪŋˊtaɪd]</tr><word>n
+мор. сизигийный прилив</word></ar><ar><origin>spring_water</origin><tr>[ˊsprɪŋˏwɔ:tə]</tr><word>n
+ключевая вода</word></ar><ar><origin>spring-cleaning</origin><tr>[ˏsprɪŋˊkli:niŋ]</tr><word>n
+(весенняя) генеральная уборка</word></ar><ar><origin>springboard</origin><tr>[ˊsprɪŋbɔ:d]</tr><word>n
+1) трамплин
+2) воен. плацдарм</word></ar><ar><origin>sprinkling_machine</origin><tr>[ˊsprɪŋklɪŋməˏʃi:n]</tr><word>n
+дождевальная установка; дождевальная машина</word></ar><ar><origin>spritz</origin><tr></tr><word>амер. = sprinkle</word></ar><ar><origin>sprocket_wheel</origin><tr>[ˊsprɒkɪtwi:l]</tr><word>= sprocket</word></ar><ar><origin>sprog</origin><tr>[sprɒg]</tr><word>n
+сл. малыш</word></ar><ar><origin>spur_gear</origin><tr>[ˊspə:gɪə]</tr><word>= spur wheel</word></ar><ar><origin>spur_track</origin><tr>[ˊspɜ:træk]</tr><word>n
+ж.-д. подъездная ветка</word></ar><ar><origin>spur_wheel</origin><tr>[ˊspɜ:wi:l]</tr><word>n
+тех. цилиндрическое прямозубое колесо</word></ar><ar><origin>sputa</origin><tr>[ˊspju:tə]</tr><word>pl от sputum</word></ar><ar><origin>squab_pie</origin><tr>[ˊskwɒbpaɪ]</tr><word>n
+1) пирог с голубями
+2) пирог с бараниной, свининой, яблоками и луком</word></ar><ar><origin>squad_car</origin><tr>[ˊskwɒdkɑ:]</tr><word>n
+полицейская автомашина</word></ar><ar><origin>squad_drill</origin><tr>[ˊskwɒddrɪl]</tr><word>n
+обучение новобранцев строю</word></ar><ar><origin>Squadron_Leader</origin><tr>[ˏskwɒdrǝnˊli:də]</tr><word>n
+1) майор авиации
+2) амер. командир эскадрильи</word></ar><ar><origin>squamae</origin><tr>[ˊskweɪmi:]</tr><word>pl от squama</word></ar><ar><origin>square_dance</origin><tr>[ˊskweədɑ:ns]</tr><word>n
+кадриль</word></ar><ar><origin>square_meal</origin><tr>[ˏskweəˊmi:l]</tr><word>n
+плотная, сытная еда</word></ar><ar><origin>square-bashing</origin><tr>[ˊskweəbæʃɪŋ]</tr><word>n
+воен. жарг. муштра на плацу</word></ar><ar><origin>square-eyed</origin><tr>[ˏskweərˊaɪd]</tr><word>a
+шутл. обалдевший от телевизора</word></ar><ar><origin>square-shouldered</origin><tr>[ˏskweəˊʃəυldəd]</tr><word>a
+с прямыми, широкими плечами</word></ar><ar><origin>squared_paper</origin><tr>[ˏskweədˊpeɪpə]</tr><word>n
+бумага в клетку</word></ar><ar><origin>squash_hat</origin><tr>[ˊskwɒʃhæt]</tr><word>n
+мягкая фетровая шляпа</word></ar><ar><origin>squaw_man</origin><tr>[ˊskwɔ:mæn]</tr><word>n
+амер. белый, женатый на индианке</word></ar><ar><origin>squit</origin><tr>[skwɪt]</tr><word>n
+1) сл. никчёмная личность
+2) диал. чушь, ерунда</word></ar><ar><origin>St-John_s-wort</origin><tr>[sǝntˊdʒɒnzwɜ:t]</tr><word>n
+бот. зверобой</word></ar><ar><origin>stable_companion</origin><tr>[ˏsteɪblkəmˊpænjən]</tr><word>n
+1) лошадь той же конюшни
+2) товарищ (по школе, клубу); однокашник</word></ar><ar><origin>stable_man</origin><tr>[ˊsteɪblmən]</tr><word>n
+конюх</word></ar><ar><origin>stack_yard</origin><tr>[ˊstækjɑ:d]</tr><word>n
+гумно</word></ar><ar><origin>stag_beetle</origin><tr>[ˊstægˏbi:tl]</tr><word>n
+жук-олень</word></ar><ar><origin>stag_party</origin><tr>[ˊstægˏpɑ:tɪ]</tr><word>= stag 5)</word></ar><ar><origin>stage_direction</origin><tr>[ˊsteɪdʒdɪˏrekʃn]</tr><word>n
+1) сценическая ремарка
+2) режиссёрское искусство
+3) режиссура</word></ar><ar><origin>stage_director</origin><tr>[ˊsteɪdʒdɪˏrektə]</tr><word>n
+режиссёр, постановщик</word></ar><ar><origin>stage_door</origin><tr>[ˏsteɪdʒˊdɔ:]</tr><word>n
+служебный вход в театр</word></ar><ar><origin>stage_effect</origin><tr>[ˊsteɪdʒɪˏfekt]</tr><word>n
+сценический эффект</word></ar><ar><origin>stage_fever</origin><tr>[ˊsteɪdʒˏfi:və]</tr><word>n
+непреодолимое влечение к сцене</word></ar><ar><origin>stage_fright</origin><tr>[ˊsteɪdʒfraɪt]</tr><word>n
+волнение перед выходом на сцену; страх перед аудиторией</word></ar><ar><origin>stage_name</origin><tr>[ˊsteɪdʒˏneɪm]</tr><word>n
+сценическая фамилия, псевдоним актёра</word></ar><ar><origin>stage_right</origin><tr>[ˊsteɪdʒraɪt]</tr><word>n
+исключительное право театра на постановку пьесы</word></ar><ar><origin>stage_whisper</origin><tr>[ˏsteɪdʒˊwɪspə]</tr><word>n
+1) театральный шёпот
+2) слова, предназначенные не тому, к кому они обращены</word></ar><ar><origin>stage-manager</origin><tr>[ˏsteɪdʒˊmænɪdʒə]</tr><word>n
+помощник режиссёра</word></ar><ar><origin>stagecoach</origin><tr>[ˊsteɪdʒkəυtʃ]</tr><word>n
+ист. почтовая карета, дилижанс</word></ar><ar><origin>stagestruck</origin><tr>[ˊsteɪdʒstrʌk]</tr><word>a
+увлекающийся театром, стремящийся к сценической деятельности</word></ar><ar><origin>stagger_formation</origin><tr>[ˏstægəfɔ:ˊmeɪʃn]</tr><word>n
+ав. эшелонированный строй уступами</word></ar><ar><origin>Stamp_Act</origin><tr>[ˏstæmpˊækt]</tr><word>n
+ист. закон о гербовом сборе</word></ar><ar><origin>stamp_collector</origin><tr>[ˊstæmpkəˏlektə]</tr><word>n
+коллекционер почтовых марок</word></ar><ar><origin>stamp_duty</origin><tr>[ˊstæmpˏdju:tɪ]</tr><word>n
+гербовый сбор</word></ar><ar><origin>stamp_paper</origin><tr>[ˊstæmpˏpeɪpə]</tr><word>n
+гербовая бумага</word></ar><ar><origin>stand-off_half</origin><tr>[ˏstændɒfˊhɑ:f]</tr><word>n
+полузащитник (в регби)</word></ar><ar><origin>standalone</origin><tr>[ˊstændələυn]</tr><word>a
+тех. автономный, не входящий в систему</word></ar><ar><origin>standard_lamp</origin><tr>[ˊstændədlæmp]</tr><word>n
+торшер</word></ar><ar><origin>standard_time</origin><tr>[ˏstændədˊtaɪm]</tr><word>n
+стандартное, декретное время</word></ar><ar><origin>standby</origin><tr></tr><word>1. n
+1) надёжная опора
+2) запас
+2. a запасный, запасной, резервный</word></ar><ar><origin>standing_order</origin><tr>[ˏstændɪŋˊɔ:də]</tr><word>n
+1) устав, положение, регламент
+2) pl парл. правила процедуры
+3) воен. постоянный приказ-инструкция</word></ar><ar><origin>standing_room</origin><tr>[ˊstændɪŋru:m]</tr><word>n
+стоячее место, место для стояния (особ. в театре)</word></ar><ar><origin>standoff</origin><tr></tr><word>1. n
+1) тупик; безвыходное положение
+2) = stand-off half
+2. a = standoffish</word></ar><ar><origin>standoffish</origin><tr>[ˏstændˊɒfɪʃ]</tr><word>a
+сдержанный; неприветливый; надменный</word></ar><ar><origin>standout</origin><tr>[ˊstændaυt]</tr><word>n
+амер.
+1) человек, отличающийся от других самостоятельностью суждений, поступков и т.п.
+2) что-л. замечательное (по качеству, вкусу и т.п.)</word></ar><ar><origin>standpipe</origin><tr>[ˊstændpaɪp]</tr><word>n
+тех. напорная труба</word></ar><ar><origin>stank</origin><tr>[stæŋk]</tr><word>past от stink 2</word></ar><ar><origin>Star_Chamber</origin><tr>[ˏstɑ:ˊtʃeɪmbə]</tr><word>n
+ист. Звёздная палата</word></ar><ar><origin>star_connection</origin><tr>[ˏstɑ:kəˊnekʃn]</tr><word>n
+эл. соединение звездой</word></ar><ar><origin>star_shell</origin><tr>[ˊstɑ:ʃel]</tr><word>n
+воен. осветительный снаряд</word></ar><ar><origin>star_turn</origin><tr>[ˊstɑ:tɜ:n]</tr><word>n
+главный номер программы</word></ar><ar><origin>Star_Wars</origin><tr>[ˊstɑ:wɔ:z]</tr><word>n pl
+разг. звёздные войны</word></ar><ar><origin>stardust</origin><tr>[ˊstɑ:dʌst]</tr><word>n
+1) астр. космическая пыль
+2) мечтательность, романтика</word></ar><ar><origin>stargazer</origin><tr>[ˊstɑ:ˏgeɪzə]</tr><word>n
+шутл.
+1) астролог; звездочёт; астроном
+2) идеалист, мечтатель</word></ar><ar><origin>stargazing</origin><tr>[ˊstɑ:ˏgeɪzɪŋ]</tr><word>n
+шутл.
+1) созерцание звёзд; астрономия
+2) мечтательность
+3) рассеянность</word></ar><ar><origin>starkers</origin><tr>[ˊstɑ:kəz]</tr><word>a
+разг. совершенно голый</word></ar><ar><origin>starting_gate</origin><tr>[ˊstɑ:tɪŋgeɪt]</tr><word>n
+передвижной барьер на старте (конный спорт)</word></ar><ar><origin>starting_lever</origin><tr>[ˊstɑ:tɪŋˏli:və]</tr><word>n
+тех. пусковой рычаг</word></ar><ar><origin>starting_point</origin><tr>[ˊstɑ:tɪŋpɔɪnt]</tr><word>n
+отправной пункт, отправная точка</word></ar><ar><origin>starting_post</origin><tr>[ˊstɑ:tɪŋpəυst]</tr><word>n
+стартовый столб</word></ar><ar><origin>state_of_the_art</origin><tr>[ˏsteɪtəvðɪˊɑ:t]</tr><word>n
+современное состояние, положение дел (в науке и технике)</word></ar><ar><origin>Statehouse</origin><tr>[ˊsteɪthaυs]</tr><word>n
+амер. здание законодательного органа штата</word></ar><ar><origin>stateroom</origin><tr>[ˊsteɪtru:m]</tr><word>n
+1) парадный зал
+2) отдельная каюта
+3) амер. купе</word></ar><ar><origin>Stateside</origin><tr></tr><word>амер. разг.
+1. a относящийся к США; полученный из США; направляющийся в США
+2. adv из США; в США</word></ar><ar><origin>station_house</origin><tr>[ˊsteɪʃnhaυs]</tr><word>n
+амер. уст. полицейский участок</word></ar><ar><origin>station_wagon</origin><tr>[ˊsteɪʃnˏwægǝn]</tr><word>n
+амер. многоместный легковой автомобиль (с откидными сиденьями и задним откидным бортом)</word></ar><ar><origin>status_quo</origin><tr>[ˏsteɪtəsˊkwəυ]</tr><word>n
+статус-кво</word></ar><ar><origin>statute_book</origin><tr>[ˊstætʃu:tbυk]</tr><word>n
+свод законов</word></ar><ar><origin>statute_law</origin><tr>[ˊstætʃu:tlɔ:]</tr><word>n
+статутное право; право, выраженное в законодательных актах</word></ar><ar><origin>steakhouse</origin><tr>[ˊsteɪkhaυs]</tr><word>n
+бифштексная, ресторан, специализирующийся на мясных блюдах</word></ar><ar><origin>stealth_bomber</origin><tr>[ˊstelθˏbɒmə]</tr><word>n
+амер. самолёт-невидимка</word></ar><ar><origin>steam_boiler</origin><tr>[ˊsti:mˏbɔɪlə]</tr><word>n
+паровой котёл</word></ar><ar><origin>steam_coal</origin><tr>[ˊsti:mkəυl]</tr><word>n
+паровичный уголь</word></ar><ar><origin>steam_cooker</origin><tr>[ˊsti:mˏkυkə]</tr><word>n
+пароварка</word></ar><ar><origin>steam_engine</origin><tr>[ˊsti:mˏendʒɪn]</tr><word>n
+паровая машина, паровой двигатель</word></ar><ar><origin>steam_gauge</origin><tr>[ˊsti:mgeɪdʒ]</tr><word>n
+манометр</word></ar><ar><origin>steam_hammer</origin><tr>[ˊsti:mˏhæmə]</tr><word>n
+паровой молот
+◊ to use a steam hammer to crack nuts ≅ стрелять из пушек по воробьям</word></ar><ar><origin>steam_heat</origin><tr>[ˊsti:mhi:t]</tr><word>n
+физ. теплота конденсации</word></ar><ar><origin>steam_iron</origin><tr>[ˊsti:maɪən]</tr><word>n
+утюг с паром</word></ar><ar><origin>steam_jacket</origin><tr>[ˊsti:mˏdʒækɪt]</tr><word>n
+тех. паровая рубашка</word></ar><ar><origin>steam_launch</origin><tr>[ˊsti:mˏlɔ:ntʃ]</tr><word>n
+паровой катер</word></ar><ar><origin>steam_power</origin><tr>[ˊsti:mˏpaυǝ]</tr><word>n
+энергия пара</word></ar><ar><origin>steam_shovel</origin><tr>[ˊsti:mˏʃʌvl]</tr><word>n
+паровой экскаватор</word></ar><ar><origin>steam_table</origin><tr>[ˊsti:mˏteɪbl]</tr><word>n
+мармит (подогревательный шкаф в столовых, ресторанах)</word></ar><ar><origin>steam_turbine</origin><tr>[ˊsti:mˏtɜ:bɪn]</tr><word>n
+паровая турбина</word></ar><ar><origin>steamroller</origin><tr>[ˊsti:mˏrəυlə]</tr><word>n
+1) паровой каток
+2) всесокрушающая сила</word></ar><ar><origin>steel_engraving</origin><tr>[ˏsti:lɪnˊgreɪvɪŋ]</tr><word>n
+гравюра на стали</word></ar><ar><origin>steel_gray</origin><tr></tr><word>1. n серый цвет с голубым отливом
+2. a серый с голубым отливом</word></ar><ar><origin>steel_wool</origin><tr>[ˏsti:lˊwυl]</tr><word>n
+тонкая стальная стружка для чистки кастрюль и т.п.</word></ar><ar><origin>steering_committee</origin><tr>[ˊstɪərɪŋkəˏmɪtɪ]</tr><word>n
+комиссия по выработке регламента или порядка дня</word></ar><ar><origin>steering_gear</origin><tr>[ˊstɪərɪŋgɪə]</tr><word>n
+рулевой механизм; мор. рулевое устройство</word></ar><ar><origin>steering_wheel</origin><tr>[ˊstɪərɪŋwi:l]</tr><word>n
+рулевое колесо; штурвал</word></ar><ar><origin>stela</origin><tr>[ˊsti:lə]</tr><word>n (pl -ae)
+археол. стела, надгробный обелиск; колонна с надписями или изображениями</word></ar><ar><origin>stelae</origin><tr>[ˊsti:li:]</tr><word>pl от stela</word></ar><ar><origin>stem_plough</origin><tr>[ˊstemplaυ]</tr><word>n
+спорт. поворот (на лыжах) плугом</word></ar><ar><origin>stem_turn</origin><tr>[ˊstemtɜ:n]</tr><word>n
+спорт. поворот (на лыжах) упором</word></ar><ar><origin>stemma</origin><tr>[ˊstemə]</tr><word>n
+родословная, родословное дерево, генеалогия</word></ar><ar><origin>step-down_transformer</origin><tr>[ˏstepdaυntrænsˊfɔ:mə]</tr><word>n
+эл. понижающий трансформатор</word></ar><ar><origin>step-up_transformer</origin><tr>[ˏstepʌptræns-ˊfɔ:mə]</tr><word>n
+эл. повышающий трансформатор</word></ar><ar><origin>stepladder</origin><tr>[ˊstepˏlædə]</tr><word>n
+(лестница-)стремянка</word></ar><ar><origin>sterna</origin><tr>[ˊstɜ:nə]</tr><word>pl от sternum</word></ar><ar><origin>stet</origin><tr></tr><word>полигр.
+1. n корректурный знак, отменяющий правку
+2. v:
+stet! оставить как было!, не править!</word></ar><ar><origin>sticking_plaster</origin><tr>[ˊstɪkɪŋˏplɑ:stə]</tr><word>n
+липкий пластырь, лейкопластырь</word></ar><ar><origin>stickup</origin><tr>[ˊstɪkʌp]</tr><word>n
+разг. налёт, ограбление</word></ar><ar><origin>stigmata</origin><tr>[ˊstɪgmətə]</tr><word>pl от stigma</word></ar><ar><origin>still_life</origin><tr>[ˏstɪlˊlaɪf]</tr><word>n
+жив. натюрморт</word></ar><ar><origin>still_picture</origin><tr>[ˊstɪlˏpɪktʃə]</tr><word>n
+фотоснимок</word></ar><ar><origin>stillage</origin><tr>[ˊstɪlɪdʒ]</tr><word>n
+стеллаж</word></ar><ar><origin>stillbirth</origin><tr>[ˊstɪlbɜ:θ]</tr><word>n
+рождение мёртвого плода</word></ar><ar><origin>stillborn</origin><tr>[ˊstɪlbɔ:n]</tr><word>a
+мертворождённый</word></ar><ar><origin>Stilton</origin><tr>[ˊstɪltǝn]</tr><word>n
+стильтон (сорт жирного сыра; тж. Stilton cheese)</word></ar><ar><origin>stimuli</origin><tr>[ˊstɪmjυlaɪ]</tr><word>pl от stimulus</word></ar><ar><origin>stinko</origin><tr>[ˊstɪŋkəυ]</tr><word>a
+сл. пьяный, поддатый</word></ar><ar><origin>stirabout</origin><tr>[ˊstɜ:rəbaυt]</tr><word>n
+каша</word></ar><ar><origin>stirpes</origin><tr>[ˊstɜ:pi:s]</tr><word>pl от stirps</word></ar><ar><origin>stirps</origin><tr>[stɜ:ps]</tr><word>n (pl stirpes)
+1) биол. семейство
+2) юр. генеалогическая линия
+3) юр. глава рода; родоначальник</word></ar><ar><origin>stirrer</origin><tr>[ˊstɜ:rə]</tr><word>n
+разг. виновник, возбудитель</word></ar><ar><origin>stirrup_cup</origin><tr>[ˊstɪrəpkʌp]</tr><word>n
+1) последняя рюмка на дорогу
+2) ист. прощальный кубок</word></ar><ar><origin>stirrup_leather</origin><tr>[ˊstɪrəpˏleðə]</tr><word>n
+путлище, стремянный ремень</word></ar><ar><origin>stock_company</origin><tr>[ˊstɒkˏkʌmpǝnɪ]</tr><word>n
+амер.
+1) театральная труппа, обычно выступающая в одном театре с определённым репертуаром; театральная труппа со средним составом актёров (без звёзд)
+2) акционерная компания</word></ar><ar><origin>stock_exchange</origin><tr>[ˊstɒkɪksˏtʃeɪndʒ]</tr><word>n
+фондовая биржа</word></ar><ar><origin>stock_farm</origin><tr>[ˊstɒkfɑ:m]</tr><word>n
+животноводческое хозяйство, скотоводческая ферма</word></ar><ar><origin>stock_market</origin><tr>[ˊstɒkˏmɑ:kɪt]</tr><word>n
+1) фондовая биржа
+2) уровень цен на бирже</word></ar><ar><origin>stockbreeder</origin><tr>[ˊstɒkˏbri:də]</tr><word>n
+животновод</word></ar><ar><origin>stockcar</origin><tr>[ˊstɒkkɑ:]</tr><word>n
+1) серийный или стандартный автомобиль
+2) амер. вагон для скота</word></ar><ar><origin>stockwhip</origin><tr>[ˊstɒkwɪp]</tr><word>n
+бич пастуха</word></ar><ar><origin>stomach_pump</origin><tr>[ˊstʌməkpʌmp]</tr><word>n
+желудочный зонд</word></ar><ar><origin>stomachache</origin><tr>[ˊstʌməkeɪk]</tr><word>n
+боль в животе</word></ar><ar><origin>Stone_Age</origin><tr>[ˊstəυneɪdʒ]</tr><word>n
+каменный век</word></ar><ar><origin>stone_pine</origin><tr>[ˊstəυnpaɪn]</tr><word>n
+бот. пиния</word></ar><ar><origin>stone_s_cast</origin><tr>[ˊstəυnzkɑ:st]</tr><word>= stone's throw</word></ar><ar><origin>stone_s_throw</origin><tr>[ˊstəυnzθrəυ]</tr><word>n
+расстояние, на которое можно бросить камень, небольшое расстояние</word></ar><ar><origin>stonecutter</origin><tr>[ˊstəυnˏkʌtə]</tr><word>n
+каменотёс</word></ar><ar><origin>stonemason</origin><tr>[ˊstəυnˏmeɪsn]</tr><word>n
+каменщик</word></ar><ar><origin>stonewashed</origin><tr>[ˏstəυnˊwɒʃt]</tr><word>a
+подвергшийся специальной обработке (о джинсовой ткани)</word></ar><ar><origin>stonyhearted</origin><tr>[ˏstəυnɪˊhɑ:tɪd]</tr><word>a
+жестокосердный</word></ar><ar><origin>stool_pigeon</origin><tr>[ˊstu:lpɪdʒǝn]</tr><word>n
+1) голубь, служащий для приманивания других голубей
+2) амер. разг. провокатор, осведомитель</word></ar><ar><origin>stoolie</origin><tr>[ˊstu:lɪ]</tr><word>n
+амер. сл. провокатор, осведомитель</word></ar><ar><origin>stoplight</origin><tr>[ˊstɒplaɪt]</tr><word>n
+1) красный сигнал светофора
+2) авто стоп-сигнал</word></ar><ar><origin>stopover</origin><tr>[ˊstɒpˏəυvə]</tr><word>= stop-off</word></ar><ar><origin>stopwatch</origin><tr>[ˊstɒpwɒtʃ]</tr><word>n
+секундомер с остановом</word></ar><ar><origin>storage_battery</origin><tr>[ˊstɔ:rɪdʒˏbætrɪ]</tr><word>n
+эл. аккумуляторная батарея</word></ar><ar><origin>storage_reservoir</origin><tr>[ˊstɔ:rɪdʒˏrezəvwɑ:]</tr><word>n
+водохранилище</word></ar><ar><origin>store_cattle</origin><tr>[ˊstɔ:ˏkætl]</tr><word>n
+с.-х. скот на откорме</word></ar><ar><origin>storeroom</origin><tr>[ˊstɔ:ru:m]</tr><word>n
+кладовая; цейхгауз</word></ar><ar><origin>storeship</origin><tr>[ˊstɔ:ʃɪp]</tr><word>n
+мор. транспорт с запасами</word></ar><ar><origin>-storeyed</origin><tr></tr><word>в сложных словах -этажный;
+one-storeyed одноэтажный</word></ar><ar><origin>storiated</origin><tr>[ˊstɔ:rɪeɪtɪd]</tr><word>a
+украшенный историческими или легендарными сюжетами</word></ar><ar><origin>-storied</origin><tr></tr><word>амер. = -storeyed</word></ar><ar><origin>storm_belt</origin><tr>[ˊstɔ:mbelt]</tr><word>n
+метео пояс бурь</word></ar><ar><origin>storm_boat</origin><tr>[ˊstɔ:mbəυt]</tr><word>n
+мор. десантный катер</word></ar><ar><origin>storm_cellar</origin><tr>[ˊstɔ:mˏselə]</tr><word>n
+амер. подземное убежище (на случай торнадо и т.п.)</word></ar><ar><origin>storm_centre</origin><tr>[ˊstɔ:mˏsentə]</tr><word>n
+1) метео центр циклона
+2) центр споров
+3) очаг (восстания, эпидемии)</word></ar><ar><origin>storm_cloud</origin><tr>[ˊstɔ:mklaυd]</tr><word>n
+1) грозовая туча
+2) нечто, предвещающее беду; «туча на горизонте»</word></ar><ar><origin>storm_cone</origin><tr>[ˊstɔ:mkəυn]</tr><word>n
+штормовой сигнал</word></ar><ar><origin>storm_drum</origin><tr>[ˊstɔ:mdrʌm]</tr><word>n
+штормовой сигнальный цилиндр</word></ar><ar><origin>storm_finch</origin><tr>[ˊstɔ:mfɪntʃ]</tr><word>= storm petrel</word></ar><ar><origin>storm_ladder</origin><tr>[ˊstɔ:mˏlædə]</tr><word>n
+мор. штормтрап</word></ar><ar><origin>storm_petrel</origin><tr>[ˊstɔ:mˏpetrǝl]</tr><word>n
+зоол. буревестник, качурка малая</word></ar><ar><origin>storm_window</origin><tr>[ˊstɔ:mˏwɪndəυ]</tr><word>n
+вторая оконная рама</word></ar><ar><origin>stormbeaten</origin><tr>[ˊstɔ:mbi:tn]</tr><word>a
+1) потрёпанный бурей (-ями)
+2) много переживший, видавший виды</word></ar><ar><origin>stormproof</origin><tr>[ˊstɔ:mpru:f]</tr><word>a
+способный выдержать шторм</word></ar><ar><origin>stormtrooper</origin><tr>[ˊstɔ:mˏtru:pə]</tr><word>n
+1) ист. штурмовик; боец из фашистских отрядов СА
+2) боец ударных частей</word></ar><ar><origin>stormtroops</origin><tr>[ˊstɔ:mtru:ps]</tr><word>n pl
+штурмовые отряды; ударные части</word></ar><ar><origin>stormy_petrel</origin><tr>[ˊstɔ:mɪˏpetrǝl]</tr><word>= storm petrel</word></ar><ar><origin>storybook</origin><tr>[ˊstɔ:rɪbυk]</tr><word>n
+сборник рассказов, сказок</word></ar><ar><origin>storyteller</origin><tr>[ˊstɔ:rɪˏtelə]</tr><word>n
+1) рассказчик
+2) автор рассказов
+3) сказочник
+4) разг. лгун, выдумщик</word></ar><ar><origin>stouthearted</origin><tr>[ˏstaυtˊhɑ:tɪd]</tr><word>a
+стойкий, смелый</word></ar><ar><origin>stove-pipe_hat</origin><tr>[ˏstəυvpaɪpˊhæt]</tr><word>n
+разг. цилиндр (шляпа)</word></ar><ar><origin>stovepipe</origin><tr>[ˊstəυvpaɪp]</tr><word>n
+дымоход, железная дымовая труба</word></ar><ar><origin>strabismus</origin><tr>[strəˊbɪzməs]</tr><word>n
+мед. косоглазие</word></ar><ar><origin>straightforwardly</origin><tr>[ˏstreɪtˊfɔ:wədlɪ]</tr><word>adv
+прямо, открыто</word></ar><ar><origin>straightjacket</origin><tr>[ˊstreɪtˏdʒækɪt]</tr><word>= straitjacket</word></ar><ar><origin>strait-waistcoat</origin><tr>[ˏstreɪtˊweɪskəυt]</tr><word>= straitjacket</word></ar><ar><origin>straitjacket</origin><tr>[ˊstreɪtˏdʒækɪt]</tr><word>n
+1) смирительная рубашка
+2) ограничительные меры</word></ar><ar><origin>straitlaced</origin><tr>[ˏstreɪtˊleɪst]</tr><word>a
+строгий, пуританский, нетерпимый в вопросах нравственности</word></ar><ar><origin>strangulated_hernia</origin><tr>[ˏstræŋgjυleɪtɪd-ˊhɜ:nɪə]</tr><word>n
+мед. ущемлённая грыжа</word></ar><ar><origin>strata</origin><tr>[ˊstrɑ:tə]</tr><word>pl от stratum</word></ar><ar><origin>strati</origin><tr>[ˊstreɪtaɪ]</tr><word>pl от stratus</word></ar><ar><origin>stratocirrus</origin><tr>[ˏstrætəυˊsɪrəs]</tr><word>n
+метео слоисто-перистые облака</word></ar><ar><origin>stratocumulus</origin><tr>[ˏstreɪtəʋˊkju:mjυləs]</tr><word>n
+метео слоисто-кучевые облака</word></ar><ar><origin>straw_boss</origin><tr>[ˏstrɔ:ˊbɒs]</tr><word>n
+амер. помощник мастера, прораба и т.п.</word></ar><ar><origin>strawberry_mark</origin><tr>[ˊstrɔ:bǝrɪmɑ:k]</tr><word>n
+красноватое родимое пятно</word></ar><ar><origin>strawberry_tree</origin><tr>[ˊstrɔ:bǝrɪtri:]</tr><word>n
+бот. земляничное дерево</word></ar><ar><origin>strawberry_vine</origin><tr>[ˊstrɔ:bǝrɪvaɪn]</tr><word>n
+ус земляничного куста</word></ar><ar><origin>stream_of_consciousness</origin><tr>[ˏstri:məvˊkɒnʃəsnəs]</tr><word>n
+психол., лит. поток сознания</word></ar><ar><origin>street_Arab</origin><tr>[ˏstri:tˊærəb]</tr><word>n
+беспризорник</word></ar><ar><origin>street_orderly</origin><tr>[ˊstri:tˏɔ:dǝlɪ]</tr><word>n
+1) метельщик улиц
+2) мусорщик</word></ar><ar><origin>street_people</origin><tr>[ˊstri:tpi:pǝl]</tr><word>n pl
+бездомные люди, бродяги; бомжи</word></ar><ar><origin>street_singer</origin><tr>[ˊstri:tˏsɪŋə]</tr><word>n
+уличный певец</word></ar><ar><origin>streetlamp</origin><tr>[ˊstri:tlæmp]</tr><word>= streetlight</word></ar><ar><origin>streptococci</origin><tr>[ˏstreptəˊkɒksaɪ]</tr><word>pl от streptococcus</word></ar><ar><origin>strewn</origin><tr>[stru:n]</tr><word>p. p. от strew</word></ar><ar><origin>striae</origin><tr>[ˊstraɪi:]</tr><word>pl от stria</word></ar><ar><origin>-stricken</origin><tr></tr><word>в сложных словах означает охваченный, поражённый чем-л.; подвергшийся чему-л.;
+terror-stricken охваченный ужасом;
+drought-stricken поражённый засухой</word></ar><ar><origin>stridden</origin><tr>[ˊstrɪdn]</tr><word>p. p. от stride 2</word></ar><ar><origin>stridulate</origin><tr>[ˊstrɪdjυleɪt]</tr><word>v
+скрипеть; трещать; стрекотать</word></ar><ar><origin>strike_benefit</origin><tr>[ˊstraɪkˏbenɪfɪt]</tr><word>= strike pay</word></ar><ar><origin>strike_committee</origin><tr>[ˏstraɪkkəˊmɪtɪ]</tr><word>n
+стачечный комитет</word></ar><ar><origin>strike_pay</origin><tr>[ˊstraɪkpeɪ]</tr><word>n
+пособие, выдаваемое профсоюзом забастовщикам</word></ar><ar><origin>strikebreaker</origin><tr>[ˊstraɪkˏbreɪkə]</tr><word>n
+штрейкбрехер</word></ar><ar><origin>strikebreaking</origin><tr>[ˊstraɪkˏbreɪkɪŋ]</tr><word>n
+подавление забастовки</word></ar><ar><origin>string_bean</origin><tr>[ˏstrɪŋˊbi:n]</tr><word>n
+амер. стручковая фасоль</word></ar><ar><origin>string_course</origin><tr>[ˊstrɪŋkɔ:s]</tr><word>n
+архит. поясок</word></ar><ar><origin>stringhalt</origin><tr>[ˊstrɪŋhɔ:lt]</tr><word>= spring-halt</word></ar><ar><origin>strip_club</origin><tr>[ˊstrɪpklʌb]</tr><word>n
+стриптиз-клуб</word></ar><ar><origin>strip_map</origin><tr>[ˏstrɪpˊmæp]</tr><word>n
+ав. маршрутная карта</word></ar><ar><origin>strip_mine</origin><tr>[ˊstrɪpˏmaɪn]</tr><word>n
+амер. горн. открытая добыча</word></ar><ar><origin>-striper</origin><tr></tr><word>амер. в сложных словах означает имеющий столько-то нашивок (о морском офицере);
+four-striper капитан 2 ранга</word></ar><ar><origin>striptease</origin><tr>[ˊstrɪpti:z]</tr><word>n
+стриптиз</word></ar><ar><origin>striven</origin><tr>[ˊstrɪvn]</tr><word>p. p. от strive</word></ar><ar><origin>strode</origin><tr>[strəυd]</tr><word>past от stride 2</word></ar><ar><origin>strong_interaction</origin><tr>[ˏstrɒŋɪntərˊækʃn]</tr><word>n
+физ. сильное взаимодействие</word></ar><ar><origin>strong_room</origin><tr>[ˊstrɒŋru:m]</tr><word>n
+комната-сейф; кладовая (для хранения ценностей в банке и т.п.)</word></ar><ar><origin>strongarm</origin><tr>[ˊstrɒŋɑ:m]</tr><word>a
+разг. применяющий силу;
+strongarm tactics тактика сильной руки</word></ar><ar><origin>strongbox</origin><tr>[ˊstrɒŋbɒks]</tr><word>n
+сейф</word></ar><ar><origin>strongpoint</origin><tr>[ˏstrɒŋˊpɔɪnt]</tr><word>n
+1) сильное место
+2) воен. опорный пункт</word></ar><ar><origin>strudel</origin><tr>[ˊstru:dl]</tr><word>n
+кул. струдель</word></ar><ar><origin>stuccowork</origin><tr>[ˊstʌkəυwɜ:k]</tr><word>n
+лепная работа</word></ar><ar><origin>stud_farm</origin><tr>[ˊstʌdfɑ:m]</tr><word>n
+конный завод</word></ar><ar><origin>studbook</origin><tr>[ˊstʌdbυk]</tr><word>n
+племенная книга (лошадей)</word></ar><ar><origin>studding_sail</origin><tr>[ˊstʌdɪŋseɪl, ˊstʌnsl]</tr><word>n
+мор. лисель</word></ar><ar><origin>studhorse</origin><tr>[ˊstʌdhɔ:s]</tr><word>n
+племенной жеребец</word></ar><ar><origin>studio_couch</origin><tr>[ˊstju:dɪəυkaυtʃ]</tr><word>n
+диван-кровать</word></ar><ar><origin>stuffed_shirt</origin><tr>[ˏstʌftˊʃɜ:t]</tr><word>n
+разг. напыщенное ничтожество</word></ar><ar><origin>stuffing_box</origin><tr>[ˊstʌfɪŋbɒks]</tr><word>n
+тех. сальник</word></ar><ar><origin>stumblebum</origin><tr>[ˊstʌmblbʌm]</tr><word>n
+амер. разг. бестактный или глупый тип</word></ar><ar><origin>stumbling_block</origin><tr>[ˊstʌmblɪŋblɒk]</tr><word>n
+камень преткновения</word></ar><ar><origin>stump_orator</origin><tr>[ˏstʌmpˊɒrətə]</tr><word>n
+оратор, выступающий с импровизированной трибуны; агитатор</word></ar><ar><origin>stump_oratory</origin><tr>[ˏstʌmpˊɒrətǝrɪ]</tr><word>= stump speeches</word></ar><ar><origin>stump_speeches</origin><tr>[ˊstʌmpˏspi:tʃɪz]</tr><word>n
+1) речи с импровизированной трибуны
+2) напыщенные, ходульные речи</word></ar><ar><origin>stunk</origin><tr>[stʌŋk]</tr><word>past и p. p. от stink 2</word></ar><ar><origin>stunt_man</origin><tr>[ˊstʌntmæn]</tr><word>n
+каскадёр</word></ar><ar><origin>Sturm_und_Drang</origin><tr></tr><word>нем. n «буря и натиск» (течение в немецкой литературе конца ⅩⅧ в.)</word></ar><ar><origin>Stygian</origin><tr>[ˊstɪdʒɪən]</tr><word>a
+1) греч. миф. стигийский, относящийся к реке Стиксу
+2) книжн. адский, мрачный</word></ar><ar><origin>styli</origin><tr>[ˊstaɪlaɪ]</tr><word>pl от stylus</word></ar><ar><origin>stylistics</origin><tr>[staɪˊlɪstɪks]</tr><word>n
+стилистика</word></ar><ar><origin>Styx</origin><tr>[stɪks]</tr><word>n
+греч. миф. Стикс (река)
+◊ to cross the Styx умереть</word></ar><ar><origin>sub_judice</origin><tr></tr><word>лат. a юр. на рассмотрении суда; ещё не решённый (о деле)</word></ar><ar><origin>sub_rosa</origin><tr></tr><word>лат. adv секретно, конфиденциально</word></ar><ar><origin>sub_89b</origin><tr>[sʌb-]</tr><word>pref
+указывает на:
+1) положение ниже чего-л. или под чем-л.: subway
+1) тоннель; подземный переход;
+2) амер. подземная железная дорога, метро;
+subcutaneous подкожный
+2) подчинение по службе, низший чин:
+subeditor помощник редактора
+3) более мелкое подразделение:
+subcommittee подкомиссия;
+subdivide подразделять(ся)
+4) передачу другому лицу:
+subcontract субдоговор;
+sublease субаренда
+5) недостаточное количество вещества в данном соединении:
+suboxide недокись
+6) незначительную степень, малое количество:
+subaudible едва слышный</word></ar><ar><origin>subfusc</origin><tr>[ˊsʌbfʌsk]</tr><word>a
+книжн. скучный; мрачный; тёмный</word></ar><ar><origin>subject_matter</origin><tr>[ˊsʌbdʒektˏmætə]</tr><word>n
+тема, содержание (книги, разговора и т.п.); предмет (обсуждения и т.п.)</word></ar><ar><origin>submachine_gun</origin><tr>[ˏsʌbməˊʃi:ngʌn]</tr><word>n
+пистолет-пулемёт, автомат</word></ar><ar><origin>subman</origin><tr>[ˊsʌbmæn]</tr><word>n
+презр. недочеловек, нелюдь</word></ar><ar><origin>submarginal</origin><tr>[sʌbˊmɑ:dʒɪnl]</tr><word>a
+эк. не достигающий минимально приемлемого уровня</word></ar><ar><origin>subrogation</origin><tr>[ˏsʌbrəˊgeɪʃn]</tr><word>n
+юр. суброгация, замена одного кредитора другим</word></ar><ar><origin>subroutine</origin><tr>[ˊsʌbrυti:n]</tr><word>n
+информ. (стандартная) подпрограмма</word></ar><ar><origin>subscriber_trunk_dialling</origin><tr>[səb-ˏskraɪbətrʌŋkˊdaɪəlɪŋ]</tr><word>n
+автоматическая междугородная телефонная связь</word></ar><ar><origin>subscription_concert</origin><tr>[səbˏskrɪpʃn-ˊkɒn-sət]</tr><word>n
+концерт по абонементу</word></ar><ar><origin>subsistence_allowance</origin><tr>[səbˊsɪstǝnsə-ˏlaυəns]</tr><word>n
+1) аванс (в счёт заработной платы)
+2) командировочные (деньги)</word></ar><ar><origin>subsistence_farming</origin><tr>[səbˊsɪstǝns-ˏfɑ:mɪŋ]</tr><word>n
+бедное, малоприбыльное хозяйство (фермера)</word></ar><ar><origin>subsistence_level</origin><tr>[səbˊsɪstǝnsˏlevl]</tr><word>n
+прожиточный минимум</word></ar><ar><origin>subsistence_money</origin><tr>[səbˊsɪstǝnsˏmʌnɪ]</tr><word>= subsistence allowance</word></ar><ar><origin>subsistence_wage</origin><tr>[səbˊsɪstǝnsweɪdʒ]</tr><word>= subsistence level</word></ar><ar><origin>substrata</origin><tr>[ˊsʌbstrɑ:tə]</tr><word>pl от substratum</word></ar><ar><origin>subterminal</origin><tr>[sʌbˊtɜ:mɪnl]</tr><word>a
+расположенный почти в конце</word></ar><ar><origin>subtropics</origin><tr>[ˏsʌbˊtrɒpɪks]</tr><word>n pl
+субтропики</word></ar><ar><origin>succedanea</origin><tr>[ˏsʌksɪˊdeɪnɪə]</tr><word>pl от succedaneum</word></ar><ar><origin>succedaneum</origin><tr>[ˏsʌksɪˊdeɪnɪəm]</tr><word>n (pl -nea)
+заменитель, особ. лекарства или наркотика</word></ar><ar><origin>success_story</origin><tr>[səkˊsesstɔ:rɪ]</tr><word>n ≅
+из грязи — в князи</word></ar><ar><origin>succ%C3%A8s_de_scandale</origin><tr></tr><word>фр. n скандальный успех (пьесы, книги и т.п.)</word></ar><ar><origin>Sudanese</origin><tr></tr><word>1. a суданский
+2. n суданец; суданка;
+the Sudanese pl собир. суданцы</word></ar><ar><origin>Sudani</origin><tr>[su:ˊdɑ:nɪ]</tr><word>n
+суданский диалект арабского языка</word></ar><ar><origin>sudatoria</origin><tr>[ˏsu:dəˊtɔ:rɪə]</tr><word>pl от sudatorium</word></ar><ar><origin>sugar_beet</origin><tr>[ˏʃυgəˊbi:t]</tr><word>n
+сахарная свёкла</word></ar><ar><origin>sugar_candy</origin><tr>[ˊʃυgəˏkændɪ]</tr><word>n
+леденец</word></ar><ar><origin>sugar_cane</origin><tr>[ˊʃυgəkeɪn]</tr><word>n
+сахарный тростник</word></ar><ar><origin>sugar_cube</origin><tr>[ˊʃυgəkju:b]</tr><word>= sugar lump</word></ar><ar><origin>sugar_daddy</origin><tr>[ˊʃυgədædɪ]</tr><word>n
+разг. пожилой поклонник молодой женщины, делающий богатые подарки</word></ar><ar><origin>sugar_lump</origin><tr>[ˊʃυgəlʌmp]</tr><word>n
+кусо(че)к сахара</word></ar><ar><origin>sugar_maple</origin><tr>[ˊʃυgəˏmeɪpl]</tr><word>n
+бот. клён сахарный</word></ar><ar><origin>sugar_tongs</origin><tr>[ˊʃυgətɒŋz]</tr><word>n
+шипцы для сахара</word></ar><ar><origin>sugarbasin</origin><tr>[ˊʃυgəbeɪsn]</tr><word>n
+сахарница</word></ar><ar><origin>sugarbowl</origin><tr>[ˊʃυgəbəυl]</tr><word>= sugarbasin</word></ar><ar><origin>sugarloaf</origin><tr>[ˊʃυgələυf]</tr><word>n
+1) голова сахару
+2) сопка, остроконечный холм
+3) шляпа с конусообразной тульёй</word></ar><ar><origin>sulpha_drugs</origin><tr>[ˊsʌlfədrʌgz]</tr><word>n pl
+фарм. лекарственные сульфамидные препараты</word></ar><ar><origin>summa_cum_laude</origin><tr>[ˏsυməkυmˊlaυdeɪ]</tr><word>adv, a (особ. амер.)
+с (высшим) отличием (о дипломе, степени и т.п.)</word></ar><ar><origin>summer_lightning</origin><tr>[ˊsʌməˏlaɪtnɪŋ]</tr><word>n
+зарница</word></ar><ar><origin>summer_school</origin><tr>[ˊsʌməsku:l]</tr><word>n
+серия лекций в университете (во время летних каникул)</word></ar><ar><origin>summer_solstice</origin><tr>[ˏsʌməˊsɒlstɪs]</tr><word>n
+астр. летнее солнцестояние</word></ar><ar><origin>summer_time</origin><tr>[ˊsʌmətaɪm]</tr><word>n
+летнее время (когда часы переведены на час вперёд)</word></ar><ar><origin>summerhouse</origin><tr>[ˊsʌməhaυs]</tr><word>n
+беседка</word></ar><ar><origin>summum_bonum</origin><tr></tr><word>лат. n величайшее благо</word></ar><ar><origin>sumo_wrestling</origin><tr>[ˊsu:məυ(ˏreslɪŋ)]</tr><word>n
+борьба сумо</word></ar><ar><origin>sumpter</origin><tr>[ˊsʌmptə]</tr><word>n
+уст. вьючная лошадь</word></ar><ar><origin>sun_dog</origin><tr>[ˊsʌndɒg]</tr><word>n
+астр. ложное солнце</word></ar><ar><origin>sun_hat</origin><tr>[ˊsʌnhæt]</tr><word>n
+широкополая шляпа от солнца</word></ar><ar><origin>sun_parlour</origin><tr>[ˊsʌnpɑ:lə]</tr><word>n
+застеклённая терраса; комната с большим количеством окон, расположенная на солнечной стороне</word></ar><ar><origin>sun-and-planet_gear</origin><tr>[ˏsʌnəndplænɪt-ˊgɪə]</tr><word>n
+тех. планетарный механизм</word></ar><ar><origin>sunbaked</origin><tr>[ˊsʌnbeɪkt]</tr><word>a
+высушенный на солнце</word></ar><ar><origin>sunbath</origin><tr>[ˊsʌnbɑ:θ]</tr><word>n
+солнечная ванна</word></ar><ar><origin>sunblind</origin><tr>[ˊsʌnblaɪnd]</tr><word>n
+тент, навес, маркиза</word></ar><ar><origin>Sunday</origin><tr>[ˊsʌndɪ]</tr><word>n
+1) воскресенье
+2) attr. воскресный
+◊ Sunday best шутл. лучший костюм или платье; праздничное платье</word></ar><ar><origin>Sunday_school</origin><tr>[ˊsʌndɪsku:l]</tr><word>n
+воскресная церковная школа</word></ar><ar><origin>sunfast</origin><tr>[ˊsʌnfɑ:st]</tr><word>a
+амер. не выгорающий, стойкий (о краске)</word></ar><ar><origin>sunglasses</origin><tr>[ˊsʌnˏglɑ:sɪz]</tr><word>n pl
+(тёмные) солнцезащитные очки</word></ar><ar><origin>Sunni</origin><tr>[ˊsυnɪ]</tr><word>n
+суннит</word></ar><ar><origin>sunny-side_up</origin><tr>[ˏsʌnɪsaɪdˊʌp]</tr><word>a
+амер. приготовленный в виде глазуньи (о яичнице)</word></ar><ar><origin>sunrise_industry</origin><tr>[ˊsʌnraɪzˏɪndʌstrɪ]</tr><word>n
+современная перспективная отрасль промышленности (напр. электроника)</word></ar><ar><origin>sunspot</origin><tr>[ˊsʌnspɒt]</tr><word>n
+1) астр. пятно на солнце
+2) веснушка
+3) attr.:
+sunspot activity действие солнечных пятен</word></ar><ar><origin>suntan</origin><tr>[ˊsʌntæn]</tr><word>n
+загар;
+suntan lotion лосьон для загара;
+to get a suntan загорать</word></ar><ar><origin>sunup</origin><tr>[ˊsʌnʌp]</tr><word>n (обыкн. амер.)
+восход солнца</word></ar><ar><origin>super_744</origin><tr>[ˊsu:pə-]</tr><word>pref
+над-, сверх-;
+supernatural сверхъестественный;
+superimpose накладывать</word></ar><ar><origin>superego</origin><tr>[ˏsu:pǝrˊi:gəυ]</tr><word>n
+психол. сверх-я</word></ar><ar><origin>supernovae</origin><tr>[ˏsu:pəˊnəυvi:]</tr><word>pl от supernova</word></ar><ar><origin>superphysical</origin><tr>[ˏsu:pəˊfɪzɪkl]</tr><word>a
+не объяснимый известными законами физики</word></ar><ar><origin>superstrata</origin><tr>[ˏsu:pəˊstreɪtə]</tr><word>pl от superstratum</word></ar><ar><origin>support_price</origin><tr>[səˊpɔ:tpraɪs]</tr><word>n
+субсидии, даваемые правительством фермерам</word></ar><ar><origin>suppositious</origin><tr>[ˏsʌpəˊzɪʃəs]</tr><word>a
+предположительный, предполагаемый</word></ar><ar><origin>surefire</origin><tr>[ˊʃɔ:fa(ɪ)ə]</tr><word>a
+разг. безошибочный, верный, надёжный</word></ar><ar><origin>surefooted</origin><tr>[ˏʃɔ:ˊfυtɪd]</tr><word>a
+устойчивый, не спотыкающийся (тж. перен.)</word></ar><ar><origin>surface_mail</origin><tr>[ˊsɜ:fɪsmeɪl]</tr><word>n
+обычная почта (в отличие от авиапочты)</word></ar><ar><origin>surface_tension</origin><tr>[ˏsɜ:fɪsˊtenʃn]</tr><word>n
+физ. поверхностное натяжение</word></ar><ar><origin>surgical_strike</origin><tr>[ˏsɜ:dʒɪkǝlˊstraɪk]</tr><word>n
+воен. точечный удар (в отличие от массированного)</word></ar><ar><origin>surrogate_mother</origin><tr>[ˏsʌrəgeɪtˊmʌðə]</tr><word>n
+суррогатная мать</word></ar><ar><origin>surround-sound</origin><tr>[səˊraυndˏsaυnd]</tr><word>n
+стереофонический эффект звучания</word></ar><ar><origin>survey_vessel</origin><tr>[ˊsɜ:veɪˏvesl]</tr><word>n
+гидрографическое судно</word></ar><ar><origin>survival_kit</origin><tr>[səˊvaɪvlkɪt]</tr><word>n
+аварийный пакет (особ. военнослужащего)</word></ar><ar><origin>sushi</origin><tr></tr><word>суши (японское кушанье)</word></ar><ar><origin>suspender_belt</origin><tr>[səˊspendəbelt]</tr><word>n
+женский пояс с подвязками</word></ar><ar><origin>suspense_account</origin><tr>[səˏspensəˊkaυnt]</tr><word>n
+бухг. счёт переходящих сумм</word></ar><ar><origin>suspension_points</origin><tr>[səˏspenʃnˊpɔɪnts]</tr><word>n
+многоточие</word></ar><ar><origin>suspiciously</origin><tr>[səˊspɪʃəslɪ]</tr><word>adv
+подозрительно, с подозрением;
+it looks to me suspiciously like measles по-моему, это очень похоже на корь</word></ar><ar><origin>Sutra</origin><tr>[ˊsu:trə]</tr><word>n
+сутры, собрание изречений (в древней санскритской литературе)</word></ar><ar><origin>swaddling_bands</origin><tr>[ˊswɒdlɪŋbændz]</tr><word>= swaddling-clothes</word></ar><ar><origin>Swadeshi</origin><tr>[swəˊdeɪʃɪ]</tr><word>n
+ист. свадеши (бойкот английских товаров с целью поощрения индийской промышленности)</word></ar><ar><origin>swagger_cane</origin><tr>[ˊswægəkeɪn]</tr><word>= swagger stick</word></ar><ar><origin>swagger_stick</origin><tr>[ˊswægəstɪk]</tr><word>n
+офицерская тросточка</word></ar><ar><origin>swallow_dive</origin><tr>[ˊswɒləυdaɪv]</tr><word>n
+прыжок в воду ласточкой</word></ar><ar><origin>swallowtail</origin><tr>[ˊswɒləυteɪl]</tr><word>n
+1) раздвоенный хвост
+2) (тж. pl) разг. фрак (тж. swallow-tailed coat)</word></ar><ar><origin>swan_dive</origin><tr></tr><word>амер. = swallow dive</word></ar><ar><origin>swankpot</origin><tr>[ˊswæŋkpɒt]</tr><word>n
+разг. хвастун</word></ar><ar><origin>swansdown</origin><tr>[ˊswɒnzdaυn]</tr><word>n
+1) лебяжий пух
+2) тёплая полушерстяная ткань
+3) хлопчатобумажная ткань с большим начёсом</word></ar><ar><origin>swanskin</origin><tr>[ˊswɒnskɪn]</tr><word>n
+шерстяная или хлопчатобумажная фланель</word></ar><ar><origin>swansong</origin><tr>[ˊswɒnsɒŋ]</tr><word>n
+лебединая песнь</word></ar><ar><origin>swap_meet</origin><tr>[ˊswɒpˏmi:t]</tr><word>n
+амер. толкучий рынок, толкучка</word></ar><ar><origin>Swaraj</origin><tr>[swəˊrɑ:dʒ]</tr><word>n
+ист. сварадж (движение за самоуправление Индии)</word></ar><ar><origin>Swarajist</origin><tr>[swəˊrɑ:dʒɪst]</tr><word>n
+ист. свараджист (сторонник самоуправления Индии)</word></ar><ar><origin>sware</origin><tr></tr><word>уст. past от swear 2</word></ar><ar><origin>swear_word</origin><tr>[ˊsweəwɜ:d]</tr><word>n
+ругательство, бранное слово</word></ar><ar><origin>sweat_gland</origin><tr>[ˊswetglænd]</tr><word>n
+анат. потовая железа</word></ar><ar><origin>sweat_suit</origin><tr>[ˊswetsu:t]</tr><word>n
+амер. спорт. тренировочный костюм</word></ar><ar><origin>sweatband</origin><tr>[ˊswetbænd]</tr><word>n
+кожаная лента внутри шляпы</word></ar><ar><origin>sweatbox</origin><tr>[ˊswetbɒks]</tr><word>n
+сл. карцер</word></ar><ar><origin>sweatcloth</origin><tr>[ˊswetklɒθ]</tr><word>n
+потник</word></ar><ar><origin>sweater_girl</origin><tr>[ˊswetəgɜ:l]</tr><word>n
+сл. полногрудая девица в свитере в обтяжку</word></ar><ar><origin>sweating_system</origin><tr>[ˏswetɪŋˊsɪstəm]</tr><word>n
+усиленная эксплуатация; потогонная система</word></ar><ar><origin>sweatshop</origin><tr>[ˊswetʃɒp]</tr><word>n
+предприятие, на котором существует потогонная система</word></ar><ar><origin>Swede</origin><tr>[swi:d]</tr><word>n
+швед; шведка</word></ar><ar><origin>swede_turnip</origin><tr>[ˏswi:dˊtɜ:nɪp]</tr><word>= Swede</word></ar><ar><origin>Swedish</origin><tr></tr><word>1. a шведский
+2. n шведский язык</word></ar><ar><origin>sweet_bay</origin><tr>[ˏswi:tˊbeɪ]</tr><word>n
+бот.
+1) лавр благородный
+2) магнолия виргинская</word></ar><ar><origin>sweet_oil</origin><tr>[ˏswi:tˊɔɪl]</tr><word>n
+прованское, оливковое масло</word></ar><ar><origin>sweet_pea</origin><tr>[ˏswi:tˊpi:]</tr><word>n
+бот. душистый горошек</word></ar><ar><origin>sweet_talk</origin><tr>[ˊswi:ttɔ:k]</tr><word>n
+разг. лесть, умасливание</word></ar><ar><origin>sweet_tooth</origin><tr>[ˏswi:tˊtu:θ]</tr><word>n
+любовь к сладкому;
+to have a sweet tooth быть сластёной</word></ar><ar><origin>sweet_william</origin><tr>[ˏswi:tˊwɪljəm]</tr><word>n
+бот. турецкая гвоздика</word></ar><ar><origin>sweet-and-sour</origin><tr>[ˏswi:təndˊsaυə]</tr><word>a
+кисло-сладкий</word></ar><ar><origin>sweet-talk</origin><tr>[ˊswi:ttɔ:k]</tr><word>v
+разг. льстить, подольщаться</word></ar><ar><origin>sweetbriar</origin><tr>[ˊswi:tbraɪə]</tr><word>= sweetbrier</word></ar><ar><origin>sweetbrier</origin><tr>[ˊswi:tbraɪə]</tr><word>n
+роза эглантерия</word></ar><ar><origin>swell_mob</origin><tr>[ˏswelˊmɒb]</tr><word>n
+сл. шикарно одетые жулики; аферисты</word></ar><ar><origin>swelled_head</origin><tr>[ˏsweldˊhed]</tr><word>n
+разг. самомнение;
+to suffer from swelled head страдать самомнением</word></ar><ar><origin>swimming_bath</origin><tr></tr><word>уст. = swimming pool</word></ar><ar><origin>swimming_costume</origin><tr>[ˊswɪmɪŋˏkɒstju:m]</tr><word>n
+купальный костюм</word></ar><ar><origin>swimming_pool</origin><tr></tr><word>плавательный бассейн</word></ar><ar><origin>swimming_trunks</origin><tr>[ˊswɪmɪŋtrʌŋks]</tr><word>n pl
+плавки</word></ar><ar><origin>swimsuit</origin><tr></tr><word>амер. = swimming costume</word></ar><ar><origin>swing_bridge</origin><tr>[ˊswɪŋbrɪdʒ]</tr><word>n
+разводной мост</word></ar><ar><origin>swing_door</origin><tr>[ˏswɪŋˊdɔ:]</tr><word>n
+вращающаяся дверь; дверь, открывающаяся в любую сторону (обыкн. двустворчатая)</word></ar><ar><origin>swing_joint</origin><tr>[ˏswɪŋˊdʒɔɪnt]</tr><word>n
+тех. шарнирное соединение</word></ar><ar><origin>swing_music</origin><tr>[ˊswɪŋˏmju:zɪk]</tr><word>n
+свинг (разновидность джазовой музыки)</word></ar><ar><origin>swing_shift</origin><tr>[ˊswɪŋˏʃɪft]</tr><word>n
+амер. вторая смена на фабрике или заводе (с 4 часов дня до 12 часов ночи)</word></ar><ar><origin>swingletree</origin><tr>[ˊswɪŋgltri:]</tr><word>n
+валёк (конной упряжи)</word></ar><ar><origin>Swiss</origin><tr></tr><word>1. a швейцарский
+◊ Swiss roll рулет с вареньем или кремом
+2. n швейцарец; швейцарка;
+the Swiss pl собир. швейцарцы</word></ar><ar><origin>switch_lamp</origin><tr>[ˊswɪtʃlæmp]</tr><word>n
+ж.-д. стрелочный фонарь</word></ar><ar><origin>switch_tender</origin><tr></tr><word>амер. = switchman</word></ar><ar><origin>switch_tower</origin><tr>[ˏswɪtʃˊtaʋə]</tr><word>n
+амер. будка стрелочника</word></ar><ar><origin>switchblade</origin><tr>[ˊswɪtʃbleɪd]</tr><word>n
+амер. пружинный нож; автоматически открывающийся нож</word></ar><ar><origin>switched-on</origin><tr>[ˏswɪtʃtˊɒn]</tr><word>a
+разг.
+1) современный, на современном уровне
+2) одурманенный наркотиками</word></ar><ar><origin>switching</origin><tr>[ˊswɪtʃɪŋ]</tr><word>n
+информ. переключение</word></ar><ar><origin>switchman</origin><tr>[ˊswɪtʃmən]</tr><word>n
+стрелочник</word></ar><ar><origin>switchover</origin><tr>[ˊswɪtʃˏəυvə]</tr><word>n
+переход (к чему-л. другому), переключение</word></ar><ar><origin>swither</origin><tr></tr><word>шотл.
+1. n нерешительность, колебание
+2. v колебаться, быть в нерешительности</word></ar><ar><origin>swizz</origin><tr>[swɪz]</tr><word>n
+разг.
+1) большое разочарование
+2) мошенничество</word></ar><ar><origin>sword_cane</origin><tr>[ˊsɔ:dkeɪn]</tr><word>= swordstick</word></ar><ar><origin>sword_dance</origin><tr>[ˊsɔ:ddɑ:ns]</tr><word>n
+танец с мечами или с саблями</word></ar><ar><origin>sword_knot</origin><tr>[ˊsɔdnɒt]</tr><word>n
+темляк</word></ar><ar><origin>swordfish</origin><tr>[ˊsɔ:dfɪʃ]</tr><word>n
+меч-рыба</word></ar><ar><origin>swordplay</origin><tr>[ˊsɔ:dpleɪ]</tr><word>n
+1) фехтование
+2) пикировка; состязание в остроумии</word></ar><ar><origin>swordstick</origin><tr>[ˊsɔ:dstɪk]</tr><word>n
+трость с вкладной шпагой</word></ar><ar><origin>swum</origin><tr>[swʌm]</tr><word>p. p. от swim 2</word></ar><ar><origin>syllabi</origin><tr>[ˊsɪləbaɪ]</tr><word>pl от syllabus</word></ar><ar><origin>-syllabled</origin><tr></tr><word>в сложных словах означает состоящий из стольких-то слогов;
+one-syllabled односложный;
+two-syllabled двусложный и т.п.</word></ar><ar><origin>sympathetic_ink</origin><tr>[sɪmpəˏθetɪkˊɪŋk]</tr><word>n
+симпатические чернила</word></ar><ar><origin>sympathy_strike</origin><tr>[ˊsɪmpəθɪstraɪk]</tr><word>= sympathetic strike [см. sympathetic 1)]</word></ar><ar><origin>symposia</origin><tr>[sɪmˊpəυzɪə]</tr><word>pl от symposium</word></ar><ar><origin>synchronized_swimming</origin><tr>[ˏsɪŋkrənaɪzdˊswɪmɪŋ]</tr><word>n
+синхронное плавание</word></ar><ar><origin>synco_pate</origin><tr>[ˊsɪŋkəpeɪt]</tr><word>v
+1) муз. синкопировать
+2) грам. сокращать слово, опуская звук или слог в середине его</word></ar><ar><origin>syncretize</origin><tr>[ˊsɪŋkrətaɪz]</tr><word>v
+филос. пытаться сочетать разнородные, противоречивые, несовместимые воззрения</word></ar><ar><origin>synergism</origin><tr>[ˊsɪnədʒɪzǝm]</tr><word>n
+синергизм, взаимное усиление действия (лекарств)</word></ar><ar><origin>synopses</origin><tr>[sɪˊnɒpsi:z]</tr><word>pl от synopsis</word></ar><ar><origin>syntheses</origin><tr>[ˊsɪnθəsi:z]</tr><word>pl от synthesis</word></ar><ar><origin>Syrian</origin><tr></tr><word>1. a сирийский
+2. n сириец; сирийка</word></ar><ar><origin>syringes</origin><tr>[sɪˊrɪndʒɪz]</tr><word>pl от syringe 1
+Ⅱ
+syringes [sɪˊrɪndʒi:z] pl от syrinx</word></ar><ar><origin>systems_analysis</origin><tr>[ˏsɪstəmzəˊnælɪsɪs]</tr><word>n
+системный анализ (анализ организации и функционирования систем)</word></ar><ar><origin>systems_analyst</origin><tr>[ˊsɪstəmzˏænəlɪst]</tr><word>n
+специалист по системному анализу</word></ar><ar><origin>syzygy</origin><tr>[ˊsɪzədʒɪ]</tr><word>n
+астр. сизигия</word></ar><ar><origin>S%C3%A9vres</origin><tr>[ˊseɪvrə]</tr><word>n
+севрский фарфор</word></ar>

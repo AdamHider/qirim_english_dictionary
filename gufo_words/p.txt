@@ -1,0 +1,937 @@
+<ar><origin>P</origin><tr>[pi:]</tr><word>n (pl Ps, P's [pi:z])
+16-я буква англ. алфавита
+◊ to mind one's P's and Q's быть осторожным, осмотрительным в своих поступках и словах</word></ar><ar><origin>pacemaker</origin><tr>[ˊpeɪsˏmeɪkə]</tr><word>n
+1) задающий темп, лидер (забега и т.п.)
+2) мед. электрокардиостимулятор</word></ar><ar><origin>pack_animal</origin><tr>[ˊpækˏænɪml]</tr><word>n
+вьючное животное</word></ar><ar><origin>pack_horse</origin><tr>[ˊpækhɔ:s]</tr><word>n
+вьючная лошадь</word></ar><ar><origin>pack_ice</origin><tr>[ˊpækaɪs]</tr><word>n
+паковый лёд, пак</word></ar><ar><origin>pack_rat</origin><tr>[ˊpækræt]</tr><word>n
+амер. барахольщик, тот, кто не выбрасывает ненужное старьё</word></ar><ar><origin>pack_train</origin><tr>[ˊpæktreɪn]</tr><word>n
+вьючный обоз</word></ar><ar><origin>package_holiday</origin><tr>[ˊpækɪdʒˏhɒlɪdeɪ]</tr><word>= package tour</word></ar><ar><origin>package_tour</origin><tr>[ˊpækɪdʒtυə]</tr><word>n
+комплексная туристическая поездка или экскурсия (с одновременной оплатой полного обслуживания, включая проезд, гостиницу, питание, посещение зрелищных мероприятий и т.п.)</word></ar><ar><origin>packet_boat</origin><tr>[ˊpækɪtbəυt]</tr><word>n
+уст. почтово-пассажирское судно, пакетбот</word></ar><ar><origin>packing_case</origin><tr>[ˊpækɪŋkeɪs]</tr><word>n
+ящик (для упаковки)</word></ar><ar><origin>packing_needle</origin><tr>[ˊpækɪŋˏni:dl]</tr><word>n
+упаковочная, кулевая игла</word></ar><ar><origin>packing_sheet</origin><tr>[ˊpækɪŋʃi:t]</tr><word>n
+1) упаковочный холст
+2) мед. простыня для влажного обёртывания</word></ar><ar><origin>packsaddle</origin><tr>[ˊpækˏsædl]</tr><word>n
+вьючное седло</word></ar><ar><origin>paddle_box</origin><tr>[ˊpædlbɒks]</tr><word>n
+кожух гребного колеса</word></ar><ar><origin>paddle_wheel</origin><tr>[ˊpædlwi:l]</tr><word>n
+гребное колесо</word></ar><ar><origin>paddling_pool</origin><tr>[ˊpædlɪŋpu:l]</tr><word>n
+«лягушатник» (мелкая часть бассейна для детей)</word></ar><ar><origin>Paddy</origin><tr>[ˊpædɪ]</tr><word>n
+разг. Пэдди (шутливое прозвище ирландца)</word></ar><ar><origin>Padishah</origin><tr>[ˊpa:dɪʃɑ:]</tr><word>n
+падишах</word></ar><ar><origin>padroni</origin><tr>[pəˊdrəυni:]</tr><word>pl от padrone</word></ar><ar><origin>Padshah</origin><tr>[ˊpɑ:dʃɑ:]</tr><word>= Padishah</word></ar><ar><origin>page_boy</origin><tr>[ˊpeɪdʒbɔɪ]</tr><word>n
+1) = page Ⅱ 1, 1) и 2);
+2) длинная женская стрижка с загнутыми внутрь концами волос</word></ar><ar><origin>painkiller</origin><tr>[ˊpeɪnˏkɪlə]</tr><word>n
+болеутоляющее средство</word></ar><ar><origin>paint_spray_gun</origin><tr>[ˊpeɪntspreɪˏgʌn]</tr><word>n
+краскораспылитель</word></ar><ar><origin>paintbox</origin><tr>[ˊpeɪntbɒks]</tr><word>n
+коробка красок</word></ar><ar><origin>paintbrush</origin><tr>[ˊpeɪntbrʌʃ]</tr><word>n
+кисть</word></ar><ar><origin>painted_lady</origin><tr>[ˏpeɪntɪdˊleɪdɪ]</tr><word>n
+репейница (бабочка)</word></ar><ar><origin>-pair</origin><tr></tr><word>в сложных словах означает комната;
+one- (two-, three-) -pair front (back) комната на втором (третьем, четвёртом) этаже, выходящая на улицу (во двор)</word></ar><ar><origin>pair_oar</origin><tr>[ˊpeərɔ:]</tr><word>n
+спорт. двойка распашная</word></ar><ar><origin>pairwise</origin><tr>[ˊpeəwaɪz]</tr><word>a
+попарный</word></ar><ar><origin>Pakistani</origin><tr></tr><word>1. n пакистанец; пакистанка
+2. a пакистанский</word></ar><ar><origin>Palaeogene</origin><tr>[ˊpælɪədʒi:n]</tr><word>n
+геол. палеоген</word></ar><ar><origin>Palaeozoic</origin><tr></tr><word>геол.
+1. a палеозойский
+2. n палеозой, палеозойская эра</word></ar><ar><origin>palais</origin><tr>[ˊpæleɪ]</tr><word>n
+разг. дансинг</word></ar><ar><origin>Palestinian</origin><tr></tr><word>1. a палестинский
+2. n палестинец; палестинка</word></ar><ar><origin>palette_knife</origin><tr>[ˊpælətnaɪf]</tr><word>n
+жив. мастихин</word></ar><ar><origin>Pali</origin><tr>[ˊpɑ:lɪ]</tr><word>n
+пали (индийский диалект; тж. язык священных книг буддистов)</word></ar><ar><origin>palladia</origin><tr>[pəˊleɪdɪə]</tr><word>pl от palladium Ⅰ</word></ar><ar><origin>pallia</origin><tr>[ˊpælɪə]</tr><word>pl от pallium</word></ar><ar><origin>palm_cat</origin><tr>[ˊpɑ:mkæt]</tr><word>= palm civet</word></ar><ar><origin>palm_civet</origin><tr>[ˊpɑ:msɪvɪt]</tr><word>n
+зоол. пальмовая куница, страннохвост</word></ar><ar><origin>palm_grease</origin><tr>[ˊpɑ:mgri:s]</tr><word>= palm oil 2)</word></ar><ar><origin>palm_oil</origin><tr>[ˊpɑ:mɔɪl]</tr><word>n
+1) пальмовое масло
+2) разг. взятка</word></ar><ar><origin>palm_worm</origin><tr>[ˊpɑ:mwɜ:m]</tr><word>= palmer 2)</word></ar><ar><origin>Palma_Christi</origin><tr>[ˏpælməˊkrɪstɪ]</tr><word>n
+бот. клещевина</word></ar><ar><origin>palpi</origin><tr>[ˊpælpaɪ]</tr><word>pl от palpus</word></ar><ar><origin>palpus</origin><tr>[ˊpælpəs]</tr><word>n (pl -pi) = palp</word></ar><ar><origin>pampas_grass</origin><tr>[ˊpæmpəsgrɑ:s]</tr><word>n
+бот. трава пампасная</word></ar><ar><origin>Pan</origin><tr>[pæn]</tr><word>n
+1) греч. миф. Пан
+2) язычество</word></ar><ar><origin>Pan-American</origin><tr>[ˏpænəˊmerɪkǝn]</tr><word>a
+панамериканский</word></ar><ar><origin>Panamanian</origin><tr></tr><word>1. a панамский
+2. n житель Панамы</word></ar><ar><origin>panatella</origin><tr>[ˏpænəˊtelə]</tr><word>n
+длинная тонкая сигара</word></ar><ar><origin>Pandean</origin><tr>[pænˊdi:ən]</tr><word>a
+греч. миф.:
+Pandean pipe свирель Пана</word></ar><ar><origin>Pandora_s_box</origin><tr>[pænˏdɔ:rəzˊbɒks]</tr><word>n
+греч. миф. ящик Пандоры, источник всяческих бед</word></ar><ar><origin>panel_game</origin><tr>[ˊpænlgeɪm]</tr><word>n
+теле- или радиовикторина</word></ar><ar><origin>panicmonger</origin><tr>[ˊpænɪkˏmʌŋgə]</tr><word>n
+паникёр</word></ar><ar><origin>panpipe</origin><tr>[ˊpænpaɪp]</tr><word>n
+свирель</word></ar><ar><origin>pantie_girdle</origin><tr>[ˏpæntɪˊgɜ:dl]</tr><word>n
+дамский пояс-трусы</word></ar><ar><origin>panto_f89</origin><tr>[ˊpæntəʋ-]</tr><word>pref
+все-, обще-, панто-</word></ar><ar><origin>paparazzi</origin><tr>[ˏpæpəˊrætsɪ]</tr><word>pl от paparazzo</word></ar><ar><origin>paper_chase</origin><tr>[ˊpeɪpətʃeɪs]</tr><word>n
+игра «заяц и собаки», в которой убегающие оставляют за собой бумагу как след</word></ar><ar><origin>paper_clip</origin><tr>[ˊpeɪpəklɪp]</tr><word>n
+скрепка для бумаг</word></ar><ar><origin>paper_cutter</origin><tr>[ˊpeɪpəˏkʌtə]</tr><word>n
+1) = paper knife
+2) полигр. бумагорезальная машина</word></ar><ar><origin>paper_fastener</origin><tr>[ˊpeɪpəˏfɑ:snə]</tr><word>= paper clip</word></ar><ar><origin>paper_knife</origin><tr>[ˊpeɪpənaɪf]</tr><word>n
+разрезной нож, нож для бумаги</word></ar><ar><origin>paper_mill</origin><tr>[ˊpeɪpəmɪl]</tr><word>n
+бумажная фабрика</word></ar><ar><origin>paper_stainer</origin><tr>[ˊpeɪpəˏsteɪnə]</tr><word>n
+1) фабрикант обоев
+2) шутл. бумагомаратель</word></ar><ar><origin>paper_tiger</origin><tr>[ˏpeɪpəˊtaɪgə]</tr><word>n
+«бумажный тигр», неопасный противник</word></ar><ar><origin>paperback</origin><tr>[ˊpeɪpəbæk]</tr><word>n
+книга в бумажной обложке</word></ar><ar><origin>paperboy</origin><tr>[ˊpeɪpəbɔɪ]</tr><word>n
+продавец газет</word></ar><ar><origin>paperhanger</origin><tr>[ˊpeɪpəˏhæŋə]</tr><word>n
+обойщик</word></ar><ar><origin>paperhanging</origin><tr>[ˊpeɪpəˏhæŋɪŋ]</tr><word>n
+1) оклейка комнаты обоями
+2) pl обои</word></ar><ar><origin>paperweight</origin><tr>[ˊpeɪpəweɪt]</tr><word>n
+пресс-папье</word></ar><ar><origin>papier-m%C3%A2ch%C3%A9</origin><tr>[ˏpæpɪeɪˊmæʃeɪ]</tr><word>n
+папье-маше</word></ar><ar><origin>papillae</origin><tr>[pəˊpɪli:]</tr><word>pl от papilla</word></ar><ar><origin>Papuan</origin><tr></tr><word>1. a папуасский
+2. n папуас; папуаска</word></ar><ar><origin>papulae</origin><tr>[ˊpæpjυli:]</tr><word>pl от papula</word></ar><ar><origin>papyri</origin><tr>[pəˊpaɪraɪ]</tr><word>pl от papyrus</word></ar><ar><origin>par_avion</origin><tr></tr><word>фр. adv авиапочтой; авиа</word></ar><ar><origin>par_excellence</origin><tr></tr><word>фр. adv по преимуществу; главным образом; в особенности</word></ar><ar><origin>parachute_jumper</origin><tr>[ˊpærəʃu:tˏdʒʌmpə]</tr><word>= parachutist</word></ar><ar><origin>Paraclete</origin><tr>[ˊpærəkli:t]</tr><word>n
+рел. параклет, заступник, утешитель</word></ar><ar><origin>parade_ground</origin><tr>[pəˊreɪdgraυnd]</tr><word>n
+учебный плац</word></ar><ar><origin>paraffin_oil</origin><tr>[ˊpærəfɪnɔɪl]</tr><word>n
+1) нефть парафинового основания
+2) керосин</word></ar><ar><origin>Paraguayan</origin><tr></tr><word>1. a парагвайский
+2. n парагваец; парагвайка</word></ar><ar><origin>paralyses</origin><tr>[pəˊræləsi:z]</tr><word>pl от paralysis</word></ar><ar><origin>paraselenae</origin><tr>[ˏpærəsɪˊli:ni:]</tr><word>pl от paraselene</word></ar><ar><origin>parcel_post</origin><tr>[ˊpɑ:slpəυst]</tr><word>n
+почтово-посылочная служба</word></ar><ar><origin>parent_company</origin><tr>[ˊpeərǝntˏkʌmpǝnɪ]</tr><word>n
+эк. материнская компания</word></ar><ar><origin>parentheses</origin><tr>[pəˊrenθəsi:z]</tr><word>pl от parenthesis</word></ar><ar><origin>parhelia</origin><tr>[pɑ:ˊhi:lɪə]</tr><word>pl от parhelion</word></ar><ar><origin>pari_passu</origin><tr></tr><word>лат. adv
+1) с одинаковой скоростью
+2) наравне и одновременно</word></ar><ar><origin>pari-mutuel</origin><tr></tr><word>фр. n тотализатор</word></ar><ar><origin>pariah_dog</origin><tr>[pəˊra(ɪ)ədɒg]</tr><word>n
+бродячая собака</word></ar><ar><origin>Parian</origin><tr></tr><word>1. a паросский;
+Parian marble паросский мрамор
+2. n род фарфора</word></ar><ar><origin>parietes</origin><tr>[pəˊra(ɪ)ɪti:z]</tr><word>pl от paries</word></ar><ar><origin>Paris</origin><tr>[ˊpærɪs]</tr><word>n
+греч. миф. Парис [см. тж. Список географических названий]</word></ar><ar><origin>Paris_doll</origin><tr>[ˊpærɪsdɒl]</tr><word>n
+манекен; кукла, на которой демонстрируется модель одежды</word></ar><ar><origin>parish_register</origin><tr>[ˏpærɪʃˊredʒɪstə]</tr><word>n
+приходская метрическая книга</word></ar><ar><origin>Parisian</origin><tr></tr><word>1. a парижский
+2. n парижанин; парижанка</word></ar><ar><origin>parking_lot</origin><tr>[ˊpɑ:kɪŋlɒt]</tr><word>n
+амер. место стоянки автотранспорта</word></ar><ar><origin>parlour_boarder</origin><tr>[ˊpɑ:ləˏbɔ:də]</tr><word>n
+школьник-пансионер, живущий в семье хозяина пансиона</word></ar><ar><origin>parlour_car</origin><tr>[ˊpɑ:ləkɑ:]</tr><word>n
+амер. ж.-д. салон-вагон</word></ar><ar><origin>Parmesan</origin><tr>[ˏpɑ:mɪˊzæn]</tr><word>n
+пармезан (сыр)</word></ar><ar><origin>Parnassian</origin><tr></tr><word>лит.
+1. a парнасский
+2. n парнасец</word></ar><ar><origin>Parnassus</origin><tr>[pɑ:ˊnæsəs]</tr><word>n
+греч. миф. Парнас</word></ar><ar><origin>parol</origin><tr></tr><word>юр.
+1. a
+1) данный устно
+2) не содержащийся в документе за печатью
+2. n устное показание, заявление</word></ar><ar><origin>part_time</origin><tr>[ˏpɑ:tˊtaɪm]</tr><word>n
+неполный рабочий день</word></ar><ar><origin>partaken</origin><tr>[pɑ:ˊteɪkǝn]</tr><word>p. p. от partake</word></ar><ar><origin>Parthian</origin><tr>[ˊpɑ:θɪən]</tr><word>a
+ист. парфянский;
+Parthian shot (или shaft, arrow) парфянская стрела (замечание и т.п., приберегаемое к моменту ухода)</word></ar><ar><origin>parti_pris</origin><tr></tr><word>фр. n предвзятое мнение</word></ar><ar><origin>parti-coloured</origin><tr>[ˏpɑ:tɪˊkʌləd]</tr><word>a
+пёстрый, разноцветный</word></ar><ar><origin>participating_country</origin><tr>[pɑ:ˏtɪsɪpeɪtɪŋˊkʌntrɪ]</tr><word>n
+страна-участница (договора, конференции и т.п.)</word></ar><ar><origin>partook</origin><tr>[pɑ:ˊtυk]</tr><word>past от partake</word></ar><ar><origin>party_line</origin><tr>[ˊpɑ:tɪlaɪn]</tr><word>n
+1) линия партии; политический курс
+2) общий телефонный провод у нескольких абонентов
+3) амер. граница между частными владениями</word></ar><ar><origin>party_wall</origin><tr>[ˏpɑ:tɪˊwɔ:l]</tr><word>n
+стр. брандмауэр</word></ar><ar><origin>pas_de_deux</origin><tr></tr><word>фр. n па-де-де, балетный номер, исполняемый двумя партнёрами</word></ar><ar><origin>pas_seul</origin><tr></tr><word>фр. n сольный балетный номер; сольный танец</word></ar><ar><origin>pass_check</origin><tr>[ˊpɑ:stʃek]</tr><word>= pass-out</word></ar><ar><origin>pass_degree</origin><tr>[ˏpɑ:sdɪˊgri:]</tr><word>n
+диплом без отличия</word></ar><ar><origin>pass-out_check</origin><tr></tr><word>амер. = pass-out</word></ar><ar><origin>passage_boat</origin><tr>[ˊpæsɪdʒbəυt]</tr><word>n
+паром</word></ar><ar><origin>passageway</origin><tr>[ˊpæsɪdʒweɪ]</tr><word>n
+1) коридор, проход; пассаж
+2) горн. откаточная выработка
+3) тех. перепускной канал; уравнительный канал</word></ar><ar><origin>passenger_pigeon</origin><tr>[ˏpæsɪndʒəˊpɪdʒǝn]</tr><word>n
+зоол. странствующий голубь</word></ar><ar><origin>passerby</origin><tr>[ˏpɑ:səˊbaɪ]</tr><word>n (pl passersby)
+прохожий, проезжий</word></ar><ar><origin>passersby</origin><tr>[ˏpɑ:səzˊbaɪ]</tr><word>pl от passerby</word></ar><ar><origin>passing_bell</origin><tr>[ˊpɑ:sɪŋbel]</tr><word>n
+похоронный звон</word></ar><ar><origin>passing_note</origin><tr>[ˊpɑ:sɪŋnəυt]</tr><word>n
+муз. переходная нота</word></ar><ar><origin>passing_track</origin><tr>[ˊpɑ:sɪŋtræk]</tr><word>n
+ж.-д. разъездной путь</word></ar><ar><origin>passion_fruit</origin><tr>[ˊpæʃnfru:t]</tr><word>n
+маракуйя</word></ar><ar><origin>passion_play</origin><tr>[ˊpæʃnpleɪ]</tr><word>n
+ист. мистерия, представляющая страсти господни</word></ar><ar><origin>passionflower</origin><tr>[ˊpæʃnˏflaυə]</tr><word>n
+бот. страстоцвет, пассифлора</word></ar><ar><origin>passive_smoking</origin><tr>[ˏpæsɪvˊsməυkɪŋ]</tr><word>n
+«пассивное курение» (вдыхание некурящими табачного дыма от курящих)</word></ar><ar><origin>Passover</origin><tr>[ˊpɑ:sˏəυvə]</tr><word>n
+1) еврейская пасха
+2) пасхальный агнец</word></ar><ar><origin>pass%C3%A9</origin><tr></tr><word>фр. a
+1) устарелый, устаревший
+2) поблёкший</word></ar><ar><origin>past_master</origin><tr>[ˏpɑ:stˊmɑ:stə]</tr><word>n
+(непревзойдённый) мастер (in — в чём-л.)</word></ar><ar><origin>pastorali</origin><tr>[ˏpæstəˊrɑ:li:]</tr><word>pl от pastorale</word></ar><ar><origin>pastry-cook</origin><tr>[ˊpeɪstrɪkυk]</tr><word>n
+кондитер</word></ar><ar><origin>Pat</origin><tr>[pæt]</tr><word>n
+разг. Пэт (шутливое прозвище ирландца)</word></ar><ar><origin>patch_pocket</origin><tr>[ˏpætʃˊpɒkɪt]</tr><word>n
+накладной карман</word></ar><ar><origin>patellae</origin><tr>[pəˊteli:]</tr><word>pl от patella</word></ar><ar><origin>patent_leather</origin><tr>[ˏpeɪtntˊleðə]</tr><word>n
+лакированная кожа, лак</word></ar><ar><origin>paterae</origin><tr>[ˊpætəri:]</tr><word>pl от patera</word></ar><ar><origin>paternity_test</origin><tr>[pəˊtɜ:nətɪtest]</tr><word>n
+анализ крови для установления отцовства</word></ar><ar><origin>patrol_bomber</origin><tr>[pəˊtrəυlˏbɒmə]</tr><word>n
+воен. патрульный бомбардировщик</word></ar><ar><origin>patrol_car</origin><tr>[pəˊtrəυlkɑ:]</tr><word>n
+дежурный полицейский автомобиль, имеющий радиосвязь с участком</word></ar><ar><origin>patternmaker</origin><tr>[ˊpætnmeɪkə]</tr><word>n
+метал. модельщик</word></ar><ar><origin>pavement_artist</origin><tr>[ˊpeɪvməntˏɑ:tɪst]</tr><word>n
+1) художник, рисующий на тротуаре (чтобы заработать на жизнь)
+2) амер. художник, выставляющий на тротуаре свои картины для продажи</word></ar><ar><origin>pay_envelope</origin><tr></tr><word>амер. = pay-packet</word></ar><ar><origin>pay_phone</origin><tr>[ˊpeɪfəυn]</tr><word>n
+телефон-автомат</word></ar><ar><origin>pay_station</origin><tr></tr><word>амер. = pay phone</word></ar><ar><origin>pay-as-you-earn</origin><tr>[ˏpeɪəzjυˊɜ:n]</tr><word>n
+сбор налогов посредством вычетов из заработной платы</word></ar><ar><origin>payday</origin><tr>[ˊpeɪdeɪ]</tr><word>n
+день платежа, платёжный день; день выплаты жалованья</word></ar><ar><origin>paydirt</origin><tr>[ˊpeɪdə:t]</tr><word>n
+амер. горн. богатая рудная полоса; богатая струя в россыпи</word></ar><ar><origin>paying_capacity</origin><tr>[ˏpeɪɪŋkəˊpæsətɪ]</tr><word>n
+платёжеспособность</word></ar><ar><origin>payload</origin><tr>[ˊpeɪləυd]</tr><word>n
+полезная нагрузка;
+final payload полезная нагрузка последней ступени (многоступенчатой ракеты)</word></ar><ar><origin>Paymaster_General</origin><tr>[ˏpeɪmɑ:stəˊdʒenrǝl]</tr><word>n
+главный казначей</word></ar><ar><origin>payoff</origin><tr>[ˊpeɪɒf]</tr><word>n
+разг.
+1) выплата; компенсация
+2) время выплаты
+3) развязка (событий и т.п.)
+4) расплата</word></ar><ar><origin>payout</origin><tr>[ˊpeɪaυt]</tr><word>n
+выплата</word></ar><ar><origin>payroll</origin><tr>[ˊpeɪrəυl]</tr><word>n
+платёжная ведомость;
+to be off the payroll быть безработным или уволенным
+◊ payroll stuffer платный писака</word></ar><ar><origin>paysage</origin><tr></tr><word>фр. n пейзаж</word></ar><ar><origin>pea_coal</origin><tr>[ˊpi:kəυl]</tr><word>n
+«горошек» (вид антрацита)</word></ar><ar><origin>pea_coat</origin><tr>[ˊpi:kəυt]</tr><word>= pea jacket</word></ar><ar><origin>pea_jacket</origin><tr>[ˊpi:ˏdʒækɪt]</tr><word>n
+мор. бушлат</word></ar><ar><origin>pea_soup</origin><tr>[ˏpi:ˊsu:p]</tr><word>n
+гороховый суп</word></ar><ar><origin>pea-brain</origin><tr>[ˊpi:breɪn]</tr><word>n
+разг. тупица, болван</word></ar><ar><origin>Peace_Corps</origin><tr>[ˊpi:skɔ:]</tr><word>n
+амер. «Корпус мира» (организация, посылающая молодых добровольцев в развивающиеся страны)</word></ar><ar><origin>peace_march</origin><tr>[ˊpi:smɑ:tʃ]</tr><word>n
+марш мира</word></ar><ar><origin>peace_offering</origin><tr>[ˊpi:sˏɒfǝrɪŋ]</tr><word>n
+1) умилостивительная жертва
+2) искупительная жертва</word></ar><ar><origin>peace_pipe</origin><tr>[ˊpi:spaɪp]</tr><word>n
+трубка мира</word></ar><ar><origin>peacelover</origin><tr>[ˊpi:slʌvə]</tr><word>n
+сторонник мира</word></ar><ar><origin>peacetime</origin><tr>[ˊpi:staɪm]</tr><word>n
+1) мирное время
+2) attr. относящийся к мирному времени; мирного времени;
+peacetime industries гражданские отрасли промышленности;
+peacetime strength численность армии мирного времени</word></ar><ar><origin>peach_stone</origin><tr>[ˊpi:tʃstəυn]</tr><word>n
+мин. хлоритовый сланец</word></ar><ar><origin>peacock_blue</origin><tr>[ˏpi:kɒkˊblu:]</tr><word>n
+переливчатый синий цвет</word></ar><ar><origin>pearl_barley</origin><tr>[ˊpɜ:lbɑ:lɪ]</tr><word>n
+перловая крупа</word></ar><ar><origin>pearl_button</origin><tr>[ˊpɜ:lbʌtn]</tr><word>n
+перламутровая пуговица</word></ar><ar><origin>pearl_diver</origin><tr>[ˊpɜ:ldaɪvə]</tr><word>n
+искатель, ловец жемчуга; водолаз, добывающий жемчуг</word></ar><ar><origin>pearl_fisher</origin><tr>[ˊpɜ:lfɪʃə]</tr><word>n
+ловец жемчуга</word></ar><ar><origin>pearl_fishery</origin><tr>[ˊpɜ:lˏfɪʃǝrɪ]</tr><word>n
+добывание жемчуга</word></ar><ar><origin>pearl_oyster</origin><tr>[ˊpɜ:lɔɪstə]</tr><word>n
+жемчужница (моллюск)</word></ar><ar><origin>pearl_sago</origin><tr>[ˊpɜ:lseɪgəυ]</tr><word>n
+саго (крупа)</word></ar><ar><origin>pearl_shell</origin><tr>[ˊpɜ:lʃel]</tr><word>n
+жемчужная раковина</word></ar><ar><origin>pearl_type</origin><tr>[ˊpɜ:ltaɪp]</tr><word>= pearl 1, 7)</word></ar><ar><origin>peat_coal</origin><tr>[ˊpi:tkəυl]</tr><word>n
+торфяной уголь</word></ar><ar><origin>Pecksniff</origin><tr>[ˊpeksnɪf]</tr><word>n
+елейный лицемер (по имени персонажа из романа Диккенса «Мартин Чезлвит»)</word></ar><ar><origin>pederast</origin><tr>[ˊpedəræst]</tr><word>n
+педераст</word></ar><ar><origin>pederasty</origin><tr>[ˊpedəræstɪ]</tr><word>n
+педерастия</word></ar><ar><origin>peekaboo</origin><tr>[ˏpi:kəˊbu:]</tr><word>n
+«ку-ку» (игра в прятки с ребёнком)</word></ar><ar><origin>peephole</origin><tr>[ˊpi:phəυl]</tr><word>n
+глазок; смотровое отверстие или -ая щель</word></ar><ar><origin>Peeping_Tom</origin><tr>[ˊpi:pɪŋtɒm]</tr><word>n
+1) чрезмерно любопытный человек
+2) воен. жарг. радиолокатор</word></ar><ar><origin>peepshow</origin><tr>[ˊpi:pʃəυ]</tr><word>n
+1) кинетоскоп
+2) пипшоу</word></ar><ar><origin>Pegasus</origin><tr>[ˊpegəsəs]</tr><word>n
+1) греч. миф. Пегас
+2) поэтическое вдохновение</word></ar><ar><origin>Pekinese</origin><tr>[ˏpi:kɪˊni:z, pi:kɪŋˊi:z]</tr><word>1. a пекинский
+2. n житель Пекина
+Ⅱ
+Pekinese, Pekingese [ˏpi:kɪˊni:z, pi:kɪŋˊi:z] n
+китайский мопс, пекинес (порода собак)</word></ar><ar><origin>Pekingese</origin><tr>[ˏpi:kɪˊni:z, pi:kɪŋˊi:z]</tr><word>1. a пекинский
+2. n житель Пекина
+Ⅱ
+Pekinese, Pekingese [ˏpi:kɪˊni:z, pi:kɪŋˊi:z] n
+китайский мопс, пекинес (порода собак)</word></ar><ar><origin>pelves</origin><tr>[ˊpelvi:z]</tr><word>pl от pelvis</word></ar><ar><origin>Pembroke_table</origin><tr>[ˏpembrυkˊteɪbl]</tr><word>n
+раскладной стол</word></ar><ar><origin>pen_and_ink</origin><tr>[ˏpenənˊɪŋk]</tr><word>n
+1) письменные принадлежности
+2) литературная работа
+3) рисунок пером</word></ar><ar><origin>pen_friend</origin><tr>[ˊpenfrend]</tr><word>n
+знакомый или друг по переписке</word></ar><ar><origin>pen_name</origin><tr>[ˊpenneɪm]</tr><word>n
+литературный псевдоним</word></ar><ar><origin>pencil_case</origin><tr>[ˊpenslkeɪs]</tr><word>n
+пенал</word></ar><ar><origin>pencil_sharpener</origin><tr>[ˊpenslˏʃɑ:pnə]</tr><word>n
+точилка для карандашей</word></ar><ar><origin>pendente_lite</origin><tr></tr><word>лат. adv юр. в процессе рассмотрения дела</word></ar><ar><origin>Penelope</origin><tr>[pəˊneləpɪ]</tr><word>n
+греч. миф. Пенелопа; (нарицательно тж.) верная жена</word></ar><ar><origin>penes</origin><tr>[ˊpi:ni:z]</tr><word>pl от penis</word></ar><ar><origin>penn_orth</origin><tr></tr><word>разг. см. pennyworth</word></ar><ar><origin>pennies</origin><tr>[ˊpenɪz]</tr><word>pl от penny</word></ar><ar><origin>penny_dreadful</origin><tr>[ˏpenɪˊdredfl]</tr><word>n
+низкопробный юмористический или приключенческий роман в дешёвом издании</word></ar><ar><origin>penny_post</origin><tr>[ˊpenɪpəυst]</tr><word>n
+ист. почтовая оплата в 1 пенни</word></ar><ar><origin>penny_wise</origin><tr>[ˏpenɪˊwaɪz]</tr><word>a
+мелочный
+◊ penny wise and pound foolish экономный в мелочах и расточительный в крупном</word></ar><ar><origin>penny-in-the-slot_machine</origin><tr>[ˊpenɪɪnðəslɒt(məˏʃi:n)]</tr><word>n
+автомат для продажи штучных товаров (в который опускают пенни); торговый автомат</word></ar><ar><origin>pens%C3%A9e</origin><tr></tr><word>фр. n максима, изречение; афоризм</word></ar><ar><origin>penta</origin><tr>[pentæ-]</tr><word>pref
+пяти-</word></ar><ar><origin>Pentateuch</origin><tr>[ˊpentətju:k]</tr><word>n
+библ. пятикнижие</word></ar><ar><origin>Pentecost</origin><tr>[ˊpentɪkɒst]</tr><word>n
+церк. пятидесятница, троицын день</word></ar><ar><origin>pep_talk</origin><tr>[ˊpeptɔ:k]</tr><word>n
+разг. зажигательная речь</word></ar><ar><origin>pepper_pot</origin><tr>[ˊpepəpɒt]</tr><word>n
+1) перечница
+2) вест-индское пряное кушанье из мяса или рыбы и овощей</word></ar><ar><origin>per_cent</origin><tr>[pəˊsent]</tr><word>n
+процент, на сотню, %;
+three per cent три процента</word></ar><ar><origin>per_se</origin><tr></tr><word>лат. adv само по себе; по сути</word></ar><ar><origin>perestroika</origin><tr></tr><word>русск. n перестройка</word></ar><ar><origin>pericardia</origin><tr>[ˏperɪˊkɑ:dɪə]</tr><word>pl от pericardium</word></ar><ar><origin>pericrania</origin><tr>[ˏperɪˊkreɪnɪə]</tr><word>pl от pericranium</word></ar><ar><origin>perihelia</origin><tr>[ˏperɪˊhi:lɪə]</tr><word>pl от perihelion</word></ar><ar><origin>perilune</origin><tr>[ˊperɪlu:n]</tr><word>n
+астр. периселений</word></ar><ar><origin>perinea</origin><tr>[ˏperɪˊni:ə]</tr><word>pl от perineum</word></ar><ar><origin>periostea</origin><tr>[ˏperɪˊɒstɪə]</tr><word>pl от periosteum</word></ar><ar><origin>periphrases</origin><tr>[pəˊrɪfrəsi:z]</tr><word>pl от periphrasis</word></ar><ar><origin>perisher</origin><tr>[ˊperɪʃə]</tr><word>n
+сл. несносный тип, зануда</word></ar><ar><origin>peritonea</origin><tr>[ˏperɪtəυˊni:ə]</tr><word>pl от peritoneum, peritonaeum</word></ar><ar><origin>Permian</origin><tr>[ˊpɜ:mɪən]</tr><word>a
+геол. пермский</word></ar><ar><origin>Perseus</origin><tr>[ˊpɜ:sju:s]</tr><word>n
+греч. миф. Персей</word></ar><ar><origin>Persian</origin><tr></tr><word>1. a персидский; иранский;
+Persian carpet (или rug) персидский ковёр
+◊ Persian blinds жалюзи
+2. n
+1) перс; персиянка;
+the Persians pl собир. персы
+2) персидский язык</word></ar><ar><origin>personae</origin><tr>[pəˊsəυni:]</tr><word>pl от persona</word></ar><ar><origin>personal_organizer</origin><tr>[ˏpɜ:sǝnəlˊɔ:gənaɪzə]</tr><word>n
+1) многоцелевая записная книжка
+2) электронная записная книжка</word></ar><ar><origin>Peruvian</origin><tr></tr><word>1. a перуанский
+◊ Peruvian bark хинная корка
+2. n перуанец; перуанка</word></ar><ar><origin>perv</origin><tr>[pɜ:v]</tr><word>n
+сл.
+1) человек с сексуальными извращениями
+2) австрал. чувственный взгляд</word></ar><ar><origin>pest_house</origin><tr>[ˊpesthaυs]</tr><word>n
+уст. больница для заразных больных; чумной барак</word></ar><ar><origin>pet</origin><tr>[pet]</tr><word>1. n
+1) любимое животное; любимая вещь
+2) любимец, баловень
+3) attr. ручной, комнатный (о животном)
+4) attr. любимый;
+pet name ласкательное имя;
+pet corn шутл. любимая мозоль
+2. v
+1) баловать, ласкать
+2) обниматься, целоваться
+Ⅱ
+pet [pet] n
+обида, раздражение; дурное настроение;
+to be in a pet сердиться, дуться; быть в дурном настроении</word></ar><ar><origin>Peter_s_fish</origin><tr>[ˊpi:təzfɪʃ]</tr><word>n
+зоол. пикша</word></ar><ar><origin>Peter_s_pence</origin><tr>[ˊpi:təzˏpens]</tr><word>n pl
+ист. «лепта св. Петра» (ежегодная подать в папскую казну)</word></ar><ar><origin>peterman</origin><tr>[ˊpi:təmən]</tr><word>n
+сл. взломщик сейфов</word></ar><ar><origin>petrodollar</origin><tr>[ˊpetrəυˏdɒlə]</tr><word>n
+нефтедоллар</word></ar><ar><origin>petrol_station</origin><tr>[ˊpetrəυlˏsteɪʃn]</tr><word>n
+бензозаправочная станция, бензоколонка</word></ar><ar><origin>petty_jury</origin><tr>[ˏpetɪˊdʒυərɪ]</tr><word>n
+юр. малое жюри, суд из 12 присяжных</word></ar><ar><origin>petty_officer</origin><tr>[ˏpetɪˊɒfɪsə]</tr><word>n
+старшина (во флоте)</word></ar><ar><origin>phalanges</origin><tr>[fəˊlændʒɪ:z]</tr><word>pl от phalanx 3)</word></ar><ar><origin>phalli</origin><tr>[ˊfælaɪ]</tr><word>pl от phallus</word></ar><ar><origin>Pharaoh</origin><tr>[ˊfeərəυ]</tr><word>n
+ист. фараон</word></ar><ar><origin>Pharisaic</origin><tr>[ˏfærɪˊseɪɪk(l)]</tr><word>a
+фарисейский, ханжеский</word></ar><ar><origin>Pharisaical</origin><tr>[ˏfærɪˊseɪɪk(l)]</tr><word>a
+фарисейский, ханжеский</word></ar><ar><origin>Pharisaism</origin><tr>[ˊfærɪseɪˏɪzǝm]</tr><word>n
+фарисейство</word></ar><ar><origin>Pharisee</origin><tr>[ˊfærɪsi:]</tr><word>n
+фарисей, ханжа</word></ar><ar><origin>phenomena</origin><tr>[fəˊnɒmɪnə]</tr><word>pl от phenomenon</word></ar><ar><origin>phenotype</origin><tr>[ˊfi:nəυtaɪp]</tr><word>n
+биол. фенотип</word></ar><ar><origin>Philippine</origin><tr>[ˊfɪləpi:n]</tr><word>a
+филиппинский</word></ar><ar><origin>Philistine</origin><tr></tr><word>1. n
+1) библ. филистимлянин
+◊ to fall among Philistines ≅ попасть в переделку, попасть в тяжёлое положение
+2) (обыкн. p.) филистер, обыватель, мещанин
+2. a филистерский, обывательский, мещанский</word></ar><ar><origin>Philistinism</origin><tr>[ˊfɪlɪstɪnɪzǝm]</tr><word>n
+филистерство, мещанство</word></ar><ar><origin>phillumenist</origin><tr>[fɪˊlu:mənɪst]</tr><word>n
+филуменист</word></ar><ar><origin>Philomel</origin><tr>[ˊfɪləυmel, ˏfɪləυˊmi:lə]</tr><word>n
+поэт. филомела, соловей</word></ar><ar><origin>Philomela</origin><tr>[ˊfɪləυmel, ˏfɪləυˊmi:lə]</tr><word>n
+поэт. филомела, соловей</word></ar><ar><origin>Phoebe</origin><tr>[ˊfi:bɪ]</tr><word>n
+1) греч. миф. Феба
+2) поэт. луна</word></ar><ar><origin>Phoebus</origin><tr>[ˊfi:bəs]</tr><word>n
+1) греч. миф. Феб
+2) поэт. солнце</word></ar><ar><origin>Phoenician</origin><tr></tr><word>1. a финикийский
+2. n
+1) финикиянин; финикиянка
+2) финикийский язык</word></ar><ar><origin>phone_book</origin><tr>[ˊfəυnbυk]</tr><word>= telephone directory</word></ar><ar><origin>Phosphor</origin><tr>[ˊfɒsfə]</tr><word>n
+поэт. утренняя звезда</word></ar><ar><origin>phosphor_bronze</origin><tr>[ˊfɒsfəbrɒnz]</tr><word>n
+метал. фосфористая бронза</word></ar><ar><origin>photo-offset</origin><tr>[ˏfəυtəυˊɒfset]</tr><word>n
+полигр. фотоофсет</word></ar><ar><origin>photoelectric</origin><tr>[ˏfəυtəυɪˊlektrɪk]</tr><word>a
+фотоэлектрический;
+photoelectric cell фотоэлемент</word></ar><ar><origin>photoelectricity</origin><tr>[ˏfəυtəυɪlekˊtrɪsətɪ]</tr><word>n
+фотоэлектричество</word></ar><ar><origin>Photostat</origin><tr>[ˊfəυtəυstæt]</tr><word>n
+фотостат</word></ar><ar><origin>phototransistor</origin><tr>[ˏfəυtəυtrænˊzɪstə]</tr><word>n
+фототранзистор</word></ar><ar><origin>phrasal_verb</origin><tr>[ˏfreɪzlˊvɜ:b]</tr><word>n
+грам. фразовый глагол</word></ar><ar><origin>phrase_book</origin><tr>[ˊfreɪzbυk]</tr><word>n
+1) разговорник
+2) (двуязычный) фразеологический словарь</word></ar><ar><origin>phrasemonger</origin><tr>[ˊfreɪzˏmʌŋgə]</tr><word>n
+фразёр</word></ar><ar><origin>Phrygian</origin><tr></tr><word>1. a фригийский;
+Phrygian cap фригийский колпак
+2. n фригиец</word></ar><ar><origin>phyla</origin><tr>[ˊfaɪlə]</tr><word>pl от phylum</word></ar><ar><origin>phytogenesis</origin><tr>[ˏfaɪtəυˊdʒenəsɪs]</tr><word>n
+биол. фитогенез</word></ar><ar><origin>pia_mater</origin><tr>[ˏpaɪəˊmeɪtə]</tr><word>n
+анат. мягкая оболочка мозга</word></ar><ar><origin>piano_organ</origin><tr>[pɪˊænəυˏɔ:gǝn]</tr><word>n
+вид шарманки</word></ar><ar><origin>pickaback</origin><tr>[ˊpɪkəbæk]</tr><word>adv
+на спине, за плечами</word></ar><ar><origin>picket_line</origin><tr>[ˊpɪkɪtlaɪn]</tr><word>n
+пикеты, заслон пикетчиков</word></ar><ar><origin>pickup</origin><tr>[ˊpɪkʌp]</tr><word>n
+1) сл. случайное знакомство
+2) авто пикап
+3) радио адаптер, звукосниматель
+4) радио подхватывание (волны, сигнала)
+5) с.-х. пикап, подборщик (хлеба)
+6) тех. захватывающее приспособление
+7) тлв. передающая трубка
+8) физ. ускорение
+9) что-л. полученное по случаю; удачная покупка
+10) разг. см. pick-me-up
+11) разг. улучшение; восстановление</word></ar><ar><origin>Pickwickian</origin><tr>[pɪkˊwɪkɪən]</tr><word>a:
+in a Pickwickian sense не буквально, не прямо; не совсем ясно</word></ar><ar><origin>picture_book</origin><tr>[ˊpɪktʃəbυk]</tr><word>n
+(детская) книжка с картинками</word></ar><ar><origin>picture_card</origin><tr>[ˊpɪktʃəkɑ:d]</tr><word>n
+1) карт. фигурная карта, фигура
+2) художественная открытка</word></ar><ar><origin>picture_gallery</origin><tr>[ˊpɪktʃəˏgælǝrɪ]</tr><word>n
+картинная галерея</word></ar><ar><origin>picture_palace</origin><tr>[ˊpɪktʃəˏpæləs]</tr><word>n
+уст. кинотеатр</word></ar><ar><origin>picture_postcard</origin><tr>[ˏpɪktʃəˊpəυstkɑ:d]</tr><word>n
+художественная открытка</word></ar><ar><origin>picture_show</origin><tr>[ˏpɪktʃəˊʃəυ]</tr><word>n
+амер. разг.
+1) кинотеатр
+2) кинофильм</word></ar><ar><origin>picture_theatre</origin><tr>[ˏpɪktʃəˊθɪətə]</tr><word>= picture palace</word></ar><ar><origin>picture_writing</origin><tr>[ˊpɪktʃəˏraɪtɪŋ]</tr><word>n
+пиктографическое, рисуночное письмо</word></ar><ar><origin>pidgin_English</origin><tr>[ˏpɪdʒɪnˊɪŋglɪʃ]</tr><word>n
+пиджин-инглиш, англо-китайский гибридный язык</word></ar><ar><origin>pie_chart</origin><tr>[ˊpaɪˏtʃɑ:t]</tr><word>n
+секторная диаграмма</word></ar><ar><origin>piece_rate</origin><tr>[ˊpi:sreɪt]</tr><word>a
+сдельный (об оплате)</word></ar><ar><origin>piecework</origin><tr>[ˊpi:swɜ:k]</tr><word>n
+сдельная работа, сдельщина; штучная работа</word></ar><ar><origin>pieceworker</origin><tr>[ˊpi:sˏwɜ:kə]</tr><word>n
+сдельщик</word></ar><ar><origin>pier_glass</origin><tr>[ˊpɪəglɑ:s]</tr><word>n
+трюмо</word></ar><ar><origin>Pierian</origin><tr>[paɪˊɪerɪən]</tr><word>a
+др.-греч. пиерийский, относящийся к музам;
+Pierian spring источник вдохновения</word></ar><ar><origin>pig_iron</origin><tr>[ˊpɪgˏaɪən]</tr><word>n
+чугун в чушках или штыках</word></ar><ar><origin>pig_s_wash</origin><tr>[ˊpɪgzwɒʃ]</tr><word>= pigswill</word></ar><ar><origin>pigeon_pair</origin><tr>[ˊpɪdʒǝnpeə]</tr><word>n
+мальчик и девочка (близнецы или единственные дети в семье)</word></ar><ar><origin>pigeon-chested</origin><tr>[ˏpɪdʒǝnˊtʃestɪd]</tr><word>a
+с куриной грудью (о человеке)</word></ar><ar><origin>pigeonhole</origin><tr></tr><word>1. n
+1) отделение для бумаг (в секретере, письменном столе и т.п.)
+2) голубиное гнездо
+2. v
+1) раскладывать (бумаги) по ящикам
+2) класть под сукно, откладывать в долгий ящик
+3) классифицировать, приклеивать ярлыки</word></ar><ar><origin>pigswill</origin><tr>[ˊpɪgswɪl]</tr><word>n
+помои</word></ar><ar><origin>pile_driver</origin><tr>[ˊpaɪlˏdraɪvə]</tr><word>n
+тех. копёр</word></ar><ar><origin>pillar_box</origin><tr>[ˊpɪləbɒks]</tr><word>n
+стоячий почтовый ящик</word></ar><ar><origin>pillow_slip</origin><tr>[ˊpɪləυslɪp]</tr><word>= pillowcase</word></ar><ar><origin>pillow_talk</origin><tr>[ˊpɪləυtɔ:k]</tr><word>n
+интимный разговор в постели</word></ar><ar><origin>pillowcase</origin><tr>[ˊpɪləυkeɪs]</tr><word>n
+наволочка</word></ar><ar><origin>pillowsham</origin><tr>[ˊpɪləυʃæm]</tr><word>n
+накидка (на подушку)</word></ar><ar><origin>pilot_balloon</origin><tr>[ˊpaɪlətbəˏlu:n]</tr><word>n
+1) метео шар-пилот
+2) пробный шар</word></ar><ar><origin>pilot_engine</origin><tr>[ˊpaɪlətˏendʒɪn]</tr><word>n
+1) вспомогательный двигатель
+2) ж.-д. снегоочиститель</word></ar><ar><origin>pilot_fish</origin><tr>[ˊpaɪlətfɪʃ]</tr><word>n
+зоол. рыба-лоцман</word></ar><ar><origin>pilothouse</origin><tr>[ˊpaɪləthaυs]</tr><word>n
+мор. рулевая рубка</word></ar><ar><origin>pin_money</origin><tr>[ˊpɪnˏmʌnɪ]</tr><word>n
+1) уст. деньги
+2) деньги на мелкие расходы, «на булавки», которые муж даёт жене</word></ar><ar><origin>pincer_movement</origin><tr>[ˊpɪnsəˏmu:vmənt]</tr><word>n
+воен. двойной охват, захват в клещи</word></ar><ar><origin>Pindaric</origin><tr></tr><word>др.-греч.
+1. a пиндарический
+2. n (обыкн. pl) пиндарические стихи, оды</word></ar><ar><origin>pinhead</origin><tr>[ˊpɪnhed]</tr><word>n
+1) булавочная головка
+2) мелочь
+3) разг. тупица, дурак</word></ar><ar><origin>pinhole</origin><tr>[ˊpɪnhəυl]</tr><word>n
+1) булавочное отверстие
+2) тех. отверстие под штифт</word></ar><ar><origin>pinkeye</origin><tr>[ˊpɪŋkaɪ]</tr><word>n
+мед., вет. острый инфекционный конъюнктивит</word></ar><ar><origin>pinking_scissors</origin><tr>[ˊpɪŋkɪŋˏsɪzəz]</tr><word>= pinking shears</word></ar><ar><origin>pinking_shears</origin><tr>[ˊpɪŋkɪŋʃɪəz]</tr><word>n
+фестонные ножницы</word></ar><ar><origin>Pinkster</origin><tr>[ˊpɪŋkstə]</tr><word>n
+амер. церк. Троицын день</word></ar><ar><origin>pinkster_flower</origin><tr>[ˊpɪŋkstəˏflaυə]</tr><word>n
+амер. бот. розовая азалия</word></ar><ar><origin>pinnae</origin><tr>[ˊpɪni:]</tr><word>pl от pinna</word></ar><ar><origin>pinpoint</origin><tr></tr><word>1. n
+1) остриё булавки
+2) что-л. очень маленькое, незначительное
+2. a воен. точный, прицельный;
+with pinpoint accuracy с большой точностью
+3. v воен.
+1) засекать цель
+2) бомбардировать точечную цель</word></ar><ar><origin>pinta</origin><tr>[ˊpaɪntə]</tr><word>n
+разг. кружка молока</word></ar><ar><origin>pinup</origin><tr></tr><word>1. n
+1) фотография красотки, кинозвезды, вырезанная из журнала и прикреплённая на стену и т.п.
+2) красотка, кинозвезда и т.п., запечатлённая на этой фотографии
+2. a хорошенькая, очаровательная (о женщине)</word></ar><ar><origin>pipe_dream</origin><tr>[ˊpaɪpdri:m]</tr><word>n
+несбыточная мечта; план, построенный на песке</word></ar><ar><origin>pipe_fitter</origin><tr>[ˊpaɪpˏfɪtə]</tr><word>n
+слесарь-водопроводчик</word></ar><ar><origin>piqu%C3%A9</origin><tr>[ˊpi:keɪ]</tr><word>n
+пике (ткань)</word></ar><ar><origin>pis_aller</origin><tr></tr><word>фр. n крайнее средство</word></ar><ar><origin>Pisces</origin><tr>[ˊpaɪsi:z]</tr><word>n pl
+Рыбы (созвездие и знак зодиака)</word></ar><ar><origin>piscinae</origin><tr>[pɪˊsi:ni:]</tr><word>pl от piscina</word></ar><ar><origin>piss_artist</origin><tr>[ˏpɪsˊɑ:tɪst]</tr><word>n
+груб.
+1) пьяница
+2) болтун, трепач</word></ar><ar><origin>pissed</origin><tr></tr><word>1. p. p. от piss 2
+2. a груб. пьяный</word></ar><ar><origin>pissed_off</origin><tr>[ˊpɪstɒf]</tr><word>a
+груб.
+1) раздражённый, обозлённый
+2) подавленный, расстроенный</word></ar><ar><origin>pit_bull_terrier</origin><tr>[ˏpɪtbυlˊterɪə]</tr><word>n
+питбуль (порода собак)</word></ar><ar><origin>pitch_indicator</origin><tr>[ˊpɪtʃˏɪndɪkeɪtə]</tr><word>n
+ав. указатель продольного крена</word></ar><ar><origin>pitch_pine</origin><tr>[ˊpɪtʃpaɪn]</tr><word>n
+смолистая сосна</word></ar><ar><origin>pith_fleck</origin><tr>[ˊpɪθflek]</tr><word>n
+червоточина</word></ar><ar><origin>pix</origin><tr>[pɪks]</tr><word>n pl
+разг. фотографии</word></ar><ar><origin>pi%C3%A8ce_de_r%C3%A9sistance</origin><tr>[pɪˏesdəreˊzɪstɑ:ŋs]</tr><word>фр. n (pl pièces de résistance)
+1) самое лучшее, главная достопримечательность (коллекции и т.п.)
+2) основное, главное блюдо</word></ar><ar><origin>pi%C3%A8ces_de_r%C3%A9sistance</origin><tr>[pɪˏesdəreˊzɪstɑ:ŋs]</tr><word>pl от pièce de résistance</word></ar><ar><origin>place_card</origin><tr>[ˊpleɪskɑ:d]</tr><word>n
+карточка на официальном приёме, указывающая место гостя за столом</word></ar><ar><origin>place_of_arms</origin><tr>[ˏpleɪsəvˊɑ:mz]</tr><word>n
+воен. плацдарм</word></ar><ar><origin>placentae</origin><tr>[pləˊsenti:]</tr><word>pl от placenta</word></ar><ar><origin>plain-clothes_man</origin><tr>[pleɪnˏkləυðzˊmæn]</tr><word>n
+сыщик; переодетый полицейский; шпик</word></ar><ar><origin>plainspoken</origin><tr>[ˏpleɪnˊspəυkǝn]</tr><word>a
+откровенный, прямой</word></ar><ar><origin>plane_geometry</origin><tr>[ˏpleɪndʒɪˊɒmətrɪ]</tr><word>n
+планиметрия</word></ar><ar><origin>plane_table</origin><tr></tr><word>геод.
+1. n мензула
+2. v производить мензульную съёмку</word></ar><ar><origin>plane_tree</origin><tr>[ˊpleɪntri:]</tr><word>= plane Ⅲ</word></ar><ar><origin>planetaria</origin><tr>[ˏplænəˊteərɪə]</tr><word>pl от planetarium</word></ar><ar><origin>plant_louse</origin><tr>[ˏplɑ:ntˊlaυs]</tr><word>n
+тля</word></ar><ar><origin>plant_pathology</origin><tr>[ˏplɑ:ntpəˊθɒlədʒɪ]</tr><word>n
+фитопатология</word></ar><ar><origin>plaster_cast</origin><tr>[ˏplɑ:stəˊkɑ:st]</tr><word>n
+1) мед. гипсовая повязка
+2) гипсовый слепок</word></ar><ar><origin>plat_du_jour</origin><tr></tr><word>фр. n блюдо, рекомендуемое как лучшее (на данный день)</word></ar><ar><origin>plate_glass</origin><tr>[ˏpleɪtˊglɑ:s]</tr><word>n
+зеркальное стекло</word></ar><ar><origin>plate_powder</origin><tr>[ˊpleɪtˏpaυdə]</tr><word>n
+1) порошок для чистки серебра
+2) пластинчатый порох</word></ar><ar><origin>plateaux</origin><tr>[ˊplætəυz]</tr><word>pl от plateau</word></ar><ar><origin>platform_shoes</origin><tr>[ˏplætfɔ:mˊʃu:z]</tr><word>n pl
+туфли на платформе</word></ar><ar><origin>Plato</origin><tr>[ˊpleɪtəυ]</tr><word>n
+Платон</word></ar><ar><origin>Platonic</origin><tr></tr><word>1. a
+1) платонический
+2) ограничивающийся словами, теоретический
+2. n
+1) ученик Платона
+2) pl разг. платонические разговоры; платоническая любовь</word></ar><ar><origin>playact</origin><tr>[ˊpleɪækt]</tr><word>v
+1) быть актёром
+2) притворяться, играть (обыкн. о детях)
+3) ломать комедию</word></ar><ar><origin>playactor</origin><tr>[ˊpleɪˏæktə]</tr><word>n
+1) актёр, комедиант
+2) неискренний человек</word></ar><ar><origin>playboy</origin><tr>[ˊpleɪbɔɪ]</tr><word>n
+плейбой, прожигатель жизни</word></ar><ar><origin>playing_card</origin><tr>[ˊpleɪɪŋkɑ:d]</tr><word>n
+игральная карта</word></ar><ar><origin>playing_field</origin><tr>[ˊpleɪɪŋfi:ld]</tr><word>n
+спорт. игровая площадка, футбольное поле и т.п.</word></ar><ar><origin>pleasure_seeker</origin><tr>[ˊpleʒəˏsi:kə]</tr><word>n
+любитель удовольствий, развлечений</word></ar><ar><origin>pleb</origin><tr>[pleb]</tr><word>n
+презр. плебей, простолюдин</word></ar><ar><origin>pled</origin><tr></tr><word>амер., шотл., диал. past и p. p. от plead</word></ar><ar><origin>Pleiad</origin><tr>[ˊplaɪəd]</tr><word>n (pl -ds [-dz], -des)
+1) pl астр. Плеяды
+2) (тж. p.) плеяда</word></ar><ar><origin>Pleiades</origin><tr>[ˊplaɪədi:z]</tr><word>pl от Pleiad</word></ar><ar><origin>Pleistocene</origin><tr>[ˊplaɪstəυsi:n]</tr><word>n
+геол. плейстоцен</word></ar><ar><origin>plena</origin><tr>[ˊpli:nə]</tr><word>pl от plenum</word></ar><ar><origin>pleurae</origin><tr>[ˊplυəri:]</tr><word>pl от pleura</word></ar><ar><origin>plicae</origin><tr>[ˊplaɪsi:]</tr><word>pl от plica</word></ar><ar><origin>Plimsoll_line</origin><tr>[ˊplɪmsllaɪn]</tr><word>n
+мор. грузовая марка (на торговых судах)</word></ar><ar><origin>Plimsoll_mark</origin><tr>[ˊplɪmslzmɑ:k]</tr><word>= Plimsoll line</word></ar><ar><origin>Pliocene</origin><tr>[ˊplaɪəυsi:n]</tr><word>n
+геол. плиоцен</word></ar><ar><origin>pliss%C3%A9</origin><tr>[ˊpli:seɪ]</tr><word>n
+плиссе</word></ar><ar><origin>plotting_paper</origin><tr>[ˊplɒtɪŋˏpeɪpə]</tr><word>n
+миллиметровая бумага</word></ar><ar><origin>ploughland</origin><tr>[ˊplaυlænd]</tr><word>n
+пахотная земля</word></ar><ar><origin>plum_cake</origin><tr>[ˊplʌmkeɪk]</tr><word>n
+кекс с изюмом</word></ar><ar><origin>plum_duff</origin><tr>[ˏplʌmˊdʌf]</tr><word>n
+пудинг с изюмом</word></ar><ar><origin>plum_pudding</origin><tr>[ˏplʌmˊpυdɪŋ]</tr><word>n
+1) рождественский пудинг
+2) пудинг с изюмом</word></ar><ar><origin>plumb_line</origin><tr>[ˊplʌmlaɪn]</tr><word>n
+отвес</word></ar><ar><origin>plus_fours</origin><tr>[ˏplʌsˊfɔ:z]</tr><word>n pl
+брюки гольф</word></ar><ar><origin>Pluto</origin><tr>[ˊplu:təυ]</tr><word>n
+1) астр. планета Плутон
+2) римск. миф. Плутон</word></ar><ar><origin>Plutonian</origin><tr>[plu:ˊtəυnɪən]</tr><word>a
+1) плутонов, адский
+2) = plutonic 1)</word></ar><ar><origin>Plymouth_Rock</origin><tr>[ˏplɪməθˊrɒk]</tr><word>n
+плимутрок (порода кур)</word></ar><ar><origin>pm_307</origin><tr>[ˏpi:ˊem]</tr><word>(сокр. от postmeridian)
+пополудни</word></ar><ar><origin>poached_egg</origin><tr>[ˊpəυtʃteg]</tr><word>n
+яйцо-пашот</word></ar><ar><origin>pochette</origin><tr>[pɒˊʃet]</tr><word>n
+женская сумка-конверт</word></ar><ar><origin>pocket_camera</origin><tr>[ˊpɒkɪtˏkæmǝrə]</tr><word>n
+карманный, портативный, малогабаритный фотоаппарат</word></ar><ar><origin>pocket_knife</origin><tr>[ˊpɒkɪtnaɪf]</tr><word>n
+карманный нож</word></ar><ar><origin>pocket_money</origin><tr>[ˊpɒkɪtˏmʌnɪ]</tr><word>n
+деньги на мелкие расходы, карманные деньги, мелочь</word></ar><ar><origin>pocket_piece</origin><tr>[ˊpɒkɪtpi:s]</tr><word>n
+монетка, которую на счастье носят в кармане</word></ar><ar><origin>pocket_pistol</origin><tr>[ˊpɒkɪtˏpɪstl]</tr><word>n
+1) карманный пистолет
+2) шутл. карманная фляжка (для спиртного)</word></ar><ar><origin>pocket_veto</origin><tr>[ˏpɒkɪtˊvi:təυ]</tr><word>n
+амер. задержка президентом подписания законопроекта до закрытия сессии конгресса</word></ar><ar><origin>pocketbook</origin><tr>[ˊpɒkɪtbυk]</tr><word>n
+1) записная книжка
+2) бумажник
+3) амер. плоская дамская сумочка
+4) книга небольшого формата</word></ar><ar><origin>pockmark</origin><tr>[ˊpɒkmɑ:k]</tr><word>= pock 1)</word></ar><ar><origin>pockmarked</origin><tr>[ˊpɒkmɑ:kt]</tr><word>a
+рябой</word></ar><ar><origin>poco</origin><tr>[ˊpəυkəυ]</tr><word>adv
+муз. немного, мало</word></ar><ar><origin>podia</origin><tr>[ˊpəυdɪə]</tr><word>pl от podium</word></ar><ar><origin>point_duty</origin><tr>[ˊpɔɪntˏdju:tɪ]</tr><word>n
+обязанности регулировщика (движения)</word></ar><ar><origin>pointillism</origin><tr>[ˊpɔɪntɪlɪzǝm]</tr><word>n
+иск. пуантилизм</word></ar><ar><origin>poison_gas</origin><tr>[ˏpɔɪznˊgæs]</tr><word>n
+ядовитый газ</word></ar><ar><origin>poison-pen_letter</origin><tr>[ˏpɔɪznˊpenletə]</tr><word>n
+анонимное оскорбительное и т.п. письмо</word></ar><ar><origin>poker_face</origin><tr>[ˊpəυkəfeɪs]</tr><word>n
+бесстрастное, ничего не выражающее лицо</word></ar><ar><origin>pokerwork</origin><tr>[ˊpəυkəwɜ:k]</tr><word>n
+выжигание по дереву, коже и т.п.</word></ar><ar><origin>pokey</origin><tr>[ˊpəυkɪ]</tr><word>n
+амер. уст. тюрьма</word></ar><ar><origin>polar_bear</origin><tr>[ˏpəυləˊbeə]</tr><word>n
+белый медведь</word></ar><ar><origin>polar_circle</origin><tr>[ˏpəυləˊsɜ:kl]</tr><word>n
+полярный круг</word></ar><ar><origin>polar_fox</origin><tr>[ˏpəυləˊfɒks]</tr><word>n
+песец</word></ar><ar><origin>polar_lights</origin><tr>[ˏpəυləˊlaɪts]</tr><word>n
+северное сияние</word></ar><ar><origin>polder</origin><tr>[ˊpəυldə]</tr><word>n
+польдер</word></ar><ar><origin>Pole</origin><tr>[pəυl]</tr><word>n
+поляк; полька;
+the Poles pl собир. поляки</word></ar><ar><origin>pole_jump</origin><tr>[ˊpəυldʒʌmp]</tr><word>= pole vault</word></ar><ar><origin>Pole_Star</origin><tr>[ˊpəυlstɑ:]</tr><word>n
+1) Полярная звезда
+2) (p. s.) путеводная звезда</word></ar><ar><origin>pole_vault</origin><tr>[ˊpəυlvɔ:lt]</tr><word>n
+прыжок с шестом</word></ar><ar><origin>police_court</origin><tr>[pəˊli:skɔ:t]</tr><word>n
+полицейский суд</word></ar><ar><origin>police_magistrate</origin><tr>[pəˏli:sˊmædʒɪstreɪt]</tr><word>n
+председатель полицейского суда</word></ar><ar><origin>police_office</origin><tr>[pəˊli:sɒfɪs]</tr><word>n
+полицейское управление (города)</word></ar><ar><origin>police_officer</origin><tr>[pəˊli:sˏɒfɪsə]</tr><word>n
+полицейский</word></ar><ar><origin>police_state</origin><tr>[pəˊli:ssteɪt]</tr><word>n
+полицейское государство</word></ar><ar><origin>police_station</origin><tr>[pəˊli:sˏsteɪʃn]</tr><word>n
+полицейский участок</word></ar><ar><origin>policyholder</origin><tr>[ˊpɒləsɪˏhəυldə]</tr><word>n
+держатель страхового полиса</word></ar><ar><origin>Polish</origin><tr></tr><word>1. a польский
+2. n польский язык</word></ar><ar><origin>politesse</origin><tr></tr><word>фр. n официальная вежливость</word></ar><ar><origin>political_correctness</origin><tr>[pəˏlɪtɪklkəˊrektnɪs]</tr><word>n
+политкорректность</word></ar><ar><origin>political_economy</origin><tr>[pəˏlɪtɪklɪˊkɒnəmɪ]</tr><word>n
+политэкономия</word></ar><ar><origin>political_prisoner</origin><tr>[pəˏlɪtɪklˊprɪzənə]</tr><word>n
+политзаключённый</word></ar><ar><origin>politically_correct</origin><tr>[pəˏlɪtɪklɪkəˊrekt]</tr><word>a
+политкорректный</word></ar><ar><origin>polka_dot</origin><tr>[ˊpɒlkədɒt]</tr><word>n
+узор «в горошек»</word></ar><ar><origin>poll_parrot</origin><tr>[ˊpɒlˏpærət]</tr><word>n
+1) говорящий стандартными фразами, без конца повторяющий заученные фразы
+2) попка, попугай</word></ar><ar><origin>poll_tax</origin><tr>[ˊpəυltæks]</tr><word>n
+подушный налог</word></ar><ar><origin>polling_booth</origin><tr>[ˊpəυlɪŋbu:ð]</tr><word>n
+кабина для голосования</word></ar><ar><origin>polling_place</origin><tr></tr><word>амер. = polling station</word></ar><ar><origin>polling_station</origin><tr>[ˊpəυlɪŋˏsteɪʃǝn]</tr><word>n
+избирательный пункт</word></ar><ar><origin>polo_mallet</origin><tr>[ˊpəυləυˏmælɪt]</tr><word>= polo-stick</word></ar><ar><origin>polo_neck</origin><tr>[ˊpəυləυnek]</tr><word>n
+ворот «поло» (высокий отворачивающийся воротник, плотно прилегающий к шее)</word></ar><ar><origin>polyclinic</origin><tr>[ˊpɒlɪˏklɪnɪk]</tr><word>n
+1) клиника
+2) больница общего типа</word></ar><ar><origin>polyhedra</origin><tr>[ˏpɒlɪˊhi:drə]</tr><word>pl от polyhedron</word></ar><ar><origin>Polynesian</origin><tr></tr><word>1. a полинезийский
+2. n полинезиец; полинезийка</word></ar><ar><origin>polypi</origin><tr>[ˊpɒlɪpaɪ]</tr><word>pl от polypus</word></ar><ar><origin>polyurethane</origin><tr>[ˏpɒlɪˊjuərɪθeɪn]</tr><word>n
+хим. полиуретан</word></ar><ar><origin>Pomeranian</origin><tr></tr><word>1. a померанский
+2. n шпиц (собака; тж. Pomeranian dog)</word></ar><ar><origin>pompier_ladder</origin><tr>[ˊpɒmpɪə(lædə)]</tr><word>n
+пожарная лестница</word></ar><ar><origin>pompom</origin><tr>[ˊpɒmpɒm]</tr><word>n
+1) помпон
+2) воен. счетверённая малокалиберная зенитная артиллерийская установка</word></ar><ar><origin>pongo</origin><tr>[ˊpɒŋgəυ]</tr><word>n (pl -os [-əυz])
+1) орангутанг
+2) мор. жарг. солдат</word></ar><ar><origin>pontiff</origin><tr>[ˊpɒntɪf]</tr><word>n
+1) папа римский (тж. supreme pontiff, sovereign pontiff)
+2) уст. епископ
+3) уст. первосвященник
+◊ the pontiffs of science жрецы науки</word></ar><ar><origin>ponytail</origin><tr>[ˊpəυnɪteɪl]</tr><word>n
+женская причёска «конский хвост»</word></ar><ar><origin>Pooh-Bah</origin><tr>[ˏpu:ˊbɑ:]</tr><word>n
+занимающий несколько должностей; совместитель (по имени персонажа в комической опере У. Гилберта «Микадо»)</word></ar><ar><origin>poor_box</origin><tr>[ˊpɔ:bɒks]</tr><word>n
+кружка для сбора на бедных</word></ar><ar><origin>poor_law</origin><tr>[ˊpɔ:lɔ:]</tr><word>n
+ист. закон о бедных</word></ar><ar><origin>poorhouse</origin><tr>[ˊpɔ:haυs]</tr><word>n
+ист. богадельня; работный дом</word></ar><ar><origin>poove</origin><tr>[pu:v]</tr><word>= poof</word></ar><ar><origin>pop_art</origin><tr>[ˊpɒpɑ:t]</tr><word>n
+поп-арт; искусство в стиле «поп»</word></ar><ar><origin>pop_group</origin><tr>[ˊpɒpgru:p]</tr><word>n
+поп-группа</word></ar><ar><origin>pop_music</origin><tr>[ˊpɒpˏmju:zɪk]</tr><word>n
+поп-музыка</word></ar><ar><origin>pop_star</origin><tr>[ˊpɒpstɑ:]</tr><word>n
+поп-звезда</word></ar><ar><origin>popsy</origin><tr>[ˊpɒpsɪ]</tr><word>n
+разг. куколка, красоточка (о молодой женщине)</word></ar><ar><origin>pork_barrel</origin><tr>[ˊpɔ:kˏbærǝl]</tr><word>n
+амер. сл. «казённый пирог» (мероприятие, проводимое правительством для завоевания популярности и т.п.)</word></ar><ar><origin>pork_pie</origin><tr>[ˏpɔ:kˊpaɪ]</tr><word>n
+пирог со свининой</word></ar><ar><origin>porkling</origin><tr>[ˊpɔ:klɪŋ]</tr><word>n
+молодая или небольшая свинья</word></ar><ar><origin>porkpie_hat</origin><tr>[ˏpɔ:kpaɪˊhæt]</tr><word>n
+шляпа с круглой плоской тульёй и загнутыми кверху полями</word></ar><ar><origin>portacrib</origin><tr>[ˊpɔ:təkrɪb]</tr><word>n
+амер. переносная детская кроватка</word></ar><ar><origin>Porte</origin><tr>[pɔ:t]</tr><word>n:
+The (Sublime или Ottoman) Porte ист. Блистательная (Высокая, Оттоманская) Порта (название султанской Турции)</word></ar><ar><origin>porti%C3%A8re</origin><tr></tr><word>фр. n портьера</word></ar><ar><origin>Portland</origin><tr>[ˏpɔ:tlənd(səˊment)]</tr><word>n
+портланд-цемент</word></ar><ar><origin>Portland_cement</origin><tr>[ˏpɔ:tlənd(səˊment)]</tr><word>n
+портланд-цемент</word></ar><ar><origin>portmanteau_word</origin><tr>[pɔ:tˊmæntəυwɜ:d]</tr><word>n
+языковая контаминация, слово-гибрид (искусственное слово, составленное из двух слов, напр.: slanguage = slang + language)</word></ar><ar><origin>portmanteaux</origin><tr>[pɔ:tˊmæntəυz]</tr><word>pl от portmanteau</word></ar><ar><origin>Portuguese</origin><tr></tr><word>1. a португальский
+2. n
+1) португалец; португалка;
+the Portuguese pl собир. португальцы
+2) португальский язык</word></ar><ar><origin>post_captain</origin><tr>[ˊpəυstˏkæptɪn]</tr><word>n
+мор.
+1) командир корабля в звании кэптена
+2) амер. капитан 1 ранга
+3) ист. командир корабля с 20 пушками и больше</word></ar><ar><origin>post_chaise</origin><tr>[ˊpəυstʃeɪz]</tr><word>n
+ист. почтовая карета, дилижанс</word></ar><ar><origin>post_exchange</origin><tr>[ˊpəυstɪksˏtʃeɪndʒ]</tr><word>n
+гарнизонный магазин для военно-торговой службы</word></ar><ar><origin>post_meridiem</origin><tr>[ˏpəυstməˊrɪdɪəm]</tr><word>adv
+после полудня (обыкн. сокр. p. m.)</word></ar><ar><origin>Post_Office</origin><tr>[ˊpəυstˏɒfɪs]</tr><word>n
+министерство почт</word></ar><ar><origin>post_e51</origin><tr>[pəυst-]</tr><word>pref
+после-, по-;
+post-glacial геол. послеледниковый</word></ar><ar><origin>post-industrial</origin><tr>[ˏpəυstɪnˊdʌstrɪəl]</tr><word>a
+постиндустриальный</word></ar><ar><origin>postage_stamp</origin><tr>[ˊpəυstɪdʒstæmp]</tr><word>n
+почтовая марка</word></ar><ar><origin>postbag</origin><tr>[ˊpəυstbæg]</tr><word>n
+сумка почтальона</word></ar><ar><origin>postbox</origin><tr>[ˊpəυstbɒks]</tr><word>n
+почтовый ящик</word></ar><ar><origin>postdate</origin><tr></tr><word>1. n дата, проставленная более поздним числом
+2. v датировать более поздним числом</word></ar><ar><origin>postdiluvian</origin><tr>[ˏpəυstdaɪˊlu:vɪən]</tr><word>a
+библ. после потопа</word></ar><ar><origin>poste_restante</origin><tr>[ˏpəυstˊrestɒnt]</tr><word>n
+1) «до востребования» (надпись на конверте)
+2) отделение на почте для корреспонденции до востребования</word></ar><ar><origin>postglacial</origin><tr>[ˏpəυstˊgleɪʃl]</tr><word>a
+геол. послеледниковый</word></ar><ar><origin>postgraduate</origin><tr></tr><word>1. n аспирант
+2. a
+1) изучаемый, проходимый после окончания университета;
+postgraduate courses курсы усовершенствования
+2) аспирантский;
+postgraduate studies аспирантура</word></ar><ar><origin>posthaste</origin><tr>[ˊpəυstheɪst]</tr><word>adv
+с большой поспешностью, сломя голову</word></ar><ar><origin>postie</origin><tr>[ˊpəυstɪ]</tr><word>n
+разг.
+1) почтальон
+2) женщина-почтальон</word></ar><ar><origin>postmaster_general</origin><tr>[ˏpəυstmɑ:stəˊdʒenrǝl]</tr><word>n
+министр почт</word></ar><ar><origin>postmortem</origin><tr></tr><word>1. n
+1) вскрытие трупа, аутопсия
+2) разг. обсуждение игры (особ. карточной) после её окончания
+2. a посмертный</word></ar><ar><origin>postnatal</origin><tr>[ˏpəυstˊneɪtl]</tr><word>a
+происходящий после рождения, послеродовой;
+postnatal depression послеродовая депрессия</word></ar><ar><origin>postnuptial</origin><tr>[ˏpəυstˊnʌpʃl]</tr><word>a
+происходящий после заключения брака</word></ar><ar><origin>postwar</origin><tr>[ˏpəυstˊwɔ:]</tr><word>a
+послевоенный</word></ar><ar><origin>pot_hat</origin><tr>[ˊpɒthæt]</tr><word>n
+разг. котелок (шляпа)</word></ar><ar><origin>pot_luck</origin><tr>[ˏpɒtˊlʌk]</tr><word>n
+1) всё, что имеется на обед;
+come and take pot luck with us ≅ чем богаты, тем и рады, пообедайте с нами
+2) возможность, шанс</word></ar><ar><origin>pot_paper</origin><tr>[ˊpɒtˏpeɪpə]</tr><word>n
+формат писчей бумаги (12 1/2 × 15 д.)</word></ar><ar><origin>pot_roast</origin><tr>[ˊpɒtrəυst]</tr><word>n
+тушёное мясо (обыкн. говядина)</word></ar><ar><origin>pot_still</origin><tr>[ˊpɒtstɪl]</tr><word>n
+перегонный куб</word></ar><ar><origin>pot_valour</origin><tr>[ˊpɒtvælə]</tr><word>n
+хмельной задор, пьяная удаль</word></ar><ar><origin>potage</origin><tr>[pɒˊtɑ:ʒ]</tr><word>n
+потаж, густой суп</word></ar><ar><origin>potbelly</origin><tr>[ˏpɒtˊbelɪ]</tr><word>n
+1) большой живот, пузо
+2) пузатый человек</word></ar><ar><origin>potboiler</origin><tr>[ˊpɒtˏbɔɪlə]</tr><word>n
+разг.
+1) халтура
+2) халтурщик</word></ar><ar><origin>potboy</origin><tr>[ˊpɒtbɔɪ]</tr><word>n
+мальчик, прислуживающий в кабаке</word></ar><ar><origin>potherb</origin><tr>[ˊpɒthɜ:b]</tr><word>n
+зелень, коренья</word></ar><ar><origin>pothole</origin><tr>[ˊpɒthəυl]</tr><word>n
+рытвина, выбоина</word></ar><ar><origin>pothook</origin><tr>[ˊpɒthυk]</tr><word>n
+1) крюк над очагом (для котелка)
+2) крючок с длинной ручкой (чтобы доставать из очага котелки и т.п.)
+3):
+pothooks and hangers ≅ крючки и палочки (в обучении письму); каракули</word></ar><ar><origin>pothouse</origin><tr>[ˊpɒthaυs]</tr><word>n
+пивная, кабак</word></ar><ar><origin>pothunter</origin><tr>[ˊpɒtˏhʌntə]</tr><word>n
+1) охотник, убивающий всякую дичь без разбора
+2) спорт. любитель призов</word></ar><ar><origin>potpourri</origin><tr>[ˏpəυˊpυrɪ]</tr><word>n
+1) ароматическая смесь (из сухих лепестков)
+2) попурри</word></ar><ar><origin>potshot</origin><tr>[ˊpɒtʃɒt]</tr><word>n
+выстрел наугад</word></ar><ar><origin>potter</origin><tr>[ˊpɒtə]</tr><word>n
+гончар;
+potter's clay гончарная или горшечная глина;
+potter's lathe (wheel) гончарный станок (круг)
+◊ potter's field кладбище для бедняков и бродяг
+Ⅱ
+potter [ˊpɒtə] v
+1) работать лениво, лодырничать (тж. potter about)
+2) работать беспорядочно (at, in — над чем-л.)
+3) бесцельно тратить время</word></ar><ar><origin>pound_cake</origin><tr>[ˊpaυndkeɪk]</tr><word>n
+торт, в котором по фунту или поровну основных составных частей</word></ar><ar><origin>-pounder</origin><tr></tr><word>в сложных словах означает:
+1. весящий столько-то фунтов;
+2. со снарядом, весящим столько-то фунтов (о пушке); напр.:
+one-pounder 37-мм пушка;
+3. стоящий столько-то фунтов (о предмете); обладающий состоянием, равным стольким-то фунтам</word></ar><ar><origin>pourboire</origin><tr></tr><word>фр. n чаевые</word></ar><ar><origin>powder_flask</origin><tr>[ˊpaυdəflɑ:sk]</tr><word>n
+ист. пороховница</word></ar><ar><origin>powder_keg</origin><tr>[ˊpaυdəkeg]</tr><word>n
+пороховая бочка (тж. перен.)</word></ar><ar><origin>powder_magazine</origin><tr>[ˏpaυdəmægəˊzi:n]</tr><word>n
+пороховой погреб</word></ar><ar><origin>powder_mill</origin><tr>[ˊpaυdəmɪl]</tr><word>n
+пороховой завод</word></ar><ar><origin>powder_monkey</origin><tr>[ˊpaυdəˏmʌŋkɪ]</tr><word>n
+мор. ист. мальчик, подносящий порох</word></ar><ar><origin>powder_puff</origin><tr>[ˊpaυdəpʌf]</tr><word>n
+пуховка</word></ar><ar><origin>powder_room</origin><tr>[ˊpaυdəru:m]</tr><word>n
+1) дамская туалетная комната
+2) мор. зарядный погреб; уст. крюйт-камера</word></ar><ar><origin>power_circuit</origin><tr>[ˊpaυəˏsɜ:kɪt]</tr><word>n
+эл. энергетическая сеть</word></ar><ar><origin>power_dive</origin><tr>[ˊpaυədaɪv]</tr><word>n
+ав. пикирование с работающим мотором</word></ar><ar><origin>power_plant</origin><tr>[ˊpaυəplɑ:nt]</tr><word>n
+1) силовая установка
+2) электростанция</word></ar><ar><origin>power_politics</origin><tr>[ˊpaυəˏpɒlɪtɪks]</tr><word>n
+политика с позиции силы</word></ar><ar><origin>power_saw</origin><tr>[ˊpaυəsɔ:]</tr><word>n
+тех. мотопила</word></ar><ar><origin>power_shovel</origin><tr>[ˊpaυəˏʃʌvl]</tr><word>n
+(одноковшовый) экскаватор</word></ar><ar><origin>power_source</origin><tr>[ˊpaυəsɔ:s]</tr><word>n
+эл. источник питания</word></ar><ar><origin>power_station</origin><tr>[ˊpaυəˏsteɪʃn]</tr><word>n
+электростанция</word></ar><ar><origin>power_unit</origin><tr>[ˏpaυəˊju:nɪt]</tr><word>n
+эл. блок питания</word></ar><ar><origin>powerboat</origin><tr>[ˊpaυəbəυt]</tr><word>n
+моторный катер, моторная шлюпка</word></ar><ar><origin>powerhouse</origin><tr>[ˊpaυəhaυs]</tr><word>n
+1) электростанция
+2) разг. очень энергичный человек</word></ar><ar><origin>prairie_chicken</origin><tr>[ˊpreərɪˏtʃɪkɪn]</tr><word>n
+зоол. луговой тетерев</word></ar><ar><origin>prairie_dog</origin><tr>[ˊpreərɪdɒg]</tr><word>n
+зоол. степная собачка</word></ar><ar><origin>prairie_hen</origin><tr>[ˊpreərɪhen]</tr><word>n
+самка лугового тетерева</word></ar><ar><origin>prairie_schooner</origin><tr>[ˊpreərɪˏsku:nə]</tr><word>n
+амер. ист. фургон переселенцев</word></ar><ar><origin>prairie_wolf</origin><tr>[ˊpreərɪwυlf]</tr><word>n
+койот, луговой волк</word></ar><ar><origin>Prakrit</origin><tr>[ˊprɑ:krɪt]</tr><word>n
+лингв. пракрит</word></ar><ar><origin>prayer_book</origin><tr>[ˊpreəbυk]</tr><word>n
+молитвенник, требник</word></ar><ar><origin>prayer-mat</origin><tr>[ˊpreəmæt]</tr><word>n
+молитвенный коврик</word></ar><ar><origin>pre</origin><tr>[pri:-]</tr><word>pref
+до-, пред-, впереди, заранее; напр.:
+prehistoric доисторический;
+preheat предварительно нагревать</word></ar><ar><origin>Pre-Raphaelite</origin><tr></tr><word>иск.
+1. n прерафаэлит
+2. a прерафаэлитский</word></ar><ar><origin>pre-set</origin><tr></tr><word>1. a спец. заранее установленный; заданный, программированный
+2. v заранее устанавливать</word></ar><ar><origin>pre-shrunk</origin><tr>[ˏpri:ˊʃrʌnk]</tr><word>a
+с предварительной усадкой (о ткани)</word></ar><ar><origin>preachify</origin><tr>[ˊpri:tʃɪfaɪ]</tr><word>v
+разг. читать нудные проповеди</word></ar><ar><origin>preadolescent</origin><tr></tr><word>1. a предподростковый (о возрасте)
+2. n ребёнок предподросткового возраста (от 9 до 12 лет)</word></ar><ar><origin>prearrange</origin><tr>[ˏpri:əˊreɪndʒ]</tr><word>v
+заранее подготавливать, планировать</word></ar><ar><origin>preaudience</origin><tr>[ˏpri:ˊɔ:dɪəns]</tr><word>n
+юр. право (адвоката) быть выслушанным раньше других</word></ar><ar><origin>precapitalist</origin><tr>[ˏpri:ˊkæpɪtlɪst]</tr><word>a
+докапиталистический</word></ar><ar><origin>precative</origin><tr>[ˊprekətɪv]</tr><word>a
+просительный</word></ar><ar><origin>precognition</origin><tr>[ˏpri:kɒgˊnɪʃn]</tr><word>n
+1) (сверхчувственное) предвидение
+2) шотл. юр. предварительный допрос свидетелей</word></ar><ar><origin>preconcert</origin><tr>[ˏpri:kənˊsɜ:t]</tr><word>v
+уславливаться заранее</word></ar><ar><origin>preconcerted</origin><tr></tr><word>1. p. p. от preconcert
+2. a обусловленный заранее</word></ar><ar><origin>precondition</origin><tr></tr><word>1. n предварительное или непременное условие, предпосылка
+2. v заранее обусловить, оговорить</word></ar><ar><origin>preconize</origin><tr>[ˊpri:kənaɪz]</tr><word>v
+1) оглашать, объявлять
+2) церк. оглашать папский указ об утверждении (кого-л.) епископом</word></ar><ar><origin>preconquest</origin><tr>[prɪˊkɒŋkwest]</tr><word>a
+ист. донорманнский, относящийся к периоду до норманнского завоевания 1066 г.</word></ar><ar><origin>preconscious</origin><tr>[pri:ˊkɒnʃəs]</tr><word>a
+психол. предсознательный</word></ar><ar><origin>precontract</origin><tr></tr><word>1. n более ранний контракт (как препятствие к заключению нового)
+2. v заключить контракт заранее</word></ar><ar><origin>precook</origin><tr>[ˏpri:ˊkυk]</tr><word>v
+проводить предварительную кулинарную обработку (продукта)</word></ar><ar><origin>precostal</origin><tr>[pri:ˊkɒstl]</tr><word>a
+анат. предрёберный</word></ar><ar><origin>predella</origin><tr>[prɪˊdelə]</tr><word>n
+церк., иск. пределла</word></ar><ar><origin>predominantly</origin><tr>[prɪˊdɒmɪnəntlɪ]</tr><word>adv
+преимущественно</word></ar><ar><origin>predoom</origin><tr>[pri:ˊdu:m]</tr><word>v
+обрекать, осуждать заранее</word></ar><ar><origin>preelection</origin><tr>[ˏprɪɪˊlekʃn]</tr><word>n
+1) предварительные выборы
+2) attr. предвыборный</word></ar><ar><origin>preeminence</origin><tr>[prɪˊemɪnəns]</tr><word>n
+(огромное) превосходство, преимущество</word></ar><ar><origin>preeminent</origin><tr>[prɪˊemɪnənt]</tr><word>a
+выдающийся, превосходящий других</word></ar><ar><origin>preempt</origin><tr>[prɪˊempt]</tr><word>v
+1) покупать раньше других
+2) завладевать раньше других
+3) амер. приобретать преимущественное право на покупку государственной земли</word></ar><ar><origin>preemption</origin><tr>[prɪˊempʃn]</tr><word>n
+1) покупка прежде других
+2) преимущественное право на покупку (амер. на покупку государственной земли)</word></ar><ar><origin>preestablish</origin><tr>[ˏpri:ɪsˊtæblɪʃ]</tr><word>v
+устанавливать заранее</word></ar><ar><origin>preexist</origin><tr>[ˏpri:ɪgˊzɪst]</tr><word>v
+существовать до (чего-л.)</word></ar><ar><origin>prehuman</origin><tr>[ˏpri:ˊhju:mən]</tr><word>a
+существовавший на земле до появления человека</word></ar><ar><origin>premarital</origin><tr>[pri:ˊmærɪtl]</tr><word>a
+добрачный</word></ar><ar><origin>premi%C3%A8re</origin><tr>[ˊpremɪeə]</tr><word>n
+театр., кино премьера</word></ar><ar><origin>prenatal</origin><tr>[ˏpri:ˊneɪtl]</tr><word>a
+1) предродовой;
+prenatal care наблюдение за беременной женщиной; гигиена беременной
+2) внутриутробный</word></ar><ar><origin>preordain</origin><tr>[ˏpri:ɔ:ˊdeɪn]</tr><word>v
+предопределять</word></ar><ar><origin>prep_school</origin><tr>[ˊprepsku:l]</tr><word>= preparatory school</word></ar><ar><origin>prepacked</origin><tr>[ˏpri:ˊpækt]</tr><word>a
+расфасованный</word></ar><ar><origin>prepaid</origin><tr></tr><word>1. past и p. p. от prepay
+2. a предварительно оплаченный</word></ar><ar><origin>preparatory_school</origin><tr>[prɪˊpærətǝrɪsku:l]</tr><word>n
+1) приготовительная школа (частная; для мальчиков 8—13 лет)
+2) амер. частная средняя школа (готовит к поступлению в колледж)</word></ar><ar><origin>preplan</origin><tr>[pri:ˊplæn]</tr><word>v
+предварительно планировать, намечать заранее</word></ar><ar><origin>preprandial</origin><tr>[pri:ˊprændɪəl]</tr><word>a
+книжн., шутл. предобеденный</word></ar><ar><origin>preprint</origin><tr>[ˊpri:prɪnt]</tr><word>n
+часть книги или статья сборника, опубликованная до выхода в свет всей книги</word></ar><ar><origin>preprocessor</origin><tr>[pri:ˊprəυsesə]</tr><word>n
+информ. препроцессор, процессор предварительной обработки</word></ar><ar><origin>preproduction</origin><tr>[ˏpri:prəˊdʌkʃn]</tr><word>n
+тех.
+1) выпуск опытной серии
+2) attr.:
+preproduction model опытный образец</word></ar><ar><origin>Presbyterian</origin><tr></tr><word>1. n пресвитерианин
+2. a пресвитерианский</word></ar><ar><origin>presence_chamber</origin><tr>[ˊpreznsˏtʃeɪmbə]</tr><word>n
+приёмный зал</word></ar><ar><origin>presentative</origin><tr>[prɪˊzentətɪv]</tr><word>a
+филос.
+1) интуитивный
+2) данный в ощущении</word></ar><ar><origin>press_agency</origin><tr>[ˊpresˏeɪdʒǝnsɪ]</tr><word>n
+газетное агентство; агентство печати</word></ar><ar><origin>press_agent</origin><tr>[ˊpresˏeɪdʒǝnt]</tr><word>n
+агент по печати и рекламе</word></ar><ar><origin>press_bed</origin><tr>[ˊpresbed]</tr><word>n
+складная кровать (убирающаяся в шкаф)</word></ar><ar><origin>press_box</origin><tr>[ˊpresbɒks]</tr><word>n
+места для представителей печати (на состязаниях, спектаклях и т.п.)</word></ar><ar><origin>press_button</origin><tr>[ˊpresˏbʌtn]</tr><word>= push button</word></ar><ar><origin>press_clipping</origin><tr>[ˊpresˏklɪpɪŋ]</tr><word>= press cutting</word></ar><ar><origin>press_conference</origin><tr>[ˊpresˏkɒnfrǝns]</tr><word>n
+пресс-конференция</word></ar><ar><origin>press_corrector</origin><tr>[ˊpreskəˏrektə]</tr><word>n
+корректор</word></ar><ar><origin>press_cutting</origin><tr>[ˊpresˏkʌtɪŋ]</tr><word>n
+1) газетная вырезка
+2) attr.:
+press cutting agency бюро вырезок</word></ar><ar><origin>press_gallery</origin><tr>[ˊpresˏgælǝrɪ]</tr><word>n
+места для представителей печати (в парламенте, на съезде и т.п.)</word></ar><ar><origin>press_office</origin><tr>[ˊpresˏɒfɪs]</tr><word>n
+пресс-бюро</word></ar><ar><origin>press_officer</origin><tr>[ˊpresˏɒfɪsə]</tr><word>n
+осуществляющий связь с печатью, пресс-атташе</word></ar><ar><origin>press_people</origin><tr>[ˊpresˏpi:pl]</tr><word>n
+журналисты, корреспонденты</word></ar><ar><origin>press_photographer</origin><tr>[ˏpresfǝˊtɒgrəfə]</tr><word>n
+фотокорреспондент, фоторепортёр</word></ar><ar><origin>press_proof</origin><tr>[ˊprespru:f]</tr><word>n
+полигр. сводка</word></ar><ar><origin>press_release</origin><tr>[ˊpresrɪˏli:s]</tr><word>n
+сообщение для печати, пресс-коммюнике</word></ar><ar><origin>press_secretary</origin><tr>[ˊpresˏsekrɪtərɪ]</tr><word>n
+пресс-секретарь</word></ar><ar><origin>press-up</origin><tr>[ˊpresʌp]</tr><word>n
+отжимание на руках</word></ar><ar><origin>pressie</origin><tr>[ˊprezɪ]</tr><word>n
+разг. подарок, дар</word></ar><ar><origin>pressure_cooker</origin><tr>[ˊpreʃəˏkυkə]</tr><word>n
+(кастрюля-)скороварка</word></ar><ar><origin>pressure_gauge</origin><tr>[ˊpreʃəgeɪdʒ]</tr><word>n
+манометр</word></ar><ar><origin>pressure_suit</origin><tr>[ˊpreʃəsu:t]</tr><word>n
+высотный компенсирующий костюм; скафандр</word></ar><ar><origin>preteen</origin><tr>[ˏpri:ˊti:n]</tr><word>a
+предподростковый</word></ar><ar><origin>preterit</origin><tr></tr><word>амер. = preterite</word></ar><ar><origin>preterm</origin><tr>[ˏpri:ˊtɜ:m]</tr><word>a
+родившийся или появившийся преждевременно</word></ar><ar><origin>prevenient</origin><tr>[prɪˊvi:nɪənt]</tr><word>a
+книжн. предваряющий; предвосхищающий</word></ar><ar><origin>prewar</origin><tr>[ˏpri:ˊwɔ:]</tr><word>a
+довоенный</word></ar><ar><origin>prezzie</origin><tr>[ˊprezɪ]</tr><word>= pressie</word></ar><ar><origin>price_boom</origin><tr>[ˊpraɪsbu:m]</tr><word>n
+высокий уровень цен</word></ar><ar><origin>price_current</origin><tr>[ˊpraɪsˏkʌrǝnt]</tr><word>= price list</word></ar><ar><origin>price_index</origin><tr>[ˊpraɪsˏɪndeks]</tr><word>n
+индекс цен</word></ar><ar><origin>price_level</origin><tr>[ˊpraɪsˏlevl]</tr><word>n
+уровень цен</word></ar><ar><origin>price_list</origin><tr>[ˊpraɪslɪst]</tr><word>n
+прейскурант</word></ar><ar><origin>price_ring</origin><tr>[ˊpraɪsrɪŋ]</tr><word>n
+эк. монополистическое объединение промышленников с целью повышения цен</word></ar><ar><origin>price_tag</origin><tr>[ˊpraɪstæg]</tr><word>n
+ярлык с указанием цены</word></ar><ar><origin>price_war</origin><tr>[ˊpraɪswɔ:]</tr><word>n
+ценовая конкуренция</word></ar><ar><origin>price_wave</origin><tr>[ˊpraɪsweɪv]</tr><word>n
+колебание цен</word></ar><ar><origin>prickly_heat</origin><tr>[ˏprɪklɪˊhi:t]</tr><word>n
+мед. тропический лишай; потница</word></ar><ar><origin>prickly_pear</origin><tr>[ˏprɪklɪˊpeə]</tr><word>n
+опунция (род кактуса)</word></ar><ar><origin>pricy</origin><tr>[ˊpraɪsɪ]</tr><word>= pricey</word></ar><ar><origin>prima_ballerina</origin><tr>[ˏpri:məbæləˊri:nə]</tr><word>n
+прима-балерина</word></ar><ar><origin>prima_donna</origin><tr>[ˏpri:məˊdɒnə]</tr><word>n (pl prima donnas [-z])
+примадонна</word></ar><ar><origin>prima_facie</origin><tr></tr><word>1. a основанный на первом впечатлении;
+prima facie evidence юр. доказательство, достаточное при отсутствии опровержения; презумпция доказательства
+2. adv с первого взгляда; по первому впечатлению</word></ar><ar><origin>primatology</origin><tr>[ˏpraɪməˊtɒlədʒɪ]</tr><word>n
+приматология</word></ar><ar><origin>prime</origin><tr>[praɪm]</tr><word>1. n
+1) расцвет;
+in the prime of life во цвете лет
+2) лучшая часть, цвет
+3) начало; поэт. весна;
+the prime of the year весна
+4) церк. заутреня (у католиков)
+5) первая позиция (в фехтовании)
+6) мат. простое число
+2. a
+1) основной, важнейший;
+prime advantage важнейшее преимущество
+2) превосходный, лучший;
+in prime condition в прекрасном состоянии;
+prime crop первоклассный урожай
+3) главный;
+P. Minister премьер-министр
+4) первоначальный, первичный;
+prime cause первопричина;
+prime cost полит.-эк. себестоимость;
+prime mover тех. первичный двигатель; перен. душа какого-л. дела;
+prime number мат. простое число
+Ⅱ
+prime [praɪm] v
+1) воен. воспламенять; вставлять запал или взрыватель
+2) заправлять (двигатель); заливать (насос) перед пуском
+3) накормить досыта, напоить
+4) заранее снабжать информацией, инструкциями и т.п.; натаскивать, учить готовым ответам
+5) жив., стр. грунтовать</word></ar><ar><origin>prime_time</origin><tr>[ˊpraɪmˏtaɪm]</tr><word>n
+амер. вечернее время, когда максимальное количество телезрителей смотрит передачи</word></ar><ar><origin>primigravida</origin><tr>[ˏpraɪmɪˊgrævɪdə]</tr><word>n (pl -dae)
+женщина, беременная первый раз</word></ar><ar><origin>primigravidae</origin><tr>[ˏpraɪmɪˊgrævɪdi:]</tr><word>pl от primigravida</word></ar><ar><origin>primitivism</origin><tr>[ˊprɪmətɪvɪzǝm]</tr><word>n
+примитивизм</word></ar><ar><origin>primum_mobile</origin><tr></tr><word>лат. n главная движущая сила</word></ar><ar><origin>Primus</origin><tr>[ˊpraɪməs]</tr><word>n
+примус</word></ar><ar><origin>primus_inter_pares</origin><tr></tr><word>лат. n первый среди равных</word></ar><ar><origin>printed_matter</origin><tr>[ˊprɪntɪdˏmætə]</tr><word>n
+1) печатный материал
+2) бандероль</word></ar><ar><origin>printery</origin><tr>[ˊprɪntərɪ]</tr><word>n
+амер.
+1) типография
+2) ситценабивная фабрика</word></ar><ar><origin>printing_ink</origin><tr>[ˊprɪntɪŋɪŋk]</tr><word>n
+полигр. печатная краска</word></ar><ar><origin>printing_machine</origin><tr>[ˊprɪntɪŋməˏʃi:n]</tr><word>= printing press</word></ar><ar><origin>printing_press</origin><tr>[ˊprɪntɪŋpres]</tr><word>n
+печатная машина; печатный станок</word></ar><ar><origin>printworks</origin><tr>[ˊprɪntwɜ:ks]</tr><word>n pl (употр. как sing и как pl)
+ситценабивная фабрика</word></ar><ar><origin>prize_court</origin><tr>[ˊpraɪzkɔ:t]</tr><word>n
+призовой суд</word></ar><ar><origin>prize_money</origin><tr>[ˊpraɪzˏmʌnɪ]</tr><word>n
+призовые деньги</word></ar><ar><origin>prizefight</origin><tr>[ˊpraɪzfaɪt]</tr><word>n
+состязание на приз (в боксе)</word></ar><ar><origin>prizefighter</origin><tr>[ˊpraɪzfaɪtə]</tr><word>n
+боксёр-профессионал</word></ar><ar><origin>prizefighting</origin><tr>[ˊpraɪzfaɪtɪŋ]</tr><word>n
+профессиональный бокс</word></ar><ar><origin>pro</origin><tr></tr><word>разг. сокр. от professional 1, 2) и 2</word></ar><ar><origin>pro_and_con</origin><tr></tr><word>1. adv за и против
+2. n pl аргументы «за» и «против»</word></ar><ar><origin>pro_hac_vice</origin><tr></tr><word>лат. adv для этого случая (только)</word></ar><ar><origin>pro_rata</origin><tr></tr><word>лат. adv в соответствии, в пропорции, пропорционально</word></ar><ar><origin>pro_tem</origin><tr></tr><word>разг. см. pro tempore</word></ar><ar><origin>pro_tempore</origin><tr></tr><word>лат. adv на время, пока</word></ar><ar><origin>pro_74a</origin><tr>[prəυ-]</tr><word>pref
+со значением:
+1. являющийся сторонником за, про-;
+pro-tariff-reform являющийся сторонником тарифных реформ;
+2. замещающий вместо;
+pro-rector проректор, заместитель ректора</word></ar><ar><origin>probation_officer</origin><tr>[prəˊbeɪʃnˏɒfɪsə]</tr><word>n
+инспектор, наблюдающий за поведением условно осуждённых преступников</word></ar><ar><origin>process_server</origin><tr>[ˊprəυsesˏsɜ:və]</tr><word>n
+судебный курьер</word></ar><ar><origin>processed_cheese</origin><tr>[ˏprəυsestˊtʃi:z]</tr><word>n
+плавленый сыр</word></ar><ar><origin>Procrustean</origin><tr>[prəυˊkrʌstɪən]</tr><word>a:
+Procrustean bed греч. миф. прокрустово ложе</word></ar><ar><origin>proctology</origin><tr>[prɒkˊtɒlədʒɪ]</tr><word>n
+мед. проктология</word></ar><ar><origin>proc%C3%A8s-verbal</origin><tr>[prəˏseɪveəˊbɑ:l]</tr><word>n (pl -verbaux)
+протокол</word></ar><ar><origin>proc%C3%A8s-verbaux</origin><tr>[prəˏseɪveəˊbəυ]</tr><word>pl от procès-verbal</word></ar><ar><origin>profiling_machine</origin><tr>[ˊprəυfaɪlɪŋməˏʃi:n]</tr><word>n
+копировальный станок</word></ar><ar><origin>profit_sharing</origin><tr>[ˊprɒfɪtˏʃeərɪŋ]</tr><word>n
+участие рабочих и служащих в прибылях</word></ar><ar><origin>profiterole</origin><tr>[prəˊfɪtərəυl]</tr><word>n
+кул. профитроль</word></ar><ar><origin>proforma</origin><tr></tr><word>1. a формальный
+2. adv формально</word></ar><ar><origin>prognoses</origin><tr>[prɒgˊnəυsi:z]</tr><word>pl от prognosis</word></ar><ar><origin>programme_music</origin><tr>[ˊprəυgræmˏmju:zɪk]</tr><word>n
+программная музыка</word></ar><ar><origin>programming</origin><tr>[ˊprəυgræmɪŋ]</tr><word>n
+информ. программирование</word></ar><ar><origin>Promethean</origin><tr>[prəυˊmi:θɪən]</tr><word>a:
+Promethean fire прометеев огонь</word></ar><ar><origin>Prometheus</origin><tr>[prəυˊmi:θju:s]</tr><word>n
+греч. миф. Прометей</word></ar><ar><origin>promotion_man</origin><tr>[prəˊməυʃnmæn]</tr><word>n
+посредник, агент</word></ar><ar><origin>prompt_box</origin><tr>[ˊprɒmptbɒks]</tr><word>n
+суфлёрская будка</word></ar><ar><origin>prompt_side</origin><tr>[ˊprɒmptsaɪd]</tr><word>n
+1) левая (от актёра) сторона сцены
+2) амер. правая (от актёра) сторона сцены</word></ar><ar><origin>promptbook</origin><tr>[ˊprɒmptbυk]</tr><word>n
+суфлёрский экземпляр пьесы</word></ar><ar><origin>proneur</origin><tr></tr><word>фр. n льстец</word></ar><ar><origin>-proof</origin><tr></tr><word>в сложных словах означает устойчивый, непроницаемый, не поддающийся действию (чего-л.);
+waterproof водонепроницаемый</word></ar><ar><origin>proof_room</origin><tr>[ˊpru:fru:m]</tr><word>n
+корректорская</word></ar><ar><origin>proof_sheet</origin><tr>[ˊpru:fʃi:t]</tr><word>n
+корректурный оттиск, корректура</word></ar><ar><origin>proofread</origin><tr>[ˊpru:fri:d]</tr><word>v
+читать корректуру, гранки</word></ar><ar><origin>proofreader</origin><tr>[ˊpru:fri:də]</tr><word>n
+корректор;
+proofreader's mark полигр. корректурный знак</word></ar><ar><origin>proofreading</origin><tr></tr><word>1. pres. p. от proofread
+2. n читка корректуры</word></ar><ar><origin>propellant</origin><tr>[prəˊpelənt]</tr><word>n
+1) воен. метательное взрывчатое вещество
+2) ракетное топливо</word></ar><ar><origin>property_room</origin><tr>[ˊprɒpətɪru:m]</tr><word>n
+бутафорская, реквизиторская</word></ar><ar><origin>prophylaxes</origin><tr>[ˏprɒfəˊlæksi:z]</tr><word>pl от prophylaxis</word></ar><ar><origin>proptosis</origin><tr>[prɒpˊtəυsɪs]</tr><word>n
+мед. проптоз</word></ar><ar><origin>proscenia</origin><tr>[prəυˊsi:nɪə]</tr><word>pl от proscenium</word></ar><ar><origin>prostheses</origin><tr>[prɒsˊθi:si:z]</tr><word>pl от prosthesis</word></ar><ar><origin>protases</origin><tr>[ˊprɒtəsi:z]</tr><word>pl от protasis</word></ar><ar><origin>Protestant</origin><tr></tr><word>рел.
+1. n протестант
+2. a протестантский</word></ar><ar><origin>Protestantism</origin><tr>[ˊprɒtɪstǝntɪzǝm]</tr><word>n
+рел. протестантство</word></ar><ar><origin>Protestantize</origin><tr>[ˊprɒtɪstǝntaɪz]</tr><word>v
+рел.
+1) обращать в протестантство
+2) исповедовать протестантство</word></ar><ar><origin>Proteus</origin><tr>[ˊprəυtju:s]</tr><word>n
+греч. миф. Протей</word></ar><ar><origin>prot%C3%A9g%C3%A9</origin><tr>[ˊprɒtəʒeɪ]</tr><word>n
+протеже</word></ar><ar><origin>prot%C3%A9g%C3%A9e</origin><tr></tr><word>ж. к protégé</word></ar><ar><origin>Proven%C3%A7al</origin><tr></tr><word>1. a провансальский, прованский
+2. n
+1) провансалец
+2) провансальский язык</word></ar><ar><origin>prowl_car</origin><tr>[ˊpraυlkɑ:]</tr><word>n
+амер. машина полицейского патруля</word></ar><ar><origin>proxime_accessit</origin><tr></tr><word>лат. n
+1) второе место на экзамене и т.п.
+2) человек, занявший второе место</word></ar><ar><origin>proxy_server</origin><tr>[ˊprɒksɪˏsɜ:və]</tr><word>n
+информ. сервер-посредник</word></ar><ar><origin>Prussian</origin><tr></tr><word>1. a прусский
+◊ P. blue берлинская лазурь
+2. n пруссак</word></ar><ar><origin>prussic_acid</origin><tr>[ˏprʌsɪkˊæsɪd]</tr><word>n
+синильная кислота</word></ar><ar><origin>pr%C3%A9cis</origin><tr></tr><word>1. n краткое изложение, конспект
+2. v составлять конспект, кратко излагать</word></ar><ar><origin>pseud_732</origin><tr>[ˊsju:dəυ-]</tr><word>pref
+псевдо-, ложно-</word></ar><ar><origin>pseudo</origin><tr>[ˊsju:dəυ-]</tr><word>pref
+псевдо-, ложно-</word></ar><ar><origin>Psyche</origin><tr>[ˊsaɪkɪ]</tr><word>n
+греч. миф. Психея</word></ar><ar><origin>psychoanalysis</origin><tr>[ˏsaɪkəυəˊnæləsɪs]</tr><word>n
+психоанализ</word></ar><ar><origin>psychoanalyst</origin><tr>[ˏsaɪkəυˊænǝlɪst]</tr><word>n
+специалист по психоанализу, психоаналитик</word></ar><ar><origin>psychodrama</origin><tr>[ˊsaɪkəυdrɑ:mə]</tr><word>n
+мед. психодрама (метод групповой психотерапии)</word></ar><ar><origin>psychoses</origin><tr>[saɪˊkəυsi:z]</tr><word>pl от psychosis</word></ar><ar><origin>psychotherapy</origin><tr>[ˏsaɪkəυˊθerəpɪ]</tr><word>n
+психотерапия</word></ar><ar><origin>Ptolemaic</origin><tr>[ˏtɒləˊmeɪɪk]</tr><word>a
+птолемеев</word></ar><ar><origin>pubis</origin><tr>[ˊpju:bɪs]</tr><word>n
+анат. лобковая кость</word></ar><ar><origin>public_convenience</origin><tr>[ˏpʌblɪkkənˊvi:nɪəns]</tr><word>n
+туалет, уборная (в общественном месте)</word></ar><ar><origin>public_enemy</origin><tr>[ˏpʌblɪkˊenəmɪ]</tr><word>n
+1) социально опасный элемент
+2) вражеская страна</word></ar><ar><origin>public_health</origin><tr>[ˏpʌblɪkˊhelθ]</tr><word>n
+здравоохранение</word></ar><ar><origin>public_house</origin><tr>[ˏpʌblɪkˊhaυs]</tr><word>n
+паб, пивная</word></ar><ar><origin>public_relations</origin><tr>[ˏpʌblɪkrɪˊleɪʃnz]</tr><word>n
+1) связь (лица, организации) с общественностью; информация о (чьей-л.) деятельности
+2) (сокр. PR) пиар, деятельность, направленная на создание доверия к фирме, лицу и т.п.
+3) attr. рекламный, относящийся к рекламе или информации;
+public relations department
+a) пресс-бюро; отдел информации;
+б) отдел информации коммерческого предприятия;
+public relations officer служащий отдела информации;
+public relations man агент по рекламе</word></ar><ar><origin>public_school</origin><tr>[ˏpʌblɪkˊsku:l]</tr><word>n
+1) привилегированная частная закрытая средняя школа для мальчиков (в Англии)
+2) бесплатная средняя школа (в США, Австралии и Шотландии)</word></ar><ar><origin>pudding_stone</origin><tr>[ˊpυdɪŋstəυn]</tr><word>n
+геол. конгломерат</word></ar><ar><origin>puddling_furnace</origin><tr>[ˏpʌdlɪŋˊfɜ:nɪs]</tr><word>n
+пудлинговая печь</word></ar><ar><origin>pudenda</origin><tr>[pjυˊdendə]</tr><word>pl от pudendum</word></ar><ar><origin>Puerto_Rican</origin><tr></tr><word>1. a пуэрториканский
+2. n пуэрториканец; пуэрториканка</word></ar><ar><origin>puff_adder</origin><tr>[ˊpʌfˏædə]</tr><word>n
+африканская гадюка</word></ar><ar><origin>puff_pastry</origin><tr>[ˊpʌfpeɪstrɪ]</tr><word>n
+слоёное тесто</word></ar><ar><origin>puffball</origin><tr>[ˊpʌfbɔ:l]</tr><word>n
+дождевик (гриб)</word></ar><ar><origin>puffbox</origin><tr>[ˊpʌfbɒks]</tr><word>n
+пудреница</word></ar><ar><origin>pug_mill</origin><tr>[ˊpʌgmɪl]</tr><word>n
+глиномялка</word></ar><ar><origin>pug_nose</origin><tr>[ˊpʌgnəυz]</tr><word>n
+курносый нос</word></ar><ar><origin>Pullman</origin><tr>[ˊpυlmən]</tr><word>n
+пульмановский спальный вагон (тж. Pullman car)</word></ar><ar><origin>pullover</origin><tr>[ˊpυlˏəυvə]</tr><word>n
+пуловер, свитер</word></ar><ar><origin>pullthrough</origin><tr>[ˊpυlθru:]</tr><word>n
+воен. протирка (орудия)</word></ar><ar><origin>pumice_stone</origin><tr>[ˊpʌmɪsstəυn]</tr><word>= pumice 1</word></ar><ar><origin>pump_iron</origin><tr>[ˊpʌmpa(ɪ)ən]</tr><word>v
+разг. заниматься тяжёлой атлетикой; быть штангистом</word></ar><ar><origin>pump_room</origin><tr>[ˊpʌmpru:m]</tr><word>n
+1) насосное отделение
+2) зал для питья минеральных вод на курортах, бювет</word></ar><ar><origin>Punch</origin><tr>[pʌntʃ]</tr><word>n
+1) Панч, Петрушка;
+Punch and Judy Панч и Джуди (персонажи кукольной комедии)
+2) «Панч» (название английского юмористического журнала)
+◊ as pleased as Punch очень довольный;
+as proud as Punch очень гордый</word></ar><ar><origin>punch_bowl</origin><tr>[ˊpʌntʃbəυl]</tr><word>n
+чаша для пунша</word></ar><ar><origin>punch_press</origin><tr>[ˊpʌntʃpres]</tr><word>n
+1) дыропробивной пресс; штамповальный пресс
+2) attr.:
+punch press operator штамповщик; штамповщица</word></ar><ar><origin>punchball</origin><tr>[ˊpʌntʃbɔ:l]</tr><word>n
+спорт. подвесная груша (для тренировки боксёра)</word></ar><ar><origin>Punchinello</origin><tr>[ˏpʌntʃɪˊneləυ]</tr><word>n (pl -os [-əυz])
+Полишинель</word></ar><ar><origin>Punic</origin><tr>[ˊpju:nɪk]</tr><word>a
+ист. пунический; карфагенский
+◊ Punic faith вероломство</word></ar><ar><origin>Punjabi</origin><tr></tr><word>1. a панджабский
+2. n
+1) панджабец
+2) панджаби (язык)</word></ar><ar><origin>pupae</origin><tr>[ˊpju:pi:]</tr><word>pl от pupa</word></ar><ar><origin>purchasing_power</origin><tr>[ˊpɜ:tʃəsɪŋˏpaʋə]</tr><word>n
+эк. покупательная способность</word></ar><ar><origin>pureblooded</origin><tr>[ˏpjυəˊblʌdɪd]</tr><word>a
+чистокровный</word></ar><ar><origin>purse_strings</origin><tr>[ˊpɜ:sstrɪŋz]</tr><word>n pl
+ремешки, которыми в старину затягивался кошелёк
+◊ to hold the purse strings распоряжаться расходами;
+to tighten (to loosen) the purse strings скупиться, экономить, сокращать (не скупиться, увеличивать) расходы</word></ar><ar><origin>pursuit_plane</origin><tr>[pəˊsju:tpleɪn]</tr><word>n
+ав. истребитель</word></ar><ar><origin>push_button</origin><tr>[ˊpυʃˏbʌtn]</tr><word>n
+1) нажимная кнопка; кнопка (звонка и т.п.)
+2) attr. кнопочный (об управлении);
+push button war «кнопочная» война</word></ar><ar><origin>pushcart</origin><tr>[ˊpυʃkɑ:t]</tr><word>n
+1) ручная тележка
+2) детский стул на колёсах
+3) attr.:
+pushcart man амер. уличный торговец</word></ar><ar><origin>pushchair</origin><tr>[ˊpυʃtʃeə]</tr><word>n
+детский складной стул на колёсиках</word></ar><ar><origin>pushover</origin><tr>[ˊpυʃˏəυvə]</tr><word>n
+разг.
+1) пустяковое дело; несложная задача
+2) слабовольный человек
+3) слабый игрок; слабый противник</word></ar><ar><origin>pushpin</origin><tr>[ˊpυʃpɪn]</tr><word>n
+1) амер. кнопка (для прикрепления бумаги)
+2) название детской игры</word></ar><ar><origin>Pushtoo</origin><tr>[ˊpʌʃtu:]</tr><word>n
+язык пушту</word></ar><ar><origin>Pushtu</origin><tr>[ˊpʌʃtu:]</tr><word>n
+язык пушту</word></ar><ar><origin>pussy_willow</origin><tr>[ˊpυsɪˏwɪləυ]</tr><word>n
+верба</word></ar><ar><origin>pussycat</origin><tr>[ˊpυsɪkæt]</tr><word>n
+кошка, кошечка, киска</word></ar><ar><origin>put-on</origin><tr>[ˊpυtɒn]</tr><word>n
+разг. обман, притворство</word></ar><ar><origin>putting_green</origin><tr>[ˊpʌtɪŋgri:n]</tr><word>n
+ровная лужайка (вокруг лунки в гольфе)</word></ar><ar><origin>pylori</origin><tr>[paɪˊlɔ:raɪ]</tr><word>pl от pylorus</word></ar><ar><origin>pyromania</origin><tr>[ˏpaɪrəυˊmeɪnɪə]</tr><word>n
+пиромания</word></ar><ar><origin>pyromaniac</origin><tr>[ˏpaɪrəυˊmeɪnɪæk]</tr><word>n
+пироман</word></ar><ar><origin>Pyrrhic</origin><tr>[ˊpɪrɪk]</tr><word>a:
+Pyrrhic victory пиррова победа</word></ar><ar><origin>pyrrhic</origin><tr>[ˊpɪrɪk]</tr><word>n
+прос. пиррихий (тж. pyrrhic foot)</word></ar><ar><origin>Pyrrhonism</origin><tr>[ˊpɪrənɪzǝm]</tr><word>n
+учение греческого философа Пиррона; скептицизм</word></ar><ar><origin>Pyrrhonist</origin><tr>[ˊpɪrənɪst]</tr><word>n
+последователь Пиррона; скептик</word></ar><ar><origin>Pythagoras_theorem</origin><tr>[paɪˏθægǝrəs-ˊθɪərǝm]</tr><word>n
+мат. пифагорова теорема</word></ar><ar><origin>Pythagorean</origin><tr></tr><word>1. a пифагорейский;
+Pythagorean proposition = Pythagoras' theorem
+2. n пифагореец</word></ar><ar><origin>Pythian</origin><tr>[ˊpɪθɪən]</tr><word>a
+др.-греч. пифийский</word></ar><ar><origin>pyxides</origin><tr>[ˊpɪksɪˏdi:z]</tr><word>pl от pyxis</word></ar><ar><origin>p%C3%A2t%C3%A9</origin><tr>[ˊpæteɪ]</tr><word>n
+паштет</word></ar>

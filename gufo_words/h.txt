@@ -1,0 +1,653 @@
+<ar><origin>H</origin><tr>[eɪtʃ]</tr><word>n (pl Hs, H's [ˊeɪtʃɪz])
+8-я буква англ. алфавита;
+to drop one's hs не произносить h там, где это следует (особенность лондонского просторечия)</word></ar><ar><origin>H-bomb</origin><tr>[ˊeɪtʃbɒm]</tr><word>n
+водородная бомба</word></ar><ar><origin>H-hour</origin><tr>[ˊeɪtʃˏaυə]</tr><word>n
+воен. час «Ч», время начала операции</word></ar><ar><origin>ha_e61</origin><tr></tr><word>разг. сокр. форма от have</word></ar><ar><origin>ha_p_orth</origin><tr></tr><word>разг. см. halfpennyworth</word></ar><ar><origin>habeas_corpus</origin><tr>[ˏheɪbɪəsˊkɔ:pəs]</tr><word>n
+предписание о представлении арестованного в суд для рассмотрения законности ареста (тж. writ of habeas corpus)</word></ar><ar><origin>Habeas_Corpus_Act</origin><tr>[ˏheɪbɪəskɔ:pəsˊækt]</tr><word>n
+Хабеас Корпус (английский закон 1679 г. о неприкосновенности личности)</word></ar><ar><origin>habit-forming</origin><tr>[ˊhæbɪtfɔ:mɪŋ]</tr><word>a
+входящий в привычку; создающий устойчивую привычку</word></ar><ar><origin>habitu%C3%A9</origin><tr></tr><word>фр. n завсегдатай</word></ar><ar><origin>hacksaw</origin><tr>[ˊhæksɔ:]</tr><word>n
+тех. слесарная ножовка</word></ar><ar><origin>hackwork</origin><tr>[ˊhækwɜ:k]</tr><word>n
+1) литературная подёнщина; халтура
+2) нудная, тяжёлая работа</word></ar><ar><origin>hackwriter</origin><tr>[ˊhækˏraɪtə]</tr><word>n
+литературный подёнщик</word></ar><ar><origin>Hades</origin><tr>[ˊheɪdi:z]</tr><word>n
+греч. миф. Гадес (подземное царство, царство теней; бог подземного царства)</word></ar><ar><origin>hadj</origin><tr>[hædʒ]</tr><word>= haj</word></ar><ar><origin>hadn_t</origin><tr></tr><word>сокр. разг. = had not</word></ar><ar><origin>haem</origin><tr></tr><word>компонент сложных слов со значением крово-, крове-; в русском языке соответствует компоненту гемо-</word></ar><ar><origin>haematology</origin><tr>[ˏhi:məˊtɒlədʒɪ]</tr><word>n
+гематология</word></ar><ar><origin>haematoma</origin><tr>[ˏhi:məˊtəυmə]</tr><word>n
+мед. гематома</word></ar><ar><origin>haemolysis</origin><tr>[hi:ˊmɒləsɪs]</tr><word>n
+мед. гемолиз</word></ar><ar><origin>hagiographer</origin><tr>[ˏhægɪˊɒgrəfə]</tr><word>n
+агиограф, составитель жизнеописания святых</word></ar><ar><origin>hagiographic</origin><tr>[ˏhægɪəˊgræfɪk]</tr><word>a
+относящийся к жизнеописанию святых</word></ar><ar><origin>hagiography</origin><tr>[ˏhægɪˊɒgrəfɪ]</tr><word>n
+агиография, жизнеописания святых</word></ar><ar><origin>haiku</origin><tr>[ˊhaɪku:]</tr><word>n
+хайку, хокку (японское лирическое трёхстишие)</word></ar><ar><origin>hain_t</origin><tr></tr><word>диал. = have not, has not</word></ar><ar><origin>hair_pencil</origin><tr>[ˊheəˏpensl]</tr><word>n
+тонкая кисть для акварели</word></ar><ar><origin>hair_shirt</origin><tr>[ˏheəˊʃɜ:t]</tr><word>n
+рел. власяница</word></ar><ar><origin>hair_slide</origin><tr>[ˊheəslaɪd]</tr><word>n
+заколка для волос</word></ar><ar><origin>hair_trigger</origin><tr>[ˊheəˏtrɪgə]</tr><word>n
+воен. спусковой крючок, требующий слабого нажатия</word></ar><ar><origin>hair_s_breadth</origin><tr>[ˊheəzbredθ]</tr><word>n
+ничтожное, минимальное расстояние;
+by a hair's breadth самую малость
+◊ within (или by) a hair's breadth of death на волосок от смерти</word></ar><ar><origin>hair-drier</origin><tr>[ˊheədra(ɪ)ə]</tr><word>n
+фен, электрический прибор для сушки волос</word></ar><ar><origin>hair-shirt</origin><tr>[ˊheəʃɜ:t]</tr><word>a
+аскетичный, готовый к самопожертвованию</word></ar><ar><origin>haircut</origin><tr>[ˊheəkʌt]</tr><word>n
+стрижка</word></ar><ar><origin>hairdo</origin><tr>[ˊheədu:]</tr><word>n
+причёска; укладка волос</word></ar><ar><origin>hairline</origin><tr>[ˊheəlaɪn]</tr><word>n
+1) тонкая, волосная линия
+2) бечёвка, леса (из волоса)
+3) attr. тонкий, волосной;
+hairline crack тех. волосная трещина;
+hairline distinction тонкое различие</word></ar><ar><origin>hairnet</origin><tr>[ˊheənet]</tr><word>n
+сетка для волос</word></ar><ar><origin>hairpiece</origin><tr>[ˊheəpi:s]</tr><word>n
+шиньон</word></ar><ar><origin>hairspray</origin><tr>[ˊheəspreɪ]</tr><word>n
+лак для волос</word></ar><ar><origin>hairstyle</origin><tr>[ˊheəstaɪl]</tr><word>n
+причёска</word></ar><ar><origin>hairworm</origin><tr>[ˊheəwɜ:m]</tr><word>n
+зоол. волосатик</word></ar><ar><origin>Haitian</origin><tr></tr><word>1. a гаитянский
+2. n гаитянин; гаитянка</word></ar><ar><origin>haj</origin><tr>[hædʒ]</tr><word>n
+хадж</word></ar><ar><origin>hajji</origin><tr>[ˊhædʒɪ]</tr><word>n
+хаджи (мусульманин, совершивший хадж)</word></ar><ar><origin>half_blood</origin><tr>[ˊhɑ:fblʌd]</tr><word>n
+1) брат, сестра только по одному из родителей
+2) родство по одному из родителей
+3) = half-breed</word></ar><ar><origin>half_brother</origin><tr>[ˊhɑ:fbrʌðə]</tr><word>n
+единокровный или единоутробный брат</word></ar><ar><origin>half_cock</origin><tr>[ˏhɑ:fˊkɒk]</tr><word>n
+воен. предохранительный взвод; ударник на первом взводе
+◊ to go off at half cock говорить или поступать необдуманно, опрометчиво</word></ar><ar><origin>half_crown</origin><tr>[ˏhɑ:fˊkraυn]</tr><word>n
+ист. полкроны (монета в 2 шиллинга 6 пенсов)</word></ar><ar><origin>half_hose</origin><tr>[ˏhɑ:fˊhəυz]</tr><word>n
+гольфы; носки</word></ar><ar><origin>half_measure</origin><tr>[ˊhɑ:fmeʒə]</tr><word>n
+полумера</word></ar><ar><origin>half_moon</origin><tr>[ˏhɑ:fˊmu:n]</tr><word>n
+1) полумесяц
+2) воен. ист. равелин</word></ar><ar><origin>half_pay</origin><tr>[ˏhɑ:fˊpeɪ]</tr><word>n
+половинный оклад</word></ar><ar><origin>half_sister</origin><tr>[ˊhɑ:fsɪstə]</tr><word>n
+единокровная или единоутробная сестра</word></ar><ar><origin>half-a-crown</origin><tr>[ˏhɑ:fəˊkraυn]</tr><word>= half crown</word></ar><ar><origin>half-binding</origin><tr>[ˊhɑ:fˏbaɪndɪŋ]</tr><word>n
+полигр. комбинированный переплёт</word></ar><ar><origin>half-holiday</origin><tr>[ˏhɑ:fˊhɒlɪdɪ]</tr><word>n
+сокращённый рабочий день</word></ar><ar><origin>half-hour</origin><tr>[ˏhɑ:fˊaυə]</tr><word>n
+полчаса</word></ar><ar><origin>half-hourly</origin><tr>[ˏhɑ:fˊaʋəlɪ]</tr><word>a
+получасовой, происходящий каждые полчаса</word></ar><ar><origin>half-life</origin><tr>[ˊhɑ:flaɪf]</tr><word>n
+физ. период полураспада (радиоактивного элемента)</word></ar><ar><origin>half-pint</origin><tr>[hɑ:fˊpɪnt]</tr><word>n
+1) половина пинты; бутылка в полпинты
+2) разг. коротышка</word></ar><ar><origin>halfback</origin><tr>[ˊhɑ:fbæk]</tr><word>n
+спорт. полузащитник</word></ar><ar><origin>halfheartedly</origin><tr>[ˏhɑ:fˊhɑ:tɪdlɪ]</tr><word>adv
+без особого энтузиазма, нерешительно</word></ar><ar><origin>halftone</origin><tr>[ˏhɑ:fˊtəυn]</tr><word>n
+1) муз., жив. полутон
+2) полигр. автотипия</word></ar><ar><origin>halfway</origin><tr></tr><word>1. a лежащий на полпути
+◊ halfway house
+а) гостиница на полпути;
+б) компромисс
+2. adv
+1) на полпути
+2) наполовину; частично
+◊ to meet smb. halfway пойти навстречу кому-л.; пойти на компромисс, на уступки</word></ar><ar><origin>halfwit</origin><tr>[ˊhɑ:fwɪt]</tr><word>n
+слабоумный; дурачок</word></ar><ar><origin>halfwitted</origin><tr>[ˏhɑ:fˊwɪtɪd]</tr><word>a
+слабоумный, придурковатый</word></ar><ar><origin>halleluja</origin><tr>[ˏhælɪˊlu:jə]</tr><word>n int
+аллилуйя</word></ar><ar><origin>Hallowe_en</origin><tr>[ˏhæləυˊi:n]</tr><word>n
+канун Дня всех святых</word></ar><ar><origin>Halloween</origin><tr>[ˏhæləυˊi:n]</tr><word>n
+канун Дня всех святых</word></ar><ar><origin>Hallowmas</origin><tr>[ˊhæləʋmæs]</tr><word>n
+церк. День всех святых (1 ноября)</word></ar><ar><origin>halva</origin><tr>[ˊhælvə]</tr><word>n
+халва</word></ar><ar><origin>halvah</origin><tr>[ˊhælvə]</tr><word>n
+халва</word></ar><ar><origin>halves</origin><tr>[hɑ:vz]</tr><word>pl от half 1</word></ar><ar><origin>ham-handed</origin><tr>[ˏhæmˊhændɪd]</tr><word>= ham-fisted</word></ar><ar><origin>Hamburg</origin><tr>[ˊhæmbɜ:g]</tr><word>n
+1) сорт чёрного винограда
+2) гамбургская порода кур</word></ar><ar><origin>hammer_scale</origin><tr>[ˊhæməskeɪl]</tr><word>n
+тех. молотобоина, окалина</word></ar><ar><origin>hammerhead</origin><tr>[ˊhæməhed]</tr><word>n
+1) головка молотка
+2) зоол. молот-рыба</word></ar><ar><origin>hammy</origin><tr>[ˊhæmɪ]</tr><word>n
+разг. переигрывающий (об актёре); ходульный, неестественный (об исполнении)</word></ar><ar><origin>hamstrung</origin><tr>[ˊhæmstrʌŋ]</tr><word>past и p. p. от hamstring 2</word></ar><ar><origin>han_t</origin><tr></tr><word>сокр. диал. = have not, has not</word></ar><ar><origin>hand_grenade</origin><tr>[ˊhændgrɪˏneɪd]</tr><word>n
+ручная граната</word></ar><ar><origin>hand_organ</origin><tr>[ˊhændˏɔ:gǝn]</tr><word>n
+шарманка</word></ar><ar><origin>hand-lamp</origin><tr>[ˊhændlæmp]</tr><word>n
+переносная электрическая лампа (для осмотра машин)</word></ar><ar><origin>handbarrow</origin><tr>[ˊhændbærəυ]</tr><word>n
+1) носилки
+2) ручная тележка, тачка</word></ar><ar><origin>handbasin</origin><tr>[ˊhændbeɪsn]</tr><word>n
+раковина в ванной комнате</word></ar><ar><origin>handbook_man</origin><tr>[ˊhændbυkmæn]</tr><word>n
+амер. букмекер</word></ar><ar><origin>handclap</origin><tr>[ˊhændklæp]</tr><word>n
+аплодисменты, рукоплескания</word></ar><ar><origin>handgun</origin><tr>[ˊhændgʌn]</tr><word>n
+ручное огнестрельное оружие, пистолет или револьвер</word></ar><ar><origin>handlebar</origin><tr>[ˊhændlbɑ:]</tr><word>n (обыкн. pl)
+руль велосипеда</word></ar><ar><origin>handmaid</origin><tr>[ˊhændmeɪd(n)]</tr><word>n
+служанка</word></ar><ar><origin>handpick</origin><tr>[ˏhændˊpɪk]</tr><word>v
+тщательно выбирать, подбирать</word></ar><ar><origin>handpicked</origin><tr>[ˏhændˊpɪkt]</tr><word>a
+1) выбранный, подобранный;
+handpicked jury специально подобранный состав присяжных
+2) разг. отборный
+3) тех. отсортированный вручную</word></ar><ar><origin>hands-off</origin><tr>[ˏhændzˊɒf]</tr><word>a
+1) основанный на невмешательстве в дела других стран;
+the hands-off policy политика невмешательства
+2) информ. не требующий управления через клавиатуру</word></ar><ar><origin>handwritten</origin><tr>[ˏhændˊrɪtn]</tr><word>a
+написанный от руки</word></ar><ar><origin>handyman</origin><tr>[ˊhændɪmæn]</tr><word>n
+1) на все руки мастер
+2) разг. матрос</word></ar><ar><origin>hang-up</origin><tr>[ˊhæŋʌp]</tr><word>n
+сл. эмоциональное расстройство, подавленность</word></ar><ar><origin>hangers-on</origin><tr>[ˏhæŋəzˊɒn]</tr><word>pl от hanger-on</word></ar><ar><origin>Hanoverian</origin><tr>[ˏhænəυˊvɪərɪən]</tr><word>a
+ист. ганноверский;
+Hanoverian House Ганноверская династия</word></ar><ar><origin>Hansard</origin><tr>[ˊhænsɑ:d]</tr><word>n
+официальный отчёт о заседаниях английского парламента</word></ar><ar><origin>hansom_cab</origin><tr>[ˊhænsǝm(kæb)]</tr><word>n
+двухколёсный экипаж (с местом для кучера)</word></ar><ar><origin>happy_event</origin><tr>[ˏhæpɪɪˊvent]</tr><word>n
+разг. рождение ребёнка; разрешение от бремени</word></ar><ar><origin>harakiri</origin><tr>[ˏhærəˊkɪrɪ]</tr><word>n
+харакири</word></ar><ar><origin>hard_coal</origin><tr>[ˊhɑ:dkəυl]</tr><word>n
+антрацит</word></ar><ar><origin>hard_copy</origin><tr>[ˏhɑ:dˊkɒpɪ]</tr><word>n
+информ. печатная копия</word></ar><ar><origin>hard_core</origin><tr>[ˏhɑ:dˊkɔ:]</tr><word>n
+разг.
+1) основная, центральная часть, ядро (партии, общества и т.п.)
+2) консервативное или реакционное меньшинство</word></ar><ar><origin>hard_disk</origin><tr>[ˏhɑ:dˊdɪsk]</tr><word>n
+информ. жёсткий диск</word></ar><ar><origin>hard_error</origin><tr>[ˏhɑ:dˊerə]</tr><word>n
+информ. постоянная ошибка</word></ar><ar><origin>hard_hat</origin><tr>[ˊhɑ:dhæt]</tr><word>n
+разг.
+1) каска (шахтёра и т.п.)
+2) реакционер</word></ar><ar><origin>hard_landing</origin><tr>[ˏhɑ:dˊlændɪŋ]</tr><word>n
+ав. аварийная посадка</word></ar><ar><origin>hard_rock</origin><tr>[ˏhɑ:dˊrɒk]</tr><word>n
+муз. хард-рок, тяжёлый рок</word></ar><ar><origin>hard_sell</origin><tr>[ˏhɑ:dˊsel]</tr><word>n
+усиленное рекламирование товаров; система навязывания товаров покупателю</word></ar><ar><origin>hard_up</origin><tr>[ˏhɑ:dˊʌp]</tr><word>a
+разг.
+1) сильно нуждающийся (в деньгах)
+2) в трудном положении;
+he was hard up for smth. to say он не знал, что сказать</word></ar><ar><origin>hard-bitten</origin><tr>[ˏhɑ:dˊbɪtn]</tr><word>a
+разг. стойкий, упорный; упрямый, настырный</word></ar><ar><origin>hard-core</origin><tr>[ˏhɑ:dˊkɔ:]</tr><word>a
+1) бескомпромиссный, твёрдый
+2) махровый, откровенный (о порнографии)
+3) относящийся к сильнодействующим наркотикам, вызывающим привыкание</word></ar><ar><origin>hard-set</origin><tr>[ˏhɑ:dˊset]</tr><word>a
+1) в трудном положении
+2) закреплённый неподвижно
+3) упрямый</word></ar><ar><origin>hardback</origin><tr>[ˊhɑ:dbæk]</tr><word>n
+книга в жёстком переплёте, в твёрдой обложке</word></ar><ar><origin>hardball</origin><tr>[ˊhɑ:dbɔ:l]</tr><word>n
+амер.
+1) = baseball
+2) бескомпромиссность, жёсткая линия (особ. в политике)</word></ar><ar><origin>hardboard</origin><tr>[ˊhɑ:dbɔ:d]</tr><word>n
+древесноволокнистая плита</word></ar><ar><origin>hardcover</origin><tr>[ˊhɑ:dkʌvə]</tr><word>= hardback</word></ar><ar><origin>hardfisted</origin><tr>[ˏhɑ:dˊfɪstɪd]</tr><word>a
+скупой, прижимистый</word></ar><ar><origin>hardhanded</origin><tr>[ˏhɑ:dˊhændɪd]</tr><word>a
+1) с загрубелыми, натруженными руками
+2) грубый; суровый; жестокий</word></ar><ar><origin>hardheaded</origin><tr>[ˏhɑ:dˊhedɪd]</tr><word>a
+1) практичный, трезвый
+2) искушённый; прожжённый
+3) упрямый</word></ar><ar><origin>hardmouthed</origin><tr>[ˏhɑ:dˊmaυðd]</tr><word>a
+1) тугоуздый (о лошади)
+2) неподатливый
+3) упрямый, своевольный</word></ar><ar><origin>hardpan</origin><tr>[ˊhɑ:dpæn]</tr><word>n
+геол. твёрдый подпочвенный пласт, орштейн</word></ar><ar><origin>hardstanding</origin><tr>[ˏhɑ:dˊstændɪŋ]</tr><word>n
+бетонированная площадка для стоянки автотранспорта</word></ar><ar><origin>hardwearing</origin><tr>[ˏhɑ:dˊweərɪŋ]</tr><word>a
+прочный, ноский; износостойкий</word></ar><ar><origin>hardworking</origin><tr>[ˏhɑ:dˊwɜ:kɪŋ]</tr><word>a
+трудолюбивый, прилежный</word></ar><ar><origin>harebrained</origin><tr>[ˊheəbreɪnd]</tr><word>a
+безрассудный, легкомысленный; бездумный; ≅ с куриными мозгами</word></ar><ar><origin>harken</origin><tr>[ˊhɑ:kǝn]</tr><word>= hearken</word></ar><ar><origin>Harley_Street</origin><tr>[ˊhɑ:lɪstri:t]</tr><word>n
+Харли-стрит (улица в Лондоне, где расположены кабинеты преуспевающих врачей); перен. врачи, медицинский мир</word></ar><ar><origin>Harrovian</origin><tr>[həˊrəυvɪən]</tr><word>n
+воспитанник колледжа в г. Харроу</word></ar><ar><origin>harvest_bug</origin><tr>[ˊhɑ:vɪstbʌg]</tr><word>n
+зоол. клещ</word></ar><ar><origin>harvest_home</origin><tr>[ˏhɑ:vɪstˊhəυm]</tr><word>n
+1) окончание уборки урожая
+2) праздник урожая</word></ar><ar><origin>harvest_mite</origin><tr>[ˊhɑ:vɪstmaɪt]</tr><word>= harvest bug</word></ar><ar><origin>harvest_moon</origin><tr>[ˏhɑ:vɪstˊmu:n]</tr><word>n
+полнолуние перед осенним равноденствием</word></ar><ar><origin>harvest_mouse</origin><tr>[ˊhɑ:vɪstmaυs]</tr><word>n
+полевая мышь</word></ar><ar><origin>has</origin><tr></tr><word>3-е л. ед. ч. настоящего времени гл. to have</word></ar><ar><origin>hash_house</origin><tr>[ˊhæʃhaυs]</tr><word>n
+амер. разг. дешёвый ресторан, забегаловка</word></ar><ar><origin>hash_mark</origin><tr>[ˊhæʃmɑ:k]</tr><word>n
+амер. воен. разг. нарукавная нашивка</word></ar><ar><origin>Hasid</origin><tr>[ˊhæsɪd]</tr><word>n (pl Hasidim)
+хасид</word></ar><ar><origin>Hasidim</origin><tr>[ˊhæsɪdɪm]</tr><word>pl от Hasid</word></ar><ar><origin>hasn_t</origin><tr></tr><word>сокр. разг. = has not</word></ar><ar><origin>hast</origin><tr></tr><word>уст. 2-е л. ед. ч. настоящего времени гл. to have</word></ar><ar><origin>hat_trick</origin><tr>[ˊhættrɪk]</tr><word>n
+1) взятие одним игроком трёх воротец тремя следующими один за другим мячами (в крикете)
+2) спорт. хет-трик (три гола, забитых одним игроком за одну игру)
+3) спорт. победа в трёх забегах и т.п. подряд</word></ar><ar><origin>hat-check_girl</origin><tr>[ˏhættʃekˊgɜ:l]</tr><word>n
+гардеробщица</word></ar><ar><origin>hatchet_face</origin><tr>[ˏhætʃɪtˊfeɪs]</tr><word>n
+продолговатое лицо с острыми чертами</word></ar><ar><origin>hatchet_job</origin><tr>[ˊhætʃɪtdʒɒb]</tr><word>n
+разг.
+1) наёмное убийство
+2) грязная работа (политического характера)</word></ar><ar><origin>hatchet_man</origin><tr>[ˊhætʃɪtmən]</tr><word>n
+разг. наёмный убийца</word></ar><ar><origin>hatstand</origin><tr>[ˊhætstænd]</tr><word>n
+вешалка для шляп</word></ar><ar><origin>haute_couture</origin><tr></tr><word>фр. n высокая мода</word></ar><ar><origin>Havana</origin><tr>[həˊvænə]</tr><word>n
+гаванская сигара</word></ar><ar><origin>haven_t</origin><tr></tr><word>сокр. разг. = have not</word></ar><ar><origin>hay_fever</origin><tr>[ˊheɪfi:və]</tr><word>n
+сенная лихорадка</word></ar><ar><origin>hay_spreader</origin><tr>[ˊheɪˏspredə]</tr><word>n
+с.-х. разбрасыватель валков сена</word></ar><ar><origin>hay_time</origin><tr>[ˊheɪtaɪm]</tr><word>n
+сенокос, сенокосная пора</word></ar><ar><origin>haying_time</origin><tr>[ˊheɪɪŋtaɪm]</tr><word>= hay time</word></ar><ar><origin>haymaking_time</origin><tr>[ˊheɪmeɪkɪŋˏtaɪm]</tr><word>= hay time</word></ar><ar><origin>hazel_hen</origin><tr>[ˊheɪzlhen]</tr><word>n
+рябчик</word></ar><ar><origin>hazelnut</origin><tr>[ˊheɪzlnʌt]</tr><word>n
+лесной орех, фундук (плод)</word></ar><ar><origin>he_d</origin><tr></tr><word>сокр. разг. = he had, he would</word></ar><ar><origin>he_ll</origin><tr></tr><word>сокр. разг. = he will</word></ar><ar><origin>he_s</origin><tr></tr><word>сокр. разг. = he is, he has</word></ar><ar><origin>he_a10</origin><tr></tr><word>в сложных словах означает самца; напр.:
+he-dog кобель;
+he-goat козёл</word></ar><ar><origin>head_sea</origin><tr>[ˊhedsi:]</tr><word>n
+встречная волна</word></ar><ar><origin>headcount</origin><tr>[ˊhedkaυnt]</tr><word>n
+1) подсчёт населения (при переписи и т.п.)
+2) число работающих (на предприятии и т.п.)</word></ar><ar><origin>headdress</origin><tr>[ˊheddres]</tr><word>n
+1) головной убор (особ. нарядный)
+2) причёска</word></ar><ar><origin>-headed</origin><tr></tr><word>в сложных словах означает: имеющий такую-то форму головы или столько-то голов; напр.:
+long-headed длинноголовый;
+round-headed круглоголовый</word></ar><ar><origin>headfirst</origin><tr>[ˏhedˊfɜ:st]</tr><word>adv
+1) головой вперёд
+2) опрометчиво, очертя голову</word></ar><ar><origin>headhunter</origin><tr>[ˊhedhʌntə]</tr><word>n
+1) охотник за головами
+2) человек, переманивающий квалифицированные кадры</word></ar><ar><origin>headhunting</origin><tr>[ˊhedhʌntɪŋ]</tr><word>n
+1) охота за головами
+2) переманивание квалифицированных кадров</word></ar><ar><origin>headliner</origin><tr>[ˊhedˏlaɪnə]</tr><word>n
+амер. популярный актёр, лектор и т.п. (имя которого на афишах пишется крупными буквами)</word></ar><ar><origin>headmaster</origin><tr>[ˏhedˊmɑ:stə]</tr><word>n
+директор школы</word></ar><ar><origin>headmistress</origin><tr>[ˏhedˊmɪstrəs]</tr><word>n
+директриса, заведующая школой</word></ar><ar><origin>headnote</origin><tr>[ˊhednəυt]</tr><word>n
+1) краткое введение, вступление
+2) юр. краткое изложение основных вопросов по решённому делу</word></ar><ar><origin>headwind</origin><tr>[ˊhedwɪnd]</tr><word>n
+ветер, дующий в лицо; встречный ветер</word></ar><ar><origin>headwork</origin><tr>[ˊhedwɜ:k]</tr><word>n
+1) умственная работа
+2) архит. изображение головы на замковом камне (свода и т.п.)
+3) горн. копёр</word></ar><ar><origin>health_care</origin><tr>[ˊhelθkeə]</tr><word>n
+здравоохранение</word></ar><ar><origin>health_club</origin><tr>[ˊhelθklʌb]</tr><word>n
+клуб здоровья</word></ar><ar><origin>health_food</origin><tr>[ˊhelθfu:d]</tr><word>n
+здоровая пища (приготовленная без химических добавок из продуктов, выращенных без удобрений)</word></ar><ar><origin>health_service</origin><tr>[ˊhelθˏsɜ:vɪs]</tr><word>n
+здравоохранение</word></ar><ar><origin>health_visitor</origin><tr>[ˊhelθvɪzɪtə]</tr><word>n
+патронажная сестра</word></ar><ar><origin>heard</origin><tr>[hɜ:d]</tr><word>past и p. p. от hear</word></ar><ar><origin>hearing_aid</origin><tr>[ˊhɪərɪŋeɪd]</tr><word>n
+слуховой аппарат</word></ar><ar><origin>heart_attack</origin><tr>[ˊhɑ:təˏtæk]</tr><word>n
+сердечный приступ</word></ar><ar><origin>heart_disease</origin><tr>[ˊhɑ:tdɪzi:z]</tr><word>n
+болезнь сердца</word></ar><ar><origin>heart_failure</origin><tr>[ˊhɑ:tfeɪljə]</tr><word>n
+мед.
+1) паралич сердца
+2) сердечная недостаточность, сердечная слабость</word></ar><ar><origin>heart-free</origin><tr>[ˊhɑ:tfri:]</tr><word>a
+ни в кого не влюблённый</word></ar><ar><origin>heart-searching</origin><tr>[ˊhɑ:tsɜ:tʃɪŋ]</tr><word>n
+глубокий самоанализ, беспристрастное исследование своих чувств</word></ar><ar><origin>heartbreak</origin><tr>[ˊhɑ:tbreɪk]</tr><word>n
+большое горе</word></ar><ar><origin>heartbreaking</origin><tr>[ˊhɑ:tbreɪkɪŋ]</tr><word>a
+надрывающий сердце; душераздирающий; вызывающий печаль</word></ar><ar><origin>heartbroken</origin><tr>[ˊhɑ:tbrəυkǝn]</tr><word>a
+убитый горем; с разбитым сердцем</word></ar><ar><origin>heartburning</origin><tr>[ˊhɑ:tˏbɜ:nɪŋ]</tr><word>n
+1) недовольство, досада
+2) тайная зависть, ревность</word></ar><ar><origin>hearthrug</origin><tr>[ˊhɑ:θrʌg]</tr><word>n
+коврик перед камином</word></ar><ar><origin>heartrending</origin><tr>[ˊhɑ:trendɪŋ]</tr><word>a
+душераздирающий; тяжёлый, горестный</word></ar><ar><origin>heartstrings</origin><tr>[ˊhɑ:tstrɪŋz]</tr><word>n pl
+глубокие чувства; тайники души;
+to play upon smb.'s heartstrings играть на чьих-л. чувствах;
+to pull at smb.'s heartstrings растрогать кого-л. до глубины души</word></ar><ar><origin>heartthrob</origin><tr>[ˊhɑ:tθrɒb]</tr><word>n
+1) сердцебиение
+2) разг. предмет обожания</word></ar><ar><origin>heat_capacity</origin><tr>[ˏhi:tkəˊpæsətɪ]</tr><word>n
+физ. теплоёмкость</word></ar><ar><origin>heat_engine</origin><tr>[ˊhi:tˏendʒɪn]</tr><word>n
+тепловой двигатель</word></ar><ar><origin>heat_treatment</origin><tr>[ˏhi:tˊtri:tmənt]</tr><word>n
+тех. термическая обработка</word></ar><ar><origin>heat_wave</origin><tr>[ˊhi:tweɪv]</tr><word>n
+1) физ. тепловая волна
+2) полоса, период сильной жары</word></ar><ar><origin>Heath_Robinson</origin><tr>[ˏhi:θˊrɒbɪnsǝn]</tr><word>a
+разг. нелепый по сложности (о машинах и устройствах — по имени известного английского карикатуриста)</word></ar><ar><origin>heating_plant</origin><tr>[ˏhi:tɪŋˊplɑ:nt]</tr><word>n
+отопительная установка</word></ar><ar><origin>heatstroke</origin><tr>[ˊhi:tstrəυk]</tr><word>n
+тепловой удар</word></ar><ar><origin>heaven-sent</origin><tr>[ˏhevnˊsent]</tr><word>a
+счастливый, благоприятный</word></ar><ar><origin>heavy_hydrogen</origin><tr>[ˏhevɪˊhaɪdrɪdʒǝn]</tr><word>n
+физ. дейтерий</word></ar><ar><origin>heavy_metal</origin><tr>[ˏhevɪˊmetl]</tr><word>n
+разг. хэви-метал, громкая, ритмичная рок-музыка</word></ar><ar><origin>heavy_water</origin><tr>[ˏhevɪˊwɔ:tə]</tr><word>n
+хим. тяжёлая вода</word></ar><ar><origin>heavyweight</origin><tr>[ˊhevɪweɪt]</tr><word>n
+1) спорт. тяжеловес
+2) разг. важная, влиятельная персона</word></ar><ar><origin>Hebe</origin><tr>[ˊhi:bɪ]</tr><word>n
+греч. миф. Геба</word></ar><ar><origin>Hebraic</origin><tr>[hɪˊbreɪɪk]</tr><word>a
+древнееврейский</word></ar><ar><origin>Hebrew</origin><tr></tr><word>1. n
+1) иудей, еврей
+2) древнееврейский язык
+3) иврит
+2. a
+1) (древне)еврейский, иудейский
+2) относящийся к ивриту</word></ar><ar><origin>Hecate</origin><tr>[ˊhekətɪ]</tr><word>n
+греч. миф. Геката</word></ar><ar><origin>hedge_hopping</origin><tr>[ˊhedʒhɒpɪŋ]</tr><word>n
+ав. разг. бреющий полёт</word></ar><ar><origin>hedge_sparrow</origin><tr>[ˊhedʒˏspærəυ]</tr><word>n
+завирушка (птица)</word></ar><ar><origin>hedgehop</origin><tr></tr><word>ав. разг.
+1. n бреющий полёт
+2. v летать на бреющем полёте</word></ar><ar><origin>hedgehopper</origin><tr>[ˊhedʒhɒpə]</tr><word>n
+ав. разг. штурмовик</word></ar><ar><origin>hedgerow</origin><tr>[ˊhedʒrəυ]</tr><word>n
+1) живая изгородь
+2) с.-х. полезащитная полоса</word></ar><ar><origin>heebie-jeebies</origin><tr>[ˏhɪbɪˊdʒi:bɪz]</tr><word>n pl
+разг. нервное возбуждение; приступ раздражения</word></ar><ar><origin>Hegelian</origin><tr></tr><word>1. a гегельянский
+2. n гегельянец</word></ar><ar><origin>helices</origin><tr>[ˊhelɪsi:z]</tr><word>pl от helix</word></ar><ar><origin>Helicon</origin><tr>[ˊhelɪkǝn]</tr><word>n
+1) греч. миф. Геликон, обитель муз
+2) (h.) геликон (духовой инструмент)</word></ar><ar><origin>helio</origin><tr></tr><word>в сложных словах гелио-; напр.:
+helioscope гелиоскоп</word></ar><ar><origin>heliogravure</origin><tr>[ˏhi:lɪəgrəˊvjυə]</tr><word>= heliograph 2)</word></ar><ar><origin>hellcat</origin><tr>[ˊhelkæt]</tr><word>n
+разг. ведьма, мегера</word></ar><ar><origin>Hellene</origin><tr>[ˊheli:n]</tr><word>n
+эллин, грек</word></ar><ar><origin>Hellenic</origin><tr></tr><word>1. a эллинский, греческий
+2. n
+1) греческий язык
+2) pl труды по греческой филологии</word></ar><ar><origin>Hellenism</origin><tr>[ˊhelɪnɪzǝm]</tr><word>n
+эллинизм</word></ar><ar><origin>Hellenist</origin><tr>[ˊhelɪnɪst]</tr><word>n
+эллинист</word></ar><ar><origin>hellhound</origin><tr>[ˊhelhaυnd]</tr><word>n
+1) цербер
+2) дьявол; изверг</word></ar><ar><origin>Helvetian</origin><tr></tr><word>1. a швейцарский
+2. n швейцарец; швейцарка</word></ar><ar><origin>Helvetic</origin><tr>[helˊvetɪk]</tr><word>a
+швейцарский</word></ar><ar><origin>hemolysis</origin><tr></tr><word>амер. = haemolysis</word></ar><ar><origin>hemstitch</origin><tr></tr><word>1. n ажурная строчка; мережка
+2. v делать ажурную строчку, мережку</word></ar><ar><origin>-hen</origin><tr></tr><word>в сложных словах означает самку птицы; напр.:
+peahen пава</word></ar><ar><origin>hen_harrier</origin><tr>[ˊhenˏhærɪə]</tr><word>n
+лунь (птица)</word></ar><ar><origin>hen_house</origin><tr>[ˊhenhaυs]</tr><word>n
+курятник</word></ar><ar><origin>henpeck</origin><tr>[ˊhenpek]</tr><word>v
+разг. держать мужа под башмаком</word></ar><ar><origin>Heptateuch</origin><tr>[ˊheptətju:k]</tr><word>n
+рел. первые семь книг Ветхого завета</word></ar><ar><origin>herbaria</origin><tr>[hɜ:ˊbeərɪə]</tr><word>pl от herbarium</word></ar><ar><origin>Herculean</origin><tr>[ˏhɜ:kjυˊli:ən]</tr><word>a
+1) геркулесов
+2) геркулесовский; исполинский
+3) очень трудный или опасный;
+Herculean task сложнейшая задача</word></ar><ar><origin>Hercules</origin><tr>[ˊhɜ:kjυli:z]</tr><word>n
+1) римск. миф. Геркулес
+2) геркулес, силач</word></ar><ar><origin>Hermes</origin><tr>[ˊhɜ:mi:z]</tr><word>n
+греч. миф. Гермес</word></ar><ar><origin>hermit_crab</origin><tr>[ˏhɜ:mɪtˊkræb]</tr><word>n
+рак-отшельник</word></ar><ar><origin>herniae</origin><tr>[ˊhɜ:nɪˏi:]</tr><word>pl от hernia</word></ar><ar><origin>hero_worship</origin><tr>[ˊhɪərəυwɜ:ʃɪp]</tr><word>n
+1) преклонение перед героями
+2) культ киноактёров, спортсменов и т.п.</word></ar><ar><origin>Herod</origin><tr>[ˊherəd]</tr><word>n
+библ. Ирод</word></ar><ar><origin>heroize</origin><tr>[ˊherəυˏaɪz]</tr><word>v
+1) героизировать, наделять героическими чертами
+2) изображать из себя героя</word></ar><ar><origin>herringbone</origin><tr></tr><word>1. n
+1) вышивка «ёлочкой»
+2) рисунок «в ёлочку» (на ткани)
+3) кладка кирпича «в ёлку»
+2. a имеющий вид колоса, шеврона; «в ёлочку»</word></ar><ar><origin>Hertzian</origin><tr>[ˊhɜ:tsɪən]</tr><word>a:
+Hertzian wave физ. электромагнитная волна</word></ar><ar><origin>Hesperian</origin><tr>[hesˊpɪərɪən]</tr><word>a
+поэт. западный</word></ar><ar><origin>Hesperus</origin><tr>[ˊhespǝrəs]</tr><word>n
+вечерняя звезда, особ. Венера</word></ar><ar><origin>Hessian</origin><tr></tr><word>1. a гессенский, из Гессена
+◊ Hessian boots ист. высокие сапоги; ботфорты
+2. n
+1) ист. гессенский наёмник
+2) амер. наёмник, продажный человек
+3) (h.) дерюга, мешочная ткань</word></ar><ar><origin>het_up</origin><tr>[ˏhetˊʌp]</tr><word>a
+разг. возбуждённый, в нервном состоянии;
+to get het up about smth. выйти из себя, вспылить</word></ar><ar><origin>hetero</origin><tr></tr><word>разг. = heterosexual</word></ar><ar><origin>heterosexuality</origin><tr>[ˏhetǝrəsekʃυˊælətɪ]</tr><word>n
+гетеросексуализм, половое влечение к лицам противоположного пола</word></ar><ar><origin>hewn</origin><tr>[hju:n]</tr><word>p. p. от hew</word></ar><ar><origin>hex</origin><tr></tr><word>амер.
+1. n
+1) заклинание; чары
+2) ведьма, колдунья, ворожея
+2. v
+1) колдовать, заниматься чёрной магией
+2) заколдовывать</word></ar><ar><origin>hi-tech</origin><tr>[ˏhaɪˊtek]</tr><word>= high tech</word></ar><ar><origin>Hibernian</origin><tr></tr><word>поэт.
+1. a ирландский
+2. n ирландец; ирландка</word></ar><ar><origin>hic</origin><tr>[hɪk]</tr><word>int
+ик!</word></ar><ar><origin>hid</origin><tr>[hɪd]</tr><word>past и p. p. от hide Ⅱ, 2</word></ar><ar><origin>hidden</origin><tr>[ˊhɪdn]</tr><word>p. p. от hide Ⅱ, 2</word></ar><ar><origin>hideaway</origin><tr>[ˊhaɪdəweɪ]</tr><word>= hideout</word></ar><ar><origin>hideout</origin><tr>[ˊhaɪdaυt]</tr><word>n
+разг. укрытие; убежище</word></ar><ar><origin>hiding_place</origin><tr>[ˊhaɪdɪŋpleɪs]</tr><word>n
+потаённое место; убежище; тайник</word></ar><ar><origin>hierarch</origin><tr>[ˊhaɪrɑ:k]</tr><word>n
+церк.
+1) иерарх
+2) архиепископ</word></ar><ar><origin>high_altar</origin><tr>[ˏhaɪˊɔ:ltə]</tr><word>n
+церк. главный престол</word></ar><ar><origin>high_chair</origin><tr>[ˏhaɪˊtʃeə]</tr><word>n
+высокий детский стульчик</word></ar><ar><origin>High_Church</origin><tr>[ˏhaɪˊtʃɜ:tʃ]</tr><word>n
+высокая церковь (направление в англиканской церкви, тяготеющее к католицизму; противоп. Low Church)</word></ar><ar><origin>High_Court</origin><tr>[ˏhaɪˊkɔ:t(əvˊdʒʌstɪs)]</tr><word>n
+Высокий суд правосудия (входит в состав Верховного суда в Англии)</word></ar><ar><origin>High_Court_of_Justice</origin><tr>[ˏhaɪˊkɔ:t(əvˊdʒʌstɪs)]</tr><word>n
+Высокий суд правосудия (входит в состав Верховного суда в Англии)</word></ar><ar><origin>high_day</origin><tr>[ˊhaɪdeɪ]</tr><word>n
+праздник, праздничный день</word></ar><ar><origin>high_explosive</origin><tr>[ˏhaɪɪkˊspləυsɪv]</tr><word>n
+1) бризантное взрывчатое вещество
+2) attr.:
+high explosive bomb фугасная бомба</word></ar><ar><origin>high_fashion</origin><tr>[ˏhaɪˊfæʃn]</tr><word>n
+высокая мода; дорогая модная одежда</word></ar><ar><origin>high_fidelity</origin><tr>[ˏhaɪfɪˊdelətɪ]</tr><word>n
+радио высокая точность воспроизведения звука</word></ar><ar><origin>high_frequency</origin><tr></tr><word>1. n эл. высокая частота
+2. a коротковолновый; высокочастотный</word></ar><ar><origin>high_grade</origin><tr>[ˊhaɪgreɪd]</tr><word>n
+1) высокое качество
+2) крутой подъём</word></ar><ar><origin>high_heels</origin><tr>[ˏhaɪˊhi:lz]</tr><word>n pl
+туфли на высоких каблуках</word></ar><ar><origin>high_jump</origin><tr>[ˊhaɪdʒʌmp]</tr><word>n
+1) спорт. прыжок в высоту
+2) разг. суровое наказание</word></ar><ar><origin>high_jumper</origin><tr>[ˊhaɪdʒʌmpə]</tr><word>n
+спорт. прыгун в высоту</word></ar><ar><origin>high_life</origin><tr>[ˊhaɪlaɪf]</tr><word>n
+жизнь в роскоши</word></ar><ar><origin>high_living</origin><tr>[ˊhaɪlɪvɪŋ]</tr><word>= high life</word></ar><ar><origin>high_priest</origin><tr>[ˏhaɪˊpri:st]</tr><word>n
+первосвященник</word></ar><ar><origin>high_profile</origin><tr>[ˏhaɪˊprəυfaɪl]</tr><word>n
+желание быть на виду, показать себя</word></ar><ar><origin>high_relief</origin><tr>[ˏhaɪrɪˊli:f]</tr><word>n
+горельеф</word></ar><ar><origin>high_rise</origin><tr>[ˊhaɪraɪz]</tr><word>n
+высотное или многоэтажное здание</word></ar><ar><origin>high_school</origin><tr>[ˏhaɪˊsku:l]</tr><word>n
+средняя школа</word></ar><ar><origin>high_sea</origin><tr>[ˏhaɪˊsi:(z)]</tr><word>n
+открытое море за пределами территориальных вод</word></ar><ar><origin>high_seas</origin><tr>[ˏhaɪˊsi:(z)]</tr><word>n
+открытое море за пределами территориальных вод</word></ar><ar><origin>high_speed</origin><tr>[ˏhaɪˊspi:d]</tr><word>n
+максимальная скорость, быстрый ход</word></ar><ar><origin>high_street</origin><tr>[ˊhaɪstri:t]</tr><word>n
+главная улица города</word></ar><ar><origin>high_tea</origin><tr>[ˏhaɪˊti:]</tr><word>n
+плотный ужин с чаем</word></ar><ar><origin>high_tech</origin><tr></tr><word>1. n современная технология
+2. a относящийся к современной технологии</word></ar><ar><origin>high_tide</origin><tr>[ˏhaɪˊtaɪd]</tr><word>n
+мор. полная вода; прилив</word></ar><ar><origin>high_treason</origin><tr>[ˏhaɪˊtri:zn]</tr><word>n
+государственная измена</word></ar><ar><origin>high_water</origin><tr>[ˏhaɪˊwɔ:tə]</tr><word>n
+1) = high tide
+2) паводок</word></ar><ar><origin>high-class</origin><tr>[ˏhaɪˊklɑ:s]</tr><word>a
+высокого класса; первоклассный</word></ar><ar><origin>high-flyer</origin><tr>[ˏhaɪˊfla(ɪ)ə]</tr><word>n
+1) честолюбец
+2) сторонник высокой церкви (см. High Church)</word></ar><ar><origin>high-pressure</origin><tr>[ˏhaɪˊpreʃə]</tr><word>a
+1) имеющий или использующий высокое давление
+2) метео имеющий высокое барометрическое давление
+3) оказывающий давление или нажим</word></ar><ar><origin>high-water_mark</origin><tr>[ˏhaɪˊwɔ:təmɑ:k]</tr><word>n
+1) уровень полной воды
+2) высшее достижение; высшая точка (чего-л.)</word></ar><ar><origin>highboard</origin><tr>[ˊhaɪbɔ:d]</tr><word>n
+спорт. вышка для прыжков в воду</word></ar><ar><origin>highboard_diver</origin><tr>[ˏhaɪbɔ:dˊdaɪvə]</tr><word>n
+спорт. прыгун с вышки</word></ar><ar><origin>highboard_diving</origin><tr>[ˏhaɪbɔ:dˊdaɪvɪŋ]</tr><word>n
+спорт. прыжки с вышки</word></ar><ar><origin>highborn</origin><tr>[ˊhaɪbɔ:n]</tr><word>a
+знатного происхождения</word></ar><ar><origin>highbred</origin><tr>[ˊhaɪbred]</tr><word>a
+1) породистый
+2) хорошо воспитанный</word></ar><ar><origin>higher_court</origin><tr>[ˏha(ɪ)əˊkɔ:t]</tr><word>n
+суд высшей инстанции</word></ar><ar><origin>highfalutin</origin><tr></tr><word>разг.
+1. n напыщенность
+2. a напыщенный</word></ar><ar><origin>highfaluting</origin><tr></tr><word>разг.
+1. n напыщенность
+2. a напыщенный</word></ar><ar><origin>Highlander</origin><tr>[ˊhaɪləndə]</tr><word>n
+1) горец
+2) шотландский горец
+3) солдат шотландского полка</word></ar><ar><origin>highroad</origin><tr>[ˊhaɪrəυd]</tr><word>n
+1) = highway 1) и 2);
+2) прямой, самый лёгкий путь;
+highroad to fame (to success) прямой путь к славе (к успеху)</word></ar><ar><origin>highspot</origin><tr>[ˊhaɪspɒt]</tr><word>n
+сл. важнейшая черта, знаменательное событие и т.п.</word></ar><ar><origin>hight</origin><tr>[haɪt]</tr><word>a
+уст., поэт., шутл. называемый, именуемый</word></ar><ar><origin>hightail</origin><tr>[ˊhaɪteɪl]</tr><word>v
+амер. разг. мчаться со всех ног, на высокой скорости</word></ar><ar><origin>Highway_Code</origin><tr>[ˏhaɪweɪˊkəυd]</tr><word>n
+правила дорожного движения (в Великобритании)</word></ar><ar><origin>Hilary</origin><tr>[ˊhɪlǝrɪ(tɜ:m)]</tr><word>n
+зимний триместр (в некоторых англ. университетах)</word></ar><ar><origin>Hilary_term</origin><tr>[ˊhɪlǝrɪ(tɜ:m)]</tr><word>n
+зимний триместр (в некоторых англ. университетах)</word></ar><ar><origin>hillbilly</origin><tr>[ˊhɪlbɪlɪ]</tr><word>n
+амер. разг.
+1) пренебр. житель горных районов западных и южных штатов, «деревенщина»
+2) attr. деревенский;
+hillbilly music народная музыка</word></ar><ar><origin>Hindi</origin><tr></tr><word>1. n язык хинди
+2. a относящийся к языку хинди</word></ar><ar><origin>Hindoo</origin><tr>[ˏhɪnˊdu:]</tr><word>= Hindu</word></ar><ar><origin>Hindu</origin><tr></tr><word>1. n индус
+2. a индусский</word></ar><ar><origin>Hinduism</origin><tr>[ˊhɪndυɪzǝm]</tr><word>n
+индуизм</word></ar><ar><origin>Hindustani</origin><tr></tr><word>1. n язык хиндустани
+2. a индийский, относящийся к Индии</word></ar><ar><origin>hip_bath</origin><tr>[ˊhɪpbɑ:θ]</tr><word>n
+сидячая ванна</word></ar><ar><origin>hip_roof</origin><tr>[ˊhɪpru:f]</tr><word>n
+шатровая крыша, вальмовая крыша</word></ar><ar><origin>hipbone</origin><tr>[ˊhɪpbəυn]</tr><word>n
+анат. тазовая кость</word></ar><ar><origin>hippocampi</origin><tr>[ˏhɪpəˊkæmpaɪ]</tr><word>pl от hippocampus</word></ar><ar><origin>hippopotami</origin><tr>[ˏhɪpəˊpɒtəmaɪ]</tr><word>pl от hippopotamus</word></ar><ar><origin>hire_purchase</origin><tr>[ˏha(ɪ)əˊpɜ:tʃəs]</tr><word>n
+покупка в рассрочку</word></ar><ar><origin>hire_system</origin><tr>[ˏha(ɪ)əˊsɪstəm]</tr><word>= hire purchase</word></ar><ar><origin>hired</origin><tr>[ˊha(ɪ)əd]</tr><word>a
+1) наёмный;
+hired girl амер. работница на ферме; прислуга, домашняя работница
+2) взятый напрокат</word></ar><ar><origin>Hispanic</origin><tr>[hɪˊspænɪk]</tr><word>a
+1) испанский
+2) португальский
+3) латиноамериканский</word></ar><ar><origin>histamine</origin><tr>[ˊhɪstəmi:n]</tr><word>n
+мед. гистамин</word></ar><ar><origin>hit_or_miss</origin><tr>[ˏhɪtɔ:ˊmɪs]</tr><word>adv
+наугад; кое-как</word></ar><ar><origin>hit_parade</origin><tr>[ˊhɪtpəˏreɪd]</tr><word>n
+разг. хит-парад, список самых популярных пластинок или песен</word></ar><ar><origin>hit-and-miss</origin><tr>[ˏhɪtnˊmɪs]</tr><word>= hit-or-miss</word></ar><ar><origin>hitchhike</origin><tr>[ˊhɪtʃhaɪk]</tr><word>v
+путешествовать бесплатно на попутных машинах</word></ar><ar><origin>hitchhiker</origin><tr>[ˊhɪtʃhaɪkə]</tr><word>n
+тот, кто путешествует «автостопом»</word></ar><ar><origin>Hitlerism</origin><tr>[ˊhɪtlərɪzǝm]</tr><word>n
+гитлеризм</word></ar><ar><origin>Hitlerite</origin><tr>[ˊhɪtləraɪt]</tr><word>n
+гитлеровец, фашист</word></ar><ar><origin>hoarding</origin><tr>[ˊhɔ:dɪŋ]</tr><word>pres. p. от hoard Ⅰ, 2
+Ⅱ
+hoarding [ˊhɔ:dɪŋ] n
+1) щит для наклейки объявлений и афиш
+2) временный забор вокруг строящегося здания</word></ar><ar><origin>hobbit</origin><tr>[ˊhɒbɪt]</tr><word>n
+хоббит (сказочное существо в произведениях Дж. Толкиена)</word></ar><ar><origin>hobble_skirt</origin><tr>[ˊhɒblskɜ:t]</tr><word>n
+узкая юбка</word></ar><ar><origin>hobbyhorse</origin><tr>[ˊhɒbɪhɔ:s]</tr><word>n
+1) лошадка, палочка с лошадиной головой (игрушка); конь-качалка; конь на карусели
+2) любимое занятие, конёк; излюбленная тема (разговора)</word></ar><ar><origin>hobnob</origin><tr>[ˊhɒbnɒb]</tr><word>v
+1) пить вместе, водить компанию
+2) водить дружбу, якшаться</word></ar><ar><origin>Hobson_s_choice</origin><tr>[ˏhɒbsnzˊtʃɔɪs]</tr><word>n
+выбор без выбора, отсутствие выбора, принудительный ассортимент</word></ar><ar><origin>Hodge</origin><tr>[hɒdʒ]</tr><word>n (употр. нарицательно)
+батрак; деревенщина</word></ar><ar><origin>hodgepodge</origin><tr>[ˊhɒdʒpɒdʒ]</tr><word>= hotchpotch</word></ar><ar><origin>hoecake</origin><tr>[ˊhəυkeɪk]</tr><word>n
+амер. кукурузная лепёшка</word></ar><ar><origin>hog_cholera</origin><tr>[ˏhɒgˊkɒlǝrə]</tr><word>n
+амер. чума свиней</word></ar><ar><origin>hog_s_back</origin><tr>[ˊhɒgzbæk]</tr><word>= hogback</word></ar><ar><origin>Hogmanay</origin><tr>[ˊhɒgməneɪ]</tr><word>n
+шотл.
+1) канун Нового года; новогоднее празднество
+2) новогодний подарок</word></ar><ar><origin>hogwash</origin><tr>[ˊhɒgwɒʃ]</tr><word>n
+1) разг. ерунда, вздор; пустая болтовня; чушь, бред собачий (в газете)
+2) пойло для свиней; помои</word></ar><ar><origin>hokey</origin><tr>[ˊhəυkɪ]</tr><word>a
+амер. сл. сентиментальный; фальшивый, неискренний</word></ar><ar><origin>hold-up_man</origin><tr>[ˏhəυldʌpˊmæn]</tr><word>n
+разбойник, бандит</word></ar><ar><origin>-holder</origin><tr></tr><word>в сложных словах означает держатель; напр.:
+cigarette-holder мундштук</word></ar><ar><origin>holding_capacity</origin><tr>[ˏhəυldɪŋkəˊpæsətɪ]</tr><word>n
+ёмкость, вместимость</word></ar><ar><origin>holding_company</origin><tr>[ˏhəυldɪŋˊkʌmpənɪ]</tr><word>n
+компания, владеющая контрольными пакетами акций других компаний; компания-держатель; компания-учредитель</word></ar><ar><origin>holdover</origin><tr>[ˊhəυldˏəυvə]</tr><word>n
+амер.
+1) пережиток
+2) должностное лицо, переизбранное на новый срок; актёр, с которым продлён контракт и т.п.
+3) амер. сенатор, переизбранный на новый срок</word></ar><ar><origin>hole-in-the-wall</origin><tr>[ˏhəυlɪnðəˊwɔ:l]</tr><word>n
+разг.
+1) лавчонка
+2) подпольная винная лавка
+3) банкомат</word></ar><ar><origin>holidaymaker</origin><tr>[ˊhɒlɪdɪˏmeɪkə]</tr><word>n
+1) гуляющий; отдыхающий
+2) экскурсант; турист; отпускник</word></ar><ar><origin>Hollander</origin><tr>[ˊhɒləndə]</tr><word>n
+1) голландец; голландка
+2) голландский корабль</word></ar><ar><origin>Hollands</origin><tr>[ˊhɒləndz]</tr><word>n
+голландский джин, голландская водка</word></ar><ar><origin>hollowware</origin><tr>[ˊhɒləυweə]</tr><word>n
+глубокая посуда из фарфора, чугуна и т.п. (котелки, миски, кувшины и т.п.)</word></ar><ar><origin>Hollywood</origin><tr>[ˊhɒlɪwυd]</tr><word>n
+Голливуд, американская кинопромышленность</word></ar><ar><origin>holm_oak</origin><tr>[ˊhəυməυk]</tr><word>= holm Ⅰ</word></ar><ar><origin>Holy_Ghost</origin><tr>[ˏhəυlɪˊgəυst]</tr><word>= Holy Spirit</word></ar><ar><origin>Holy_Land</origin><tr>[ˏhəυlɪˊlænd]</tr><word>n
+священная земля</word></ar><ar><origin>Holy_Office</origin><tr>[ˊhəυlɪˏɒfɪs]</tr><word>n
+ист. святая палата (официальное название инквизиции)</word></ar><ar><origin>holy_order</origin><tr>[ˏhəυlɪˊɔ:də]</tr><word>n
+1) ранг в церковной иерархии
+2) pl церемония посвящения в ранг церковной иерархии</word></ar><ar><origin>Holy_Spirit</origin><tr>[ˏhəυlɪˊspɪrɪt]</tr><word>n
+святой дух</word></ar><ar><origin>Homburg</origin><tr>[ˊhɒmbɜ:g]</tr><word>n
+хомбург (мужская фетровая шляпа)</word></ar><ar><origin>home_brew</origin><tr>[ˏhəυmˊbru:]</tr><word>n
+1) домашнее пиво
+2) нечто примитивное</word></ar><ar><origin>Home_Counties</origin><tr>[ˏhəυmˊkaυntɪz]</tr><word>n pl
+графства, окружающие Лондон</word></ar><ar><origin>home_farm</origin><tr>[ˊhəυmfɑ:m]</tr><word>n
+ферма при усадьбе</word></ar><ar><origin>home_front</origin><tr>[ˏhəυmˊfrʌnt]</tr><word>n
+1) работа в тылу
+2) работающие в тылу</word></ar><ar><origin>Home_Guard</origin><tr>[ˏhəυmˊgɑ:d]</tr><word>n
+ист.
+1) отряды местной обороны, ополчение (в Англии)
+2) ополченец (в Англии)</word></ar><ar><origin>home_help</origin><tr>[ˏhəυmˊhelp]</tr><word>n
+помощница по хозяйству, обыкн. социальный работник, обслуживающий больных и пожилых людей</word></ar><ar><origin>home_page</origin><tr>[ˊhəυmpeɪdʒ]</tr><word>n
+информ. домашняя страница (в Интернете)</word></ar><ar><origin>home_rule</origin><tr>[ˏhəυmˊru:l]</tr><word>n
+1) самоуправление, автономия
+2) (H. R.) ист. гомруль</word></ar><ar><origin>home_straight</origin><tr>[ˏhəυmˊstreɪt]</tr><word>n
+1) финишная прямая (на ипподроме и т.п.)
+2) заключительная часть (чего-л.)</word></ar><ar><origin>home_stretch</origin><tr></tr><word>амер. = home straight</word></ar><ar><origin>home_team</origin><tr>[ˊhəυmti:m]</tr><word>n
+спорт. команда хозяев поля</word></ar><ar><origin>home_thrust</origin><tr>[ˏhəυmˊθrʌst]</tr><word>n
+1) удачный удар
+2) едкое замечание; удачный ответ</word></ar><ar><origin>home_truth</origin><tr>[ˏhəυmˊtru:θ]</tr><word>n
+неприятная правда о себе</word></ar><ar><origin>homebody</origin><tr>[ˊhəυmbɒdɪ]</tr><word>n
+домосед; домоседка</word></ar><ar><origin>homebred</origin><tr>[ˏhəυmˊbred]</tr><word>a
+1) доморощенный
+2) простой, без лоска</word></ar><ar><origin>homecoming</origin><tr>[ˊhəυmkʌmɪŋ]</tr><word>n
+1) возвращение домой, на родину
+2) амер. ежегодная встреча выпускников (университета, колледжа)</word></ar><ar><origin>homegrown</origin><tr>[ˏhəυmˊgrəυn]</tr><word>a
+1) отечественного производства, местный
+2) доморощенный</word></ar><ar><origin>homemade</origin><tr>[ˏhəυmˊmeɪd]</tr><word>a
+1) домашнего изготовления, кустарный; самодельный
+2) отечественного производства</word></ar><ar><origin>Homeric</origin><tr>[həυˊmerɪk]</tr><word>a
+1) гомеровский
+2) гомерический</word></ar><ar><origin>homework</origin><tr>[ˊhəυmwɜ:k]</tr><word>n
+1) домашняя работа, домашнее задание
+2) тщательная подготовка (к выступлению, собранию и т.п.)
+3) надомная работа</word></ar><ar><origin>homing_pigeon</origin><tr>[ˊhəυmɪŋpɪdʒǝn]</tr><word>n
+почтовый голубь</word></ar><ar><origin>hominid</origin><tr>[ˊhɒmənɪd]</tr><word>n
+зоол. человек (в системе животного мира), гоминид</word></ar><ar><origin>hominoid</origin><tr>[ˊhɒmənɔɪd]</tr><word>a
+зоол. человекообразный</word></ar><ar><origin>homo</origin><tr>[ˊhəυməυ]</tr><word>n (pl -os [-əυz])
+разг. гомик, гомосексуалист</word></ar><ar><origin>homuncule</origin><tr>[hɒˊmʌŋkjυl]</tr><word>= homunculus</word></ar><ar><origin>homunculi</origin><tr>[hɒˊmʌŋkυlaɪ]</tr><word>pl от homunculus</word></ar><ar><origin>homunculus</origin><tr>[hɒˊmʌŋkjυləs]</tr><word>n (pl -li)
+человечек, карлик, лилипут</word></ar><ar><origin>honcho</origin><tr>[ˊhɒntʃəυ]</tr><word>n (pl -os [-əυz])
+амер. разг. начальник, шеф, босс</word></ar><ar><origin>Honduran</origin><tr></tr><word>1. a гондурасский
+2. n гондурасец</word></ar><ar><origin>honey_buzzard</origin><tr>[ˊhʌnɪˏbʌzəd]</tr><word>n
+осоед (птица)</word></ar><ar><origin>honeybee</origin><tr>[ˊhʌnɪbi:]</tr><word>n
+(рабочая) пчела</word></ar><ar><origin>honeydew</origin><tr>[ˊhʌnɪdju:]</tr><word>n
+1) с.-х. медвяная роса
+2) поэт. нектар
+3) соусированный табак
+4) амер. мускатная дыня</word></ar><ar><origin>honky</origin><tr>[ˊhɒŋkɪ]</tr><word>n
+амер. сл. презр. белый (обыкн. употр. чёрными)</word></ar><ar><origin>honoraria</origin><tr>[ˏɒnəˊreərɪə]</tr><word>pl от honorarium</word></ar><ar><origin>hook_and_eye</origin><tr>[ˏhυkəndˊaɪ]</tr><word>n
+крючок (застёжка)</word></ar><ar><origin>hookup</origin><tr></tr><word>1. n
+1) соединение, сцепление
+2) разг. установление отношений; контакт, связи
+3) тех. лабораторная схема, монтажная схема
+4) радио разг. одновременная передача одной программы по нескольким станциям;
+to speak over the (radio) hookup выступать одновременно по двум или более радиостанциям
+2. v радио разг. временно переключать две или более радиостанции на одну программу</word></ar><ar><origin>hookworm</origin><tr>[ˊhυkwɜ:m]</tr><word>n
+нематода (глист)</word></ar><ar><origin>hoopla</origin><tr>[ˊhu:plə]</tr><word>n
+1) игра «кольца» (набрасывание колец на разыгрываемые предметы)
+2) сл. суматоха, суета
+3) сл. бред, чепуха</word></ar><ar><origin>hooves</origin><tr>[hu:vz]</tr><word>pl от hoof 1</word></ar><ar><origin>hop-o_-my-thumb</origin><tr>[ˏhɒpəmɪˊθʌm]</tr><word>n
+карлик; мальчик с пальчик</word></ar><ar><origin>hope_chest</origin><tr>[ˊhəυptʃest]</tr><word>n
+амер. сундук с приданым</word></ar><ar><origin>hopefully</origin><tr>[ˊhəυpfǝlɪ]</tr><word>adv
+с надеждой;
+hopefully it won't rain надеюсь, дождя не будет</word></ar><ar><origin>hophead</origin><tr>[ˊhɒphed]</tr><word>n
+сл.
+1) амер. наркоман
+2) австрал. пьяница</word></ar><ar><origin>hopping</origin><tr>[ˊhɒpɪŋ]</tr><word>a
+1) скачущий
+2) мечущийся
+3) взбешённый;
+hopping mad разг. вне себя от ярости</word></ar><ar><origin>hors_d_oeuvre</origin><tr>[ˏɔ:ˊdɜ:v]</tr><word>n
+закуска</word></ar><ar><origin>hors_de_combat</origin><tr></tr><word>фр. a predic. вышедший из строя (в результате ранения и т.п.)</word></ar><ar><origin>horse_breeder</origin><tr>[ˊhɔ:sˏbri:də]</tr><word>n
+коннозаводчик; коневод</word></ar><ar><origin>horse_breeding</origin><tr>[ˊhɔ:sˏbri:dɪŋ]</tr><word>n
+коневодство</word></ar><ar><origin>horse_chestnut</origin><tr>[ˏhɔ:sˊtʃesnʌt]</tr><word>n
+конский каштан (дерево и плод)</word></ar><ar><origin>horse_coper</origin><tr>[ˊhɔ:sˏkəυpə]</tr><word>= horse dealer</word></ar><ar><origin>horse_dealer</origin><tr>[ˊhɔ:sˏdi:lə]</tr><word>n
+торговец лошадьми, барышник</word></ar><ar><origin>Horse_Guards</origin><tr>[ˊhɔ:sgɑ:dz]</tr><word>n pl
+1) Королевская конная гвардия; Конногвардейский полк
+2) ист. штаб командира Конногвардейского полка (в Лондоне)</word></ar><ar><origin>horse_latitudes</origin><tr>[ˏhɔ:sˊlætɪtju:dz]</tr><word>n pl
+мор. «конские широты» (широты 30—35° — штилевая полоса северного и южного полушарий во всех океанах)</word></ar><ar><origin>horse_mackerel</origin><tr>[ˊhɔ:sˏmækrǝl]</tr><word>n
+ставрида</word></ar><ar><origin>horse_sense</origin><tr>[ˊhɔ:ssens]</tr><word>n
+разг. грубоватый здравый смысл</word></ar><ar><origin>horsebean</origin><tr>[ˊhɔ:sbi:n]</tr><word>n
+бот. конский боб</word></ar><ar><origin>horsebox</origin><tr>[ˊhɔ:sbɒks]</tr><word>n
+1) вагон для лошадей
+2) клеть для погрузки лошадей на корабль</word></ar><ar><origin>horsebreaker</origin><tr>[ˊhɔ:sˏbreɪkə]</tr><word>n
+объездчик лошадей</word></ar><ar><origin>horsecloth</origin><tr>[ˊhɔ:sklɒθ]</tr><word>n
+попона</word></ar><ar><origin>horsefly</origin><tr>[ˊhɔ:sflaɪ]</tr><word>n
+слепень</word></ar><ar><origin>horselaugh</origin><tr>[ˊhɔ:slɑ:f]</tr><word>n
+громкий, грубый хохот, гогот, ржание</word></ar><ar><origin>horseradish</origin><tr>[ˊhɔ:srædɪʃ]</tr><word>n
+хрен</word></ar><ar><origin>horsetail</origin><tr>[ˊhɔ:steɪl]</tr><word>n
+1) хвост лошади
+2) женская причёска «конский хвост»
+3) бот. хвощ (лесной)
+4) ист. бунчук</word></ar><ar><origin>hosanna</origin><tr></tr><word>библ.
+1. n осанна, слава
+2. int осанна!, слава!</word></ar><ar><origin>hosepipe</origin><tr>[ˊhəυzpaɪp]</tr><word>n
+шланг, рукав</word></ar><ar><origin>hospital_ship</origin><tr>[ˊhɒspɪtlʃɪp]</tr><word>n
+госпитальное судно, плавучий госпиталь</word></ar><ar><origin>hospital_train</origin><tr>[ˊhɒspɪtltreɪn]</tr><word>n
+санитарный поезд</word></ar><ar><origin>hot_air</origin><tr>[ˏhɒtˊeə]</tr><word>n
+разг. пустая болтовня; бахвальство</word></ar><ar><origin>hot_dog</origin><tr>[ˊhɒtdɒg]</tr><word>n
+разг. хот дог, бутерброд с горячей сосиской</word></ar><ar><origin>hot_line</origin><tr>[ˊhɒtlaɪn]</tr><word>n
+прямая телефонная связь между главами правительств, «горячая линия»</word></ar><ar><origin>hot_rod</origin><tr>[ˊhɒtrɒd]</tr><word>n
+1) (старый) автомобиль с форсированным двигателем
+2) водитель-лихач</word></ar><ar><origin>hot_well</origin><tr>[ˊhɒtˏwel]</tr><word>n
+1) горячий источник
+2) тех. резервуар горячей воды</word></ar><ar><origin>hot-water_bottle</origin><tr>[ˏhɒtˊwɔ:təbɒtl]</tr><word>n
+грелка</word></ar><ar><origin>hotheaded</origin><tr>[ˏhɒtˊhedɪd]</tr><word>a
+горячий; вспыльчивый; опрометчивый</word></ar><ar><origin>hotplate</origin><tr>[ˊhɒtpleɪt]</tr><word>n
+1) электрическая или газовая плитка
+2) плита кухонного очага</word></ar><ar><origin>hotpot</origin><tr>[ˊhɒtpɒt]</tr><word>n
+тушёное мясо с овощами</word></ar><ar><origin>Hottentot</origin><tr>[ˊhɒtntɒt]</tr><word>n
+готтентот</word></ar><ar><origin>hotti</origin><tr></tr><word>разг. = hot-water bottle</word></ar><ar><origin>hotty</origin><tr></tr><word>разг. = hot-water bottle</word></ar><ar><origin>hour_hand</origin><tr>[ˊaυəhænd]</tr><word>n
+часовая стрелка</word></ar><ar><origin>hourglass</origin><tr>[ˊaυəglɑ:s]</tr><word>n
+песочные часы (рассчитанные на один час)</word></ar><ar><origin>houri</origin><tr>[ˊhυərɪ]</tr><word>n
+гурия, дева рая (в исламе и восточной мифологии)</word></ar><ar><origin>house_arrest</origin><tr>[ˊhaυsərest]</tr><word>n
+домашний арест;
+under house arrest под домашним арестом</word></ar><ar><origin>house_flag</origin><tr>[ˊhaυsflæg]</tr><word>n
+флаг пароходства</word></ar><ar><origin>house_party</origin><tr>[ˊhaυspɑ:tɪ]</tr><word>n
+компания гостей, проводящая несколько дней в загородном доме</word></ar><ar><origin>house_physician</origin><tr>[ˊhaυsfɪˏzɪʃn]</tr><word>n
+врач, живущий при больнице</word></ar><ar><origin>house_sparrow</origin><tr>[ˊhaυsspærəυ]</tr><word>n
+воробей (обыкновенный)</word></ar><ar><origin>house_surgeon</origin><tr>[ˊhaυsˏsɜ:dʒǝn]</tr><word>n
+старший хирург, живущий при больнице</word></ar><ar><origin>house-trained</origin><tr>[ˊhaυstreɪnd]</tr><word>a
+1) приученный не пачкать в доме (о животном)
+2) разг. благовоспитанный</word></ar><ar><origin>housebound</origin><tr>[ˊhaυsbaυnd]</tr><word>a
+привязанный к дому, не имеющий возможности уйти из дома (из-за болезни и т.п.)</word></ar><ar><origin>houseboy</origin><tr>[ˊhaυsbɔɪ]</tr><word>n
+мальчик, слуга</word></ar><ar><origin>housebreak</origin><tr>[ˊhaυsbreɪk]</tr><word>v
+совершать кражу со взломом</word></ar><ar><origin>housebreaking</origin><tr>[ˊhaυsˏbreɪkɪŋ]</tr><word>n
+грабёж со взломом</word></ar><ar><origin>housefly</origin><tr>[ˊhaυsflaɪ]</tr><word>n
+комнатная муха</word></ar><ar><origin>household_troops</origin><tr>[ˏhaυshəυldˊtru:ps]</tr><word>n
+королевская гвардия, королевские войска</word></ar><ar><origin>houseplant</origin><tr>[ˊhaυspla:nt]</tr><word>n
+комнатное растение</word></ar><ar><origin>houseroom</origin><tr>[ˊhaυsru:m]</tr><word>n
+жилая площадь; квартира; жильё;
+to give houseroom to smth. найти место (в доме) для чего-л.;
+to give houseroom to smb. приютить кого-л.</word></ar><ar><origin>housetop</origin><tr>[ˊhaυstɒp]</tr><word>n
+крыша
+◊ to proclaim from the housetops
+а) библ. провозглашать на кровлях;
+б) провозглашать во всеуслышание</word></ar><ar><origin>housetrain</origin><tr>[ˊhaυstreɪn]</tr><word>v
+1) приучать животных не пачкать в доме
+2) разг. воспитывать человека</word></ar><ar><origin>housewarm</origin><tr>[ˊhaυswɔ:m]</tr><word>v
+праздновать новоселье</word></ar><ar><origin>housewarming</origin><tr>[ˊhaυsˏwɔ:mɪŋ]</tr><word>n
+празднование новоселья</word></ar><ar><origin>housewives</origin><tr>[ˊhaυswaɪvz]</tr><word>pl от housewife</word></ar><ar><origin>hove</origin><tr>[həυv]</tr><word>past и p. p. от heave 2</word></ar><ar><origin>how-d_ye-do</origin><tr>[ˏhaυdɪˊdu:]</tr><word>= how-do-you-do</word></ar><ar><origin>hue_and_cry</origin><tr>[ˏhju:ənˊkraɪ]</tr><word>n
+1) погоня; крики «лови!, держи!»; выкрики (against)
+2) ист. объявление о розыске и поимке преступника</word></ar><ar><origin>Huguenot</origin><tr>[ˊhju:gənəυ]</tr><word>n
+ист. гугенот</word></ar><ar><origin>humanoid</origin><tr>[ˊhju:mənɔɪd]</tr><word>a
+1. человекоподобный
+2. n гуманоид</word></ar><ar><origin>humble_pie</origin><tr>[ˏhʌmblˊpaɪ]</tr><word>n
+обида, унижение</word></ar><ar><origin>humbly</origin><tr>[ˊhʌmblɪ]</tr><word>adv
+1) скромно, смиренно; застенчиво, робко
+2) скромно, бедно</word></ar><ar><origin>humectant</origin><tr>[hju:ˊmektənt]</tr><word>n
+увлажнитель, увлажняющее вещество</word></ar><ar><origin>humeri</origin><tr>[ˊhju:məraɪ]</tr><word>pl от humerus</word></ar><ar><origin>humerus</origin><tr>[ˊhju:mǝrəs]</tr><word>n (pl -ri)
+анат. плечевая кость</word></ar><ar><origin>humming_top</origin><tr>[ˊhʌmɪŋtɒp]</tr><word>n
+волчок (игрушка)</word></ar><ar><origin>hummingbird</origin><tr>[ˊhʌmɪŋbɜ:d]</tr><word>n
+зоол. колибри</word></ar><ar><origin>humoresque</origin><tr>[ˏhju:məˊresk]</tr><word>n
+муз. юмореска</word></ar><ar><origin>Hun</origin><tr>[hʌn]</tr><word>n
+1) ист. гунн
+2) презр. немец
+3) варвар, вандал</word></ar><ar><origin>hung</origin><tr>[hʌŋ]</tr><word>past и p. p. от hang 2</word></ar><ar><origin>Hungarian</origin><tr></tr><word>1. a венгерский
+2. n
+1) венгр; венгерка
+2) венгерский язык</word></ar><ar><origin>hunger_march</origin><tr>[ˊhʌŋgəmɑ:tʃ]</tr><word>n
+голодный поход</word></ar><ar><origin>hunger_marcher</origin><tr>[ˊhʌŋgəmɑ:tʃə]</tr><word>n
+участник голодного похода</word></ar><ar><origin>hunger_strike</origin><tr>[ˊhʌŋgəstraɪk]</tr><word>n
+(тюремная) голодовка</word></ar><ar><origin>hungover</origin><tr>[ˏhʌŋgˊəυvə]</tr><word>a
+разг. страдающий с перепоя, с похмелья</word></ar><ar><origin>hunt_the_slipper</origin><tr>[ˏhʌntðəˊslɪpə]</tr><word>n
+туфля по кругу (игра)</word></ar><ar><origin>hunter_s_moon</origin><tr>[ˊhʌntəzmu:n]</tr><word>n
+полнолуние после осеннего равноденствия</word></ar><ar><origin>hunting_box</origin><tr>[ˊhʌntɪŋbɒks]</tr><word>n
+охотничий домик</word></ar><ar><origin>hunting_ground</origin><tr>[ˊhʌntɪŋgraυnd]</tr><word>n
+охотничье угодье
+◊ happy hunting ground(s)
+а) рай, счастливая загробная жизнь (первоначально в представлении американских индейцев);
+б) место, изобилующее дичью; ≅ рай для охотников</word></ar><ar><origin>hunting_horn</origin><tr>[ˊhʌntɪŋhɔ:n]</tr><word>n
+охотничий рог</word></ar><ar><origin>hunting_season</origin><tr>[ˊhʌntɪŋˏsi:zn]</tr><word>n
+охотничий сезон</word></ar><ar><origin>hunting_whip</origin><tr>[ˊhʌntɪŋwɪp]</tr><word>= hunting-crop</word></ar><ar><origin>hurling</origin><tr>[ˊhɜ:lɪŋ]</tr><word>n
+1) ирландский хоккей на траве
+2) клюшка для ирландского хоккея на траве</word></ar><ar><origin>hurricane_lamp</origin><tr>[ˊhʌrɪkǝnlæmp]</tr><word>n
+фонарь «молния»</word></ar><ar><origin>hush_money</origin><tr>[ˊhʌʃmʌnɪ]</tr><word>n
+взятка за молчание</word></ar><ar><origin>Hussite</origin><tr>[ˊhʌsaɪt]</tr><word>n
+ист. гусит</word></ar><ar><origin>Hyde_Park</origin><tr>[ˏhaɪdˊpɑ:k]</tr><word>n
+Гайд-Парк (парк в Лондоне)</word></ar><ar><origin>hydrocephalus</origin><tr>[ˏhaɪdrəˊsefələs]</tr><word>n
+мед. гидроцефалия, водянка головного мозга</word></ar><ar><origin>hydrochloric_acid</origin><tr>[ˏhaɪdrəklɒrɪk-ˊæsɪd]</tr><word>n
+хим. соляная кислота</word></ar><ar><origin>hydrogen_bomb</origin><tr>[ˊhaɪdrədʒǝnbɒm]</tr><word>= H-bomb</word></ar><ar><origin>hydrotherapy</origin><tr>[ˏhaɪdrəˊθerəpɪ]</tr><word>n
+гидротерапия, водолечение</word></ar><ar><origin>Hymen</origin><tr>[ˊhaɪmen]</tr><word>n
+миф. Гименей</word></ar><ar><origin>hymnbook</origin><tr>[ˊhɪmbυk]</tr><word>= hymnal 1</word></ar><ar><origin>hyped_up</origin><tr>[ˏhaɪptˊʌp]</tr><word>a
+разг. возбуждённый, взволнованный</word></ar><ar><origin>hyperactivity</origin><tr>[ˏhaɪpərækˊtɪvətɪ]</tr><word>n
+чрезмерная активность</word></ar><ar><origin>hyperbolae</origin><tr>[haɪˊpɜ:bəli:]</tr><word>pl от hyperbola</word></ar><ar><origin>hypermetric</origin><tr>[ˏhaɪpəˊmetrɪk(l)]</tr><word>a
+имеющий лишний слог (о стихе)</word></ar><ar><origin>hyperon</origin><tr>[ˊhaɪpəˏrɒn]</tr><word>n
+физ. гиперон</word></ar><ar><origin>hyperphysical</origin><tr>[ˏhaɪpəˊfɪzɪkl]</tr><word>n
+книжн. сверхъестественный</word></ar><ar><origin>hyperthermia</origin><tr>[ˏhaɪpəˊθɜ:mɪə]</tr><word>n
+мед. высокая температура, сильная лихорадка</word></ar><ar><origin>hypnoses</origin><tr>[hɪpˊnəυsi:z]</tr><word>pl от hypnosis</word></ar><ar><origin>hypotension</origin><tr>[ˏhaɪpəˊtenʃn]</tr><word>n
+гипотония, пониженное кровяное давление</word></ar><ar><origin>hypotheses</origin><tr>[haɪˊpɒθəsi:z]</tr><word>pl от hypothesis</word></ar><ar><origin>hysteric</origin><tr>[hɪˊsterɪk]</tr><word>= hysterical</word></ar>

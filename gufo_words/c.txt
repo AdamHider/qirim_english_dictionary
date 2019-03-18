@@ -1,0 +1,1229 @@
+<ar><origin>C</origin><tr>[si:]</tr><word>n (pl Cs, C's [si:z])
+1) 3-я буква англ. алфавита
+2) муз. до
+3) амер. сто долларов</word></ar><ar><origin>ca_canny</origin><tr></tr><word>см. canny</word></ar><ar><origin>Caaba</origin><tr></tr><word>араб. n кааба</word></ar><ar><origin>cab_rank</origin><tr>[ˊkæbræŋk]</tr><word>= cabstand</word></ar><ar><origin>caba</origin><tr>[ˊkæbɑ:]</tr><word>n
+амер.
+1) рабочая корзинка
+2) сумочка</word></ar><ar><origin>cabbage_butterfly</origin><tr>[ˏkæbɪdʒˊbʌtəflaɪ]</tr><word>n
+зоол. капустница</word></ar><ar><origin>cabin_boy</origin><tr>[ˊkæbɪnbɔɪ]</tr><word>n
+юнга</word></ar><ar><origin>cabin_crew</origin><tr>[ˊkæbɪnˏkru:]</tr><word>n
+бортпроводники</word></ar><ar><origin>cabin_cruiser</origin><tr>[ˊkæbɪnˏkru:zə]</tr><word>n
+пассажирский катер</word></ar><ar><origin>cabinet_minister</origin><tr>[ˊkæbɪnətˏmɪnɪstə]</tr><word>n
+член кабинета министров</word></ar><ar><origin>cabinetmaker</origin><tr>[ˊkæbɪnətˏmeɪkə]</tr><word>n
+1) столяр-краснодеревщик
+2) шутл. премьер-министр (формирующий новое правительство)</word></ar><ar><origin>cabinetwork</origin><tr>[ˊkæbɪnətwɜ:k]</tr><word>n
+тонкая столярная работа</word></ar><ar><origin>cable_television</origin><tr>[ˏkeɪblˊtelɪvɪʒn]</tr><word>n
+кабельное телевидение</word></ar><ar><origin>cable-cast</origin><tr>[ˊkeɪblkɑ:st]</tr><word>v
+транслировать по кабельному телевидению</word></ar><ar><origin>cabochon</origin><tr>[ˊkæbəʃɒn]</tr><word>n
+кабошон</word></ar><ar><origin>cacao_tree</origin><tr>[kəˊkaυtri:]</tr><word>= cacao 1)</word></ar><ar><origin>cacti</origin><tr>[ˊkæktaɪ]</tr><word>pl от cactus</word></ar><ar><origin>caddis_fly</origin><tr>[ˊkædɪsflaɪ]</tr><word>n
+веснянка, майская муха</word></ar><ar><origin>cadet_teacher</origin><tr>[kəˏdetˊti:tʃə]</tr><word>n
+1) учитель-практикант, младший учитель
+2) внештатный учитель средней школы</word></ar><ar><origin>caeca</origin><tr>[ˊsi:kə]</tr><word>pl от caecum</word></ar><ar><origin>Caesar</origin><tr>[ˊsi:zə]</tr><word>n
+1) ист. Цезарь
+2) самодержец; кесарь
+◊ render to Caesar the things that are Caesar's кесарю кесарево</word></ar><ar><origin>Caesarean</origin><tr>[sɪˊzeərɪən]</tr><word>a
+самодержавный, автократический; кесарев</word></ar><ar><origin>Caesarian</origin><tr>[sɪˊzeərɪən]</tr><word>a
+самодержавный, автократический; кесарев</word></ar><ar><origin>Caesarian_section</origin><tr>[sɪˏzeərɪənˊsekʃən]</tr><word>n
+мед. кесарево сечение</word></ar><ar><origin>caf%C3%A9</origin><tr>[ˊkæfeɪ]</tr><word>n
+1) кафе
+2) амер. бар</word></ar><ar><origin>cahoots</origin><tr>[kəˊhu:ts]</tr><word>n pl
+разг. соучастие, сообщничество;
+to be in cahoots with smb быть в сговоре с кем-л.;
+to go cahoots делить поровну расходы и доходы</word></ar><ar><origin>Cain</origin><tr>[keɪn]</tr><word>n
+1) библ. Каин
+2) братоубийца, предатель
+◊ to raise Cain поднять шум, устроить скандал</word></ar><ar><origin>caisson_disease</origin><tr>[ˊkeɪsǝndɪˊzi:z]</tr><word>n
+кессонная болезнь</word></ar><ar><origin>cake_ice</origin><tr>[ˊkeɪkaɪs]</tr><word>n
+сало (на реке)</word></ar><ar><origin>caked</origin><tr>[keɪkt]</tr><word>a
+отвердевший, затвердевший;
+caked with облепленный чем-л.</word></ar><ar><origin>cakewalk</origin><tr>[ˊkeɪkwɔ:k]</tr><word>n
+1) кекуок (танец)
+2) разг. что-л. лёгкое; ≅ пара пустяков</word></ar><ar><origin>caking_coal</origin><tr>[ˊkeɪkɪŋkəυl]</tr><word>n
+горн. спекающийся уголь</word></ar><ar><origin>calces</origin><tr>[ˊkælsi:z]</tr><word>pl от calx</word></ar><ar><origin>calculi</origin><tr>[ˊkælkjυlaɪ]</tr><word>pl от calculus Ⅰ</word></ar><ar><origin>Caledonia</origin><tr>[ˏkælɪˊdəυnɪə]</tr><word>n
+поэт. Шотландия</word></ar><ar><origin>Caledonian</origin><tr></tr><word>поэт.
+1. a шотландский
+2. n шотландец; шотландка</word></ar><ar><origin>calendar_year</origin><tr>[ˊkælɪndɑˏjɪɑ]</tr><word>n
+календарный год</word></ar><ar><origin>calf_love</origin><tr>[ˊkɑ:flʌv]</tr><word>n
+детская любовь; юношеское увлечение</word></ar><ar><origin>calf_s_teeth</origin><tr>[ˊkɑ:fzti:θ]</tr><word>n pl
+молочные зубы</word></ar><ar><origin>Caliban</origin><tr>[ˊkæləbæn]</tr><word>n
+калибан; грубый, злобный человек (по имени персонажа «Бури» Шекспира)</word></ar><ar><origin>calico_printer</origin><tr>[ˊkælɪkəυˏprɪntə]</tr><word>n
+набойщик (в текст. промышленности)</word></ar><ar><origin>calico_printing</origin><tr>[ˊkælɪkəυˏprɪntɪŋ]</tr><word>n
+ситценабивное дело</word></ar><ar><origin>call_box</origin><tr>[ˊkɔ:lbɒks]</tr><word>n
+телефонная будка</word></ar><ar><origin>call_down</origin><tr>[ˊkɔ:ldaυn]</tr><word>n
+упрёк, замечание, выговор</word></ar><ar><origin>call_girl</origin><tr>[ˊkɔ:lgɜ:l]</tr><word>n
+проститутка, вызываемая по телефону</word></ar><ar><origin>call_house</origin><tr>[ˊkɔ:lhaυs]</tr><word>n
+амер. эвф. публичный дом</word></ar><ar><origin>call_slot</origin><tr>[ˊkɔ:lslɒt]</tr><word>n
+щель, в которую вставляют ключ для вызова лифта</word></ar><ar><origin>call-in</origin><tr>[ˊkɔ:lɪn]</tr><word>n
+амер. теле- или радиопрограмма, во время которой слушатели могут звонить в студию</word></ar><ar><origin>call-over</origin><tr>[ˊkɔ:lˏəυvə]</tr><word>n
+перекличка</word></ar><ar><origin>callback</origin><tr>[ˊkɔ:lbæk]</tr><word>n
+принятие изготовителем недоброкачественной продукции с целью устранения дефекта</word></ar><ar><origin>callboy</origin><tr>[ˊkɔ:lbɔɪ]</tr><word>n
+1) театр. мальчик, приглашающий актёра на сцену
+2) мальчик-рассыльный; коридорный (в гостинице и т.п.)</word></ar><ar><origin>calling_card</origin><tr>[ˊkɔ:lɪŋˏkɑ:d]</tr><word>n
+визитная карточка</word></ar><ar><origin>callipers</origin><tr>[ˊkælɪpəz]</tr><word>n pl
+1) кронциркуль; штангенциркуль;
+inside callipers нутромер
+2) калибр</word></ar><ar><origin>calloused</origin><tr>[ˊkæləst]</tr><word>a
+мозолистый, в мозолях</word></ar><ar><origin>Calvados</origin><tr>[ˊkælvədɒs]</tr><word>n
+кальвадос, яблочная водка</word></ar><ar><origin>Calvary</origin><tr>[ˊkælvǝrɪ]</tr><word>n
+1) библ. Голгофа
+2) (c.) изображение распятия</word></ar><ar><origin>calves</origin><tr>[kɑ:vz]</tr><word>pl от calf Ⅰ и calf Ⅱ</word></ar><ar><origin>Calvinism</origin><tr>[ˊkælvəˏnɪzǝm]</tr><word>n
+кальвинизм</word></ar><ar><origin>calyces</origin><tr>[ˊkeɪlɪsi:z]</tr><word>pl от calyx</word></ar><ar><origin>Cambria</origin><tr>[ˊkæmbrɪə]</tr><word>n
+поэт. Уэльс</word></ar><ar><origin>Cambrian</origin><tr></tr><word>1. a
+1) поэт. уэльский
+2) геол. кембрийский
+2. n уроженец Уэльса</word></ar><ar><origin>Camembert</origin><tr>[ˊkæməmbeə]</tr><word>n
+камамбер (сорт сыра)</word></ar><ar><origin>cameraman</origin><tr>[ˊkæmrəmæn]</tr><word>n
+1) кинооператор
+2) фотограф, фоторепортёр</word></ar><ar><origin>camp_bed</origin><tr>[ˏkæmpˊbed]</tr><word>n
+походная или складная кровать</word></ar><ar><origin>camp_chair</origin><tr>[ˏkæmpˊtʃeə]</tr><word>n
+лёгкий складной стул</word></ar><ar><origin>camp_cot</origin><tr>[ˏkæmpˊkɒt]</tr><word>n
+раскладушка</word></ar><ar><origin>camp_fever</origin><tr>[ˊkæmpˏfi:və]</tr><word>n
+тиф</word></ar><ar><origin>camp_fire</origin><tr>[ˊkæmpˏfa(ɪ)ə]</tr><word>n
+бивачный костёр</word></ar><ar><origin>camp_follower</origin><tr>[ˊkæmpˏfɒləυə]</tr><word>n
+1) гражданское лицо, сопровождающее армию
+2) примазавшийся, подпевала</word></ar><ar><origin>camphor_balls</origin><tr>[ˊkæmfəbɔ:lz]</tr><word>n
+нафталин</word></ar><ar><origin>can_opener</origin><tr>[ˊkænˏəυpǝnə]</tr><word>n
+консервный нож</word></ar><ar><origin>can_t</origin><tr></tr><word>сокр. разг. = cannot</word></ar><ar><origin>Canaan</origin><tr>[ˊkeɪnən]</tr><word>n
+библ. Ханаан, земля обетованная</word></ar><ar><origin>Canadian</origin><tr></tr><word>1. a канадский
+2. n канадец; канадка</word></ar><ar><origin>canap%C3%A9</origin><tr>[ˊkænəpɪ]</tr><word>n
+канапе</word></ar><ar><origin>candelabra</origin><tr>[ˏkændəˊlɑ:brə]</tr><word>pl от candelabrum</word></ar><ar><origin>candleholder</origin><tr>[ˊkændlhəυldə]</tr><word>= candlestick</word></ar><ar><origin>candlepower</origin><tr>[ˊkændlˏpaυə]</tr><word>n
+эл. сила света (в свечах);
+a burner of 25 candlepower лампочка в 25 свечей</word></ar><ar><origin>candlewick</origin><tr>[ˊkændlwɪk]</tr><word>n
+фитиль</word></ar><ar><origin>candyman</origin><tr>[ˊkændɪmən]</tr><word>n
+сл. торговец наркотиками</word></ar><ar><origin>cane_chair</origin><tr>[ˊkeɪntʃeə]</tr><word>n
+плетёное кресло из камыша</word></ar><ar><origin>cane_sugar</origin><tr>[ˊkeɪnˏʃυgə]</tr><word>n
+тростниковый сахар, сахароза</word></ar><ar><origin>canebrake</origin><tr>[ˊkeɪnbreɪk]</tr><word>n
+заросли (сахарного) тростника</word></ar><ar><origin>canister_shot</origin><tr>[ˊkænɪstəʃɒt]</tr><word>n
+картечь</word></ar><ar><origin>cankerworm</origin><tr>[ˊkæŋkəwɜ:m]</tr><word>n
+зоол. плодовый червь</word></ar><ar><origin>cannabis</origin><tr>[ˊkænəbɪs]</tr><word>n
+1) конопля
+2) экстракт из конопли (сырьё для наркотиков)</word></ar><ar><origin>canned_laughter</origin><tr>[ˏkændˊlɑ:ftə]</tr><word>n
+смех в записи</word></ar><ar><origin>cannon_bone</origin><tr>[ˊkænənbəυn]</tr><word>n
+берцовая кость (у копытных)</word></ar><ar><origin>cannon_fodder</origin><tr>[ˊkænənˏfɒdə]</tr><word>n
+пушечное мясо</word></ar><ar><origin>cannonball</origin><tr>[ˊkænənbɔ:l]</tr><word>n
+пушечное ядро</word></ar><ar><origin>canon_law</origin><tr>[ˏkænənˊl:ɔ]</tr><word>n
+церк. каноническое, церковное право</word></ar><ar><origin>Cantab</origin><tr></tr><word>сокр. от Cantabrigian 2</word></ar><ar><origin>Cantabrigian</origin><tr></tr><word>1. a кембриджский
+2. n студент (тж. бывший) Кембриджского университета</word></ar><ar><origin>Canuck</origin><tr>[kəˊnʌk]</tr><word>n
+разг. канадец (особ. французского происхождения)</word></ar><ar><origin>cap-band</origin><tr>[ˊkæpbənd]</tr><word>n
+околыш</word></ar><ar><origin>cap-%C3%A0-pie</origin><tr>[ˏkæpəˊpi:]</tr><word>adv
+с головы до ног;
+armed cap-à-pie вооружённый до зубов</word></ar><ar><origin>capercaillie</origin><tr>[ˏkæpəˊkeɪlɪ, ˏkæpəˊkeɪlzɪ]</tr><word>n
+глухарь</word></ar><ar><origin>capital_flight</origin><tr>[ˊkæpɪtlflaɪt]</tr><word>n
+бегство капитала (вывоз капитала за границу)</word></ar><ar><origin>capital_investment</origin><tr>[ˊkæpɪtlɪnˏvestmənt]</tr><word>n
+капиталовложение</word></ar><ar><origin>Capitol</origin><tr>[ˊkæpɪtl]</tr><word>n
+1) др.-рим. Капитолий
+2) здание конгресса США; здание, в котором помещаются органы государственной власти какого-л. штата</word></ar><ar><origin>capper</origin><tr>[ˊkæpə]</tr><word>n
+1) подставное лицо (на аукционе)
+2) амер. сл. конец, «крышка»</word></ar><ar><origin>cappucino</origin><tr>[ˊkəpυˊtʃɪ:nəυ]</tr><word>n (pl -os [-əʋs])
+кофе «капуччино» (со взбитыми сливками)</word></ar><ar><origin>Capricorn</origin><tr>[ˊkæprɪkɔ:n]</tr><word>n
+Козерог (созвездие и знак зодиака);
+tropic of Capricorn тропик Козерога</word></ar><ar><origin>capstone</origin><tr>[ˊkæpstəυn]</tr><word>n
+1) стр. замковый камень
+2) кульминационный пункт</word></ar><ar><origin>captive_balloon</origin><tr>[ˊkæptɪvbəˏlu:n]</tr><word>n
+привязной аэростат</word></ar><ar><origin>Capuchin</origin><tr>[ˊkæpjυtʃɪn]</tr><word>n
+1) капуцин (монах)
+2) уст. плащ с капюшоном
+3) (c.) капуцин (обезьяна)</word></ar><ar><origin>car_coat</origin><tr>[ˊkɑ:kəυt]</tr><word>n
+полупальто</word></ar><ar><origin>car_hire</origin><tr>[ˊkɑ:ˏhaɪə]</tr><word>n
+прокат автомобилей</word></ar><ar><origin>car_park</origin><tr>[ˊkɑ:pɑ:k]</tr><word>n
+автостоянка</word></ar><ar><origin>car_wash</origin><tr>[ˊkɑ:wɒʃ]</tr><word>n
+мойка (автомобилей)</word></ar><ar><origin>car-pool</origin><tr>[ˊkɑ:pu:l]</tr><word>n
+автобаза предприятия, учреждения</word></ar><ar><origin>car-port</origin><tr>[ˊkɑ:pɔ:t]</tr><word>n
+навес для автомобиля (около дома)</word></ar><ar><origin>carb</origin><tr></tr><word>разг. = carburettor</word></ar><ar><origin>carbohydrate</origin><tr>[ˏkɑ:bəυˊhaɪdreɪt]</tr><word>n
+хим. углевод</word></ar><ar><origin>carbon_copy</origin><tr>[ˊkɑ:bənˏkɒpɪ]</tr><word>n
+1) копия, полученная через копирку
+2) разг. точная копия (чего-л., кого-л.)</word></ar><ar><origin>carbon_monoxide</origin><tr>[ˊkɑ:bənməˏnɒksaɪd]</tr><word>n
+угарный газ</word></ar><ar><origin>carbon_paper</origin><tr>[ˊkɑ:bənˏpeɪpə]</tr><word>n
+копировальная бумага, копирка</word></ar><ar><origin>carbonated</origin><tr>[ˊkɑ:bəneɪtɪd]</tr><word>a
+газированный</word></ar><ar><origin>carbs</origin><tr>[kɑ:bz]</tr><word>n
+разг. продукты, содержащие карбогидраты (рис, хлеб, картофель)</word></ar><ar><origin>card_index</origin><tr>[ˊkɑ:dˊɪndeks]</tr><word>n
+картотека</word></ar><ar><origin>cardiac_arrest</origin><tr>[ˏkɑ:dɪækəˊrest]</tr><word>n
+мед сердечный приступ</word></ar><ar><origin>cardiogram</origin><tr>[ˊkɑ:dɪəʋgræm]</tr><word>n
+кардиограмма</word></ar><ar><origin>cardmember</origin><tr>[ˊkɑ:dmembə]</tr><word>n
+владелец кредитной карточки</word></ar><ar><origin>cardsharp</origin><tr>[ˊkɑ:dʃɑ:p]</tr><word>n
+шулер (тж. cardsharper)</word></ar><ar><origin>cardy</origin><tr></tr><word>разг. = cardigan</word></ar><ar><origin>care_label</origin><tr>[ˊkeəleɪbl]</tr><word>n
+ярлык с инструкцией по уходу (за одеждой и т.п.)</word></ar><ar><origin>career_woman</origin><tr>[kəˊrɪəwυmən]</tr><word>n
+деловая женщина</word></ar><ar><origin>carelessly</origin><tr>[ˊkeəlɪslɪ]</tr><word>adv
+1) невнимательно
+2) беззаботно; беспечно</word></ar><ar><origin>caretaker</origin><tr>[ˊkeəˏteɪkə]</tr><word>n
+1) лицо, присматривающее за домом, квартирой и т.п.
+2) смотритель (здания)
+3) attr.:
+caretaker government правительство, временно руководящее страной до новых выборов</word></ar><ar><origin>careworker</origin><tr>[ˊkeəˏwɔ:kə]</tr><word>n
+лицо, ухаживающее за живущими в доме престарелых</word></ar><ar><origin>careworn</origin><tr>[ˊkeəwɔ:n]</tr><word>a
+измученный заботами</word></ar><ar><origin>carjack</origin><tr>[ˊkɑ:dʒæk]</tr><word>n
+домкрат</word></ar><ar><origin>carload</origin><tr>[ˊkɑ:ləυd]</tr><word>n
+партия груза на один вагон</word></ar><ar><origin>Carmagnole</origin><tr></tr><word>фр. n карманьола</word></ar><ar><origin>Carmelite</origin><tr>[ˊkɑ:məlaɪt]</tr><word>n
+кармелит (монах)</word></ar><ar><origin>Caroline</origin><tr>[ˊkærəlaɪn]</tr><word>a
+1) каролингский
+2) относящийся к эпохе Карла Ⅰ или Карла Ⅱ в Англии</word></ar><ar><origin>carpet_bombing</origin><tr>[ˊkɑ:pɪtˏbɔmɪŋ]</tr><word>n
+воен. бомбометание с высокой плотностью (с целью поразить как можно больше объектов)</word></ar><ar><origin>carpetbag</origin><tr>[ˊkɑ:pɪtbæg]</tr><word>n
+саквояж (первоначально ковровый)
+◊ carpetbag government амер. сл. правительство политических проходимцев</word></ar><ar><origin>carpetbagger</origin><tr>[ˊkɑ:pɪtˏbægə]</tr><word>n
+1) амер. ист. «саквояжник», северянин, добившийся влияния и богатства на юге (после войны 1861—65 гг.)
+2) политический авантюрист
+3) политический деятель (в Англии), не связанный происхождением или местожительством со своим избирательным округом</word></ar><ar><origin>carpi</origin><tr>[ˊkɑ:paɪ]</tr><word>pl от carpus</word></ar><ar><origin>carriage_dog</origin><tr>[ˊkærɪdʒdɒg]</tr><word>n
+далматский пятнистый дог</word></ar><ar><origin>carriage-outwards</origin><tr>[ˏkærɪdʒˊaυtwədz]</tr><word>n
+сумма от продавца на покрытие расходов по доставке</word></ar><ar><origin>carriageway</origin><tr>[ˊkærɪdʒweɪ]</tr><word>n
+проезжая часть дороги</word></ar><ar><origin>carrier_bag</origin><tr>[ˊkærɪəbæg]</tr><word>n
+пластиковый или бумажный пакет с ручками</word></ar><ar><origin>carrier_pigeon</origin><tr>[ˏkærɪəˊpɪdʒǝn]</tr><word>n
+почтовый голубь</word></ar><ar><origin>carrier_rocket</origin><tr>[ˊkærɪəˏrɒkɪt]</tr><word>n
+ракета-носитель</word></ar><ar><origin>carrion_crow</origin><tr>[ˏkærɪənˊkrəυ]</tr><word>n
+чёрная ворона</word></ar><ar><origin>carrot_and_stick</origin><tr>[ˏkærətənstɪk]</tr><word>n:
+carrot and stick policy политика кнута и пряника</word></ar><ar><origin>carrying_capacity</origin><tr>[ˏkærɪɪŋkəˊpæsətɪ]</tr><word>n
+1) пропускная способность
+2) грузоподъёмность</word></ar><ar><origin>carrying_trade</origin><tr>[ˏkærɪɪŋˊtreɪd]</tr><word>n
+перевозка товаров водным, воздушным путём, фрахтовое дело</word></ar><ar><origin>carryon</origin><tr>[ˊkærɪɒn]</tr><word>n
+ручная кладь</word></ar><ar><origin>carte_blanche</origin><tr></tr><word>фр. n карт-бланш;
+to give carte blanche предоставить (или дать) полную свободу действий</word></ar><ar><origin>Cartesian</origin><tr></tr><word>1. a картезианский, декартовский
+2. n последователь Декарта</word></ar><ar><origin>Carthaginian</origin><tr></tr><word>1. a карфагенский; пунический
+2. n карфагенянин</word></ar><ar><origin>carthorse</origin><tr>[ˊkɑ:thɔ:s]</tr><word>n
+ломовая лошадь</word></ar><ar><origin>Carthusian</origin><tr>[kɑ:ˊθju:zɪən]</tr><word>n
+картезианец (монах)</word></ar><ar><origin>cartload</origin><tr>[ˊkɑ:tləυd]</tr><word>= cartful</word></ar><ar><origin>cartridge_belt</origin><tr>[ˊkɑ:trɪdʒbelt]</tr><word>n
+1) патронташ
+2) патронная лента</word></ar><ar><origin>cartridge_box</origin><tr>[ˊkɑ:trɪdzbɒks]</tr><word>n
+патронный ящик</word></ar><ar><origin>cartridge_case</origin><tr>[ˊkɑ:trɪdʒkeɪs]</tr><word>n
+патронная гильза</word></ar><ar><origin>cartridge_clip</origin><tr>[ˊkɑ:trɪdʒklɪp]</tr><word>n
+патронная обойма</word></ar><ar><origin>cartridge_paper</origin><tr>[ˊkɑ:trɪdʒˏpeɪpə]</tr><word>n
+плотная бумага (для рисования)</word></ar><ar><origin>cartwheel</origin><tr>[ˊkɑ:twi:l]</tr><word>n
+1.
+1) колесо телеги
+2) спорт. «колесо»;
+to turn (или to throw) cartwheels выполнять «колесо»
+3) ав. переворот через крыло
+4) сл. большая монета (крона, серебряный доллар и т.п.)
+2. катиться кубарем (напр. со склона)</word></ar><ar><origin>cartwright</origin><tr>[ˊkɑ:traɪt]</tr><word>n
+экипажный мастер, каретник</word></ar><ar><origin>carve-up</origin><tr>[ˊkɑ:vʌp]</tr><word>n
+сл. делёж (награбленного добра)</word></ar><ar><origin>carven</origin><tr></tr><word>поэт. и ритор. p. p. от carve</word></ar><ar><origin>carving_chisel</origin><tr>[ˊkɑ:vɪŋˏtʃɪzl]</tr><word>n
+долбёжная стамеска</word></ar><ar><origin>carving_knife</origin><tr>[ˊkɑ:vɪŋnaɪf]</tr><word>= carver 2)</word></ar><ar><origin>case_history</origin><tr>[ˏkeɪsˊhɪstərɪ]</tr><word>n
+мед. история болезни</word></ar><ar><origin>case_knife</origin><tr>[ˊkeɪsnaɪf]</tr><word>n
+нож в футляре</word></ar><ar><origin>case_law</origin><tr>[ˊkeɪslɔ:]</tr><word>n
+юр. прецедентное право</word></ar><ar><origin>case_shot</origin><tr>[ˊkeɪsʃɒt]</tr><word>n
+картечь</word></ar><ar><origin>case_study</origin><tr>[ˊkeɪsˏstʌdɪ]</tr><word>n
+конкретное социологическое исследование</word></ar><ar><origin>case_work</origin><tr>[ˊkeɪswɜ:k]</tr><word>n
+изучение проблем и нужд лиц, нуждающихся в социальной поддержке</word></ar><ar><origin>cash_and_carry</origin><tr>[ˏkæʃənˊkərɪ]</tr><word>n
+большой мелкооптовый магазин (где идёт продажа за наличный расчёт)</word></ar><ar><origin>cash_book</origin><tr>[ˊkæʃbυk]</tr><word>n
+кассовая книга</word></ar><ar><origin>cash_card</origin><tr>[ˊkæʃkɑ:d]</tr><word>n
+пластиковая карточка (для получения денег из автомата)</word></ar><ar><origin>cash_crop</origin><tr>[ˊkæʃkrɒp]</tr><word>n
+с.-х. [сельскохозяйственная] товарная культура (на продажу)</word></ar><ar><origin>cash_dispenser</origin><tr>[ˏkæʃdɪˊspensə]</tr><word>n
+кассир-автомат (выдающий наличные при опускании пластиковой карточки; см. cash card)</word></ar><ar><origin>cash_flow</origin><tr>[ˊkæʃfləu]</tr><word>n
+фин. движение денежной наличности</word></ar><ar><origin>cash_register</origin><tr>[ˊkæʃˏredʒɪstə]</tr><word>n
+кассовый аппарат</word></ar><ar><origin>cassette_player</origin><tr>[kəˊsetˏpleɪə]</tr><word>n
+кассетный плейер</word></ar><ar><origin>cassette_recorder</origin><tr>[kəˊsetrɪˏkɔ:də]</tr><word>n
+кассетный магнитофон (портативный)</word></ar><ar><origin>cast_iron</origin><tr>[ˏkɑ:stˊa(ɪ)ən]</tr><word>n
+чугун</word></ar><ar><origin>caster_sugar</origin><tr>[ˊkɑ:stəˏʃu:gə]</tr><word>n
+сахарная пудра</word></ar><ar><origin>casting_voice</origin><tr>[ˏkɑ:stɪŋˊvɔɪs]</tr><word>= casting vote</word></ar><ar><origin>casting_vote</origin><tr>[ˏkɑ:stɪŋˊvəυt]</tr><word>n
+голос, дающий перевес, решающий голос председателя при равенстве голосов</word></ar><ar><origin>castor_oil</origin><tr>[ˏkɑ:stərˊɔɪl]</tr><word>a
+касторовое масло</word></ar><ar><origin>castor_sugar</origin><tr>[ˊkɑ:stəˏʃυgə]</tr><word>= caster sugar</word></ar><ar><origin>casually</origin><tr>[ˊkæʒuəlɪ]</tr><word>adv
+1) небрежно
+2) обыденно;
+they were casually dressed они были одеты в повседневную одежду</word></ar><ar><origin>casualty_clearing_station</origin><tr>[ˏkæʒυ-əltɪklɪərɪŋˊsteɪʃn]</tr><word>n
+эвакуационный пункт</word></ar><ar><origin>casualty_department</origin><tr>[ˏkæʒυǝltɪdɪ-ˊpɑ:tmənt]</tr><word>n
+травматологическое отделение (в больнице)</word></ar><ar><origin>casualty_list</origin><tr>[ˏkæʒυəltɪˊlɪst]</tr><word>n
+список убитых, раненых и пропавших без вести (на войне)</word></ar><ar><origin>casus_belli</origin><tr></tr><word>лат. n повод для объявления войны, казус белли</word></ar><ar><origin>cat_suit</origin><tr>[ˊkætsu:t]</tr><word>n
+костюм в виде комбинезона (плотно прилегающий)</word></ar><ar><origin>cat_s_meat</origin><tr>[ˊkætsmi:t]</tr><word>n
+конина, покупаемая для кошек</word></ar><ar><origin>cat_s_whisker</origin><tr>[ˊkætsˏwɪskə]</tr><word>n
+1) сл. мужик что надо; «блеск» (о вещи)
+2) радио контактная пружина, «усик»</word></ar><ar><origin>cat_s-paw</origin><tr>[ˊkætspɔ:]</tr><word>n
+1) орудие в чьих-л. руках;
+to make a cat's-paw of a person сделать кого-л. своим орудием
+2) лёгкий бриз, рябь на воде</word></ar><ar><origin>cat-o_-mountain</origin><tr>[ˏkætəˊmaυntɪn]</tr><word>= catamountain</word></ar><ar><origin>cat-o_-nine-tails</origin><tr>[ˏkætəˊnaɪnteɪlz]</tr><word>n
+кошка (плеть)</word></ar><ar><origin>Catalan</origin><tr></tr><word>1. a каталонский; каталанский (о языке)
+2. n
+1) каталонец
+2) каталанский язык</word></ar><ar><origin>catalogue_raisonn%C3%A9</origin><tr></tr><word>фр. n систематический каталог с краткими объяснениями</word></ar><ar><origin>catamite</origin><tr>[ˊkætəˏmaɪt]</tr><word>n
+мальчик-партнёр гомосексуалиста</word></ar><ar><origin>catamountain</origin><tr>[ˊkætəmaυntɪn]</tr><word>n
+зоол.
+1) европейская дикая кошка
+2) североамериканская рысь</word></ar><ar><origin>catboat</origin><tr>[ˊkætbəυt]</tr><word>n
+кэт (парусное судно)</word></ar><ar><origin>catch-22</origin><tr>[ˏkætʃtwentɪˊtu:]</tr><word>n
+разг. ловушка, безвыходное положение (название романа Дж. Хеллера (1961)</word></ar><ar><origin>catchall</origin><tr>[ˊkætʃɔ:l]</tr><word>a
+всеобъемлющий, всеохватывающий</word></ar><ar><origin>catchment_area</origin><tr>[ˊkætʃməntˏeərɪə]</tr><word>n
+1) бассейн (реки), водосборная площадь
+2) микрорайон, обслуживаемый школой, больницей и т.п.</word></ar><ar><origin>catchment_basin</origin><tr>[ˊkætʃməntˏbeɪsn]</tr><word>= catchment area 1)</word></ar><ar><origin>catchphrase</origin><tr>[ˊkætʃfreɪz]</tr><word>n
+броская фраза, используемая как лозунг, реклама и т.п.</word></ar><ar><origin>catenae</origin><tr>[kəˊti:ni:]</tr><word>pl от catena</word></ar><ar><origin>Cathay</origin><tr>[kæˊθeɪ]</tr><word>n
+уст., поэт. Китай</word></ar><ar><origin>Catherine_wheel</origin><tr>[ˊkæθrɪnwi:l]</tr><word>n
+1) огненное колесо (фейерверк)
+2) архит. круглое окно, «роза»
+3) переворот «колесом»</word></ar><ar><origin>cathode-ray_tube</origin><tr>[ˏkæθəυdˊreɪtju:b]</tr><word>n
+электронно-лучевая трубка</word></ar><ar><origin>Catholic</origin><tr></tr><word>1. a
+1) (c.) широкий, всеобъемлющий
+2) католический (обыкн. Roman C.)
+3) церк. вселенский
+2. n католик</word></ar><ar><origin>Catholicism</origin><tr>[kəˊθɒləˏsɪzǝm]</tr><word>n
+католичество, католицизм</word></ar><ar><origin>catlick</origin><tr>[ˊkætlɪk]</tr><word>n
+разг. ≅ не мытьё, а смех один</word></ar><ar><origin>catlike</origin><tr>[ˊkætlaɪk]</tr><word>a
+кошачий</word></ar><ar><origin>catmint</origin><tr>[ˊkætmɪnt]</tr><word>n
+бот. котовик кошачий, кошачья мята</word></ar><ar><origin>cattle_grid</origin><tr>[ˊkætlgrɪd]</tr><word>n
+приспособление, препятствующее выходу скота с пастбища на дорогу</word></ar><ar><origin>cattle_truck</origin><tr>[ˊkætltrʌk]</tr><word>n
+ж.-д. платформа для перевозки скота</word></ar><ar><origin>Caucasian</origin><tr></tr><word>1. a белокожий
+2. n белый, белый человек (о человеке европеоидной расы)</word></ar><ar><origin>cause_c%C3%A9l%C3%A8bre</origin><tr></tr><word>фр. n знаменитый судебный процесс</word></ar><ar><origin>cause_list</origin><tr>[ˊkɔ:zlɪst]</tr><word>n
+юр. список дел к слушанию</word></ar><ar><origin>causerie</origin><tr></tr><word>фр. n
+1) статья в форме беседы на литературную тему
+2) непринуждённый разговор</word></ar><ar><origin>caution_board</origin><tr>[ˊkɔ:ʃnbɔ:d]</tr><word>n
+предупреждающая (об опасности) надпись</word></ar><ar><origin>caution_money</origin><tr>[ˊkɔ:ʃnˏmʌnɪ]</tr><word>n
+залог (вносимый, напр., студентами Оксфорда и Кембриджа в обеспечение возможных долгов)</word></ar><ar><origin>cave-in</origin><tr>[ˊkeɪvɪn]</tr><word>n
+обвал (в шахте и т.п.)</word></ar><ar><origin>caveat_emptor</origin><tr></tr><word>лат. n юр. качество на риск покупателя</word></ar><ar><origin>cavity_magnetron</origin><tr>[ˏkævətɪˊmægnətrɒn]</tr><word>n
+физ. магнетрон, обеспечивающий большой выход энергии</word></ar><ar><origin>cavy</origin><tr>[ˊkeɪvɪ]</tr><word>n
+зоол. морская свинка</word></ar><ar><origin>cayenne_pepper</origin><tr>[keɪˏenˊpepə]</tr><word>n
+бот. перец стручковый кайенский</word></ar><ar><origin>ca%C3%B1on</origin><tr>[ˊkænjən]</tr><word>= canyon</word></ar><ar><origin>CD</origin><tr></tr><word>сокр. от compact disc</word></ar><ar><origin>CD_player</origin><tr>[ˊsi:dɪpleɪə]</tr><word>n
+плейер для компакт-диска, си-ди плейер</word></ar><ar><origin>CD-ROM</origin><tr>[ˏsi:di:ˊrɔm]</tr><word>n
+информ. постоянное запоминающее устройство на компакт-диске</word></ar><ar><origin>cellular_phone</origin><tr>[ˏseljυləˊfəυn]</tr><word>n
+сотовый телефон</word></ar><ar><origin>cellulite</origin><tr>[ˊseljulaɪt]</tr><word>n
+целлюлит</word></ar><ar><origin>Celsius</origin><tr></tr><word>1. a 11 degrees Celsius 11 градусов по Цельсию (= 52° по Фаренгейту)
+2. n термометр Цельсия; шкала термометра Цельсия</word></ar><ar><origin>Celt</origin><tr>[kelt]</tr><word>n
+кельт</word></ar><ar><origin>Celtic</origin><tr></tr><word>1. a кельтский
+2. n кельтский язык</word></ar><ar><origin>cement_mixer</origin><tr>[sɪˊmentˏmɪksə]</tr><word>n
+бетономешалка</word></ar><ar><origin>central_heating</origin><tr>[ˏsentrəlˊhi:tɪŋ]</tr><word>n
+центральное отопление</word></ar><ar><origin>central_reservation</origin><tr>[ˏsentrəlˏrezəˊveɪʃn]</tr><word>n
+авто разделительная полоса</word></ar><ar><origin>centre_forward</origin><tr>[ˏsentəˊfɔ:wəd]</tr><word>n
+спорт. центральный нападающий</word></ar><ar><origin>centre_half</origin><tr>[ˏsentəˊhɑ:f]</tr><word>n
+спорт. центральный полузащитник</word></ar><ar><origin>centreboard</origin><tr>[ˊsentəbɔ:d]</tr><word>n
+мор. выдвижной киль</word></ar><ar><origin>centrepiece</origin><tr>[ˊsentəpi:s]</tr><word>n
+1) главное украшение из серебра, хрусталя и т.п. на середине стола
+2) орнамент на середине потолка
+3) центр внимания, основной предмет (выставки и т.п.)</word></ar><ar><origin>century_plant</origin><tr>[ˊsentʃərɪplɑ:nt]</tr><word>n
+бот. агава американская, столетник</word></ar><ar><origin>cep</origin><tr>[sep]</tr><word>n
+белый гриб</word></ar><ar><origin>Ceres</origin><tr>[ˊsɪəri:z]</tr><word>n
+миф., астр. Церера</word></ar><ar><origin>cervelat</origin><tr>[ˏsɜ:vəˊlɑ:t]</tr><word>n
+сервелат</word></ar><ar><origin>cervices</origin><tr>[səˊvaɪsi:z]</tr><word>pl от cervix</word></ar><ar><origin>cestode</origin><tr>[ˊsestəυd]</tr><word>n
+зоол. ленточный червь</word></ar><ar><origin>cevitamic_acid</origin><tr>[ˏsi:vaɪtæmɪkˊæsɪd]</tr><word>n
+фарм. кристаллический витамин C</word></ar><ar><origin>chador</origin><tr>[ˊtʃɑ:dɔ:]</tr><word>n
+чадра</word></ar><ar><origin>chafing_dish</origin><tr>[ˊtʃeɪfɪŋdɪʃ]</tr><word>n
+1) кастрюля (обыкн. электрическая), в которой горячая пища подогревается на столе; электрический термос
+2) жаровня</word></ar><ar><origin>chain_gang</origin><tr>[ˊtʃeɪngæŋ]</tr><word>n
+группа каторжников в кандалах, скованных общей цепью</word></ar><ar><origin>chain_letter</origin><tr>[ˊtʃeɪnˏletə]</tr><word>n
+письмо, рассылаемое по цепочке нескольким адресатам</word></ar><ar><origin>chain_mail</origin><tr>[ˊtʃeɪnmeɪl]</tr><word>n
+кольчуга</word></ar><ar><origin>chain_rule</origin><tr>[ˊtʃeɪnru:l]</tr><word>n
+мат. цепное правило</word></ar><ar><origin>chain_stitch</origin><tr>[ˊtʃeɪnstɪtʃ]</tr><word>n
+тамбурная строчка</word></ar><ar><origin>chain_stores</origin><tr>[ˊtʃeɪnstɔ:z]</tr><word>n pl
+однотипные магазины одной фирмы</word></ar><ar><origin>chain-smoke</origin><tr>[ˊtʃeɪnsməυk]</tr><word>v
+закуривать от папиросы, непрерывно курить</word></ar><ar><origin>chair_lift</origin><tr>[ˊtʃeəlɪft]</tr><word>n
+кресельный канатный подъёмник (для лыжников)</word></ar><ar><origin>chair_warmer</origin><tr>[ˊtʃeəwɔ:mə]</tr><word>n
+амер. сл. ленивец, бездельник</word></ar><ar><origin>chaise_longue</origin><tr></tr><word>фр. n шезлонг</word></ar><ar><origin>chakra</origin><tr>[ˊtʃʌkrə]</tr><word>n
+чакра (согласно учению йоги — зона концентрации психической энергии)</word></ar><ar><origin>Chaldean</origin><tr></tr><word>1. a халдейский; древневавилонский
+2. n
+1) халдей
+2) халдейский язык</word></ar><ar><origin>challenging</origin><tr>[ˊtʃælɪndʒɪŋ]</tr><word>a
+1) трудный, требующий напряжения (сил)
+2) вызывающий (о тоне и т.п.); бросающий вызов</word></ar><ar><origin>chamber_pot</origin><tr>[ˊtʃeɪmbəpɒt]</tr><word>n
+ночной горшок</word></ar><ar><origin>chambermaid</origin><tr>[ˊtʃeɪmbəmeɪd]</tr><word>n
+горничная в гостинице</word></ar><ar><origin>change_machine</origin><tr>[ˊtʃeɪndʒməˏʃi:n]</tr><word>n
+разменный автомат</word></ar><ar><origin>changeover</origin><tr>[ˊtʃeɪndʒˏəυvə]</tr><word>n
+1) изменение; перестройка;
+changeover in editors смена редакторов
+2) переключение; перенастройка</word></ar><ar><origin>changing_room</origin><tr>[ˊtʃeɪndʒɪŋˏru:m]</tr><word>n
+1) примерочная
+2) раздевалка</word></ar><ar><origin>chapbook</origin><tr>[ˊtʃæpbυk]</tr><word>n
+уст. дешёвое издание народных сказок, преданий, баллад</word></ar><ar><origin>chapfallen</origin><tr>[ˊtʃæpˏfɔ:lən]</tr><word>a
+1) унылый, удручённый
+2) с отвислой челюстью</word></ar><ar><origin>chaplet</origin><tr>[ˊtʃæplət]</tr><word>n
+1) венок, гирлянда, лента (на голове)
+2) чётки
+3) бусы; ожерелье
+4) метал. жеребейка</word></ar><ar><origin>chapped</origin><tr>[tʃæpt]</tr><word>a
+потрескавшийся (о коже и т.п.);
+chapped hands потрескавшиеся руки</word></ar><ar><origin>charabanc</origin><tr>[ˊʃærəbæŋ]</tr><word>n
+ист.
+1) шарабан
+2) автобус (для экскурсий)</word></ar><ar><origin>character_actor</origin><tr>[ˊkærɪktəˏæktə]</tr><word>n
+актёр, играющий характерные роли</word></ar><ar><origin>character_assasination</origin><tr>[ˊkærɪktəəsæsɪˏneɪʃn]</tr><word>n
+намеренное разрушение чьей-л. репутации</word></ar><ar><origin>character_code</origin><tr>[ˊkærɪktəˏkəυd]</tr><word>n
+информ. код символа</word></ar><ar><origin>charge_card</origin><tr>[ˊtʃɑ:dʒkɑ:d]</tr><word>n
+кредитная карточка</word></ar><ar><origin>charge_hand</origin><tr>[ˊtʃɑ:dʒhænd]</tr><word>n
+мастер (на производстве)</word></ar><ar><origin>charge_nurse</origin><tr>[ˊtʃɑ:dʒnɜ:s]</tr><word>n
+1) палатная медсестра
+2) старшая медсестра отделения (больницы)</word></ar><ar><origin>charge_sheet</origin><tr>[ˊtʃɑ:dʒʃi:t]</tr><word>n
+юр. полицейский протокол</word></ar><ar><origin>charged</origin><tr>[ˊtʃɑ:dʒd]</tr><word>a
+1) накалённый (о ситуации и т.п.)
+2) заряженный;
+negatively charged ions отрицательно заряженные ионы</word></ar><ar><origin>charg%C3%A9_d_affaires</origin><tr>[ˏʃɑ:ʒeɪdæˊfeə]</tr><word>n фр. дип. (pl chargés d'affaires)
+поверенный в делах</word></ar><ar><origin>charg%C3%A9s_d_affaires</origin><tr>[ˏʃɑ:ʒeɪdæˊfeə]</tr><word>pl от chargé d'affaires</word></ar><ar><origin>charismata</origin><tr>[kəˊrɪzmətə]</tr><word>pl от charisma</word></ar><ar><origin>charity_school</origin><tr>[ˊtʃærɪtɪsku:l]</tr><word>n
+благотворительная дневная школа (для бедных)</word></ar><ar><origin>charity_shop</origin><tr>[ˊtʃɑ:rɪtɪʃɒp]</tr><word>n
+магазин, дёшево продающий подержанные вещи и направляющий вырученные деньги на благотворительность</word></ar><ar><origin>Charles_s_Wain</origin><tr>[ˏtʃɑ:lzɪzˊweɪn]</tr><word>n
+Большая Медведица (созвездие)</word></ar><ar><origin>Charleston</origin><tr>[ˊtʃɑ:lstǝn]</tr><word>n
+чарльстон (танец)</word></ar><ar><origin>Charley</origin><tr>[ˊtʃɑ:lɪ]</tr><word>n
+1) Чарли (прозвище лисы в фольклоре)
+2) амер. воен. буква «C», третий
+Ⅱ
+Charley [ˊtʃɑ:lɪ] n
+разг.
+1) ночной сторож
+2) бородка клинышком</word></ar><ar><origin>charley_horse</origin><tr>[ˊtʃɑ:lɪhɔ:s]</tr><word>n
+амер. сл. онемение или судорога в ноге или руке</word></ar><ar><origin>Charlie</origin><tr>[ˊtʃɑ:lɪ]</tr><word>= Charley Ⅰ, Charley Ⅱ</word></ar><ar><origin>charmed</origin><tr>[tʃɑ:md]</tr><word>a
+чарующий, прелестный</word></ar><ar><origin>charmed_circle</origin><tr>[ˏtʃɑ:mdˊsɜ:kl]</tr><word>n
+заколдованный круг</word></ar><ar><origin>charnel_house</origin><tr>[ˊtʃɑ:nlhaυs]</tr><word>n
+склеп</word></ar><ar><origin>Charterhouse</origin><tr>[ˊtʃɑ:təhaυs]</tr><word>n
+дом для престарелых пенсионеров (в Лондоне)</word></ar><ar><origin>charterparty</origin><tr>[ˊtʃɑ:təˏpɑ:tɪ]</tr><word>n
+мор., ком. чартер-партия</word></ar><ar><origin>chastened</origin><tr>[ˊtʃeɪsnd]</tr><word>a
+пристыженный, смущённый</word></ar><ar><origin>chastening</origin><tr>[ˊtʃeɪsnɪŋ]</tr><word>a
+отрезвляющий</word></ar><ar><origin>chat_show</origin><tr>[ˊtʃætʃəυ]</tr><word>n
+радио, тлв. беседа или интервью со знаменитостью, видным государственным деятелем и т.п.</word></ar><ar><origin>chat-up_line</origin><tr>[ˊtʃætʌpˏlaɪn]</tr><word>n
+заигрывание (с кем-л. незнакомым, чтобы познакомиться)</word></ar><ar><origin>chatline</origin><tr>[ˊtʃætlaɪn]</tr><word>n
+1) телефонная служба, предоставляющая собеседника (тоже обратившегося в эту службу)
+2) информ. разговорный канал, позволяющий общаться нескольким участникам беседы</word></ar><ar><origin>Chaucerian</origin><tr>[tʃɔ:ˊsɪərɪən]</tr><word>a
+чосеровский</word></ar><ar><origin>cheap_shot</origin><tr>[ˏtʃi:pˊʃɒt]</tr><word>n
+несправедливый [словесный] укол</word></ar><ar><origin>cheap-jack</origin><tr>[ˊtʃi:pdʒæk]</tr><word>n
+странствующий разносчик, торгующий дешёвыми товарами (тж. cheap-john)</word></ar><ar><origin>cheaper</origin><tr>[ˊtʃi:pə]</tr><word>a
+дешевле</word></ar><ar><origin>cheating</origin><tr>[ˊtʃi:tɪŋ]</tr><word>n
+жульничество, надувательство</word></ar><ar><origin>check-in</origin><tr>[ˊtʃekɪn]</tr><word>n
+стойка регистрации (в аэропорту и т.п.)</word></ar><ar><origin>checkerers</origin><tr>[ˊtʃekəz]</tr><word>n pl
+амер. шашки</word></ar><ar><origin>checking_account</origin><tr>[ˊtʃekɪŋəˏkauntkjajakaυnt]</tr><word>n
+амер. текущий счёт (в банке)</word></ar><ar><origin>checklist</origin><tr>[ˊtʃeklɪst]</tr><word>n
+контрольный список</word></ar><ar><origin>checkout</origin><tr>[ˊtʃekaυt]</tr><word>n
+1) контроль, испытание
+2) контроль (у выхода из библиотеки или магазина самообслуживания)
+3) касса (в супермаркете)</word></ar><ar><origin>checkpoint</origin><tr>[ˊtʃekpɒɪnt]</tr><word>n
+контрольно-пропускной пункт</word></ar><ar><origin>checkup</origin><tr>[ˊtʃekʌp]</tr><word>n
+1) осмотр (особ. медицинский); проверка; ревизия, контроль
+2) attr. проверочный, ревизионный;
+checkup committee ревизионная комиссия</word></ar><ar><origin>checkweigher</origin><tr>[ˊtʃekˏweɪə]</tr><word>n
+горн. учётчик добычи; контрольный весовщик</word></ar><ar><origin>Cheddar</origin><tr>[ˊtʃedə]</tr><word>n
+чеддер (сорт сыра)</word></ar><ar><origin>cheekbone</origin><tr>[ˊtʃi:kbəυn]</tr><word>n
+скула</word></ar><ar><origin>cheeseboard</origin><tr>[ˊtʃi:zbɔ:d]</tr><word>n
+доска для сыра</word></ar><ar><origin>cheesecake</origin><tr>[ˊtʃi:zkeɪk]</tr><word>n
+1) сдобная ватрушка
+2) уст. фотография обнажённой женщины</word></ar><ar><origin>cheesecloth</origin><tr>[ˊtʃi:zklɒθ]</tr><word>n
+марля</word></ar><ar><origin>chef_d_oeuvre</origin><tr>[ˏʃeɪˊdɜ:vrə]</tr><word>фр. n (pl chefs d'oeuvre)
+шедевр</word></ar><ar><origin>chefs_d_oeuvre</origin><tr>[ˏʃeɪˊdɜ:vrə]</tr><word>pl от chef d'oeuvre</word></ar><ar><origin>chelae</origin><tr>[ˊki:li:]</tr><word>pl от chela</word></ar><ar><origin>chequebook</origin><tr>[ˊtʃekbυk]</tr><word>n
+чековая книжка</word></ar><ar><origin>cherished</origin><tr>[ˊtʃerɪʃt]</tr><word>a
+заветный</word></ar><ar><origin>cherry_brandy</origin><tr>[ˏtʃerɪˊbrændɪ]</tr><word>n
+вишнёвая наливка, вишнёвый ликёр</word></ar><ar><origin>cherubim</origin><tr>[ˊtʃerəbɪm]</tr><word>pl от cherub</word></ar><ar><origin>chessboard</origin><tr>[ˊtʃesbɔ:d]</tr><word>n
+шахматная доска</word></ar><ar><origin>chessman</origin><tr>[ˊtʃesmæn]</tr><word>n
+шахматная фигура</word></ar><ar><origin>cheval_glass</origin><tr>[ʃəˊvælglɑ:s]</tr><word>n
+высокое зеркало на подвижной раме, псише</word></ar><ar><origin>chevaux_de_frise</origin><tr></tr><word>фр. n pl
+1) воен. рогатка
+2) торчащие гвозди или куски битого стекла наверху стены</word></ar><ar><origin>chewing_gum</origin><tr>[ˊtʃu:ɪŋgʌm]</tr><word>n
+жевательная резинка</word></ar><ar><origin>chick_pea</origin><tr>[ˊtʃɪkpi:]</tr><word>n
+бот. нут, горох турецкий</word></ar><ar><origin>chicken_feed</origin><tr>[ˊtʃɪkɪnfi:d]</tr><word>n
+разг.
+1) корм для домашней птицы
+2) пустяки, гроши; ничтожная сумма</word></ar><ar><origin>chickenhearted</origin><tr>[ˊtʃɪkɪnˏhɑ:tɪd]</tr><word>a
+трусливый, малодушный</word></ar><ar><origin>chickenpox</origin><tr>[ˊtʃɪkɪnpɒks]</tr><word>n
+мед. ветряная оспа, ветрянка</word></ar><ar><origin>chickweed</origin><tr>[ˊtʃɪkwi:d]</tr><word>n
+бот. песчанка; мокричник</word></ar><ar><origin>chid</origin><tr>[tʃɪd]</tr><word>past и p. p. от chide</word></ar><ar><origin>chidden</origin><tr>[ˊtʃɪdn]</tr><word>p. p. от chide</word></ar><ar><origin>Chief_Constable</origin><tr>[ˏtʃi:fˊkʌnstəbl]</tr><word>n
+начальник полиции (графства, города)</word></ar><ar><origin>Chief_Justice</origin><tr>[ˏtʃi:fˊdʒʌstɪs]</tr><word>n
+верховный судья; председатель верховного суда</word></ar><ar><origin>Chief_of_Staff</origin><tr>[ˏtʃi:fəʋˊstɑ:f]</tr><word>n
+начальник штаба</word></ar><ar><origin>chiffchaff</origin><tr>[ˊtʃɪftʃæf]</tr><word>n
+пеночка-кузнечик (птица)</word></ar><ar><origin>child_benefit</origin><tr>[ˏtʃaɪlˊbenɪfɪt]</tr><word>n
+денежное пособие на каждого ребёнка</word></ar><ar><origin>child_care</origin><tr>[ˊtʃaɪldkeə]</tr><word>n
+охрана детства; забота о детях</word></ar><ar><origin>child_prodigy</origin><tr>[ˏtʃaɪldˊprɒdɪdʒɪ]</tr><word>n
+вундеркинд (не по возрасту развитой ребёнок)</word></ar><ar><origin>child_s_play</origin><tr>[ˊtʃaɪldzpleɪ]</tr><word>n
+лёгкая задача, пустяковое дело</word></ar><ar><origin>childbearing</origin><tr>[ˊtʃaɪldˏbeərɪŋ]</tr><word>n
+1. деторождение, роды
+2. a детородный (о возрасте женщины)</word></ar><ar><origin>childbirth</origin><tr>[ˊtʃaɪldbɜ:θ]</tr><word>n
+1) роды
+2) рождаемость</word></ar><ar><origin>Childermas</origin><tr>[ˊtʃɪldəmæs]</tr><word>n
+церк. день избиения младенцев (28 декабря)</word></ar><ar><origin>childminder</origin><tr>[ˊtʃaɪldˏmaɪndə]</tr><word>n
+приходящая няня</word></ar><ar><origin>Chilean</origin><tr></tr><word>1. a чилийский
+2. n чилиец</word></ar><ar><origin>chili</origin><tr></tr><word>амер. = chilli</word></ar><ar><origin>Chilian</origin><tr>[ˊtʃɪlɪən]</tr><word>= Chilean</word></ar><ar><origin>Chiltern_Hundreds</origin><tr>[ˏtʃɪltǝnˊhʌndrədz]</tr><word>n pl:
+to accept (или to apply for) the Chiltern Hundreds слагать с себя полномочия члена парламента</word></ar><ar><origin>chimney_corner</origin><tr>[ˊtʃɪmnɪˏkɔ:nə]</tr><word>n
+место у камина</word></ar><ar><origin>chimney_pot</origin><tr>[ˊtʃɪmnɪpɒt]</tr><word>n
+1) = chimney-cap
+2) attr.:
+chimney pot hat разг. цилиндр (шляпа)</word></ar><ar><origin>chimney_stack</origin><tr>[ˊtʃɪmnɪstæk]</tr><word>n
+общий выход нескольких дымовых труб; дымовая труба</word></ar><ar><origin>chimney_sweep</origin><tr>[ˊtʃɪmnɪswi:p]</tr><word>n
+трубочист</word></ar><ar><origin>chimney_sweeper</origin><tr>[ˊtʃɪmnɪˏswi:pə]</tr><word>n
+1) трубочист
+2) щётка для чистки дымоходов</word></ar><ar><origin>chimneypiece</origin><tr>[ˊtʃɪmnɪpi:s]</tr><word>n
+полка над камином; каминная доска</word></ar><ar><origin>China</origin><tr>[ˊtʃaɪnə]</tr><word>a
+китайский</word></ar><ar><origin>china_clay</origin><tr>[ˊtʃaɪnəkleɪ]</tr><word>n
+фарфоровая глина, каолин</word></ar><ar><origin>China_ink</origin><tr>[ˊtʃaɪnəɪŋk]</tr><word>n
+(китайская) тушь</word></ar><ar><origin>Chinaman</origin><tr>[ˊtʃaɪnəmən]</tr><word>n
+пренебр. китаец</word></ar><ar><origin>Chinatown</origin><tr>[ˊtʃaɪnətaυn]</tr><word>n
+китайский квартал (в некитайском городе)</word></ar><ar><origin>chinaware</origin><tr>[ˊtʃaɪnəweə]</tr><word>n
+фарфоровые изделия</word></ar><ar><origin>Chinawoman</origin><tr>[ˊtʃaɪnəˏwυmən]</tr><word>n
+пренебр. китаянка</word></ar><ar><origin>Chinee</origin><tr>[tʃaɪˊni:]</tr><word>n
+разг. китаец</word></ar><ar><origin>Chinese</origin><tr></tr><word>1. a китайский;
+Chinese white китайские белила
+2. n
+1) китаец; китаянка;
+the Chinese pl собир. китайцы
+2) китайский язык</word></ar><ar><origin>Chinese_chequers</origin><tr>[ˏtʃaɪni:zˊtʃekəz]</tr><word>n
+го (настольная игра)</word></ar><ar><origin>Chink</origin><tr>[tʃɪŋk]</tr><word>n
+чинк (презрительная кличка китайца в США)</word></ar><ar><origin>chinwag</origin><tr></tr><word>1. разг. дружеская болтовня
+2. v разг. болтать, чесать языки</word></ar><ar><origin>chip_basket</origin><tr>[ˊtʃɪpˏbɑ:skɪt]</tr><word>n
+лёгкая корзина из стружек (для цветов, фруктов)</word></ar><ar><origin>chip_plate</origin><tr>[ˊtʃɪppleɪt]</tr><word>= chipboard</word></ar><ar><origin>chip_shop</origin><tr>[ˊtʃɪpʃɔp]</tr><word>= chippy Ⅰ</word></ar><ar><origin>Chippendale</origin><tr>[ˊtʃɪpǝndeɪl]</tr><word>n
+чиппендейл (стиль англ. мебели ⅩⅧ в.)</word></ar><ar><origin>chippings</origin><tr>[ˊtʃɪpɪŋz]</tr><word>n pl
+щепки; щебень;
+loose chippings щепки</word></ar><ar><origin>chitchat</origin><tr>[ˊtʃɪttʃæt]</tr><word>n
+1) болтовня
+2) пересуды</word></ar><ar><origin>chlorinate</origin><tr>[ˊklɔ:rɪneɪt]</tr><word>v
+хлорировать</word></ar><ar><origin>chlorination</origin><tr>[ˏklɔ:rɪˊneɪʃn]</tr><word>n
+хлорирование</word></ar><ar><origin>choc</origin><tr>[tʃɒk]</tr><word>n
+разг. шоколад</word></ar><ar><origin>choirboy</origin><tr>[ˊkwaɪəbɔɪ]</tr><word>n
+1. певчий
+2. v петь хором</word></ar><ar><origin>choirmaster</origin><tr>[ˊkwaɪəˏmɑ:stə]</tr><word>n
+хормейстер</word></ar><ar><origin>choked</origin><tr>[tʃəυkt]</tr><word>a
+1) сдавленный, приглушённый (о голосе)
+2) разг. расстроенный, огорчённый
+3) засорённый (with — чем-л.)</word></ar><ar><origin>chokedamp</origin><tr>[ˊtʃəυkdæmp]</tr><word>n
+удушливый газ</word></ar><ar><origin>chophouse</origin><tr>[ˊtʃɒphaυs]</tr><word>n
+ресторан, где подают отбивные и бифштексы</word></ar><ar><origin>chopper_switch</origin><tr>[ˊtʃɒpəswɪtʃ]</tr><word>n
+эл. рубильник</word></ar><ar><origin>chopping_board</origin><tr>[ˊtʃɒpɪŋbɔ:d]</tr><word>n
+разделочная доска</word></ar><ar><origin>chopsuey</origin><tr>[ˏtʃɒpˊsu:ɪ]</tr><word>n
+китайское рагу</word></ar><ar><origin>chorale</origin><tr>[kɒˊrɑ:l]</tr><word>n
+хорал</word></ar><ar><origin>chordae</origin><tr>[ˊkɔ:di:]</tr><word>pl от chorda</word></ar><ar><origin>chrestomathy</origin><tr>[kreˊstɒməθɪ]</tr><word>n
+хрестоматия, сборник текстов</word></ar><ar><origin>Christ</origin><tr>[kraɪst]</tr><word>n
+Христос; мессия</word></ar><ar><origin>Christendom</origin><tr>[ˊkrɪsndəm]</tr><word>n
+христианский мир</word></ar><ar><origin>Christian</origin><tr></tr><word>1. a христианский;
+Christian name имя (в отличие от фамилии)
+2. n христианин, христианка</word></ar><ar><origin>Christianity</origin><tr>[ˏkrɪstɪˊænətɪ]</tr><word>n
+христианство</word></ar><ar><origin>Christmas</origin><tr>[ˊkrɪsməs]</tr><word>n
+1) рождество (сокр. тж. Xmas);
+Father Christmas Дед Мороз;
+Merry Christmas! Счастливого рождества!
+2) attr. рождественский</word></ar><ar><origin>Christmas_box</origin><tr>[ˊkrɪsməsbɒks]</tr><word>n
+коробка с рождественскими подарками, рождественский подарок</word></ar><ar><origin>Christmas_Eve</origin><tr>[ˏkrisməsˊi:v]</tr><word>n
+сочельник, канун</word></ar><ar><origin>Christmas_tree</origin><tr>[ˊkrɪsməstri:]</tr><word>n
+рождественская ёлка</word></ar><ar><origin>Christmassy</origin><tr>[ˊkrɪsməsɪ]</tr><word>a
+разг. рождественский, праздничный</word></ar><ar><origin>Christmastide</origin><tr>[ˊkrɪsməstaɪd]</tr><word>n
+святки</word></ar><ar><origin>Christy_minstrels</origin><tr>[ˏkrɪstɪˊmɪnstrǝlz]</tr><word>n pl
+труппа загримированных неграми исполнителей негритянских песен</word></ar><ar><origin>chrysalides</origin><tr>[krɪˊsælɪdi:z]</tr><word>pl от chrysalis</word></ar><ar><origin>chrysoprase</origin><tr>[ˊkrɪsəpreɪs]</tr><word>n
+мин. хризопраз</word></ar><ar><origin>chucklehead</origin><tr>[ˊtʃʌklhed]</tr><word>n
+болван</word></ar><ar><origin>Chunnel</origin><tr>[ˊtʃʌnl]</tr><word>n
+разг. «Чаннел» (транспортный тоннель под Ла-Маншем)</word></ar><ar><origin>church_service</origin><tr>[ˊtʃɜ:tʃˏsɜ:vɪs]</tr><word>n
+церковная служба, богослужение</word></ar><ar><origin>churchgoer</origin><tr>[ˊtʃɜ:tʃˏgəυə]</tr><word>n
+(человек) регулярно посещающий церковь</word></ar><ar><origin>chutist</origin><tr>[ˊʃu:tɪst]</tr><word>n (сокр. от parachutist)
+ав. разг. парашютист</word></ar><ar><origin>ch%C3%A2teau</origin><tr>[ˊʃætəυ]</tr><word>n (pl châteaux)
+замок, дворец (во Франции)</word></ar><ar><origin>ch%C3%A2teaux</origin><tr>[ˊʃætəυz]</tr><word>pl от château</word></ar><ar><origin>ciao</origin><tr>[tʃaυ]</tr><word>int
+разг. чао!, привет!</word></ar><ar><origin>Cicero</origin><tr>[ˊsɪsərəυ]</tr><word>n
+Цицерон</word></ar><ar><origin>ciceroni</origin><tr>[ˏtʃɪtʃəˊrəυni:]</tr><word>pl от cicerone</word></ar><ar><origin>Ciceronian</origin><tr>[ˏsɪsəˊrəυnɪən]</tr><word>a
+цицероновский, красноречивый</word></ar><ar><origin>cigar_holder</origin><tr>[sɪˊgɑ:ˏhəυldə]</tr><word>n
+мундштук для сигар</word></ar><ar><origin>cigarette_case</origin><tr>[ˏsɪgəˊretkeɪs]</tr><word>n
+портсигар</word></ar><ar><origin>cigarette_end</origin><tr>[ˏsɪgəˊretend]</tr><word>n
+окурок</word></ar><ar><origin>cigarette_holder</origin><tr>[ˏsɪgəˊrethəυldə]</tr><word>n
+мундштук</word></ar><ar><origin>cigarette_lighter</origin><tr>[ˏsɪgəˊretlaɪtə]</tr><word>n
+зажигалка</word></ar><ar><origin>cigarette_paper</origin><tr>[ˏsɪgəˊretpeɪpə]</tr><word>n
+папиросная бумага</word></ar><ar><origin>cigarette_stub</origin><tr>[ˏsɪgəˊretstʌb]</tr><word>= cigarette end</word></ar><ar><origin>Cimmerian</origin><tr>[sɪˊmɪərɪən]</tr><word>a
+миф.
+1) киммерийский
+2) тёмный, непроглядный (о ночи)</word></ar><ar><origin>cinder-track</origin><tr>[ˊsɪndətræk]</tr><word>= cinder-path</word></ar><ar><origin>Cinderella</origin><tr>[ˏsɪndəˊrelə]</tr><word>n
+Золушка</word></ar><ar><origin>cine_camera</origin><tr>[ˊsɪnɪˏkæmǝrə]</tr><word>n
+кинокамера</word></ar><ar><origin>cine_film</origin><tr>[ˊsɪnɪfɪlm]</tr><word>n
+киноплёнка</word></ar><ar><origin>cineaste</origin><tr>[ˊsɪnɪæst]</tr><word>n
+знаток и любитель кино</word></ar><ar><origin>Cingalese</origin><tr></tr><word>1. a
+1) сингальский, сингалезский
+2) уст. цейлонский
+2. n
+1) сингалез, сингалец;
+the Cingalese сингалезцы, сингальцы
+2) сингалезский, сингальский язык</word></ar><ar><origin>Cinque_Ports</origin><tr>[ˏsɪŋkˊpɔ:ts]</tr><word>n pl
+ист. Пять портов (группа городов — Dover, Sandwich, Romney, Hastings, Hythe — в юго-восточной Англии, пользовавшихся особыми привилегиями)</word></ar><ar><origin>Circassian</origin><tr></tr><word>1. a черкесский
+2. n
+1) черкес; черкешенка
+2) черкесский язык</word></ar><ar><origin>Circe</origin><tr>[ˊsɜ:sɪ]</tr><word>n
+греч. миф. Цирцея</word></ar><ar><origin>circuit_breaker</origin><tr>[ˊsɜ:kɪtˏbreɪkə]</tr><word>n
+эл. автоматический выключатель; прерыватель</word></ar><ar><origin>circum</origin><tr></tr><word>в сложных словах обозначает вокруг, кругом</word></ar><ar><origin>circumpolar</origin><tr>[ˏsɜ:kəmˊpəυlə]</tr><word>a
+1) геогр. приполярный, околополюсный
+2) астр. околополярный</word></ar><ar><origin>cirri</origin><tr>[ˊsɪraɪ]</tr><word>pl от cirrus</word></ar><ar><origin>cirrocumulus</origin><tr>[ˏsɪrəυˊkju:mjυləs]</tr><word>n
+перисто-кучевые облака, «барашки»</word></ar><ar><origin>cirrostratus</origin><tr>[ˏsɪrəυˊstrɑ:təs]</tr><word>n
+перисто-слоистые облака</word></ar><ar><origin>Cistercian</origin><tr>[sɪˊstɜ:ʃn]</tr><word>n
+цистерцианец (монах примыкавшего к бенедиктинцам ордена)</word></ar><ar><origin>citified</origin><tr>[ˊsɪtɪfaɪd]</tr><word>a (обыкн. пренебр.)
+свойственный городскому жителю, пообтесавшийся</word></ar><ar><origin>cityfied</origin><tr>[ˊsɪtɪfaɪd]</tr><word>= citified</word></ar><ar><origin>civet_cat</origin><tr>[ˊsɪvɪtkæt]</tr><word>= civet 1)</word></ar><ar><origin>civil_engineering</origin><tr>[ˏsɪvlendʒɪˊnɪrɪŋ]</tr><word>n
+гражданское строительство</word></ar><ar><origin>clack_valve</origin><tr>[ˊklækˏvælv]</tr><word>n
+тех. откидной или створчатый клапан</word></ar><ar><origin>claim_check</origin><tr>[ˊkleɪmˏtʃek]</tr><word>n
+квитанция на получение заказа, вещей после ремонта и т.п.</word></ar><ar><origin>claim_form</origin><tr>[ˊkleɪmfɔ:m]</tr><word>n
+бланк заявления</word></ar><ar><origin>claiming_race</origin><tr>[ˊkleɪmɪŋˏreɪs]</tr><word>n
+скачки, после которых любая из лошадей может быть куплена</word></ar><ar><origin>clambering_plant</origin><tr>[ˊklæmbǝrɪŋˏplɑ:nt]</tr><word>n
+вьющееся растение</word></ar><ar><origin>clampdown</origin><tr>[ˊklæmpdaυn]</tr><word>n
+строгие, жёсткие меры (on — против кого-л., чего-л. )</word></ar><ar><origin>clamshell</origin><tr>[ˊklæmʃel]</tr><word>n
+1) раковина моллюска
+2) тех. грейфер</word></ar><ar><origin>clapperboard</origin><tr>[ˊklæpəbɔ:d]</tr><word>n
+кино нумератор с «хлопушкой»</word></ar><ar><origin>clasp_knife</origin><tr>[ˊklɑ:spnaɪf]</tr><word>n
+складной нож</word></ar><ar><origin>class_consciousness</origin><tr>[ˏklɑ:sˊkɒnʃəsnəs]</tr><word>n
+классовое сознание</word></ar><ar><origin>classmate</origin><tr>[ˊklɑ:smeɪt]</tr><word>= class-fellow</word></ar><ar><origin>classroom</origin><tr>[ˊklɑ:sru:m]</tr><word>n
+класс, классная комната; аудитория (в учебном заведении)</word></ar><ar><origin>clave</origin><tr>[kleɪv]</tr><word>past от cleave Ⅱ</word></ar><ar><origin>claw_hammer</origin><tr>[ˊklɔ:ˏhæmə]</tr><word>n
+молоток с расщепом для вытаскивания гвоздей
+◊ claw hammer coat шутл. фрак</word></ar><ar><origin>clay_pigeon</origin><tr>[ˏkleɪˊpɪdʒin]</tr><word>n
+летящая мишень, тарелочка для стрельбы;
+clay pigeon shooting стрельба по тарелочке</word></ar><ar><origin>cleanskin</origin><tr>[ˊkli:nskɪn]</tr><word>n
+австрал.
+1) неклеймённое животное
+2) сл. человек, не состоящий на учёте в полиции</word></ar><ar><origin>cleanup</origin><tr>[ˊkli:nʌp]</tr><word>n
+разг.
+1) уборка; чистка
+2) (моральное) очищение (от порока, преступления и т.п.)</word></ar><ar><origin>clear-out</origin><tr>[ˊklɪə(r)ˊaυt]</tr><word>n
+разг. выкидывание ненужных вещей; генеральная уборка</word></ar><ar><origin>clear-up</origin><tr>[ˊklɪə(r)ˊʌp]</tr><word>a
+раскрытый (о преступлении)</word></ar><ar><origin>clearheaded</origin><tr>[ˏklɪəˊhedɪd]</tr><word>a
+толковый, умный, с ясным умом</word></ar><ar><origin>clearing_bank</origin><tr>[ˊklɪərɪŋbæŋk]</tr><word>n
+клиринг-банк</word></ar><ar><origin>clearing_station</origin><tr>[ˊklɪərɪŋˏsteɪʃn]</tr><word>n
+эвакуационный пункт</word></ar><ar><origin>clearinghouse</origin><tr>[ˊklɪərɪŋhaυs]</tr><word>n
+ком. расчётная палата [см. clearing 2, 3)]</word></ar><ar><origin>clearway</origin><tr>[ˊklɪəweɪ]</tr><word>n
+фарватер</word></ar><ar><origin>cleverly</origin><tr>[ˊklevəlɪ]</tr><word>adv
+1) ловко
+2) искусно, умело</word></ar><ar><origin>clich%C3%A9</origin><tr>[ˊkli:ʃeɪ]</tr><word>n
+1) штамп; избитая фраза
+2) полигр. клише; пластинка стереотипа</word></ar><ar><origin>click_beetle</origin><tr>[ˊklɪkˏbi:tl]</tr><word>n
+зоол. жук-щелкун</word></ar><ar><origin>client_state</origin><tr>[ˏklaɪən`tˊsteɪt]</tr><word>n
+государство-клиент, зависимое государство</word></ar><ar><origin>climbing</origin><tr>[ˊklaɪmɪŋ]</tr><word>n
+восхождение; альпинизм</word></ar><ar><origin>climbing_irons</origin><tr>[ˊklaɪmɪŋˏa(ɪ)ənz]</tr><word>n pl
+1) = climber 4);
+2) шипы на обуви альпинистов</word></ar><ar><origin>clipping_room</origin><tr>[ˊklɪpɪŋru:m]</tr><word>n
+кино монтажная</word></ar><ar><origin>cloakroom</origin><tr>[ˊkləυkru:m]</tr><word>n
+1) гардероб
+2) ж.-д. камера хранения
+3) эвф. уборная</word></ar><ar><origin>clock-watcher</origin><tr>[ˊklɒkˏwɒtʃə]</tr><word>n
+человек, работающий «от и до»; человек, формально относящийся к своей работе</word></ar><ar><origin>clockwork</origin><tr></tr><word>1. n часовой механизм;
+like clockwork с точностью часового механизма
+2. a
+1) точный
+2) заводной;
+clockwork toys заводные игрушки</word></ar><ar><origin>clodpoll</origin><tr>[ˊklɒdpəυl]</tr><word>= clod 1, 2)</word></ar><ar><origin>cloisonn%C3%A9</origin><tr></tr><word>фр. n клуазоне, перегородчатая эмаль</word></ar><ar><origin>clonk</origin><tr>[klɒŋk]</tr><word>n
+1) разг. тяжёлый удар
+2) глухой звук</word></ar><ar><origin>close-knit</origin><tr>[ˏkləusˊnɪt]</tr><word>a
+сплочённый</word></ar><ar><origin>closed_circuit</origin><tr>[ˏkləυzdˏsɜ:kɪt]</tr><word>n
+1) эл. замкнутая цепь
+2) кабельное телевидение</word></ar><ar><origin>closedown</origin><tr>[ˊkləυzdaυn]</tr><word>n
+остановка работы в связи с закрытием предприятия</word></ar><ar><origin>closefisted</origin><tr>[ˏkləυsˊfɪstɪd]</tr><word>a
+скупой</word></ar><ar><origin>closestool</origin><tr>[ˊkləυsstu:l]</tr><word>n
+стульчак; параша</word></ar><ar><origin>closing_price</origin><tr>[ˊkləυzɪŋpraɪs]</tr><word>n
+окончательная, последняя цена; ставка</word></ar><ar><origin>closing_time</origin><tr>[ˊkləυzɪŋtaɪm]</tr><word>n
+время закрытия (магазинов, учреждений и т.п.)</word></ar><ar><origin>clothes_basket</origin><tr>[ˊkləυðzˏbɑ:skɪt]</tr><word>n
+бельевая корзина</word></ar><ar><origin>clothes_brush</origin><tr>[ˊkləυðzbrʌʃ]</tr><word>n
+платяная щётка</word></ar><ar><origin>clotheshorse</origin><tr>[ˊkləυðzhɔ:s]</tr><word>n
+рама для сушки белья</word></ar><ar><origin>clothesline</origin><tr>[ˊkləυðzlaɪn]</tr><word>n
+верёвка для развешивания и сушки белья</word></ar><ar><origin>clotted_cream</origin><tr>[ˏklɒtɪdˊkri:m]</tr><word>n
+густые топлёные сливки</word></ar><ar><origin>cloture</origin><tr></tr><word>амер. = closure 1, 2)</word></ar><ar><origin>cloudburst</origin><tr>[ˊklaυdbɜ:st]</tr><word>n
+ливень</word></ar><ar><origin>cloudland</origin><tr>[ˊklaυdlænd]</tr><word>n
+сказочная страна, мир грёз</word></ar><ar><origin>clout_nail</origin><tr>[ˊklaυtneɪl]</tr><word>n
+гвоздь с плоской шляпкой; штукатурный гвоздь</word></ar><ar><origin>clove_hitch</origin><tr>[ˏkləυvˊhɪtʃ]</tr><word>n
+мор. выбленочный узел</word></ar><ar><origin>club_sandwich</origin><tr>[ˏklʌbˊsændwɪdʒ]</tr><word>n
+трёхслойный бутерброд</word></ar><ar><origin>clubfoot</origin><tr></tr><word>1. n косолапость; изуродованная ступня
+2. a = clubfooted</word></ar><ar><origin>clubfooted</origin><tr>[ˏklʌbˊfυtɪd]</tr><word>a
+косолапый, с изуродованной ступнёй</word></ar><ar><origin>clued-up</origin><tr>[ˊklu:dʌp]</tr><word>a
+осведомлённый;
+to be clued-up быть в курсе дел</word></ar><ar><origin>Clydesdale</origin><tr>[ˊklaɪdzdeɪl]</tr><word>n
+клейдесдальская порода лошадей-тяжеловозов</word></ar><ar><origin>co-determination</origin><tr>[ˏkəυdɪtɜ:mɪˊneɪʃn]</tr><word>n
+совместное определение политики (между предпринимателями и рабочими)</word></ar><ar><origin>co-latitude</origin><tr>[kəυˊlætɪtju:d]</tr><word>n
+астр. дополнение широты</word></ar><ar><origin>co-worker</origin><tr>[ˏkəυˊwɜ:kə]</tr><word>n
+сотрудник</word></ar><ar><origin>coach_box</origin><tr>[ˊkəυtʃbɒks]</tr><word>n
+козлы</word></ar><ar><origin>coach_house</origin><tr>[ˊkəυtʃhaυs]</tr><word>n
+каретный сарай</word></ar><ar><origin>coal_black</origin><tr>[ˊkəυlˏblæk]</tr><word>a
+чёрный как смоль</word></ar><ar><origin>coal_gas</origin><tr>[ˊkəυlgæs]</tr><word>n
+каменноугольный газ, светильный газ</word></ar><ar><origin>coal_measures</origin><tr>[ˊkəυlˏmeʒəz]</tr><word>n pl
+геол. каменноугольные пласты; каменноугольная свита; каменноугольные отложения</word></ar><ar><origin>coal_miner</origin><tr>[ˊkəulmaɪnə]</tr><word>n
+шахтёр</word></ar><ar><origin>coal_seam</origin><tr>[ˊkəυlsi:m]</tr><word>= coal-bed</word></ar><ar><origin>coal_tar</origin><tr>[ˊkəυltɑ:]</tr><word>n
+каменноугольная смола, каменноугольный дёготь</word></ar><ar><origin>coal-plough_machine</origin><tr>[ˊkəυlplaυməˏʃi:n]</tr><word>n
+угольный комбайн</word></ar><ar><origin>coalfield</origin><tr>[ˊkəυlfi:ld]</tr><word>n
+каменноугольный бассейн; месторождение каменного угля</word></ar><ar><origin>coalhole</origin><tr>[ˊkəυlhəυl]</tr><word>n
+1) подвал для хранения угля
+2) люк для спуска угля в подвал</word></ar><ar><origin>coaling_station</origin><tr>[ˊkəυlɪŋˏsteɪʃn]</tr><word>n
+угольная станция, угольная база</word></ar><ar><origin>coalmine</origin><tr>[ˊkəυlmaɪn]</tr><word>n
+угольная шахта, копь</word></ar><ar><origin>coast_waiter</origin><tr>[ˊkəυstˏweɪtə]</tr><word>n
+таможенный чиновник, надзирающий за каботажными судами</word></ar><ar><origin>coast_warning</origin><tr>[ˊkəυstˏwɔ:nɪŋ]</tr><word>n
+мор. штормовой сигнал</word></ar><ar><origin>coauthor</origin><tr>[ˏkəυˊɔ:θə]</tr><word>n
+соавтор</word></ar><ar><origin>cobblestone</origin><tr>[ˊkɒblstəυn]</tr><word>= cobble Ⅰ, 1, 1)</word></ar><ar><origin>cobnut</origin><tr>[ˊkɒbnʌt]</tr><word>n
+род волошского ореха, фундук</word></ar><ar><origin>cocci</origin><tr>[ˊkɒksaɪ]</tr><word>pl от coccus</word></ar><ar><origin>cochleae</origin><tr>[ˊkɒklɪi:]</tr><word>pl от cochlea</word></ar><ar><origin>-cock</origin><tr></tr><word>в сложных словах означает самца птиц</word></ar><ar><origin>cock_sparrow</origin><tr>[ˊkɒkˏspærəυ]</tr><word>n
+1) воробей-самец
+2) забияка, задира</word></ar><ar><origin>cock-up</origin><tr>[ˊkɒkʌp]</tr><word>n
+разг.
+1) промах, оплошность
+2) неразбериха</word></ar><ar><origin>Cockaigne</origin><tr>[kɒˊkeɪn]</tr><word>n
+сказочная страна изобилия и праздности;
+the land of Cockaigne ирон. Лондон и его окрестности</word></ar><ar><origin>Cockayne</origin><tr>[kɒˊkeɪn]</tr><word>= Cockaigne</word></ar><ar><origin>cockcrow</origin><tr>[ˊkɒkkrəυ]</tr><word>n
+время, когда начинают петь петухи, рассвет</word></ar><ar><origin>cocked_hat</origin><tr>[ˊkɒkthæt]</tr><word>n
+1) треуголка
+2) письмо, сложенное треугольником</word></ar><ar><origin>Cocker</origin><tr>[ˊkɒkə]</tr><word>n:
+according to Cocker как по Кокеру (Кокер — автор учебника арифметики в ⅩⅦ в.), точно, совершенно правильно</word></ar><ar><origin>cocker_spaniel</origin><tr>[ˊkɒkəˊspænjə]</tr><word>n
+кокер-спаниель (охотничья собака)</word></ar><ar><origin>cockeye</origin><tr></tr><word>1. n разг. косящий глаз
+2. a косой</word></ar><ar><origin>cockeyed</origin><tr>[ˏkɒkˊaɪd]</tr><word>a
+разг.
+1) косоглазый
+2) косой
+3) пьяный
+4) бестолковый, дурацкий</word></ar><ar><origin>cockfight</origin><tr>[ˊkɒkˏfaɪt(ɪŋ)]</tr><word>n
+петушиный бой</word></ar><ar><origin>cockfighting</origin><tr>[ˊkɒkˏfaɪt(ɪŋ)]</tr><word>n
+петушиный бой</word></ar><ar><origin>cockhorse</origin><tr></tr><word>1. n палочка-лошадка (детская игрушка)
+2. adv верхом на палочке</word></ar><ar><origin>cockleshell</origin><tr>[ˊkɒklʃel]</tr><word>n
+1) раковина
+2) «скорлупка», утлое судёнышко, утлая лодчонка</word></ar><ar><origin>cockloft</origin><tr>[ˊkɒklɒft]</tr><word>n
+1) мансарда
+2) чердак</word></ar><ar><origin>cockshot</origin><tr>[ˊkɒkʃɒt]</tr><word>= cockshy 2)</word></ar><ar><origin>cockshy</origin><tr>[ˊkɒkʃaɪ]</tr><word>n
+1) народная игра (в которой участвующий, попадая в мишень палкой, получает приз)
+2) мишень</word></ar><ar><origin>cocksure</origin><tr>[ˏkɒkˊʃɔ:]</tr><word>a
+1) вполне уверенный;
+I was cocksure of (или about) his horse я был уверен, что его лошадь выиграет
+2) самоуверенный
+3) неизбежный (о событии)</word></ar><ar><origin>coco_palm</origin><tr>[ˊkəυkəpɑ:lm]</tr><word>n
+кокосовая пальма</word></ar><ar><origin>coconut_tree</origin><tr>[ˊkəυkənʌtˏtri:]</tr><word>n
+кокосовая пальма</word></ar><ar><origin>cocooned</origin><tr>[kəˊku:nd]</tr><word>a
+завёрнутый (во что-л.); покрытый, укрытый (чем-л.)</word></ar><ar><origin>cocotte</origin><tr>[kəˊkɒt]</tr><word>n
+кокотница, порционная кастрюлечка</word></ar><ar><origin>cod-liver_oil</origin><tr>[ˏkɒdlɪvərˊɔɪl]</tr><word>n
+рыбий жир</word></ar><ar><origin>code_word</origin><tr>[ˊkəυdwɔ:d]</tr><word>n
+1) код, кодовое слово
+2) эвфемизм</word></ar><ar><origin>coded</origin><tr>[ˊkəυdɪd]</tr><word>a
+1) закодированный; шифрованный
+2) завуалированный</word></ar><ar><origin>coder</origin><tr>[ˊkəυdə]</tr><word>n
+информ. кодер, кодирующее устройство</word></ar><ar><origin>codfish</origin><tr>[ˊkɒdfɪʃ]</tr><word>= cod Ⅰ</word></ar><ar><origin>codices</origin><tr>[ˊkəυdɪsi:z]</tr><word>pl от codex</word></ar><ar><origin>coding</origin><tr>[ˊkəυdɪŋ]</tr><word>n
+индексация; маркирование</word></ar><ar><origin>coeducation</origin><tr>[ˏkəυedjυˊkeɪʃn]</tr><word>n
+совместное обучение лиц обоего пола</word></ar><ar><origin>coffee_break</origin><tr>[ˊkɒfɪbreɪk]</tr><word>n
+короткий перерыв (в работе, чтобы выпить кофе)</word></ar><ar><origin>coffee_cup</origin><tr>[ˊkɒfɪkʌp]</tr><word>n
+кофейная чашка</word></ar><ar><origin>coffee_grinder</origin><tr>[ˊkɒfɪˏgraɪndə]</tr><word>n
+1) кофейная мельница
+2) воен. жарг. пулемёт</word></ar><ar><origin>coffee_grounds</origin><tr>[ˊkɒfɪgraυndz]</tr><word>n pl
+кофейная гуща</word></ar><ar><origin>coffee_mill</origin><tr>[ˊkɒfɪmɪl]</tr><word>n
+кофемолка, кофейная мельница</word></ar><ar><origin>coffee_table</origin><tr>[ˊkɒfɪˏteɪbl]</tr><word>n
+кофейный столик</word></ar><ar><origin>coffee-table_book</origin><tr>[ˊkɒfɪteɪblˏbυk]</tr><word>n
+хорошо иллюстрированное подарочное издание большого формата (часто по искусству)</word></ar><ar><origin>coffeehouse</origin><tr>[ˊkɒfɪhaυs]</tr><word>n
+кафе</word></ar><ar><origin>coffeepot</origin><tr>[ˊkɒfɪpɒt]</tr><word>n
+кофейник</word></ar><ar><origin>cofferdam</origin><tr>[ˊkɒfədæm]</tr><word>n
+гидр. кессон для подводных работ, кофердам; перемычка; водонепроницаемая крепь</word></ar><ar><origin>coffin_bone</origin><tr>[ˊkɒfɪnbəυn]</tr><word>n
+копытная кость</word></ar><ar><origin>cognoscenti</origin><tr>[ˏkɒnjəυˊʃentɪ]</tr><word>pl от cognoscente</word></ar><ar><origin>cogwheel</origin><tr>[ˊkɒgwi:l]</tr><word>n
+тех. зубчатое колесо</word></ar><ar><origin>coil_pipe</origin><tr>[ˊkɔɪlpaɪp]</tr><word>n
+тех. змеевик</word></ar><ar><origin>coin_box</origin><tr>[ˊkɔɪnbɒks]</tr><word>n
+телефон-автомат</word></ar><ar><origin>col_82f</origin><tr>[ˏkɒl-, ˏkəl-]</tr><word>pref
+см. com-</word></ar><ar><origin>cold_chisel</origin><tr>[ˏkəυldˊtʃɪzl]</tr><word>n
+тех. слесарное или ручное зубило</word></ar><ar><origin>cold_cream</origin><tr>[ˊkəυldkri:m]</tr><word>n
+кольдкрем</word></ar><ar><origin>cold_fish</origin><tr>[ˏkəυldˊfɪʃ]</tr><word>n
+разг. холодный, бесчувственный человек; «рыба»</word></ar><ar><origin>cold_shoulder</origin><tr>[ˏkəυldˊʃəυldə]</tr><word>n
+холодный приём;
+to give smb. the cold shoulder оказать кому-л. холодный приём, принять кого-л. холодно, неприветливо</word></ar><ar><origin>cold_storage</origin><tr>[ˏkəυldˊstɔ:rɪdʒ]</tr><word>n
+1) хранение в холодильнике
+2) замораживание (идеи и т.п.)</word></ar><ar><origin>cold_turkey</origin><tr>[ˏkəυldˊtɜ:kɪ]</tr><word>n
+разг. ломка (у наркоманов)</word></ar><ar><origin>cold-short</origin><tr>[ˏkəυldˊʃɔ:t]</tr><word>a
+хладноломкий (о стали)</word></ar><ar><origin>coldframe</origin><tr>[ˊkəυldfreɪm]</tr><word>n
+теплица</word></ar><ar><origin>coldhearted</origin><tr>[ˏkəυldˊhɑ:tɪd]</tr><word>a
+бессердечный, чёрствый</word></ar><ar><origin>Coliseum</origin><tr>[ˏkɒləˊsi:əm]</tr><word>n
+Колизей (в Риме)</word></ar><ar><origin>collarbone</origin><tr>[ˊkɒləbəυn]</tr><word>n
+анат. ключица</word></ar><ar><origin>collateral_damage</origin><tr>[kəˏlætərəlˊdæmɪdʒ]</tr><word>n
+неумышленное или сопутствующее повреждение (во время военных действий)</word></ar><ar><origin>collective_farm</origin><tr>[kəˏlektɪvˊfɑ:m]</tr><word>n
+ист. колхоз</word></ar><ar><origin>collective_farmer</origin><tr>[kəˏlektɪvˊfɑ:mə]</tr><word>n
+ист. колхозник; колхозница</word></ar><ar><origin>collectivism</origin><tr>[kəˊlektɪˏvɪzǝm]</tr><word>n
+коллективизм</word></ar><ar><origin>collector_s_item</origin><tr>[kəˊlektəzˏaɪtəm]</tr><word>n
+предмет коллекционирования; редкий, уникальный экземпляр</word></ar><ar><origin>collocate</origin><tr>[ˊkɒləkeɪt]</tr><word>v
+располагать; расстанавливать</word></ar><ar><origin>collop</origin><tr>[ˊkɒləp]</tr><word>n
+ломтик мяса, эскалоп</word></ar><ar><origin>Colombian</origin><tr></tr><word>1. a колумбийский
+2. n колумбиец; колумбийка</word></ar><ar><origin>Colorado_beetle</origin><tr>[ˏkɒlərɑ:dəυˊbi:tl]</tr><word>n
+колорадский жук</word></ar><ar><origin>Colosseum</origin><tr>[ˏkɒləˊsi:əm]</tr><word>= Coliseum</word></ar><ar><origin>colossi</origin><tr>[kəˊlɒsaɪ]</tr><word>pl от colossus</word></ar><ar><origin>colour_bar</origin><tr>[ˊkʌləbɑ:]</tr><word>n
+«цветной барьер», расовая дискриминация</word></ar><ar><origin>colour_blindness</origin><tr>[ˊkʌləˏblaɪndnəs]</tr><word>n
+дальтонизм, неспособность различать цвета</word></ar><ar><origin>colour_film</origin><tr>[ˊkʌləˏfɪlm]</tr><word>n
+1) цветной фильм
+2) цветная плёнка</word></ar><ar><origin>colour_filter</origin><tr>[ˊkʌləˏfɪltə]</tr><word>n
+фото светофильтр</word></ar><ar><origin>colour_supplement</origin><tr>[ˏkʌləˊsʌplɪmənt]</tr><word>n
+иллюстрированное приложение (цветной журнал как приложение к газете)</word></ar><ar><origin>colour-fast</origin><tr>[ˊkʌləfɑ:st]</tr><word>a
+стойкий, прочный (о краске); невыцветающий (о ткани)</word></ar><ar><origin>colouring_book</origin><tr>[ˊkʌlərɪŋbυk]</tr><word>n
+альбом для раскрашивания</word></ar><ar><origin>colourwash</origin><tr></tr><word>1. n клеевая краска
+2. v красить клеевой краской</word></ar><ar><origin>colposcopy</origin><tr>[ˏkɒlˊpɒskəpɪ]</tr><word>n
+мед. обследование влагалища и шейки матки</word></ar><ar><origin>Colt</origin><tr>[kəυlt]</tr><word>n
+1) кольт (револьвер или пистолет)
+2) attr.:
+Colt machine-gun станковый пулемёт Кольта</word></ar><ar><origin>colubrine</origin><tr>[ˊkɒljυbraɪn]</tr><word>a
+змеиный, змееподобный</word></ar><ar><origin>columbaria</origin><tr>[ˏkɒləmˊbeərɪə]</tr><word>pl от columbarium</word></ar><ar><origin>Columbian</origin><tr></tr><word>1. a
+1) колумбийский
+2) относящийся к Колумбу
+3) относящийся к Америке
+2. n полигр. кегель в 16 пунктов</word></ar><ar><origin>Columbine</origin><tr>[ˊkɒləmbaɪn]</tr><word>n
+коломбина</word></ar><ar><origin>com</origin><tr>[kɒm-]</tr><word>(тж. col-, con-, cor- — в зависимости от последующего звука) pref
+1) означает совместимость или взаимность действия; напр.:
+collaborate сотрудничать
+2) означает завершённость или полноту действия; напр.:
+conclude завершать;
+compete соревноваться;
+corrupt портить</word></ar><ar><origin>comae</origin><tr>[ˊkəυmi:]</tr><word>pl от coma Ⅱ</word></ar><ar><origin>combats</origin><tr>[ˊkɒmbæts]</tr><word>n pl
+разг. широкие просторные брюки</word></ar><ar><origin>combination_room</origin><tr>[ˏkɒmbɪˊneɪʃnru:m]</tr><word>= common room</word></ar><ar><origin>combine_harvester</origin><tr>[ˏkɒmbaɪnˊhɑ:vəstə]</tr><word>n
+с.-х. комбайн</word></ar><ar><origin>combing_machine</origin><tr>[ˊkəυmɪŋməˏʃi:n]</tr><word>n
+текст. гребнечесальная машина</word></ar><ar><origin>combs</origin><tr>[kɒmz]</tr><word>pl
+разг. = combination 4)</word></ar><ar><origin>combust</origin><tr>[kəmˊbʌst]</tr><word>v
+1) сжигать
+2) гореть, воспламеняться</word></ar><ar><origin>comeback</origin><tr>[ˊkʌmbæk]</tr><word>n
+1) возвращение (к власти, популярности и т.п.);
+to make a sharp comeback возникать с новой силой
+2) возражение; остроумный ответ, ехидная реплика
+3) выздоровление; возвращение в нормальное состояние;
+to make a complete comeback окончательно поправиться
+4) возмездие; воздание по заслугам</word></ar><ar><origin>comedones</origin><tr>[ˏkɒmɪˊdəυni:z]</tr><word>pl от comedo</word></ar><ar><origin>comedown</origin><tr>[ˊkʌmdaυn]</tr><word>n
+1) ухудшение; деградация
+2) разочарование
+3) падение; спуск</word></ar><ar><origin>comfort_station</origin><tr>[ˊkʌmfətˏsteɪʃn]</tr><word>n
+амер. эвф. общественная уборная</word></ar><ar><origin>comic_book</origin><tr></tr><word>амер. = comic 2 1)</word></ar><ar><origin>comings_and_goings</origin><tr>[ˏkʌmɪŋzənˊgəυɪŋz]</tr><word>n
+приход и уход; приезд и отъезд</word></ar><ar><origin>command_economy</origin><tr>[kəˊmɑ:ndɪˏkɒnəmɪ]</tr><word>n
+командная экономика</word></ar><ar><origin>command_module</origin><tr>[kəˊmɑ:ndˏmɒdju:l]</tr><word>n
+основной блок, командный отсек (космического корабля)</word></ar><ar><origin>Commander-in-Chief</origin><tr>[kəˏmɑ:ndər-ɪnˊtʃi:f]</tr><word>n
+1) главнокомандующий; командующий войсками округа
+2) мор. командующий флотом или отдельной эскадрой</word></ar><ar><origin>comme_il_faut</origin><tr></tr><word>фр. a комильфо, благопристойный, надлежащий (о поведении)</word></ar><ar><origin>commercial_bank</origin><tr>[kəˏmɜ:ʃəlˊbæŋk]</tr><word>n
+коммерческий банк</word></ar><ar><origin>commercial_break</origin><tr>[kəˏmɜ:ʃəlˊbreɪk]</tr><word>n
+рекламная пауза</word></ar><ar><origin>Commie</origin><tr>[ˊkɒmɪ]</tr><word>n
+сл. пренебр. коммунист</word></ar><ar><origin>commination</origin><tr>[ˏkɒmɪˊneɪʃn]</tr><word>n
+книжн. угроза возмездия</word></ar><ar><origin>committeeman</origin><tr>[kəˊmɪtɪmən]</tr><word>n
+член комиссии или комитета</word></ar><ar><origin>common_cold</origin><tr>[ˏkɒmənˊkəυld]</tr><word>n
+обыкновенная простуда</word></ar><ar><origin>common_council</origin><tr>[ˊkɒmənˏkaυnsl]</tr><word>n
+муниципальный совет</word></ar><ar><origin>common_denominator</origin><tr>[ˏkɒməndɪnɒmɪˏneɪtə]</tr><word>n
+мат. общий знаменатель</word></ar><ar><origin>common_ground</origin><tr>[ˏkɒmənˊgraυnd]</tr><word>n
+общая позиция; взаимопонимание</word></ar><ar><origin>common_law</origin><tr>[ˏkɒmənˊlɔ:]</tr><word>n
+юр. общее право; обычное право; некодифицированное право</word></ar><ar><origin>common_room</origin><tr>[ˊkɒmənru:m]</tr><word>n
+общая комната, комната отдыха (в учебных заведениях)</word></ar><ar><origin>commonable</origin><tr>[ˊkɒmənəbl]</tr><word>a
+1) пасущийся на общественной земле (о скоте)
+2) находящаяся в общественном владении (о земле)</word></ar><ar><origin>commonplace_book</origin><tr>[ˊkɒmənpleɪsˏbυk]</tr><word>n
+тетрадь для заметок, общая тетрадь</word></ar><ar><origin>commonsensical</origin><tr>[ˏkɒmənˊsensɪkl]</tr><word>a
+отвечающий здравому смыслу</word></ar><ar><origin>communalize</origin><tr>[ˊkɒmjυnəˏlaɪz]</tr><word>v
+обобществлять</word></ar><ar><origin>Communard</origin><tr>[ˊkɒmjυnɑ:d]</tr><word>n
+коммунар, участник Парижской коммуны</word></ar><ar><origin>communion-table</origin><tr>[kəˊmju:nɪənˏteɪbl]</tr><word>n
+церк. престол</word></ar><ar><origin>communiqu%C3%A9</origin><tr>[kəˊmju:nɪkeɪ]</tr><word>n
+официальное сообщение; коммюнике</word></ar><ar><origin>community_service</origin><tr>[kəˏmju:nətɪˊsɜ:vɪs]</tr><word>n
+трудовая повинность (как форма наказания)</word></ar><ar><origin>commutable</origin><tr>[kəˊmju:təbl]</tr><word>a
+1) заменимый, заменяемый
+2) неокончательный (о приговоре)</word></ar><ar><origin>commuter_belt</origin><tr>[kəˊmju:təbelt]</tr><word>n
+пригородная зона</word></ar><ar><origin>commuterville</origin><tr>[kəˊmju:təvɪl]</tr><word>n
+пригород, где живут работающие в городе</word></ar><ar><origin>comp</origin><tr>[kɒmp]</tr><word>n
+разг.
+1) соревнование
+2) наборщик
+3) аккомпаниатор</word></ar><ar><origin>compact_disc</origin><tr>[kəmˏpæktˊdɪsk]</tr><word>n
+компакт-диск</word></ar><ar><origin>compages</origin><tr>[kəmˊpeɪdʒi:z]</tr><word>n
+спец. сложная система строения</word></ar><ar><origin>companionate</origin><tr>[kəmˊpænjənət]</tr><word>a
+1) подходящий
+2) дружеский</word></ar><ar><origin>companionway</origin><tr>[kəmˊpænjənweɪ]</tr><word>= companion-ladder</word></ar><ar><origin>company_car</origin><tr>[ˏkʌmpənɪˊkɑ:]</tr><word>n
+служебная машина</word></ar><ar><origin>company_checkers</origin><tr>[ˊkʌmpǝnɪˏtʃekəz]</tr><word>n pl
+амер. шпики, доносчики</word></ar><ar><origin>company_spotters</origin><tr>[ˊkʌmpǝnɪˏspɒtəz]</tr><word>= company checkers</word></ar><ar><origin>compass_point</origin><tr>[ˊkʌmpəspɔɪnt]</tr><word>n
+румб</word></ar><ar><origin>compendia</origin><tr>[kəmˊpendɪə]</tr><word>pl от compendium</word></ar><ar><origin>complainer</origin><tr>[kəmˊpleɪnə]</tr><word>n
+жалобщик</word></ar><ar><origin>-complexioned</origin><tr></tr><word>в сложных словах означает имеющий такой-то цвет лица; напр.:
+dark-complexioned смуглый;
+pale-complexioned бледнолицый</word></ar><ar><origin>comportment</origin><tr>[kəmˊpɔ:tmənt]</tr><word>n
+поведение, манера держаться</word></ar><ar><origin>compos</origin><tr></tr><word>лат. a юр. находящийся в здравом уме и твёрдой памяти; вменяемый</word></ar><ar><origin>compos_mentis</origin><tr></tr><word>лат. a юр. находящийся в здравом уме и твёрдой памяти; вменяемый</word></ar><ar><origin>composing_stick</origin><tr>[kəmˊpəυzɪŋstɪk]</tr><word>n
+полигр. верстатка</word></ar><ar><origin>compound_interest</origin><tr>[ˏkɔmpaυndˊɪntrɪst]</tr><word>n
+фин. сложные проценты</word></ar><ar><origin>compromising</origin><tr>[ˊkɔmprəmaɪzɪŋ]</tr><word>a
+компрометирующий;
+compromising situation компрометирующая ситуация</word></ar><ar><origin>computer_game</origin><tr>[kəmˊpju:təgeɪm]</tr><word>n
+компьютерная игра</word></ar><ar><origin>computer_literate</origin><tr>[kəmˏpju:təˊlɪtərɪt]</tr><word>a
+умеющий пользоваться компьютером</word></ar><ar><origin>computer_programmer</origin><tr>[kəmˊpju:təˏprəυgræmə]</tr><word>n
+программист</word></ar><ar><origin>computerization</origin><tr>[kəmˏpju:təraɪˊzeɪʃn]</tr><word>n
+компьютеризация</word></ar><ar><origin>comrades-in-arms</origin><tr>[ˏkɒmreɪdzɪnˊɑ:mz]</tr><word>pl от comrade-in-arms</word></ar><ar><origin>comsat</origin><tr>[ˊkɒmsæt]</tr><word>n (сокр. от communication satellite)
+спутник связи</word></ar><ar><origin>con_516</origin><tr></tr><word>см. com-</word></ar><ar><origin>concelebrate</origin><tr>[ˏkɒnˊseləbreɪt]</tr><word>v
+церк. совместно проводить службу</word></ar><ar><origin>concerti</origin><tr>[kənˊtʃeəti:]</tr><word>pl от concerto</word></ar><ar><origin>conchie</origin><tr>[ˊkɒntʃɪ]</tr><word>n
+уст. разг. = conscientious objector [см. conscientious]</word></ar><ar><origin>conchology</origin><tr>[kɒŋˊkɒlədʒɪ]</tr><word>n
+зоол. конхиология</word></ar><ar><origin>concilia</origin><tr>[kənˊsɪlɪə]</tr><word>pl от concilium</word></ar><ar><origin>concluding</origin><tr>[kənˊklu:dɪŋ]</tr><word>a
+заключительный; завершающий</word></ar><ar><origin>concrete_mixer</origin><tr>[ˏkɔŋkri:tˊmɪksə]</tr><word>n
+тех. бетономешалка</word></ar><ar><origin>concurrently</origin><tr>[kənˊkʌrəntlɪ]</tr><word>adv
+одновременно</word></ar><ar><origin>condensate</origin><tr>[ˊkɒndenseɪt]</tr><word>n
+тех. конденсат, (жидкий) продукт конденсации</word></ar><ar><origin>conditional_discharge</origin><tr>[kənˏdɪʃənəlˊdɪstʃɑ:dʒ]</tr><word>n
+юр. условное оправдание (до следующего правонарушения)</word></ar><ar><origin>condo</origin><tr></tr><word>разг. сокр. от condominium</word></ar><ar><origin>condonable</origin><tr>[kənˊdəυnəbl]</tr><word>a
+заслуживающий прощения</word></ar><ar><origin>conducted_tour</origin><tr>[kənˊdʌktɪdˊtυə]</tr><word>n
+экскурсия с гидом</word></ar><ar><origin>confect</origin><tr>[kənˊfekt]</tr><word>v
+1) делать, создавать
+2) изготовлять сладости</word></ar><ar><origin>confectioner_s</origin><tr>[kənˊfekʃənəz]</tr><word>n (тж. confectioner's shop)
+кондитерская</word></ar><ar><origin>confessant</origin><tr>[kənˊfesǝnt]</tr><word>n
+исповедующийся</word></ar><ar><origin>confidence_trick</origin><tr>[ˊkɒnfɪdənsˏtrɪk]</tr><word>n
+мошенничество</word></ar><ar><origin>confidentiality</origin><tr>[ˏkɒnfɪdenʃɪˊælɪtɪ]</tr><word>n
+конфиденциальность</word></ar><ar><origin>confirmand</origin><tr>[ˊkɒnfəˏmænd]</tr><word>n
+церк. готовящийся к конфирмации; конфирмант</word></ar><ar><origin>confr%C3%A8re</origin><tr></tr><word>фр. n собрат, коллега</word></ar><ar><origin>Confucianism</origin><tr>[kənˊfju:ʃnˏɪzǝm]</tr><word>n
+учение Конфуция</word></ar><ar><origin>Congolese</origin><tr></tr><word>1. a конголезский
+2. n (pl без измен.) конголезец; конголезка</word></ar><ar><origin>congrats</origin><tr>[kənˊgræts]</tr><word>int pl
+разг. (сокр. от congratulations) поздравляю!</word></ar><ar><origin>Congregationalism</origin><tr>[ˏkɒŋgrɪˊgeɪʃnə-lɪzǝm]</tr><word>n
+индепендентство; конгрегационализм</word></ar><ar><origin>Congressman</origin><tr>[ˊkɒŋgresmən]</tr><word>n
+амер. конгрессмен, член конгресса</word></ar><ar><origin>conjoined_twins</origin><tr>[kənˊdʒɔɪnd twɪnz]</tr><word>n pl
+сиамские близнецы</word></ar><ar><origin>conman</origin><tr>[ˊkɒnmæn]</tr><word>n
+мошенник</word></ar><ar><origin>connecting_rod</origin><tr>[kəˊnektɪŋrɒd]</tr><word>n
+тех. шатун, тяга</word></ar><ar><origin>conning_tower</origin><tr>[ˊkɒnɪŋˏtaυə]</tr><word>n
+мор. боевая рубка</word></ar><ar><origin>conscience-stricken</origin><tr>[ˊkɒnʃǝnsˏstrɪkǝn]</tr><word>a
+испытывающий угрызения совести</word></ar><ar><origin>-conscious</origin><tr></tr><word>в сложных словах означает сознающий, понимающий; напр.:
+class-conscious worker сознательный рабочий</word></ar><ar><origin>conservationist</origin><tr>[ˏkɒnsəˊveɪʃnɪst]</tr><word>n
+защитник природы; работник службы охраны природы</word></ar><ar><origin>considerably</origin><tr>[kənˊsɪdərəblɪ]</tr><word>adv
+значительно; гораздо</word></ar><ar><origin>considered</origin><tr>[kənˊsɪdəd]</tr><word>a
+обдуманный;
+considered response обдуманный ответ</word></ar><ar><origin>consociation</origin><tr>[kənˏsəυʃɪˊeɪʃn]</tr><word>n
+объединение</word></ar><ar><origin>consomm%C3%A9</origin><tr>[kɒnˊsɒmeɪ]</tr><word>n
+консоме, мясной бульон</word></ar><ar><origin>constantan</origin><tr>[ˊkɒnstəntən]</tr><word>n
+константан (сплав)</word></ar><ar><origin>consubstantial</origin><tr>[ˏkɒnsəbˊstænʃl]</tr><word>a
+рел. единосущный</word></ar><ar><origin>consul_general</origin><tr>[ˏkɒnsǝlˊdʒenǝrǝl]</tr><word>n
+генеральный консул</word></ar><ar><origin>consumables</origin><tr>[kənˊsju:məblz]</tr><word>n pl
+потребительские товары</word></ar><ar><origin>consumed</origin><tr>[kənˊsju:md]</tr><word>a
+охваченный, снедаемый (каким-л. чувством)</word></ar><ar><origin>consumer_durables</origin><tr>[kənˏsju:məˊdjυərəblz]</tr><word>n pl
+потребительские товары длительного пользования (напр. холодильник)</word></ar><ar><origin>consumerizm</origin><tr>[kənˊsju:mərɪzm]</tr><word>n
+1) потребительство
+2) защита прав потребителя</word></ar><ar><origin>contactman</origin><tr>[ˊkɒntæktmən]</tr><word>n
+разг.
+1) посредник
+2) пресс-секретарь; представитель учреждения</word></ar><ar><origin>container_ship</origin><tr>[kənˊteɪnəʃɪp]</tr><word>n
+контейнеровоз, контейнерное судно</word></ar><ar><origin>containerize</origin><tr>[kənˊteɪnəraɪz]</tr><word>v
+осуществлять контейнерные перевозки</word></ar><ar><origin>continental_breakfast</origin><tr>[ˏkɒntɪnentlˊbrekfəst]</tr><word>n
+«континентальный завтрак», лёгкий утренний завтрак (кофе и булочка с джемом)</word></ar><ar><origin>continuing_education</origin><tr>[kənˏtɪnju:ɪŋedjυˊkeɪʃən]</tr><word>n
+курсы вечернего обучения</word></ar><ar><origin>contra_d76</origin><tr></tr><word>в сложных словах означает противо-; напр.:
+contradis-tinction противоположность; противопоставление</word></ar><ar><origin>contracting_parties</origin><tr>[kənˏtræktɪŋˊpɑ:tɪz]</tr><word>n pl
+договаривающиеся стороны; контрактанты, контрагенты</word></ar><ar><origin>contrariwize</origin><tr>[kɒnˊtrərɪwaɪz]</tr><word>adv
+1) с другой стороны
+2) наоборот
+3) в противоположном направлении</word></ar><ar><origin>contrasty</origin><tr>[ˊkɒntrɑ:stɪ]</tr><word>a
+фото контрастный</word></ar><ar><origin>control_gear</origin><tr>[kənˊtrəυlgɪə]</tr><word>n
+тех. механизм управления</word></ar><ar><origin>control_panel</origin><tr>[kənˊtrəυlpænl]</tr><word>n
+пульт управления</word></ar><ar><origin>control_tower</origin><tr>[kənˊtrəυlˏtaυə]</tr><word>n
+контрольно-диспетчерский пункт (в аэропорту)</word></ar><ar><origin>control_unit</origin><tr>[kənˊtrəυlˏju:nɪt]</tr><word>n
+информ. блок управления</word></ar><ar><origin>conveniece_foods</origin><tr>[kənˊvi:nɪənsfu:dz]</tr><word>n pl
+(пищевые) полуфабрикаты</word></ar><ar><origin>conversazioni</origin><tr>[ˏkɒnvəsætsɪˊəυni:]</tr><word>pl от conversazione</word></ar><ar><origin>conveyor</origin><tr>[kənˊveɪə]</tr><word>n
+тех.
+1) конвейер; транспортёр
+2) attr.:
+conveyor screw винтовой (или шнековый) транспортёр</word></ar><ar><origin>conveyor_belt</origin><tr>[kənˊveɪəbəlt]</tr><word>n
+конвейерная, транспортёрная лента</word></ar><ar><origin>cook_up</origin><tr>[ˊkυkʌp]</tr><word>v
+разг. выдумать, придумать</word></ar><ar><origin>cook-chill</origin><tr>[ˊkuktʃɪl]</tr><word>a
+охлаждённый (о продуктах);
+cook-chill food замороженные полуфабрикаты</word></ar><ar><origin>cookery_book</origin><tr>[ˊkυkǝrɪbυk]</tr><word>n = cookbook</word></ar><ar><origin>cookhouse</origin><tr>[ˊkυkhaυs]</tr><word>n
+походная или судовая кухня</word></ar><ar><origin>cookout</origin><tr>[ˊkυkaυt]</tr><word>n
+амер. пикник, на котором главное блюдо — жареное мясо</word></ar><ar><origin>cookware</origin><tr>[ˊkυkweə]</tr><word>n
+кухонная посуда, кастрюли, сковородки и т.п.</word></ar><ar><origin>coolheaded</origin><tr>[ˏku:lˊhedɪd]</tr><word>a
+хладнокровный, спокойный</word></ar><ar><origin>cooling-off_period</origin><tr>[ˏku:lɪŋˊɒfˏpɪərɪəd]</tr><word>n
+период обдумывания и переговоров</word></ar><ar><origin>cooperate</origin><tr>[kəυˊɒpəreɪt]</tr><word>v
+1) сотрудничать
+2) содействовать; способствовать
+3) кооперироваться; объединяться
+4) воен. взаимодействовать (with, in, for)</word></ar><ar><origin>cooperation</origin><tr>[kəυˏɒpəˊreɪʃn]</tr><word>n
+1) сотрудничество; совместные действия;
+in cooperation with smb. в сотрудничестве с кем-л.
+2) кооперация
+3) воен. взаимодействие</word></ar><ar><origin>cooperative</origin><tr></tr><word>1. a
+1) совместный, объединённый, согласованно действующий;
+in a cooperative spirit в духе сотрудничества
+2) кооперативный
+2. n кооператив; кооперативное общество; кооперативный магазин (тж. cooperative shop);
+consumers' cooperative потребительский кооператив;
+producers' cooperative производственный кооператив</word></ar><ar><origin>cooperator</origin><tr>[kəυˊɒpəreɪtə]</tr><word>n
+1) сотрудник
+2) кооператор</word></ar><ar><origin>coordinate</origin><tr>[kəυˊɔ:dɪneɪt]</tr><word>1) одного разряда, той же степени
+2) одного ранга, не подчинённый
+3) грам. сочинённый (о предложении);
+coordinate conjunction сочинительный союз
+2. n [kəυˊɔ:dɪnət]
+1) pl мат. координаты; система координат
+2) равный, ровня (по положению и т.п.)
+3) pl комплект одежды (составляющий один ансамбль)
+3. v [kəυˊɔ:dɪneɪt] координировать, устанавливать правильное соотношение; согласовывать</word></ar><ar><origin>coordination</origin><tr>[kəυˏɔ:dɪˊneɪʃn]</tr><word>n
+1) координация; согласование
+2) грам. сочинение</word></ar><ar><origin>copacetic</origin><tr></tr><word>амер. sl. отличный, первоклассный</word></ar><ar><origin>copestone</origin><tr>[ˊkəυpstəυn]</tr><word>n
+1) карнизный камень
+2) завершение; последнее слово (науки и т.п.);
+it was the copestone of his misfortunes это было для него последним ударом</word></ar><ar><origin>copingstone</origin><tr>[ˊkəυpɪŋstəυn]</tr><word>= copestone</word></ar><ar><origin>coppersmith</origin><tr>[ˊkɒpəsmɪθ]</tr><word>n
+медник; котельщик</word></ar><ar><origin>coproduction</origin><tr>[ˏkəυprəˊdʌkʃn]</tr><word>n
+совместное производство фильма, совместная постановка спектакля и т.п.</word></ar><ar><origin>Copt</origin><tr>[kɒpt]</tr><word>n
+копт</word></ar><ar><origin>_copter</origin><tr></tr><word>сокр. от helicopter</word></ar><ar><origin>Coptic</origin><tr></tr><word>1. a коптский
+2. n коптский язык</word></ar><ar><origin>copybook</origin><tr>[ˊkɒpɪbυk]</tr><word>n
+1) тетрадь с прописями
+2) тетрадь или папка, содержащая копии писем или других документов
+◊ copybook maxims прописные истины;
+copybook morality ходячая мораль;
+a copybook performance нехитрое дело, несложная задача</word></ar><ar><origin>copying_pencil</origin><tr>[ˊkɒpɪɪŋˏpensl]</tr><word>n
+химический карандаш</word></ar><ar><origin>copyreader</origin><tr>[ˊkɒpɪˏri:də]</tr><word>n
+амер.
+1) = copyholder 2);
+2) помощник редактора (газеты)</word></ar><ar><origin>copywriter</origin><tr>[ˊkɔpɪraɪtə]</tr><word>n
+составитель рекламных объявлений, проспектов</word></ar><ar><origin>coral_island</origin><tr>[ˊkɒrǝlˏaɪlənd]</tr><word>n
+коралловый остров</word></ar><ar><origin>coral_reef</origin><tr>[ˊkɒrǝlri:f]</tr><word>n
+коралловый риф</word></ar><ar><origin>cordon_bleu</origin><tr>[ˏkɔ:dɒŋˊblɜ:]</tr><word>n
+1) важная персона
+2) первоклассный повар</word></ar><ar><origin>coreligionist</origin><tr>[ˏkəυrɪˊlɪdʒǝnɪst]</tr><word>n
+исповедующий ту же веру, единоверец</word></ar><ar><origin>Corinthian</origin><tr></tr><word>1. a коринфский;
+Corinthian order архит. коринфский ордер
+2. n
+1) коринфянин
+2) уст. светский человек
+3) состоятельный человек, увлекающийся спортом</word></ar><ar><origin>corkscrew</origin><tr></tr><word>1. n штопор
+2. a спиральный, винтообразный;
+corkscrew spin ав. спуск штопором
+3. v
+1) двигаться (как) по спирали
+2) протискиваться, пробиваться
+3) ав. вводить самолёт в штопор</word></ar><ar><origin>corn_cockle</origin><tr>[ˊkɔ:nˏkɒkl]</tr><word>n
+бот. куколь обыкновенный</word></ar><ar><origin>corn_dodger</origin><tr>[ˊkɔ:ndɒdʒə]</tr><word>= dodger 3)</word></ar><ar><origin>corn_pone</origin><tr>[ˊkɔ:npəυn]</tr><word>n
+амер. кукурузная лепёшка</word></ar><ar><origin>corncob</origin><tr>[ˊkɔ:nkɒb]</tr><word>n
+кочерыжка кукурузного початка</word></ar><ar><origin>corncrake</origin><tr>[ˊkɔ:nkreɪk]</tr><word>n
+коростель (птица)</word></ar><ar><origin>corneal</origin><tr>[ˊkɔ:nɪəl]</tr><word>a
+анат. роговичный</word></ar><ar><origin>cornercutting</origin><tr>[ˊkɔ:nəˏkʌtɪŋ]</tr><word>n
+разг. выбор кратчайшего пути</word></ar><ar><origin>cornerman</origin><tr>[ˊkɔ:nəmən]</tr><word>n
+1) исполнитель комической роли в негритянском ансамбле
+2) уличный зевака
+3) крупный (биржевой) спекулянт [см. corner 2, 2)]</word></ar><ar><origin>cornerstone</origin><tr>[ˊkɔ:nəstəυn]</tr><word>n
+1) архит. угловой камень
+2) краеугольный камень</word></ar><ar><origin>cornet-%C3%A0-pistons</origin><tr>[ˏkɔ:nɪtəˊpɪstənz]</tr><word>фр. n (pl cornets-а-pistons)
+муз. корнет, корнет-а-пистон</word></ar><ar><origin>cornets-%C3%A0-pistons</origin><tr>[ˏkɔ:nɪtəˊpɪstənz]</tr><word>pl от cornet-à-pistons</word></ar><ar><origin>cornfield</origin><tr>[ˊkɔ:nfi:ld]</tr><word>n
+поле, нива; амер. кукурузное поле</word></ar><ar><origin>cornflakes</origin><tr>[ˊkɔ:nfleɪks]</tr><word>n pl
+корнфлекс, кукурузные хлопья</word></ar><ar><origin>cornflour</origin><tr>[ˊkɔ:nflaυə]</tr><word>n
+кукурузная, рисовая (в Шотландии — овсяная) мука</word></ar><ar><origin>cornflower</origin><tr>[ˊkɔ:nflaυə]</tr><word>n
+василёк (синий)</word></ar><ar><origin>Cornish</origin><tr></tr><word>1. a корнуоллский
+2. n ист. корнуоллский, корнийский язык</word></ar><ar><origin>cornmeal</origin><tr>[ˊkɔ:nmi:l]</tr><word>n
+кукурузная мука</word></ar><ar><origin>corpora</origin><tr>[ˊkɔ:pǝrə]</tr><word>pl от corpus</word></ar><ar><origin>corporation_tax</origin><tr>[kɔ:pəˊreɪʃənˏtæks]</tr><word>n
+корпорационный налог (с доходов компаний или корпораций)</word></ar><ar><origin>corporative</origin><tr>[ˊkɔ:pərətɪv]</tr><word>= corporate</word></ar><ar><origin>corps_de_ballet</origin><tr></tr><word>фр. n кордебалет</word></ar><ar><origin>Corpus_Christi</origin><tr>[ˏkɔ:pəsˊkrɪstɪ]</tr><word>n
+церк. праздник тела Христова</word></ar><ar><origin>corpus_delicti</origin><tr></tr><word>лат. n юр. состав преступления</word></ar><ar><origin>corresponding_member</origin><tr>[kɒrəˏspɒndɪŋˊmembə]</tr><word>n
+член-корреспондент (академии наук и т.п.)</word></ar><ar><origin>corrida</origin><tr>[kɒˊri:də]</tr><word>n
+коррида, бой быков</word></ar><ar><origin>corrigenda</origin><tr>[ˏkɒrɪˊdʒendə]</tr><word>pl от corrigendum</word></ar><ar><origin>corroded</origin><tr>[kəˊrəυdɪd]</tr><word>a
+ржавый, проржавевший</word></ar><ar><origin>corsac</origin><tr>[ˊkɔ:sæk]</tr><word>n
+лиса корсак</word></ar><ar><origin>Cortes</origin><tr>[ˊkɔ:tes]</tr><word>n pl
+кортесы (парламент в Испании, Португалии)</word></ar><ar><origin>cortices</origin><tr>[ˊkɔ:tɪsi:z]</tr><word>pl от cortex</word></ar><ar><origin>coruscating</origin><tr>[ˊkɔrəskeɪt]</tr><word>a
+сверкающий, блестящий</word></ar><ar><origin>corv%C3%A9e</origin><tr>[ˊkɔ:veɪ]</tr><word>n
+1) ист. барщина
+2) тяжёлая, подневольная работа</word></ar><ar><origin>coryphaei</origin><tr>[ˏkɒrɪˊfi:aɪ]</tr><word>pl от coryphaeus</word></ar><ar><origin>coryph%C3%A9e</origin><tr>[ˏkɒrɪˊfeɪ]</tr><word>n
+корифейка (в балете)</word></ar><ar><origin>_cos</origin><tr>[kəz]</tr><word>= because</word></ar><ar><origin>cosignatory</origin><tr>[ˏkəυˊsɪgnətǝrɪ]</tr><word>n
+юр. лицо или государство, подписывающее соглашение вместе с другими лицами или государствами</word></ar><ar><origin>cosmetic_surgery</origin><tr>[kɒzˊmetɪkˏsɜ:dʒǝrɪ]</tr><word>n
+косметическая хирургия</word></ar><ar><origin>cosmopolis</origin><tr>[ˏkɒzməˊpɒlɪs]</tr><word>n
+огромный город; столица мира</word></ar><ar><origin>Cossack</origin><tr>[ˊkɒsæk]</tr><word>n
+1) казак
+2) attr. казацкий</word></ar><ar><origin>coster_monger</origin><tr>[ˊkɒstə(ˏmʌŋgə)]</tr><word>n
+уличный торговец фруктами, овощами, рыбой и т.п.</word></ar><ar><origin>costume_jewellery</origin><tr>[ˏkostju:mˊdʒu:əlrɪ]</tr><word>n
+бижутерия</word></ar><ar><origin>costume_piece</origin><tr>[ˊkɒstju:mˏpi:s]</tr><word>n
+театр. историческая пьеса</word></ar><ar><origin>cotenant</origin><tr>[kəυˊtenənt]</tr><word>n
+соарендатор</word></ar><ar><origin>cothurni</origin><tr>[kəυˊθɜ:naɪ]</tr><word>pl от cothurnus</word></ar><ar><origin>cotidal</origin><tr>[kəυˊtaɪdl]</tr><word>a:
+cotidal line котидальная линия (соединяющая пункты одновременного прилива)</word></ar><ar><origin>cottage_industry</origin><tr>[ˏkɒtɪdʒˊɪndəstrɪ]</tr><word>n
+надомное производство</word></ar><ar><origin>cotton_candy</origin><tr>[ˊkɒtnˏkændɪ]</tr><word>n
+амер. сахарная вата</word></ar><ar><origin>cotton_gin</origin><tr>[ˊkɒtndʒɪn]</tr><word>n
+текст. волокноотделитель</word></ar><ar><origin>cotton_grass</origin><tr>[ˊkɒtngrɑ:s]</tr><word>n
+бот. пушица</word></ar><ar><origin>cotton_mill</origin><tr>[ˊkɒtnmɪl]</tr><word>n
+хлопкопрядильная фабрика</word></ar><ar><origin>cotton_waste</origin><tr>[ˏkɒtnˊweɪst]</tr><word>n
+текст.
+1) обтирочный материал
+2) угар</word></ar><ar><origin>cotton_weed</origin><tr>[ˊkɒtnwi:d]</tr><word>= cudweed</word></ar><ar><origin>cotton_wool</origin><tr>[ˊkɒtnwυl]</tr><word>n
+1) хлопок-сырец
+2) вата</word></ar><ar><origin>cotton_yarn</origin><tr>[ˊkɒtnjɑ:n]</tr><word>n
+хлопчатобумажная пряжа</word></ar><ar><origin>Cottonopolis</origin><tr>[ˏkɒtəˊnɒpəlɪs]</tr><word>n
+шутл. г. Манчестер (как центр хлопчатобумажной промышленности)</word></ar><ar><origin>cottontail</origin><tr>[ˊkɒtnteɪl]</tr><word>n
+американский кролик</word></ar><ar><origin>couch_potato</origin><tr>[ˊkaυtʃpəˏteɪtəυ]</tr><word>n
+разг. лежебока; телевизионный фанат</word></ar><ar><origin>council_estate</origin><tr>[ˊkaυnsǝlɪˏsteɪt]</tr><word>n
+микрорайон, застроенный муниципальными домами (в Великобритании)</word></ar><ar><origin>counter_attraction</origin><tr>[ˏkaυntərəˊtrækʃn]</tr><word>n
+1) обратное притяжение
+2) отвлекающее средство</word></ar><ar><origin>counter_3f0</origin><tr>[ˏkaυntə-]</tr><word>pref
+противо-, контр-</word></ar><ar><origin>counterattack</origin><tr></tr><word>1. n контратака, контрнаступление
+2. v контратаковать</word></ar><ar><origin>counterclaim</origin><tr></tr><word>1. n встречный иск, контрпретензия
+2. v предъявлять встречный иск</word></ar><ar><origin>counterclockwise</origin><tr>[ˏkaυntəˊklɒkwaɪz]</tr><word>adv
+амер. против (движения) часовой стрелки</word></ar><ar><origin>counterespionage</origin><tr>[ˏkaυntərˊespɪənɑ:ʒ]</tr><word>n
+контрразведка</word></ar><ar><origin>counterintelligence</origin><tr>[ˏkaυntərɪnˊte-lɪdʒǝns]</tr><word>n
+контрразведка</word></ar><ar><origin>counterirritant</origin><tr>[ˏkaυntərˊɪrɪtǝnt]</tr><word>n
+мед. оттягивающее или отвлекающее средство</word></ar><ar><origin>countermeasure</origin><tr>[ˊkaυntəˏmeʒə]</tr><word>n
+контрмера</word></ar><ar><origin>counteroffensive</origin><tr>[ˏkaυntərəˊfensɪv]</tr><word>n
+воен. контрнаступление</word></ar><ar><origin>counterproductive</origin><tr>[ˊkaυntəprəˊdʌktɪv]</tr><word>a
+непродуктивный</word></ar><ar><origin>counterproposal</origin><tr>[ˊkaυntəprəˏpəυzl]</tr><word>n
+встречное предложение</word></ar><ar><origin>counterrevolution</origin><tr>[ˏkaυntərevəˊlu:ʃn]</tr><word>n
+контрреволюция</word></ar><ar><origin>counterrevolutionary</origin><tr></tr><word>1. n контрреволюционер
+2. a контрреволюционный</word></ar><ar><origin>countervailing_duty</origin><tr>[kaυntəˏveɪ-lɪŋˊdju:tɪ]</tr><word>n
+эк. компенсационная пошлина</word></ar><ar><origin>countinghouse</origin><tr>[ˊkaυntɪŋhaυs]</tr><word>n
+бухгалтерия</word></ar><ar><origin>country_cousin</origin><tr>[ˏkʌntrɪˊkʌzn]</tr><word>n
+1) родственник из провинции
+2) провинциал, впервые увидевший город</word></ar><ar><origin>country_dance</origin><tr>[ˏkʌntrɪˊdɑ:ns]</tr><word>n
+контрданс (танец)</word></ar><ar><origin>country_house</origin><tr>[ˏkʌntrɪˊhaυs]</tr><word>n
+загородный дом, дача</word></ar><ar><origin>country_party</origin><tr>[ˏkʌntrɪˊpɑ:tɪ]</tr><word>n
+аграрная партия</word></ar><ar><origin>country_seat</origin><tr>[ˏkʌntrɪˊsi:t]</tr><word>n
+поместье; имение</word></ar><ar><origin>country_town</origin><tr>[ˊkʌntrɪˏtaυn]</tr><word>n
+провинциальный город</word></ar><ar><origin>countryside</origin><tr>[ˊkʌntrɪsaɪd]</tr><word>n
+1) сельская местность; округа
+2) местное сельское население</word></ar><ar><origin>coup_d_%C3%A9tat</origin><tr></tr><word>фр. n государственный переворот</word></ar><ar><origin>coup_de_gr%C3%A2ce</origin><tr></tr><word>фр. n завершающий смертельный удар</word></ar><ar><origin>coup%C3%A9</origin><tr>[ˊku:peɪ]</tr><word>n
+1) двухместная карета
+2) двухместный закрытый автомобиль
+3) ж.-д. двухместное купе</word></ar><ar><origin>court_card</origin><tr>[ˊkɔ:tkɑ:d]</tr><word>n
+фигурная карта в колоде</word></ar><ar><origin>court_plaster</origin><tr>[ˊkɔ:tˏplɑ:stə]</tr><word>n
+лейкопластырь</word></ar><ar><origin>courtesy_light</origin><tr>[ˊkɔ:tɪsɪˏlalaɪt]</tr><word>n
+авто лампочка, автоматически включающаяся при открывании дверцы</word></ar><ar><origin>courthouse</origin><tr>[ˊkɔ:thaυs]</tr><word>n
+1) здание суда
+2) здание, в котором помещаются местные органы управления (в графстве или округе)</word></ar><ar><origin>courtroom</origin><tr>[ˊkɔ:tru:m]</tr><word>n
+зал суда</word></ar><ar><origin>courts_martial</origin><tr>[ˏkɔ:tsˊmɑ:ʃl]</tr><word>pl от court-martial</word></ar><ar><origin>couth</origin><tr>[ku:θ]</tr><word>a
+воспитанный, культурный</word></ar><ar><origin>cover_charge</origin><tr>[ˊkʌvətʃɑ:dʒ]</tr><word>n
+наценка (в ресторане)</word></ar><ar><origin>cover_crop</origin><tr>[ˊkʌvəkrɒp]</tr><word>n
+с.-х. покровная культура</word></ar><ar><origin>cover_girl</origin><tr>[ˊkʌvəˏgɜ:l]</tr><word>n
+хорошенькая девушка, изображение которой помещают на обложке журнала; журнальная красотка</word></ar><ar><origin>coveted</origin><tr>[ˊkʌvɪtɪd]</tr><word>a
+желанный</word></ar><ar><origin>cowboy</origin><tr></tr><word>1. n
+1) ковбой
+2) разг. безответственный человек
+2. v разг. неосторожно вести машину</word></ar><ar><origin>cowcatcher</origin><tr>[ˊkaυˏkætʃə]</tr><word>n
+амер. ж.-д. скотосбрасыватель (на паровозе)</word></ar><ar><origin>cowfish</origin><tr>[ˊkaυfɪʃ]</tr><word>n
+1) морская корова
+2) серый дельфин</word></ar><ar><origin>cowhide</origin><tr></tr><word>1. n
+1) воловья кожа
+2) амер. плеть из воловьей кожи
+2. v стегать ремнём</word></ar><ar><origin>cowpox</origin><tr>[ˊkaυpɒks]</tr><word>n
+мед. коровья оспа</word></ar><ar><origin>cowpuncher</origin><tr>[ˊkaυˏpʌntʃə]</tr><word>n
+амер. разг. ковбой</word></ar><ar><origin>crack_house</origin><tr>[ˊkrækˏhaυs]</tr><word>n
+сл. место, где можно достать крэк (кокаин)</word></ar><ar><origin>cram-full</origin><tr>[ˏkræmˊfυl]</tr><word>a
+набитый до отказа</word></ar><ar><origin>crammed</origin><tr>[kræmd]</tr><word>a
+битком набитый; полный до отказа</word></ar><ar><origin>crane_fly</origin><tr>[ˊkreɪnflaɪ]</tr><word>n
+зоол. долгоножка</word></ar><ar><origin>cranesbill</origin><tr>[ˊkreɪnzbɪl]</tr><word>n
+бот. герань, журавельник</word></ar><ar><origin>crania</origin><tr>[ˊkreɪnɪə]</tr><word>pl от cranium</word></ar><ar><origin>crankcase</origin><tr>[ˊkræŋkkeɪs]</tr><word>n
+тех. картер двигателя</word></ar><ar><origin>craquelure</origin><tr>[ˊkrækəˏljυə]</tr><word>n
+жив. кракелюр</word></ar><ar><origin>crash_barrier</origin><tr>[ˊkræʃˏbærɪə]</tr><word>n
+предохранительный барьер (на автостраде)</word></ar><ar><origin>crash_course</origin><tr>[ˏkræʃˊkɔ:s]</tr><word>n
+интенсивный курс (обучения)</word></ar><ar><origin>crash_helmet</origin><tr>[ˊkræʃˏhelmɪt]</tr><word>n
+защитный шлем (лётчика, космонавта, водителя автомашины или мотоциклиста)</word></ar><ar><origin>crash_landing</origin><tr>[ˊkræʃˏlændɪŋ]</tr><word>n
+ав. (вынужденная) аварийная посадка</word></ar><ar><origin>cream_cheese</origin><tr>[ˏkri:mˊtʃi:z]</tr><word>n
+сливочный сыр</word></ar><ar><origin>cream_of_tartar</origin><tr>[ˏkri:məvˊtɑ:tə]</tr><word>n
+винный камень</word></ar><ar><origin>cream-laid_paper</origin><tr>[ˊkri:mleɪdˏpeɪpə]</tr><word>n
+бумага верже кремового цвета</word></ar><ar><origin>cream-wove_paper</origin><tr>[ˏkri:mwəυvˊpeɪpə]</tr><word>n
+веленевая бумага кремового цвета</word></ar><ar><origin>crease-resistant</origin><tr>[ˊkri:srɪˏzɪstənt]</tr><word>a
+немнущийся</word></ar><ar><origin>creativity</origin><tr>[ˏkrɪeɪˊtɪvɪtɪ]</tr><word>n
+творчество</word></ar><ar><origin>credibility_gap</origin><tr>[ˏkredəˊbɪlɪtɪgæp]</tr><word>n
+кризис доверия; расхождение (в фактах и т.п.)</word></ar><ar><origin>credit_note</origin><tr>[ˊkredɪtnəut]</tr><word>n
+документ, позволяющий купить товар на ту же сумму взамен возвращённого</word></ar><ar><origin>credit_rating</origin><tr>[ˊkredɪtˏreɪtɪŋ]</tr><word>n
+кредитоспособность</word></ar><ar><origin>crematoria</origin><tr>[ˏkreməˊtɔ:rɪə]</tr><word>pl от crematorium</word></ar><ar><origin>Creole</origin><tr>[ˊkri:əυl]</tr><word>n
+креол; креолка</word></ar><ar><origin>crestfallen</origin><tr>[ˊkrestˏfɔ:lən]</tr><word>a
+упавший духом, унылый; удручённый</word></ar><ar><origin>Cretan</origin><tr></tr><word>1. a критский
+2. n критянин</word></ar><ar><origin>crew_cut</origin><tr>[ˊkru:kʌt]</tr><word>n
+мужская стрижка «ёжик»</word></ar><ar><origin>crew_neck</origin><tr>[ˊkru:nek]</tr><word>n
+свитер с вырезом под горло</word></ar><ar><origin>cribbage</origin><tr>[ˊkrɪbɪdʒ]</tr><word>n
+крибидж (карточная игра)</word></ar><ar><origin>cried</origin><tr>[kraɪd]</tr><word>past и p. p. от cry 2</word></ar><ar><origin>cries</origin><tr>[kraɪz]</tr><word>pl от cry 1</word></ar><ar><origin>Crimean</origin><tr>[kraɪˊmɪən]</tr><word>a
+крымский</word></ar><ar><origin>criminologist</origin><tr>[krɪmɪˊnɒlədʒɪst]</tr><word>= criminalist</word></ar><ar><origin>crises</origin><tr>[ˊkraɪsi:z]</tr><word>pl от crisis</word></ar><ar><origin>crispate</origin><tr>[ˊkrɪspeɪt]</tr><word>a
+хрустящий</word></ar><ar><origin>crispbread</origin><tr>[ˊkrɪspbred]</tr><word>n
+хрустящие хлебцы</word></ar><ar><origin>crisper</origin><tr>[ˊkrɪspə]</tr><word>n
+контейнер (для фруктов и овощей в холодильнике)</word></ar><ar><origin>crisps</origin><tr>[krɪsps]</tr><word>n pl
+чипсы</word></ar><ar><origin>crit</origin><tr></tr><word>разг. сокр. от criticism, critique</word></ar><ar><origin>criteria</origin><tr>[kraɪˊtɪərɪə]</tr><word>pl от criterion</word></ar><ar><origin>Croat</origin><tr>[ˊkrəυæt]</tr><word>n
+хорват</word></ar><ar><origin>Croatian</origin><tr>[krəυˊeɪʃn]</tr><word>a
+хорватский</word></ar><ar><origin>croc</origin><tr></tr><word>разг. = crocodile</word></ar><ar><origin>crocodile_tears</origin><tr>[ˏkrɒkədaɪlˊtɪəz]</tr><word>n pl
+крокодиловы слёзы</word></ar><ar><origin>Croesus</origin><tr>[ˊkri:səs]</tr><word>n
+1) миф. Крез
+2) обладатель несметных богатств</word></ar><ar><origin>cromlech</origin><tr>[ˊkrɒmlek]</tr><word>n
+археол. кромлех</word></ar><ar><origin>crop_plants</origin><tr>[ˊkrɒpplɑ:nts]</tr><word>n pl
+хлебные злаки</word></ar><ar><origin>cropped</origin><tr>[krɒpt]</tr><word>a
+укороченный (об одежде)</word></ar><ar><origin>cross_bench</origin><tr>[ˊkrɒsbentʃ]</tr><word>n
+скамья в английском парламенте для независимых депутатов</word></ar><ar><origin>cross_fire</origin><tr>[ˊkrɒsˏfa(ɪ)ə]</tr><word>n
+1) воен. перекрёстный огонь
+2) шумный обмен мнениями; словесная перепалка</word></ar><ar><origin>cross_question</origin><tr>[ˏkrɒsˊkwestʃǝn]</tr><word>= cross-examine</word></ar><ar><origin>cross-breeding</origin><tr>[ˊkrɒsˏbri:dɪŋ]</tr><word>n
+скрещивание, метизация</word></ar><ar><origin>cross-head</origin><tr>[ˊkrɒshed]</tr><word>n
+1) = cross-heading
+2) тех. крейцкопф, ползун</word></ar><ar><origin>cross-heading</origin><tr>[ˊkrɒsˏhedɪŋ]</tr><word>n
+подзаголовок (в газетной статье)</word></ar><ar><origin>cross-polinate</origin><tr>[ˏkrɒsˊpɒləneɪt]</tr><word>v
+бот. опылять перекрёстно</word></ar><ar><origin>cross-purpose</origin><tr>[ˏkrɒsˊpɜ:pəs]</tr><word>n
+1) (обыкн. pl) противоположное намерение;
+to be at cross-purposes спорить, действовать наперекор друг другу
+2) недоразумение, основанное на взаимном непонимании
+3) pl игра-загадка</word></ar><ar><origin>cross-reference</origin><tr>[ˏkrɒsˊrefrǝns]</tr><word>n
+перекрёстная ссылка</word></ar><ar><origin>cross-section</origin><tr>[ˊkrɒsˏsekʃn]</tr><word>n
+1) поперечное сечение, поперечный разрез, профиль
+2) поперечный разрез общества (в социологии)</word></ar><ar><origin>cross-stitch</origin><tr>[ˊkrɒsstɪtʃ]</tr><word>n
+вышивка крестиками; крестик</word></ar><ar><origin>crossbar</origin><tr>[ˊkrɒsbɑ:]</tr><word>n
+1) тех. поперечина, распорка
+2) спорт. планка (для прыжков в высоту); перекладина (ворот в футболе и т.п.)</word></ar><ar><origin>crossbeam</origin><tr>[ˊkrɒsbi:m]</tr><word>n
+тех. поперечная балка, коромысло</word></ar><ar><origin>crossbones</origin><tr>[ˊkrɒsbəυnz]</tr><word>n pl
+изображение двух скрещенных костей, эмблема смерти</word></ar><ar><origin>crossbow</origin><tr>[ˊkrɒsbəυ]</tr><word>n
+ист. самострел; арбалет</word></ar><ar><origin>crossbred</origin><tr>[ˊkrɒsbred]</tr><word>a
+смешанный, гибридный</word></ar><ar><origin>crossbreed</origin><tr></tr><word>1. n помесь, гибрид
+2. v скрещивать</word></ar><ar><origin>crosscut</origin><tr></tr><word>1. n
+1) кратчайший путь
+2) горн. квершлаг
+2. a поперечный</word></ar><ar><origin>crosse</origin><tr>[krɒs]</tr><word>n
+спорт. клюшка для игры в лакросс</word></ar><ar><origin>crosshatch</origin><tr>[ˊkrɒshætʃ]</tr><word>v
+гравировать или штриховать перекрёстными штрихами</word></ar><ar><origin>crossing_guard</origin><tr>[ˊkrɒsɪŋgɑ:d]</tr><word>n
+дежурный, регулирующий движение транспорта у школ</word></ar><ar><origin>crossover</origin><tr>[ˊkrɒsˏəυvə]</tr><word>n
+1) переход, переезд
+2) переход в другую партию</word></ar><ar><origin>crosspatch</origin><tr>[ˊkrɒspætʃ]</tr><word>n
+разг. сварливый человек</word></ar><ar><origin>crosspiece</origin><tr>[ˊkrɒspi:s]</tr><word>n
+1) поперечина; тех. крестовина
+2) мор. краспица</word></ar><ar><origin>crossroad</origin><tr>[ˊkrɒsrəυd]</tr><word>n
+1) (обыкн. pl, употр. с гл. в ед. ч.) перекрёсток
+2) амер. пересекающая дорога
+◊ at the crossroads на распутье</word></ar><ar><origin>crosstrees</origin><tr>[ˊkrɒstri:z]</tr><word>n pl
+мор. салинг</word></ar><ar><origin>crosswalk</origin><tr>[ˊkrɒswɔ:k]</tr><word>n
+амер. пешеходный переход</word></ar><ar><origin>crosswind</origin><tr>[ˊkrɒswɪnd]</tr><word>n
+встречный, противный ветер</word></ar><ar><origin>crossword</origin><tr>[ˊkrɒswɜ:d]</tr><word>n
+кроссворд; (тж. crossword puzzle)</word></ar><ar><origin>croton_bug</origin><tr>[ˊkrəυtnbʌg]</tr><word>n
+зоол. таракан-прусак</word></ar><ar><origin>crow_s_nest</origin><tr>[ˊkrəυznest]</tr><word>n
+мор. наблюдательный пост (на мачте), «воронье гнездо»</word></ar><ar><origin>crow_s-foot</origin><tr>[ˊkrəυzfυt]</tr><word>n (pl -feet)
+1) pl морщинки в уголках глаз
+2) воен. проволочные силки
+3) pl ав. гусиные лапы</word></ar><ar><origin>crowbar</origin><tr>[ˊkrəυbɑ:]</tr><word>n
+тех. лом, вага, аншпуг</word></ar><ar><origin>crowd_scene</origin><tr>[ˊkraυdsi:n]</tr><word>n
+театр., кино массовка</word></ar><ar><origin>crowd-pleaser</origin><tr>[ˊkraυdˏpli:zə]</tr><word>n
+1) доставляющий радость, удовольствие кому-л.
+2) кассовый спектакль</word></ar><ar><origin>Crown_Colony</origin><tr>[ˏkraυnˊkɒlənɪ]</tr><word>n
+коронная колония (британская колония, не имеющая самоуправления)</word></ar><ar><origin>crown_glass</origin><tr>[ˏkraυnˊglɑ:s]</tr><word>n
+кронглас (сорт стекла)</word></ar><ar><origin>crown_jewels</origin><tr>[ˏkraunˊdʒu:əlz]</tr><word>n pl
+королевские или царские регалии и драгоценности</word></ar><ar><origin>crown_law</origin><tr>[ˊkraυnlɔ:]</tr><word>n
+уголовное право</word></ar><ar><origin>Crown_prince</origin><tr>[ˏkraυnˊprɪns]</tr><word>n
+наследный принц, наследник престола, кронпринц</word></ar><ar><origin>cruces</origin><tr>[ˊkru:si:z]</tr><word>pl от crux</word></ar><ar><origin>crud</origin><tr>[krʌd]</tr><word>n
+разг.
+1) отбросы
+2) подонок, мразь
+3) чепуха, абсурд</word></ar><ar><origin>crude_iron</origin><tr>[ˊkru:dˏa(ɪ)ən]</tr><word>n
+чугун</word></ar><ar><origin>crudit%C3%A9s</origin><tr></tr><word>фр. n pl салат из сырых овощей</word></ar><ar><origin>cruise_missile</origin><tr>[ˏkru:zˊmɪsaɪl]</tr><word>n
+крылатая ракета</word></ar><ar><origin>cruiserweight</origin><tr>[ˊkru:zəweɪt]</tr><word>n
+1) полутяжёлый вес
+2) боксёр полутяжёлого веса</word></ar><ar><origin>cruising_speed</origin><tr>[ˊkru:zɪŋspi:d]</tr><word>n
+мор. крейсерская скорость</word></ar><ar><origin>cruising_submarine</origin><tr>[ˊkru:zɪŋˏsʌb-məˊri:n]</tr><word>n
+мор. крейсерская подводная лодка</word></ar><ar><origin>crush_bar</origin><tr>[ˊkrʌʃbɑ:]</tr><word>n
+буфет (в театре)</word></ar><ar><origin>crush_barrier</origin><tr>[ˊkrʌʃˏbærɪə]</tr><word>n
+(временный) барьер (ограничивающий проход на стадион и т.п.)</word></ar><ar><origin>crustacean</origin><tr>[krʌˊsteɪʃn]</tr><word>n
+зоол. ракообразное</word></ar><ar><origin>cruzado</origin><tr>[krυˊzɑ:dəυ]</tr><word>n (pl -os [-əυz])
+крузадо (денежная единица Бразилии)</word></ar><ar><origin>crybaby</origin><tr>[ˊkraɪˏbeɪbɪ]</tr><word>n
+плакса, рёва</word></ar><ar><origin>cryogen</origin><tr>[ˊkraɪəυdʒǝn]</tr><word>n
+спец. охлаждающая смесь</word></ar><ar><origin>cryosurgery</origin><tr>[ˏkraɪəυˊsɜ:dʒərɪ]</tr><word>n
+криохирургия</word></ar><ar><origin>crypto</origin><tr>[ˊkrɪptəυ]</tr><word>n (pl (os [-əυz])
+тайный участник организации или партии</word></ar><ar><origin>cryptozoology</origin><tr>[ˏkrɪptəυzu:ˊɒlədʒɪ]</tr><word>n
+криптозоология; изучение живых организмов, чьё существование не доказано наукой</word></ar><ar><origin>crystal_gazing</origin><tr>[ˊkrɪstlˏgeɪzɪŋ]</tr><word>n
+гадание с зеркалом или посредством «магического кристалла»</word></ar><ar><origin>crystal-clear</origin><tr>[ˏkrɪstlˊklɪə]</tr><word>a
+1) кристально чистый (о воде)
+2) ясный как божий день</word></ar><ar><origin>crystallized</origin><tr>[ˊkrɪstəlaɪzd]</tr><word>a
+засахаренный (о фруктах)</word></ar><ar><origin>cr%C3%A8che</origin><tr>[kreʃ]</tr><word>n
+детские ясли</word></ar><ar><origin>cr%C3%AApe</origin><tr>[kreɪp]</tr><word>n
+1) креп (ткань);
+crêpe de Chine крепдешин
+2) attr.:
+crêpe paper гофрированная бумага;
+crêpe shoes ботинки на резиновой подошве</word></ar><ar><origin>csardas</origin><tr>[ˊtʃɑ:dæʃ]</tr><word>n
+чардаш</word></ar><ar><origin>Cuban</origin><tr></tr><word>1. a кубинский
+2. n кубинец; кубинка</word></ar><ar><origin>cucking_stool</origin><tr>[ˊkʌkɪŋstu:l]</tr><word>n
+ист. позорный стул, к которому привязывали женщин дурного поведения и торговцев-мошенников</word></ar><ar><origin>cuckoo_clock</origin><tr>[ˊkυku:klɒk]</tr><word>n
+часы с кукушкой</word></ar><ar><origin>cuckooflower</origin><tr>[ˊkυku:flaυə]</tr><word>n
+бот.
+1) сердечник луговой
+2) горицвет, кукушкин цвет</word></ar><ar><origin>cue_ball</origin><tr>[ˊkju:bɔ:l]</tr><word>n
+бильярдный шар</word></ar><ar><origin>cuff_link</origin><tr>[ˊkʌflɪŋk]</tr><word>n
+запонка для манжет</word></ar><ar><origin>culs-de-sac</origin><tr>[ˊkʌldəsæk]</tr><word>pl от cul-de-sac</word></ar><ar><origin>Cumbrian</origin><tr></tr><word>1. n житель Камберленда
+2. a камберлендский</word></ar><ar><origin>cumuli</origin><tr>[ˊkju:mjυlaɪ]</tr><word>pl от cumulus</word></ar><ar><origin>cumulonimbus</origin><tr>[ˏkju:mjυləˊnɪmbəs]</tr><word>n
+кучево-дождевые облака</word></ar><ar><origin>cunnilingus</origin><tr>[kʌnɪˊlɪŋgəs]</tr><word>n
+куннилингус</word></ar><ar><origin>cup_and_ball</origin><tr>[ˏkʌpənˊbɔ:l]</tr><word>n
+бильбоке (игра)</word></ar><ar><origin>cup_final</origin><tr>[ˊkʌpfaɪnl]</tr><word>n
+спорт. финал розыгрыша кубка</word></ar><ar><origin>cup_tie</origin><tr>[ˊkʌptaɪ]</tr><word>n
+спорт. матч на кубок</word></ar><ar><origin>cupbearer</origin><tr>[ˊkʌpˏbeərə]</tr><word>n
+виночерпий</word></ar><ar><origin>Cupid</origin><tr>[ˊkju:pɪd]</tr><word>n
+римск. миф. Купидон</word></ar><ar><origin>cura%C3%A7ao</origin><tr>[ˊkjυərəsəυ]</tr><word>n
+ликёр кюрасо</word></ar><ar><origin>curb_roof</origin><tr>[ˊkɜ:bru:f]</tr><word>n
+мансардная крыша</word></ar><ar><origin>curettage</origin><tr>[kjυˊretɪdʒ]</tr><word>n
+мед. выскабливание</word></ar><ar><origin>Curia</origin><tr>[ˊkjυərɪə]</tr><word>n
+папская курия</word></ar><ar><origin>curiosa</origin><tr>[kjυərɪˊəυsə]</tr><word>n pl
+1) редкие или необычные вещи
+2) эротические или порнографические книги</word></ar><ar><origin>curling_irons</origin><tr>[ˊkɜ:lɪŋˏaɪənz]</tr><word>n pl
+щипцы для завивки</word></ar><ar><origin>curling_tongs</origin><tr>[ˊkɜ:lɪŋtɒŋz]</tr><word>= curling irons</word></ar><ar><origin>curlpaper</origin><tr>[ˊkɜ:lˏpeɪpə]</tr><word>n
+папильотка</word></ar><ar><origin>current_account</origin><tr>[ˊkʌrəntəˏkaυnt]</tr><word>n
+текущий счёт</word></ar><ar><origin>curricula</origin><tr>[kəˊrɪkjυlə]</tr><word>pl от curriculum</word></ar><ar><origin>curriculum_vitae</origin><tr>[kəˏrɪkjυləmˊvi:taɪ]</tr><word>n
+краткая биография; автобиография</word></ar><ar><origin>currier</origin><tr>[ˊkʌrɪə]</tr><word>n
+кожевник</word></ar><ar><origin>currycomb</origin><tr>[ˊkʌrɪkəυm]</tr><word>n
+скребница (для чистки лошадей)</word></ar><ar><origin>curtain_raiser</origin><tr>[ˊkɜ:tnˏreɪzə]</tr><word>n
+одноактная пьеса, исполняемая перед началом спектакля</word></ar><ar><origin>curtained</origin><tr>[ˊkɜ:tənd]</tr><word>a
+занавешенный (об окне, двери)</word></ar><ar><origin>curve_piece</origin><tr>[ˊkɜ:vpi:s]</tr><word>n
+стр. кружало</word></ar><ar><origin>curved</origin><tr>[kɜ:vd]</tr><word>a
+изогнутый; кривой</word></ar><ar><origin>customhouse</origin><tr>[ˊkʌstəmhaυs]</tr><word>n
+таможня</word></ar><ar><origin>customized</origin><tr>[ˊkʌstəmaɪzd]</tr><word>n
+изготовленный на заказ</word></ar><ar><origin>cut_glass</origin><tr>[ˊkʌtglɑ:s]</tr><word>n
+гранёное стекло</word></ar><ar><origin>cut_sugar</origin><tr>[ˊkʌtˏʃυgə]</tr><word>n
+пилёный сахар</word></ar><ar><origin>cut-up</origin><tr>[ˏkʌtˊʌp]</tr><word>a
+разг. расстроенный, огорчённый</word></ar><ar><origin>cutaway</origin><tr>[ˊkʌtəweɪ]</tr><word>n
+1) визитка
+2) вид в разрезе (машины и т.п.)</word></ar><ar><origin>cutie</origin><tr>[ˊkju:tɪ]</tr><word>n
+сл. красотка, милашка</word></ar><ar><origin>cutoff</origin><tr>[ˊkʌtɒf]</tr><word>n
+1) конец, прекращение (действия)
+2) амер. сокращение пути, обход, обходная дорога
+3) гидр. спрямление русла
+4) тех. отсечка пара</word></ar><ar><origin>cutoff_date</origin><tr>[ˏkʌtɒfˊdeɪt]</tr><word>n
+конечный, последний срок</word></ar><ar><origin>cutout</origin><tr>[ˊkʌtaυt]</tr><word>n
+1) очертание, абрис, профиль, контур
+2) эл. предохранитель; автоматический выключатель; рубильник
+3) аппликация</word></ar><ar><origin>cutting_area</origin><tr>[ˊkʌtɪŋˏeərɪə]</tr><word>n
+лесосека</word></ar><ar><origin>cutting_edge</origin><tr>[ˏkʌtɪŋˊedʒ]</tr><word>n
+остриё;
+the cutting edge of a knife лезвие ножа</word></ar><ar><origin>cutting_room</origin><tr>[ˊkʌtɪŋru:m]</tr><word>n
+кино монтажная (на киностудии)</word></ar><ar><origin>cuttlefish</origin><tr>[ˊkʌtlfɪʃ]</tr><word>n
+зоол. каракатица</word></ar><ar><origin>cutty_stool</origin><tr>[ˊkʌtɪstu:l]</tr><word>n
+1) низкий табурет
+2) ист. позорный стул в шотландских церквах</word></ar><ar><origin>cyber_crime</origin><tr>[ˊsaɪbəˏkraɪm]</tr><word>n
+преступная деятельность с использованием компьютеров и Интернета</word></ar><ar><origin>cyber_terrorism</origin><tr>[ˊsaɪbəˏterərɪzm]</tr><word>n
+компьютерный терроризм; использование Интернета для повреждения компьютерных систем, особенно в политических целях</word></ar><ar><origin>cybercaf%C3%A9</origin><tr>[ˊsaɪbəˏkæfeɪ]</tr><word>n
+кафе, оборудованное компьютерами, подключёнными к Интернету</word></ar><ar><origin>cybernetic</origin><tr>[ˏsaɪbəˊnetɪk]</tr><word>a
+кибернетический</word></ar><ar><origin>cyberphobic</origin><tr>[ˏsaɪbəˊfəυbɪk]</tr><word>n
+человек, не понимающий и боящийся компьютеров</word></ar><ar><origin>cybersickness</origin><tr>[ˊsaɪbəˏsɪknəs]</tr><word>n
+недомогание, вызванное длительной работой с компьютером или пребыванием в помещении, уставленном компьютерами</word></ar><ar><origin>cycle_race</origin><tr>[ˊsaɪklreɪs]</tr><word>n
+велогонка</word></ar><ar><origin>Cyclopean</origin><tr>[ˏsaɪkləυˊpi:ən]</tr><word>a
+циклопический; громадный, гигантский</word></ar><ar><origin>Cyclopes</origin><tr>[saɪˊkləυpi:z]</tr><word>pl от Cyclops</word></ar><ar><origin>Cyclops</origin><tr>[ˊsaɪklɒps]</tr><word>n (pl -opes)
+1) миф. циклоп
+2) pl зоол. циклопы (сем. низших раков с одним глазом)</word></ar><ar><origin>cyclorama</origin><tr>[ˏsaɪkləυˊrɑ:mə]</tr><word>n
+кино циклорама</word></ar><ar><origin>cymbals</origin><tr>[ˊsɪmblz]</tr><word>n pl
+муз. тарелки</word></ar><ar><origin>Cymric</origin><tr>[ˊkɪmrɪk]</tr><word>a
+кимрский; уэльский</word></ar><ar><origin>Cynthia</origin><tr>[ˊsɪnθɪə]</tr><word>n
+миф. Цинтия, Луна</word></ar><ar><origin>Cyprian</origin><tr></tr><word>1. a кипрский
+2. n уроженец Кипра, киприот</word></ar><ar><origin>Cypriote</origin><tr>[ˊsɪprɪəυt]</tr><word>n
+уроженец Кипра, киприот</word></ar><ar><origin>Cyrillic</origin><tr></tr><word>1. a:
+Cyrillic alphabet кириллица (древнеславянская азбука)
+2. n кириллица</word></ar><ar><origin>Czech</origin><tr></tr><word>1. a чешский
+2. n
+1) чех; чешка
+2) чешский язык</word></ar><ar><origin>Czekh</origin><tr>[tʃek]</tr><word>= Czech</word></ar>

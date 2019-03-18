@@ -1,53 +1,34 @@
 <?php
 
-/*
-$mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
-
-
-if (mysqli_connect_errno()) {
-    printf("Не удалось подключиться: %s\n", mysqli_connect_error());
-    exit();
-}
-$sql = "
-    INSERT INTO
-        `english_b`
-    SET
-        description = '2'
-    ";
-
-$mysqli->query($sql);
-*/
-
-
 
 $abbreviation_eng = [
-    'n' => 'noun',
-    'a' => 'adjective' ,
-    'adv' => 'adverb',
-    'attr.' => 'attributive',
-    'conj' => 'conjunction',
-    'etc.' => 'etc',
-    'imp.' => 'imperative',
-    'inf.' => 'infinitive',
-    'int' => 'interjenction',
-    'num' => 'numeral',
-    'o.s.' => 'oneself',
-    'p. p.' => 'past_participle',
-    'pass.' => 'passive',
-    'past' => 'past_tense',
-    'pl' => 'plural',
-    'pref' => 'prefix',
-    'pres.p.' => 'present_participle',
-    'pron' => 'pronoun',
-    'prep' => 'preposition',
-    'refl.' => 'reflexive',
-    'syn.' => 'synonym',
-    'smb.' => 'somebody',
-    'smth.' => 'something',
-    's.o.' => 'someone',
-    'v' => 'verb',
-    'vi' => 'verb_intransitive',
-    'vt' => 'verb_transitive'
+    'n.' => '1',
+    'a.' => '2' ,
+    'adv.' => '3',
+    'attr.' => '4',
+    'conj.' => '5',
+    'etc.' => '6',
+    'imp.' => '7',
+    'inf.' => '8',
+    'int.' => '9',
+    'num.' => '10',
+    'o. s.' => '11',
+    'p. p.' => '12',
+    'pass.' => '13',
+    'past.' => '14',
+    'pl.' => '15',
+    'pref.' => '16',
+    'pres. p.' => '17',
+    'pron.' => '18',
+    'prep.' => '19',
+    'refl.' => '20',
+    'syn.' => '22',
+    'smb.' => '23',
+    'smth.' => '24',
+    's. o.' => '25',
+    'v.' => '26',
+    'vi.' => '27',
+    'vt.' => '28'
 ];
 $abbreviation_rus = [
     'ав.' => 'авиация',
@@ -56,7 +37,6 @@ $abbreviation_rus = [
     'ам.' => 'американская терминология',
     'анат.' => 'анатомия',
     'англ.' => 'английская терминология',
-    'амер.' => 'американская терминология',
     'англоинд.' => 'англоиндийская терминология',
     'араб.' => 'арабская терминология',
     'арт.' => 'артиллерия',
@@ -71,6 +51,7 @@ $abbreviation_rus = [
     'бот.' => 'ботаника',
     'букв.' => 'буквально',
     'бухг.' => 'бухгалтерская терминология',
+    'брит.' => 'британская терминология',
     'вет.' => 'ветеринария',
     'вм.' => 'вместо',
     'воен.' => 'военное дело',
@@ -105,7 +86,6 @@ $abbreviation_rus = [
     'зоол.' => 'зоология',
     'и др.' => 'и другое',
     'и пр.' => 'и прочее',
-    'информ.' => 'информация',
     'инд.' => 'индийская терминология',
     'ирл.' => 'ирландская терминология',
     'ирон.' => 'иронично',
@@ -118,7 +98,6 @@ $abbreviation_rus = [
     'кино' => 'кинематография',
     'кит' => 'китайская терминология',
     'ком.' => 'коммерческий термин',
-    'книжн.' => 'книжный термин',
     'комп.' => 'информатика и компьютерные технологии',
     'кул.' => 'кулинария',
     'л.' => 'лицо',
@@ -233,109 +212,91 @@ $abbreviation_rus = [
     'юр.' => 'юридический термин',
     'яп.' => 'японская терминология'
 ];
+
+
 $word_data = [
         'origin' => '',
+        'transcription' => '',
         'translation' => ''
  ];
  
  $current_object = [
         'origin' => '',
+        'transcription' => '',
         'words' => []
  ];
  
  $result = [];
  $qirim_result = [];
  
-function scanPage(){
-    set_time_limit(8000);
+function compileObject($current_letter){
+    set_time_limit(800000);
+    $xml = file_get_contents('origin/dict_'.$current_letter.'.xdxf');
+    
+    $xml_object = explode("<ar>", $xml);
+    unset($xml_object[0]);
+    
     $result_object = [];
     global $word_data;
     global $current_object;
     global $result;
     global $qirim_result;
+    $count = 0;
     
-    $letters = [
-        'b','c','d','e','f','g','h','i','j','k','l','m','n','o', 'p','q','r','s','t','u','v','w','x','y','z'
-    ];
-    for($k = 0; $k < count($letters); $k++){
-        $words= explode(' | ',file_get_contents('differences/'.$letters[$k].'.txt'));
-        $file = '';
-        for($i = 0; $i < count($words); $i++){
-            $result_object = [
-                'origin' => '<origin>'.$words[$i].'</origin>',
-            ];
-
-            $current_object = [
-                'origin' => $words[$i],
-                'transcription' => '',
-                 'words' => []
-            ];
-            $word_str = getTranslation($words[$i]);
-            $result_object['transcription'] = '<tr>'.trim($word_str['transcription']).'</tr>';
-            $result_object['word'] = '<word>'.$word_str['word'].'</word>';
-            $string = '<ar>'.implode('',$result_object).'</ar>';
-            $file .= $string;
-            $current_object = [
-                    'origin' => '',
-                    'transcription' => '',
-                    'translation' => ''
-             ];
-            //$words[$i]['size'] = sizeof($words[$i]['translation']);
-        }
-         file_put_contents('gufo_words/'.$letters[$k].'.txt', $file);
-        //print_r($result);
-    }
-} 
-
-function getTranslation($word){
-    $word_string = [];
-    global $abbreviation_rus;
-    set_time_limit(8000);
-    $html = file_get_contents('https://gufo.me/dict/enru_muller/'.$word);
-    $start = strpos($html, 'lightslategray');
-    $end = strpos($html, '<div class="fb-quote"></div>');
-
-    $length = $end-$start;
-    $html = substr($html, $start, $length);
-    preg_match('/(\[.*\] )/', $html, $mathces_tr);
-    if($mathces_tr){
-        $word_string['transcription'] = $mathces_tr[0];
-    } else {
-        $word_string['transcription'] = '';
-    }
-    $html = strip_tags($html);
-    $new_start = strpos($html, ']');
-    $new_length = strlen($html)-$new_start;
-    $word_string['word'] = trim(substr($html, $new_start+1, $new_length));
-    
-    return $word_string;
-    
-    
-    $result_object = findAbbreviationEng($word_string);
-    /*foreach ($abbreviation_rus as $abbr_rus=>$value){
-        if (strpos($meaning_object['word'],'_'.$abbr_rus) > -1 && strpos($meaning_object['word'],'_'.$abbr_rus) < 6){
-            $new_word_string = str_replace('_'.$abbr_rus,'', $meaning_object['word']);
-            $meaning_object['word'] = $new_word_string;
-            array_push($meaning_object['abbreviation_rus'],$value);
+    $origins = [];
+    foreach ($xml_object as $object){
+        $count = $count + 1;
+        $origin = explode('</k>',$object);
+        if(strpos($origin[1], '</tr>')){
+            $transcription_and_translation  = explode('</tr>',$origin[1]);
+            $word_data['transcription']= str_replace('<tr>', '', $transcription_and_translation[0]);
+            $word_data['translation']= str_replace('</ar>', '', $transcription_and_translation[1]);
         } else {
-             continue;
+            $word_data['transcription'] = '';
+            $word_data['translation']= str_replace('</ar>', '', $origin[1]);
         }
-    }*/
+        $word_data['origin']= str_replace('<k>', '', $origin[0]);
+        $current_object = [
+            'origin' => $word_data['origin'],
+            'transcription' => $word_data['transcription'],
+             'words' => []
+        ];
+        
+        //$word_data['translation'] = compileTranslation($word_data['translation']);
+        array_push($origins, $current_object['origin']);
+        
+       
+        $current_object = [
+                'origin' => '',
+                'transcription' => '',
+                'translation' => ''
+         ];
+         //echo json_encode($result);
+         //die;
+        }
+    
+    //print_r($qirim_result);
+    print_r($origins);
+   //print_r($result);
+}
+
+function compileTranslation($translation_string){
+    $result_object = [];
+    $result_object = findAbbreviationEng($translation_string);
     if(strpos($result_object['word'],'_I')>-1){
         $result_object['word'] = getFirstMeaning($result_object['word']);
     } else if (strpos($result_object['word'],'1.')>-1){
         $result_object['word'] = getSecondMeaning($result_object);
-    } else if(strpos($result_object['word'],'1)')>-1){
-        
+    } else if(strpos($result_object['word'],'1&gt;')>-1){
         $result_object['word'] = getThirdMeaning($result_object);
-    } else if(strpos($result_object['word'],'а)')>-1){
+    } else if(strpos($result_object['word'],'а&gt;')>-1){
         $result_object['word'] = getFourthMeaning($result_object);
     } else {
         $result_object = findAbbreviationRus($result_object);
     }
     return $result_object;
-    //getQirimTranslation(trim($newhtml));
 }
+
 function getFirstMeaning($translation_string){
     $result_object = [];
     $translation_lvl1 = preg_split("/(_I+V?)/", $translation_string);
@@ -345,7 +306,7 @@ function getFirstMeaning($translation_string){
             $new_second_meaning = findAbbreviationEng($second_meaning);
             array_push($result_object, getSecondMeaning($new_second_meaning));
         } else {
-            if(strpos($second_meaning,'1)')>-1){
+            if(strpos($second_meaning,'1&gt;')>-1){
                 $third_meaning = getThirdMeaning($third_meaning);
                 array_push($result_object,$third_meaning );
             } else {
@@ -364,12 +325,10 @@ function getSecondMeaning($translation_string){
         'word' => []
         
     ];
-    
-    $second_meaning = preg_split("/[0-9]\./", $translation_string['word']);
-   
+    $second_meaning = preg_split("/ [0-9]\./", $translation_string['word']);
     array_shift($second_meaning);
     foreach ($second_meaning as $third_meaning){
-        if(strpos($third_meaning,'1)')>-1){
+        if(strpos($third_meaning,'1&gt;')>-1){
             $check_eng = findAbbreviationEng($third_meaning);
             $new_meaning = getThirdMeaning($check_eng);
             array_push($result_object['word'],$new_meaning );
@@ -387,12 +346,10 @@ function getThirdMeaning($translation_string){
         'word' => []
     ];
     
-    $third_meaning = preg_split("/([0-9]*\))/", $translation_string['word']);
+    $third_meaning = preg_split("/([0-9]*+\&gt;)/", $translation_string['word']);
     array_shift($third_meaning);
-    
-            
     foreach ($third_meaning as $fourth_meaning){
-        if(strpos($third_meaning,'а)')>-1){
+        if(strpos($third_meaning,'а&gt;')>-1){
             $check_eng = findAbbreviationEng($fourth_meaning);
             $new_meaning = getFourthMeaning($check_eng);
             array_push($result_object['word'],$new_meaning );
@@ -411,7 +368,7 @@ function getFourthMeaning($translation_string){
         'word' => []
     ];
     
-    $third_meaning = preg_split("/[а-я]{1}\)/", $translation_string['word']);
+    $third_meaning = preg_split("/[а-я]{1}\&gt;/", $translation_string['word']);
     array_shift($third_meaning);
     foreach ($third_meaning as $meaning){
             $check_eng = findAbbreviationEng($meaning);
@@ -423,7 +380,6 @@ function getFourthMeaning($translation_string){
 $previous_abbreviation_eng = '';
 
 function findAbbreviationEng($word_string){
-    
     error_reporting(0);
     global $previous_abbreviation_eng;
     global $abbreviation_eng;
@@ -432,8 +388,8 @@ function findAbbreviationEng($word_string){
                 'abbreviation_eng' => []
     ];
     foreach ($abbreviation_eng as $abbr_eng=>$value){
-        if (strpos($word_string, $abbr_eng) > -1 && strpos($word_string, $abbr_eng) < 6){
-            $new_word_string = str_replace($abbr_eng, '', $word_string);
+        if (strpos($word_string,'_'.$abbr_eng) > -1 && strpos($word_string,'_'.$abbr_eng) < 6){
+            $new_word_string = str_replace('_'.$abbr_eng, '', $word_string);
             $previous_abbreviation_eng = $value;
             return $meaning_object = [
                 'word' => $new_word_string,
@@ -443,17 +399,15 @@ function findAbbreviationEng($word_string){
             continue;
         }
     }
-    
     $meaning_object['abbreviation_eng'] = $previous_abbreviation_eng;
     error_reporting(1);
     return $meaning_object;
 }
 
 function findSynonims ($word){
-    
     $word['synonim'] = '';
-    if (preg_match('/(от [a-zA-Z])/',$word['word'])){
-        $synonims = preg_split('/(от)/', $word['word']);
+    if (strpos($word['word'],'_Syn:')>-1){
+        $synonims = preg_split('/(_Syn:)/', $word['word']);
         $word['word'] = $synonims[0];
         $synonim = $synonims[1];
         if(strpos($synonim,'_Ant:')>-1){
@@ -472,7 +426,7 @@ function findSynonims ($word){
 }
 
 function findAbbreviationRus($word_string){
-    
+
     error_reporting(0);
     global $abbreviation_rus;
     global $current_object;
@@ -484,8 +438,8 @@ function findAbbreviationRus($word_string){
                 'abbreviation_rus' => []
     ];
     foreach ($abbreviation_rus as $abbr_rus=>$value){
-        if (strpos($meaning_object['word'],$abbr_rus) > -1 && strpos($meaning_object['word'],$abbr_rus) < 6){
-            $new_word_string = str_replace($abbr_rus,'', $meaning_object['word']);
+        if (strpos($meaning_object['word'],'_'.$abbr_rus) > -1 && strpos($meaning_object['word'],'_'.$abbr_rus) < 6){
+            $new_word_string = str_replace('_'.$abbr_rus,'', $meaning_object['word']);
             $meaning_object['word'] = $new_word_string;
             array_push($meaning_object['abbreviation_rus'],$value);
         } else {
@@ -513,12 +467,12 @@ function findAbbreviationRus($word_string){
     }
     
     $meaning_object['origin'] = str_replace("'", "\'", $current_object['origin']);
+    $meaning_object['transcription'] = preg_replace('/^\s+/', '', $current_object['transcription']);
     
     $tmp_word_array = [];
-    $meaning_object['word'] = preg_split('/(;)/', $meaning_object['word']);
-    
+    $meaning_object['word'] = preg_split('/(; )/', $meaning_object['word']);
     for($i = 0; $i<count($meaning_object['word']);$i++){
-        if(preg_match_all("/([\а-я]*\,.*котор)|([\а-я]*\,.*?(что)|(чей)|(чья)|(чье))/", $meaning_object['word'][$i])){
+        if(preg_match_all("/([\а-я]*\,.*котор)|([\а-я]*\,.*?(что)|(чей)|(чья)|(чье))|([а-я])+ +([а-я])+/", $meaning_object['word'][$i])){
             array_push($tmp_word_array, $meaning_object['word'][$i]);
         } else {
             $arr = explode(',', $meaning_object['word'][$i]);
@@ -534,14 +488,9 @@ function findAbbreviationRus($word_string){
         $meaning_object['word'] = $meaning_object['word'][0];
         finalObject($meaning_object);
     }
+    
 }
 
-function getLastMeaning($meaning_object){
-    for($i = 0; $i < count($meaning_object['word']); $i++){
-        $meaning_object['word'] = $meaning_object['word'][$i];
-        finalObject($meaning_object);
-    }
-}
 
 function finalObject($meaning_object){
     global $result;
@@ -550,8 +499,8 @@ function finalObject($meaning_object){
 
     $meaning_object['word'] = ltrim($meaning_object['word']);
     foreach ($abbreviation_rus as $abbr_rus=>$value){
-        if (strpos($meaning_object['word'],$abbr_rus) > -1 ){
-            $new_word_string = str_replace($abbr_rus,'', $meaning_object['word']);
+        if (strpos($meaning_object['word'],'_'.$abbr_rus) > -1 ){
+            $new_word_string = str_replace('_'.$abbr_rus,'', $meaning_object['word']);
             $meaning_object['word'] = $new_word_string;
             array_push($meaning_object['abbreviation_rus'], $value);  
         } 
@@ -566,8 +515,8 @@ function finalObject($meaning_object){
     $meaning_object['word'] = preg_replace('/^ */', '', $meaning_object['word']);
     $meaning_object['word'] = preg_replace('/^\s+/', '', $meaning_object['word']);
     $meaning_object['word'] = rtrim($meaning_object['word']);
-    array_push($result, $meaning_object);
-    //writeDownOrigin($meaning_object);    
+    //array_push($result, $meaning_object);
+    writeDownOrigin($meaning_object);    
     //return $meaning_object;
     
     //$meaning_object['qirim_translation'] = getQTTranslation($meaning_object['word']);
@@ -593,18 +542,222 @@ function finalObject($meaning_object){
         ];
         $meaning_object['word'][$i] = $last_meaning_obj;*/
 }
-function getQirimTranslation($word){
-    $html = file_get_contents('https://gufo.me/dict/rucrh/'.$word);
-    $start = strpos($html, 'lightslategray');
-    $end = strpos($html, '<div class="fb-quote"></div>');
 
-    $length = $end-$start;
-    $html = substr($html, $start, $length);
-    $html = strip_tags($html);
-    $new_start = strpos($html, ']');
-    $new_length = strlen($html)-$new_start;
-    $newhtml = substr($html, $new_start+3, $new_length);
-    
+function getLastMeaning($meaning_object){
+    for($i = 0; $i < count($meaning_object['word']); $i++){
+        $meaning_object['word'] = $meaning_object['word'][$i];
+        finalObject($meaning_object);
+    }
 }
-print_r(scanPage());
-//print_r(validateTextWord());
+
+
+function writeDownOrigin ($word_object){
+    $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
+    $mysqli->set_charset("utf8");
+    $sql = "
+        INSERT INTO
+            qirim_english_dictionary.eng_words
+        SET
+            name = '".$word_object['origin']."',
+            transcription = '".$word_object['transcription']."',    
+            part_of_speech_id = '".$word_object['abbreviation_eng']."'    
+        ";
+    $mysqli->query($sql);
+    
+     $sql_2 = "
+                SELECT 
+                    eng_word_id
+                FROM
+                    qirim_english_dictionary.eng_words
+                WHERE
+                    name = '".$word_object['origin']."'
+            ";
+    $result = mysqli_fetch_row($mysqli->query($sql_2));
+    $word_object['origin_id'] = $result[0];
+
+    $mysqli->close();
+    writeDownDescriptions($word_object);
+}
+
+function writeDownDescriptions ($word_object){
+    $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
+    $mysqli->set_charset("utf8");
+    if($word_object['big_example']){
+        $sql1 = "
+            INSERT INTO 
+                qirim_english_dictionary.eng_word_examples 
+            SET 
+                eng_word_id = '".$word_object['origin_id']."', 
+                description = '".$word_object['big_example']."'   
+            ";
+        $mysqli->query($sql1);
+    }
+    if($word_object['tiny_example']){
+        $sql2 = "
+            INSERT INTO 
+                qirim_english_dictionary.eng_tiny_descriptions 
+            SET 
+                eng_word_id = '".$word_object['origin_id']."', 
+                tiny_description = '".$word_object['tiny_example'][0]."'   
+            ";
+        $mysqli->query($sql2);
+    }
+    if(count($word_object['rus_description'])>0){
+        $rus_description = $word_object['rus_description'][0];
+    } else {
+        $rus_description = '';
+    }
+    if(count($word_object['abbreviation_rus'])>0){
+        $abbreviation_rus = $word_object['abbreviation_rus'][0];
+    } else {
+        $abbreviation_rus = '';
+    }
+    if(count($word_object['description'])>0){
+        $description = $word_object['description'][0];
+    } else {
+        $description = '';
+    }
+
+    $sql = "
+        INSERT INTO
+            qirim_english_dictionary.rus_words
+        SET
+            name = '".$word_object['word']."',    
+            part_of_speech_id = '".$word_object['abbreviation_eng']."'
+    ";
+    $mysqli->query($sql);
+
+    $sql_2 = "
+        SELECT 
+            rus_word_id
+        FROM
+            qirim_english_dictionary.rus_words
+        WHERE
+            name = '".$word_object['word']."'
+        ";
+    $result = mysqli_fetch_row($mysqli->query($sql_2));
+    $rus_word_id = $result[0];
+    if($description!='' || $abbreviation_rus != '' || $rus_description !=''){
+        $sql3 = "
+            INSERT INTO
+                qirim_english_dictionary.rus_descriptions
+            SET
+                rus_word_id = '".$rus_word_id."',
+                abbreviation = '".$abbreviation_rus."',
+                rus_subdescription = '".$rus_description."',   
+                eng_subdescription = '".$description."'   
+            ";
+        $mysqli->query($sql3);
+    }
+    $sql_3 = "
+        INSERT INTO
+            qirim_english_dictionary.references
+        SET
+            eng_word_id = '".$word_object['origin_id']."',    
+            rus_word_id = '".$rus_word_id."'    
+        ";
+    $mysqli->query($sql_3);
+            
+    $mysqli->close();
+}
+
+function getQTTranslation($input_word){
+    header('Content-Type: text/plain');
+    $json = file_get_contents('http://lugat.xyz/get_json?word='.$input_word);
+    $qt_word_object = json_decode($json);
+    $result_object = [];
+    foreach($qt_word_object->articles as $translation){
+        $translation_string = strip_tags($translation->article);
+        if (strpos($translation_string,'1.')>-1){
+            array_push($result_object, getQTSecondMeaning($translation_string));
+        } else {
+            array_push($result_object, $translation_string);
+        }
+    }
+    return $result_object;
+} 
+
+function getQTSecondMeaning($translation_string){
+    $second_meaning = preg_split("/[0-9]+\./", $translation_string);
+    array_shift($second_meaning);
+    return $second_meaning;
+}
+
+
+function gufoWordList(){
+    $letters = [
+        'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o', 'p','q','r','s','t','u','v','w','x','y','z'
+    ];
+    set_time_limit(800000);
+    $links = [];
+    for($u = 0; $u < count($letters); $u++){
+        $array = [];
+        for($i=1; $i<100; $i++){
+            $html=file_get_contents('https://gufo.me/dict/enru_muller?page='.$i.'&letter='.$letters[$u]);
+            if (!$html){
+                break;
+            }
+            $start = strpos($html, '<ul class="list-unstyled app-word-list">');
+            $end = strpos($html, '</article>');
+
+            $length = $end-$start;
+            $html = substr($html, $start, $length);
+            preg_match_all("/<a[^>]+href=\"([^\"]+)\"[^>]*>/",$html,$matches_links);
+            for($k = 0; $k < count($matches_links[1]); $k++){
+                $word = str_replace('/dict/enru_muller/', '', $matches_links[1][$k]);
+                array_push($array, $word);
+                //$words[$i]['size'] = sizeof($words[$i]['translation']);
+            }
+        }
+        file_put_contents('new_gufo/'.$letters[$u].'.txt', implode(' | ',$array));
+    }    
+    
+    //print_r(implode(' | ',$array));
+}
+
+function compareDifferences(){
+    $letters = [
+        'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o', 'p','q','r','s','t','u','v','w','x','y','z'
+    ];
+    for($i = 0; $i<count($letters); $i++){
+        $array_origins = explode(' | ',file_get_contents('origins/'.strtoupper ( $letters[$i] ) .'.txt'));
+        $gufo_array = explode(' | ',file_get_contents('new_gufo/'.$letters[$i].'.txt'));
+        $result = array_diff($gufo_array, $array_origins);
+        file_put_contents('differences/'.$letters[$i].'.txt', implode(' | ',$result));
+    }
+}
+
+$time_start = microtime(true); 
+ /*
+if(function_exists($_GET['f'])) {
+   $_GET['f']();
+}*/
+$intervals = [
+            'a-c', 'd-f', 'g-i', 'j-l', 'm-o', 'p-r', 's-u', 'v-z'
+        ];
+
+
+    $current_letter = [
+       'A','B','C','D','E','F','G','H','I','J','K','L','M','N', 'O','P','Q','R','S','T' 
+    ];/*
+$current_letter = [
+       'H','I','J','K','L','M','N' 
+    ];
+$current_letter = [
+       'O','P','Q','R','S','T'
+    ];
+for($k = 0; $k < count($current_letter); $k++){
+        compileObject($current_letter[$k]);
+}*/
+compileObject('a');
+//getQTTranslation();
+//gufoWordList();
+//compareDifferences();
+    
+    
+$time_end = microtime(true);
+
+$execution_time = ($time_end - $time_start)/60;
+
+//execution time of the script
+echo '<b>Total Execution Time:</b> '.$execution_time.' Mins';
