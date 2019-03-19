@@ -405,8 +405,8 @@ function findAbbreviationEng($word_string){
 }
 
 function findSynonims ($word){
-    $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
-    $mysqli->set_charset("utf8");
+    //$mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
+    //$mysqli->set_charset("utf8");
     global $abbreviation_eng;
     $word['synonim'] = '';
     if (strpos($word['word'],'_Syn:')>-1){
@@ -435,30 +435,30 @@ function findSynonims ($word){
                     break;
                 }
             }
-            $eng_origin1_word_id = mysqli_fetch_row($mysqli->query("SELECT eng_word_id FROM qirim_english_dictionary.eng_words WHERE name = '".$word['origin']."'"))[0];
+           /* $eng_origin1_word_id = mysqli_fetch_row($mysqli->query("SELECT eng_word_id FROM qirim_english_dictionary.eng_words WHERE name = '".$word['origin']."'"))[0];
             $mysqli->query("UPDATE qirim_english_dictionary.eng_words SET part_of_speech_id = '".$word['abbreviation_eng']."' WHERE eng_word_id = '".$eng_origin1_word_id."'");
             $mysqli->query("INSERT INTO qirim_english_dictionary.rus_words SET name = '".$word['word']."',part_of_speech_id = '".$word['abbreviation_eng']."'");
             $rus1_word_id = mysqli_fetch_row($mysqli->query("SELECT rus_word_id FROM qirim_english_dictionary.rus_words WHERE name = '".$word['word']."'"))[0];
             $mysqli->query("INSERT INTO qirim_english_dictionary.`references` SET eng_word_id = '".$eng_origin1_word_id."',rus_word_id = '".$rus1_word_id."'");
             $mysqli->query("INSERT INTO qirim_english_dictionary.eng_word_examples SET description = '".$word['new_eng_word']."',eng_word_id = '".$eng_origin1_word_id."'");
-         
+         */
             
         } else {
             $synonim = explode('=',$word['word']);
             $word['synonim'] = ltrim(preg_replace('/[0-9]/','',explode(',', $synonim[1])[0]));
             $word['synonim'] = trim(preg_replace('/\s+/', ' ', $word['synonim']));
             $word['word'] = $synonim[0];
-            $eng_origin2_word_id = mysqli_fetch_row($mysqli->query("SELECT eng_word_id FROM qirim_english_dictionary.eng_words WHERE name = '".$word['origin']."'"))[0];
+            /*$eng_origin2_word_id = mysqli_fetch_row($mysqli->query("SELECT eng_word_id FROM qirim_english_dictionary.eng_words WHERE name = '".$word['origin']."'"))[0];
             $eng_origin3_word_id = mysqli_fetch_row($mysqli->query("SELECT eng_word_id FROM qirim_english_dictionary.eng_words WHERE name = '".$word['synonim']."'"))[0];
             
             $rus_references_list = mysqli_fetch_all($mysqli->query("SELECT rus_word_id FROM qirim_english_dictionary.`references` WHERE eng_word_id = '".$eng_origin3_word_id."'"));
             foreach ($rus_references_list as $rus){
                 $mysqli->query("INSERT INTO qirim_english_dictionary.`references` SET eng_word_id = '".$eng_origin2_word_id."',rus_word_id = '".$rus[0]."'");
-            }
+            }*/
         }
     }
-    //return $word;
-    $mysqli->close();
+    return $word;
+    //$mysqli->close();
 }
 
 function findAbbreviationRus($word_string){
@@ -486,7 +486,7 @@ function findAbbreviationRus($word_string){
     }
     error_reporting(1);
     $meaning_object = findSynonims($meaning_object);
-    return;
+    //return;
     preg_match('/[A-Z]{1}[\s, \S]*[\.,?,!]?/', $meaning_object['word'], $matches);
     if($matches[0]){
         $meaning_object['big_example'] = $matches[0];
@@ -554,7 +554,7 @@ function finalObject($meaning_object){
     $meaning_object['word'] = preg_replace('/^\s+/', '', $meaning_object['word']);
     $meaning_object['word'] = rtrim($meaning_object['word']);
     //array_push($result, $meaning_object);
-    //writeDownOrigin($meaning_object);    
+    writeDownOrigin($meaning_object);    
     //return $meaning_object;
     
     //$meaning_object['qirim_translation'] = getQTTranslation($meaning_object['word']);
@@ -608,7 +608,7 @@ function writeDownOrigin ($word_object){
                 FROM
                     qirim_english_dictionary.eng_words
                 WHERE
-                    name = '".$word_object['origin']."'
+                    name = '".$word_object['origin']."'  AND part_of_speech_id = '".$word_object['abbreviation_eng']."'
             ";
     $result = mysqli_fetch_row($mysqli->query($sql_2));
     $word_object['origin_id'] = $result[0];
@@ -777,13 +777,13 @@ $intervals = [
 /*
     $current_letter = [
        'A','B','C','D','E','F','G'
-    ];
-$current_letter = [
-       'H','I','J','K','L','M','N' 
     ];*/
 $current_letter = [
+       'A','B','C','D','E','F','G' 
+    ];/*
+$current_letter = [
        'H','I','J','K','L','M','N' , 'O','P','Q','R','S','T'
-    ];
+    ];*/
 for($k = 0; $k < count($current_letter); $k++){
     for($i = 0; $i < count($intervals); $i++){
         compileObject($intervals[$i], $current_letter[$k]);
