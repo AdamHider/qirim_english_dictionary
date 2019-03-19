@@ -1,0 +1,401 @@
+
+<ar><k>_a.</k>
+adjective имя прилагательное</ar>
+<ar><k>_adv.</k>
+adverb наречие</ar>
+<ar><k>_ant:</k>
+antonym антоним</ar>
+<ar><k>_artic.</k>
+article артикль</ar>
+<ar><k>_attr.</k>
+attributively в качестве определения</ar>
+<ar><k>_cj.</k>
+conjunction союз</ar>
+<ar><k>_comp.</k>
+comparative degree сравнительная степень</ar>
+<ar><k>_conj.</k>
+pronoun conjunction союзное местоимение</ar>
+<ar><k>_demonstr.</k>
+demonstrative (pronoun) указательное местоимение</ar>
+<ar><k>_emph.</k>
+emphatic (pronoun) усилительное (местоимение)</ar>
+<ar><k>_f.</k>
+feminine женский род</ar>
+<ar><k>_imp.</k>
+imperative повелительное наклонение</ar>
+<ar><k>_impers.</k>
+impersonal form безличная форма</ar>
+<ar><k>_indef.</k>
+indefinite (pronoun) неопределенное местоимение</ar>
+<ar><k>_inf.</k>
+infinitive неопределенная форма глагола</ar>
+<ar><k>_inter.</k>
+interrogative (pronoun) вопросительное (местоимение)</ar>
+<ar><k>_interj.</k>
+interjection междометие</ar>
+<ar><k>_invar.</k>
+invariable неизменяемый</ar>
+<ar><k>_m.</k>
+masculine мужской род</ar>
+<ar><k>_mis.</k>
+misuse неправильное употребление</ar>
+<ar><k>_n-card.</k>
+number cardinal количественное числительное</ar>
+<ar><k>_n-ord.</k>
+number ordinal порядковое числительное</ar>
+<ar><k>_n.</k>
+noun существительное</ar>
+<ar><k>_neg.</k>
+negative отрицательный</ar>
+<ar><k>_obj.</k>
+objective case косвенный падеж</ar>
+<ar><k>_p-p.</k>
+past participle причастие прошедшего времени</ar>
+<ar><k>_p.</k>
+past indefinite прошлое</ar>
+<ar><k>_pass.</k>
+passive страдательный залог</ar>
+<ar><k>_pers.</k>
+personal (pronoun) личное местоимение</ar>
+<ar><k>_pf.</k>
+perfective aspect совершенный вид</ar>
+<ar><k>_pl.</k>
+plural множественное число</ar>
+<ar><k>_poss.</k>
+possessive (pronoun) притяжательное местоимение</ar>
+<ar><k>_predic.</k>
+predicative употребление в именной части сказуемого</ar>
+<ar><k>_pref.</k>
+prefix приставка</ar>
+<ar><k>_prep.</k>
+preposition предлог</ar>
+<ar><k>_pres-p.</k>
+present participle причастие настоящего времени</ar>
+<ar><k>_pres.</k>
+present настоящее время</ar>
+<ar><k>_pron.</k>
+pronoun местоимение</ar>
+<ar><k>_recipr.</k>
+reciprocal (pronoun) взаимное местоимение</ar>
+<ar><k>_refl.</k>
+reflexive (pronoun) возвратное местоимение</ar>
+<ar><k>_rel.</k>
+relative (pronoun) относительное местоимение</ar>
+<ar><k>_sg.</k>
+singular единственное число</ar>
+<ar><k>_subj.</k>
+subjective case именительный падеж</ar>
+<ar><k>_suf.</k>
+suffix суффикс</ar>
+<ar><k>_sup.</k>
+superlative превосходная степень</ar>
+<ar><k>_syn:</k>
+synonym синоним</ar>
+<ar><k>_v.</k>
+verb глагол</ar>
+<ar><k>_ав.</k>
+aeronautics авиация</ar>
+<ar><k>_австрал.</k>
+Australian австралийский</ar>
+<ar><k>_авт.</k>
+motoring автомобилизм</ar>
+<ar><k>_ак.</k>
+acoustics акустика</ar>
+<ar><k>_ам.</k>
+American американский, употребляется в США</ar>
+<ar><k>_анат.</k>
+anatomy анатомия</ar>
+<ar><k>_антр.</k>
+antropology антропология</ar>
+<ar><k>_араб.</k>
+Arabian арабский</ar>
+<ar><k>_арт.</k>
+artillery артиллерия</ar>
+<ar><k>_археол.</k>
+archaeology археология</ar>
+<ar><k>_архит.</k>
+architecture зодчество, архитектура</ar>
+<ar><k>_астр.</k>
+astronomy астрономия</ar>
+<ar><k>_афр.</k>
+African африканский</ar>
+<ar><k>_бакт.</k>
+bacteriology бактериология</ar>
+<ar><k>_банк.</k>
+banking банковое дело</ar>
+<ar><k>_библ.</k>
+biblical библейский</ar>
+<ar><k>_биол.</k>
+biology биология</ar>
+<ar><k>_биох.</k>
+biochemistry биохимия</ar>
+<ar><k>_бирж.</k>
+exchange биржевое выражение</ar>
+<ar><k>_бот.</k>
+botany ботаника</ar>
+<ar><k>_бран.</k>
+swear-word бранное</ar>
+<ar><k>_брит.</k>
+British употребляется в Британии</ar>
+<ar><k>_буд.</k>
+buddhistic буддисткое</ar>
+<ar><k>_бумагодел.</k>
+paper-bussines бумагоделательное</ar>
+<ar><k>_бухг.</k>
+accountancy бухгалтерское дело</ar>
+<ar><k>_венг.</k>
+Hungarian венгерский</ar>
+<ar><k>_вет.</k>
+veterinary ветеринарный</ar>
+<ar><k>_воен.</k>
+military военный</ar>
+<ar><k>_геогр.</k>
+geography география</ar>
+<ar><k>_геод.</k>
+geodetic геодезический</ar>
+<ar><k>_геол.</k>
+geology геология</ar>
+<ar><k>_геом.</k>
+geometry геометрия</ar>
+<ar><k>_геральд.</k>
+heraldic геральдический</ar>
+<ar><k>_гидр.</k>
+hydrology гидрология</ar>
+<ar><k>_горн.</k>
+mining горное дело</ar>
+<ar><k>_грам.</k>
+grammar грамматика</ar>
+<ar><k>_греч.</k>
+Greek греческое</ar>
+<ar><k>_груб.</k>
+vulgar грубый; вульгарный; пошлый</ar>
+<ar><k>_датс.</k>
+Dane датское</ar>
+<ar><k>_детск.</k>
+child детское выражение</ar>
+<ar><k>_диал.</k>
+dialect диалект; наречие; говор</ar>
+<ar><k>_дип.</k>
+diplomacy дипломатия</ar>
+<ar><k>_дор.</k>
+roadway business дорожное дело</ar>
+<ar><k>_др-греч.</k>
+Ancient Greek древне-греческий</ar>
+<ar><k>_др-евр.</k>
+Ancient Judaic древнееврейский</ar>
+<ar><k>_др-рим.</k>
+Roman древне-римское</ar>
+<ar><k>_ж-д.</k>
+railways железнодорожный</ar>
+<ar><k>_жарг.</k>
+slang; jargon сленг; жаргон</ar>
+<ar><k>_жив.</k>
+painting живопись</ar>
+<ar><k>_зоол.</k>
+zoology зоология</ar>
+<ar><k>_инд.</k>
+Indian индийский</ar>
+<ar><k>_ирл.</k>
+Irish ирландское</ar>
+<ar><k>_ирон.</k>
+ironic(al) иронический</ar>
+<ar><k>_иск.</k>
+art искусство</ar>
+<ar><k>_исп.</k>
+Spanish испанский язык</ar>
+<ar><k>_ист.</k>
+history история</ar>
+<ar><k>_ит.</k>
+Italian итальянский</ar>
+<ar><k>_канц.</k>
+clerical, committee phrase канцелярское выражение</ar>
+<ar><k>_карт.</k>
+cards карточный термин</ar>
+<ar><k>_кин.</k>
+cinema кинематография</ar>
+<ar><k>_кит.</k>
+Chinese китайский</ar>
+<ar><k>_книж.</k>
+literary книжное выражение</ar>
+<ar><k>_ком.</k>
+commerce торговля, коммерция</ar>
+<ar><k>_комп.</k>
+computing вычислительная техника</ar>
+<ar><k>_косм.</k>
+cosmonautics космонавтика</ar>
+<ar><k>_кул.</k>
+culinary кулинарный; кухонный</ar>
+<ar><k>_ласк.</k>
+affectionate ласкательное выражение</ar>
+<ar><k>_лат.</k>
+Latin латинский язык</ar>
+<ar><k>_лес.</k>
+forestry лесоводство; лесное хозяйство</ar>
+<ar><k>_лингв.</k>
+linguistics языкознание</ar>
+<ar><k>_лит.</k>
+literature употребительно в литературоведении</ar>
+<ar><k>_лог.</k>
+logic логика</ar>
+<ar><k>_малайск.</k>
+Malay малайский</ar>
+<ar><k>_мат.</k>
+mathematics математика</ar>
+<ar><k>_мед.</k>
+medicine медицина, особ. терапия</ar>
+<ar><k>_метал.</k>
+metallurgy металлургия</ar>
+<ar><k>_метеор.</k>
+meteorology метеорология</ar>
+<ar><k>_мех.</k>
+mechanics механика</ar>
+<ar><k>_мин.</k>
+mineralogy минералогия</ar>
+<ar><k>_миф.</k>
+mythology мифология</ar>
+<ar><k>_мор.</k>
+nautical морской; мореходный</ar>
+<ar><k>_муз.</k>
+music музыка</ar>
+<ar><k>_нем.</k>
+German германский, немецкий</ar>
+<ar><k>_неодобр.</k>
+disapproving неодобрительный</ar>
+<ar><k>_норв.</k>
+Norse норвежский</ar>
+<ar><k>_опт.</k>
+optics оптика</ar>
+<ar><k>_охот.</k>
+hunting охота</ar>
+<ar><k>_палеонт.</k>
+palaeontology палеонтология</ar>
+<ar><k>_парл.</k>
+parliamentary term парламентское выражение</ar>
+<ar><k>_перен.</k>
+figuratively в переносном значении</ar>
+<ar><k>_перс.</k>
+Persian персидский</ar>
+<ar><k>_полигр.</k>
+typography типографское дело</ar>
+<ar><k>_полит-эк.</k>
+economics политическая экономия</ar>
+<ar><k>_полит.</k>
+politics политика</ar>
+<ar><k>_польск.</k>
+Polish польский язык</ar>
+<ar><k>_португ.</k>
+Portuguese португальский</ar>
+<ar><k>_посл.</k>
+proverb пословица</ar>
+<ar><k>_поэт.</k>
+poetic поэтическое выражение</ar>
+<ar><k>_презр.</k>
+disdainful; pejorative презрительный; пренебрежительный</ar>
+<ar><k>_пренебр.</k>
+depreciatingly пренебрежительно</ar>
+<ar><k>_психол.</k>
+psychology психология</ar>
+<ar><k>_рад.</k>
+radio радио</ar>
+<ar><k>_разг.</k>
+colloquialism разговорное</ar>
+<ar><k>_редк.</k>
+rare редкий</ar>
+<ar><k>_рез.</k>
+rubbery industry резиновая промышленность</ar>
+<ar><k>_рел.</k>
+religious религиозное</ar>
+<ar><k>_ритор.</k>
+rhetoric риторика</ar>
+<ar><k>_рус.</k>
+Russian русское</ar>
+<ar><k>_с-х.</k>
+agriculture сельское хозяйство</ar>
+<ar><k>_санскр.</k>
+Sanskrit санскритский</ar>
+<ar><k>_сев.</k>
+Northern северные, употребительно на севере Англии и в Шотландии</ar>
+<ar><k>_сканд.</k>
+Scandinavian скандинавский</ar>
+<ar><k>_собир.</k>
+collective noun собирательное имя существительное</ar>
+<ar><k>_сокр.</k>
+abbreviation аббревиатура, сокращение, сокращенно</ar>
+<ar><k>_спорт.</k>
+sport спортивный</ar>
+<ar><k>_стих.</k>
+versification, prosody стихосложение</ar>
+<ar><k>_стр.</k>
+construction строительство, стройка</ar>
+<ar><k>_страх.</k>
+insurance страхование</ar>
+<ar><k>_студ.</k>
+student студенческий</ar>
+<ar><k>_театр.</k>
+theater театр</ar>
+<ar><k>_текст.</k>
+textiles ткани</ar>
+<ar><k>_тел.</k>
+telephony; telegraphy телефон; телеграф</ar>
+<ar><k>_тех.</k>
+technology техника; технология</ar>
+<ar><k>_тлв.</k>
+TV television телевидение</ar>
+<ar><k>_топ.</k>
+topography топография</ar>
+<ar><k>_тур.</k>
+Turkish турецкий</ar>
+<ar><k>_уменьш.</k>
+diminutive уменьшительная форма</ar>
+<ar><k>_унив.</k>
+university университет</ar>
+<ar><k>_уст.</k>
+obsolete; archaism вышедший из употребления; архаизм</ar>
+<ar><k>_фарм.</k>
+pharmacy фармацевтика</ar>
+<ar><k>_физ.</k>
+physics физика</ar>
+<ar><k>_физиол.</k>
+physiology физиология</ar>
+<ar><k>_филос.</k>
+philosophy философия</ar>
+<ar><k>_фин.</k>
+financial финансовый</ar>
+<ar><k>_фон.</k>
+phonetics фонетика</ar>
+<ar><k>_фот.</k>
+photography фотография</ar>
+<ar><k>_фр.</k>
+French французский</ar>
+<ar><k>_хим.</k>
+chemistry химия</ar>
+<ar><k>_хир.</k>
+surgery хирургия</ar>
+<ar><k>_церк.</k>
+ecclesiastical term церковное выражение</ar>
+<ar><k>_шахм.</k>
+chess шахматный термин</ar>
+<ar><k>_школ.</k>
+school школьное</ar>
+<ar><k>_шотл.</k>
+Scotch шотландский</ar>
+<ar><k>_шутл.</k>
+jocular шутливый; комический</ar>
+<ar><k>_эвф.</k>
+euphemistic(al) эвфемистический</ar>
+<ar><k>_эк.</k>
+economy экономика; народное хозяйство</ar>
+<ar><k>_эл.</k>
+electricity электричество</ar>
+<ar><k>_энт.</k>
+entomology энтомология</ar>
+<ar><k>_этн.</k>
+ethnography этнография</ar>
+<ar><k>_ю-ам.</k>
+South-American употребляется в Южной Америке</ar>
+<ar><k>_ю-афр.</k>
+South-African употребляется в Южной Африке</ar>
+<ar><k>_юр.</k>
+legal юридический, правовой</ar>
+<ar><k>_яп.</k>
+Japan японский</ar>
