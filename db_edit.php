@@ -6,27 +6,80 @@ function getList(){
     $sql_2 = "
         SELECT * 
         FROM qirim_english_dictionary.rus_words 
-        WHERE name LIKE ' %';
+        WHERE name LIKE '[%';
         ";
     $query = mysqli_fetch_all($mysqli->query($sql_2));
     $result = [];
     $obj = [];
+    $errors = [];
+    $delete_errors = [];
     foreach ($query as $row){
         $obj = [
             'id' => $row[0],
             'name' => editRow($row[1])
         ];
-        array_push($result, $obj);
+        if($obj['name'] != ''){
+            array_push($result, $obj);
+        }
+        //deleteQuery($obj['id']);
         
+           if($obj['name'] != ''){
+         
+            $sql_3 = "
+                UPDATE  qirim_english_dictionary.rus_words 
+                SET name = '".$obj['name']."'
+                WHERE rus_word_id = '".$obj['id']."';
+                ";
+            $query = $mysqli->query($sql_3);
+            $error = mysqli_error($mysqli);
+            if(strpos($error, 'Duplicate entry')>-1){
+               deleteQuery($obj['id']);
+            }
+            if($query===false){
+                array_push($errors, $query.$obj['id'].$error);
+            }
+        } else {
+          deleteQuery($obj['id']);
+        }
     }
      $mysqli->close();
     print_r($result);
 }
 
 function editRow($row_name){
-    $row_name = preg_replace('/_[\S]*\./', '', $row_name);
-    $row_name = preg_replace('/[0-9a-zA-Z]+/', '', $row_name);
+    $row_name = preg_replace('/\[.*\]/', '', $row_name);
+    $row_name = preg_replace('/[.]/', '', $row_name);
+    if(strpos($row_name, ';')>-1){
+        $row_name = explode(';', $row_name)[1];
+    }
+    if(strlen(trim($row_name))<13){
+        $row_name = '';
+    }
+    if(strpos($row_name, '(')>-1){
+        $row_name = '';
+    }
+    $row_name = trim($row_name);
+    $row_name = preg_replace('/^[!]+/', '', $row_name);
     return trim($row_name);
+}
+
+
+function deleteQuery($id){
+    $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
+    $mysqli->set_charset("utf8");
+    $sql_5 = "
+        DELETE  FROM  qirim_english_dictionary.rus_words 
+        WHERE rus_word_id = '".$id."'
+        ";
+    $query2 = $mysqli->query($sql_5);
+    $sql_4 = "
+        DELETE  FROM  qirim_english_dictionary.`references`
+        WHERE rus_word_id = '".$id."'
+        ";
+    $query3 = $mysqli->query($sql_4);
+    $error = mysqli_error($mysqli);
+    $mysqli->close();
+    print_r($error);
 }
 
 function compileObject(){
