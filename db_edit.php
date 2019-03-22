@@ -6,7 +6,7 @@ function getList(){
     $sql_2 = "
         SELECT * 
         FROM qirim_english_dictionary.rus_words 
-        WHERE name LIKE '[%';
+        WHERE name LIKE '%:';
         ";
     $query = mysqli_fetch_all($mysqli->query($sql_2));
     $result = [];
@@ -21,11 +21,10 @@ function getList(){
         if($obj['name'] != ''){
             array_push($result, $obj);
         }
-        //deleteQuery($obj['id']);
-        
+        deleteQuery($obj['id']);
+        /*
            if($obj['name'] != ''){
-         
-            $sql_3 = "
+          $sql_3 = "
                 UPDATE  qirim_english_dictionary.rus_words 
                 SET name = '".$obj['name']."'
                 WHERE rus_word_id = '".$obj['id']."';
@@ -40,26 +39,24 @@ function getList(){
             }
         } else {
           deleteQuery($obj['id']);
-        }
+        }*/
     }
      $mysqli->close();
     print_r($result);
 }
 
 function editRow($row_name){
-    $row_name = preg_replace('/\[.*\]/', '', $row_name);
-    $row_name = preg_replace('/[.]/', '', $row_name);
-    if(strpos($row_name, ';')>-1){
-        $row_name = explode(';', $row_name)[1];
+    //$row_name = preg_replace('/{.*}/', '', $row_name);
+    //$row_name = preg_replace('/и пр/', '', $row_name);
+    if(strpos($row_name, ')')>-1){
+        if(!strpos($row_name, '(')){
+            $row_name = '';
+        }
     }
-    if(strlen(trim($row_name))<13){
-        $row_name = '';
-    }
-    if(strpos($row_name, '(')>-1){
+    if(strlen(trim($row_name))<3){
         $row_name = '';
     }
     $row_name = trim($row_name);
-    $row_name = preg_replace('/^[!]+/', '', $row_name);
     return trim($row_name);
 }
 
