@@ -29,11 +29,15 @@
                 for (var i = 0; i<list.length; i++){
                     var word_object = list[i];
                     word_html += '<div class="word-info"><div class="word-descr">';
-                    word_html += '<div class="word-verify-'+i+'">WORD TO VERIFY: '+word_object[0]+'</div>';
-                    word_html += '<div class="word-origin-'+i+'">ORIGIN: '+word_object[1]+'</div>';
-                    word_html += '<div class="word-rus-id-'+i+'">ENG ID: '+word_object[2]+'</div>';
-                    word_html += '<div class="word-rus-id-'+i+'">RUS ID: '+word_object[3]+'</div></div>';
-                    
+                    word_html += '<span class="word-rus-id-'+i+'">ENG ID: '+word_object[2]+'</span>';
+                    word_html += '<span class="word-origin-'+i+'" style="margin-left:30px">ORIGIN: '+word_object[1]+'</span>';
+                    word_html += '<div></div>';
+                    word_html += '<span class="word-rus-id-'+i+'">RUS ID: '+word_object[3]+'</span>';
+                    word_html += '<span class="word-verify-'+i+'" style="margin-left:30px; font-size:20px" >'+word_object[0]+'</span>';
+                    word_html += '<div></div>';
+                    word_html += '<div class="new-translation-'+i+'-1">1 <input></input> </div>';
+                    word_html += '<div class="new-translation-'+i+'-2">2 <input></input> </div>';
+                    word_html += '<div class="new-translation-'+i+'-3">3 <input></input> </div>';
                     word_html += '</div></div>';
                 }
                 $('.list').html(word_html);
@@ -50,6 +54,9 @@
             .translation{
                 padding:20px;
                 border-top:1px solid black;
+            }
+            div{
+                margin:20px 0;
             }
         </style>
     </head>
