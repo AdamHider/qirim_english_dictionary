@@ -4,63 +4,32 @@
         <title>verifyTranslation</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-        <script>
-            var list = [];
-            $(document).ready(function() {
-                    $.ajax({
-                        url:'verifyRusTranslation.php?f=getList',
-                        type: 'post',
-                        data: '',
-                        dataType: 'json',
-                        beforeSend: function() {
-                        },
-                        complete: function() {
-                        },
-                        success: function(json) {
-                            list = json;
-                            render();
-                            
-                        }
-                    });
-                });
-            function render(){
-                var word_html = '<div>';
-                for (var i = 0; i<list.length; i++){
-                    var word_object = list[i];
-                    word_html += '<div class="word-info"><div class="word-descr">';
-                    word_html += '<span class="word-rus-id-'+i+'">ENG ID: '+word_object[2]+'</span>';
-                    word_html += '<span class="word-origin-'+i+'" style="margin-left:30px">ORIGIN: '+word_object[1]+'</span>';
-                    word_html += '<div></div>';
-                    word_html += '<span class="word-rus-id-'+i+'">RUS ID: '+word_object[3]+'</span>';
-                    word_html += '<span class="word-verify-'+i+'" style="margin-left:30px; font-size:20px" >'+word_object[0]+'</span>';
-                    word_html += '<div></div>';
-                    word_html += '<div class="new-translation-'+i+'-1">1 <input></input> </div>';
-                    word_html += '<div class="new-translation-'+i+'-2">2 <input></input> </div>';
-                    word_html += '<div class="new-translation-'+i+'-3">3 <input></input> </div>';
-                    word_html += '</div></div>';
-                }
-                $('.list').html(word_html);
-            }    
-            
-        </script>
+        <script src="jquery-2.1.1.min.js"></script>
+       
         <style>
             .word-info{
                 border:1px solid black; 
-                background-color: lightcyan;
-                padding:20px;
-                margin-bottom: 20px;
+                background-color: lightyellow;
+                padding:10px;
+                margin-bottom: 10px;
             }
             .translation{
-                padding:20px;
+                padding:10px;
                 border-top:1px solid black;
             }
             div{
-                margin:20px 0;
+                margin:10px 0;
+            }
+            button{
+                width: 110px;
+                height: 40px;
             }
         </style>
     </head>
     <body>
+        <div>
+            <button type='button' id="commit" style="float:right; background-color:lightblue">COMMIT</button>
+        </div>
         <div class="list">
             <div class="word-info" style="">
                 <div class="word-descr">
@@ -79,3 +48,109 @@
         </div>
     </body>
 </html>
+ <script type="text/javascript">
+    var offset = 0;
+    var list = [];
+    $(document).ready(function() {
+            load();
+        });
+    function load(){
+        $.ajax({
+                url:'verifyRusTranslation.php?f=getList&offset='+offset,
+                type: 'post',
+                data: '',
+                dataType: 'json',
+                beforeSend: function() {
+                },
+                complete: function() {
+                },
+                success: function(json) {
+                    list = json;
+                    render();
+
+                }
+            });
+    }
+    function render(){
+        var word_html = '<div>';
+        word_html += '<div>Page # '+(offset+10)/10+' </div>';
+        for (var i = 0; i<list.length; i++){
+            var word_object = list[i];
+            word_html += '<div id="div-row-'+word_object[3]+'" class="word-info"><div class="word-descr" >';
+            word_html += '<button id="row-'+word_object[3]+'" onclick="select(this.id)" style="float:left">OK</button>';
+            word_html += '<div></div>';
+            word_html += '<span class="word-verify-'+i+'" style="margin-left:10px; font-size:20px" >'+word_object[0]+'</span>';
+            
+            word_html += '<span class="word-input-'+i+'" style="margin-left:40px; font-size:20px" ><input id="input-'+word_object[3]+'" style="width:250px; height:25px" value=""/></span>';
+            word_html += '<span class="word-input-'+i+'" style="margin-left:40px; font-size:20px" ><input id="buttoninput-'+word_object[3]+'" type="button" value="UPDATE" onclick="update(this.id)"/></span>';
+            word_html += '<span class="delete-input-'+i+'" style="margin-left:40px; font-size:20px" ><input id="buttondelete-'+word_object[3]+'" type="button" value="DELETE" onclick="deleteWord(this.id)"/></span>';
+            word_html += '</div></div>';
+        }
+        $('.list').html(word_html);
+    } 
+    function select(node){
+        var id = (node.split('-'))[1];
+        for(var i =0; i<list.length; i++){
+            if(list[i][3] == id && list[i][5] === undefined ){
+                list[i].push('put to exceptions');
+                $('#div-'+node).css('background-color', 'lightgreen');
+            } else if ( list[i][5] != undefined ){
+                list[i].pop();
+                $('#div-'+node).css('background-color', 'lightyellow');
+            }
+        }
+    }
+    
+    function update(node){
+        var id = (node.split('-'))[1];
+        var new_name = $('#input-'+id).val();
+        if(new_name !== '' && new_name !== ' ' ){
+            $.ajax({
+                url:'verifyRusTranslation.php?f=updateRusName&newword='+id+';'+new_name,
+                type: 'post',
+                data: '',
+                dataType: 'json',
+                beforeSend: function() {
+                },
+                complete: function() {
+                    load();
+                },
+                success: function() {
+                }
+            });
+        }
+    }
+    function deleteWord(node){
+        var id = (node.split('-'))[1];
+        $.ajax({
+            url:'verifyRusTranslation.php?f=deleteRusName&deleteid='+id,
+            type: 'post',
+            data: '',
+            dataType: 'json',
+            beforeSend: function() {
+            },
+            complete: function() {
+                load();
+            },
+            success: function() {
+            }
+        });
+    }
+    $("#commit").on('click',function(){
+        
+        $.ajax({
+            url:'verifyRusTranslation.php?f=commit&data='+JSON.stringify(list),
+            type: 'post',
+            data: '',
+            dataType: 'json',
+            beforeSend: function() {
+            },
+            complete: function() {
+                load();
+            },
+            success: function() {
+            }
+        });
+        
+    });
+</script>
