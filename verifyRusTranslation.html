@@ -8,10 +8,11 @@
        
         <style>
             .word-info{
-                border:1px solid black; 
+                border: 1px solid #ababab;
                 background-color: lightyellow;
-                padding:10px;
+                padding: 10px;
                 margin-bottom: 10px;
+                border-radius: 10px;
             }
             .translation{
                 padding:10px;
@@ -20,15 +21,40 @@
             div{
                 margin:10px 0;
             }
-            button{
-                width: 110px;
-                height: 40px;
+            button{width: 107px;
+                   height: 49px;
+                   color: white;
+                   background-color: #3fbf3f;
+                   box-shadow: 2px 2px 4px lightgray;
+                   border: none;
+                   border-radius: 5px;
+                   font-weight: bold;
+            }
+            input.input-word{
+                width: 69%;
+                height: 34px;
+                border: none;
+                box-shadow: 2px 2px 3px lightgray;
+                padding: 6px;
+                font-size: initial;
+                border-radius: 5px;
+                padding-left:15px;
+            }
+            .button-action{
+                width: 7%;
+                margin-left: 13px;
+                height: 46px;
+                border-radius: 5px;
+                border: none;
+                box-shadow: 2px 2px 3px lightgray;
+                font-weight: bold;
+                color: white;
             }
         </style>
     </head>
     <body>
         <div>
-            <button type='button' id="commit" style="float:right; background-color:lightblue">COMMIT</button>
+            <button type='button' id="commit" style="background-color:#0089b6">COMMIT</button>
         </div>
         <div class="list">
             <div class="word-info" style="">
@@ -52,9 +78,9 @@
     var offset = 0;
     var list = [];
     $(document).ready(function() {
-            load();
+            load('simple_load');
         });
-    function load(){
+    function load(mode){
         $.ajax({
                 url:'verifyRusTranslation.php?f=getList&offset='+offset,
                 type: 'post',
@@ -65,6 +91,17 @@
                 complete: function() {
                 },
                 success: function(json) {
+                    if(mode === 'update'){
+                        for(var i = 0; i<list.length; i++){
+                            if(list[i].length>5){
+                                for(var k = 0; k<json.length; k++){
+                                    if(list[i][2] == json[k][2]){
+                                        json[k].push('put to exceptions');
+                                    }
+                                }
+                            }
+                        }
+                    }
                     list = json;
                     render();
 
@@ -76,14 +113,18 @@
         word_html += '<div>Page # '+(offset+10)/10+' </div>';
         for (var i = 0; i<list.length; i++){
             var word_object = list[i];
-            word_html += '<div id="div-row-'+word_object[3]+'" class="word-info"><div class="word-descr" >';
+            if(word_object.length>5){
+                word_html += '<div id="div-row-'+word_object[3]+'" class="word-info" style="background-color:lightgreen"><div class="word-descr" >';
+            } else {
+                word_html += '<div id="div-row-'+word_object[3]+'" class="word-info"><div class="word-descr" >';
+            }
             word_html += '<button id="row-'+word_object[3]+'" onclick="select(this.id)" style="float:left">OK</button>';
             word_html += '<div></div>';
-            word_html += '<span class="word-verify-'+i+'" style="margin-left:10px; font-size:20px" >'+word_object[0]+'</span>';
+            word_html += '<span class="word-verify-'+i+'" style="margin-left:10px; font-size:20px" ><span class="word-input-'+i+'" style="margin-left:40px; font-size:20px" ><input class="input-word" id="input-'+word_object[3]+'"  value="'+word_object[0]+'"/></span></span>';
             
-            word_html += '<span class="word-input-'+i+'" style="margin-left:40px; font-size:20px" ><input id="input-'+word_object[3]+'" style="width:250px; height:25px" value=""/></span>';
-            word_html += '<span class="word-input-'+i+'" style="margin-left:40px; font-size:20px" ><input id="buttoninput-'+word_object[3]+'" type="button" value="UPDATE" onclick="update(this.id)"/></span>';
-            word_html += '<span class="delete-input-'+i+'" style="margin-left:40px; font-size:20px" ><input id="buttondelete-'+word_object[3]+'" type="button" value="DELETE" onclick="deleteWord(this.id)"/></span>';
+            word_html += '';
+            word_html += '<span class="word-input-'+i+'" ><input style="background-color:#29aeda" class="button-action" id="buttoninput-'+word_object[3]+'" type="button" value="UPDATE" onclick="update(this.id)"/></span>';
+            word_html += '<span class="delete-input-'+i+'" ><input style="background-color:#f03232" class="button-action" id="buttondelete-'+word_object[3]+'" type="button" value="DELETE" onclick="deleteWord(this.id)"/></span>';
             word_html += '</div></div>';
         }
         $('.list').html(word_html);
@@ -94,7 +135,7 @@
             if(list[i][3] == id && list[i][5] === undefined ){
                 list[i].push('put to exceptions');
                 $('#div-'+node).css('background-color', 'lightgreen');
-            } else if ( list[i][5] != undefined ){
+            } else if ( list[i][3] == id && list[i][5] != undefined ){
                 list[i].pop();
                 $('#div-'+node).css('background-color', 'lightyellow');
             }
@@ -113,7 +154,7 @@
                 beforeSend: function() {
                 },
                 complete: function() {
-                    load();
+                    load('update');
                 },
                 success: function() {
                 }
@@ -130,7 +171,7 @@
             beforeSend: function() {
             },
             complete: function() {
-                load();
+                load('update');
             },
             success: function() {
             }
@@ -144,9 +185,11 @@
             data: '',
             dataType: 'json',
             beforeSend: function() {
+                $('#commit').html('LOADING...');
             },
             complete: function() {
-                load();
+                load('simple_load');
+                $('#commit').html('COMMIT');
             },
             success: function() {
             }
