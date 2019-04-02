@@ -749,12 +749,12 @@ $current_letter = [
 for($k = 0; $k < count($current_letter); $k++){
         compileObject($current_letter[$k]);
 }*/
-compileObject('a');
+//compileObject('a');
 //getQTTranslation();
 //gufoWordList();
 //compareDifferences();
     
-    
+
 $time_end = microtime(true);
 
 $execution_time = ($time_end - $time_start)/60;

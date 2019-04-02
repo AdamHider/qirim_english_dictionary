@@ -39,6 +39,7 @@
                 font-size: initial;
                 border-radius: 5px;
                 padding-left:15px;
+                margin-left:40px; 
             }
             .button-action{
                 width: 7%;
@@ -50,6 +51,21 @@
                 font-weight: bold;
                 color: white;
             }
+            
+            @media screen and (max-width: 600px) {
+                .button-action {
+                  width: 30%;
+                  margin-top: 10px;
+                }
+                
+                input.input-word{
+                    width: 90%;
+                    margin-top: 10px;
+                    margin-left: 0px !important;
+                }
+                
+                
+              }
         </style>
     </head>
     <body>
@@ -120,7 +136,7 @@
             }
             word_html += '<button id="row-'+word_object[3]+'" onclick="select(this.id)" style="float:left">OK</button>';
             word_html += '<div></div>';
-            word_html += '<span class="word-verify-'+i+'" style="margin-left:10px; font-size:20px" ><span class="word-input-'+i+'" style="margin-left:40px; font-size:20px" ><input class="input-word" id="input-'+word_object[3]+'"  value="'+word_object[0]+'"/></span></span>';
+            word_html += '<span class="word-verify-'+i+'" style="margin-left:10px; font-size:20px" ><span class="word-input-'+i+'" style="font-size:20px" ><input class="input-word" id="input-'+word_object[3]+'"  value="'+word_object[0]+'"/></span></span>';
             
             word_html += '';
             word_html += '<span class="word-input-'+i+'" ><input style="background-color:#29aeda" class="button-action" id="buttoninput-'+word_object[3]+'" type="button" value="UPDATE" onclick="update(this.id)"/></span>';
