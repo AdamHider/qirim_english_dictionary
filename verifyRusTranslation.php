@@ -20,6 +20,19 @@ function getList(){
     echo json_encode(mysqli_fetch_all($mysqli->query($sql_2)));
 }
 
+function getTotal(){
+    $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
+    $mysqli->set_charset("utf8");
+    $sql_2 = "
+        SELECT COUNT(*)
+        FROM qirim_english_dictionary.rus_words rw
+        JOIN qirim_english_dictionary.`references` ref USING (rus_word_id)
+        JOIN qirim_english_dictionary.eng_words ew USING (eng_word_id)
+        WHERE rw.name LIKE '%,%' 
+        ";
+    return mysqli_fetch_row($mysqli->query($sql_2));
+}
+
 function commit(){
     if(!empty($_GET['data'])){
         $data = json_decode($_GET['data']);
