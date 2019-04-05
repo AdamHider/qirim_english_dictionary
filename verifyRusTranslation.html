@@ -9,7 +9,6 @@
         <style>
             .word-info{
                 border: 1px solid #ababab;
-                background-color: lightyellow;
                 padding: 10px;
                 margin-bottom: 10px;
                 border-radius: 10px;
@@ -21,25 +20,24 @@
             div{
                 margin:10px 0;
             }
-            button{width: 107px;
-                   height: 49px;
-                   color: white;
-                   background-color: #3fbf3f;
-                   box-shadow: 2px 2px 4px lightgray;
-                   border: none;
-                   border-radius: 5px;
-                   font-weight: bold;
+            button{
+                width: 10%;
+                height: 49px;
+                color: white;
+                background-color: #3fbf3f;
+                box-shadow: 2px 2px 4px lightgray;
+                border: none;
+                border-radius: 5px;
+                font-weight: bold;
             }
             input.input-word{
                 width: 69%;
                 height: 34px;
-                border: none;
-                box-shadow: 2px 2px 3px lightgray;
+                border: 1px solid lightgray;
+                box-shadow: inset 2px 2px 3px lightgray;
                 padding: 6px;
                 font-size: initial;
                 border-radius: 5px;
-                padding-left:15px;
-                margin-left:40px; 
             }
             .button-action{
                 width: 7%;
@@ -70,7 +68,7 @@
     </head>
     <body>
         <div>
-            <button type='button' id="commit" style="background-color:#0089b6">COMMIT</button>
+            <button type='button' id="commit" style="background-color:#0089b6; width:20%">COMMIT</button>
         </div>
         <div class="list">
             <div class="word-info" style="">
@@ -153,7 +151,7 @@
                 $('#div-'+node).css('background-color', 'lightgreen');
             } else if ( list[i][3] == id && list[i][5] != undefined ){
                 list[i].pop();
-                $('#div-'+node).css('background-color', 'lightyellow');
+                $('#div-'+node).css('background-color', 'white');
             }
         }
     }
