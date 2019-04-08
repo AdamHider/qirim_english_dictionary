@@ -69,6 +69,7 @@
     <body>
         <div>
             <button type='button' id="commit" style="background-color:#0089b6; width:20%">COMMIT</button>
+            <div id="total">total</div>
         </div>
         <div class="list">
             <div class="word-info" style="">
@@ -91,7 +92,9 @@
  <script type="text/javascript">
     var offset = 0;
     var list = [];
+    var total = 0;
     $(document).ready(function() {
+            getTotal();
             load('simple_load');
         });
     function load(mode){
@@ -122,6 +125,22 @@
                 }
             });
     }
+    function getTotal(){
+        $.ajax({
+                url:'verifyRusTranslation.php?f=getTotal',
+                type: 'post',
+                data: '',
+                dataType: 'json',
+                beforeSend: function() {
+                },
+                complete: function() {
+                },
+                success: function(json) {
+                    total = json[0];
+                    $('#total').html('total: '+total);
+                }
+            });
+    }
     function render(){
         var word_html = '<div>';
         word_html += '<div>Page # '+(offset+10)/10+' </div>';
@@ -141,6 +160,7 @@
             word_html += '<span class="delete-input-'+i+'" ><input style="background-color:#f03232" class="button-action" id="buttondelete-'+word_object[3]+'" type="button" value="DELETE" onclick="deleteWord(this.id)"/></span>';
             word_html += '</div></div>';
         }
+        $('#total').html('total: '+total);
         $('.list').html(word_html);
     } 
     function select(node){
@@ -185,6 +205,7 @@
             beforeSend: function() {
             },
             complete: function() {
+                total -= 1;
                 load('update');
             },
             success: function() {
@@ -202,8 +223,10 @@
                 $('#commit').html('LOADING...');
             },
             complete: function() {
+                total -= 10;
                 load('simple_load');
                 $('#commit').html('COMMIT');
+                
             },
             success: function() {
             }

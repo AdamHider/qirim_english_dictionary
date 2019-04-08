@@ -21,6 +21,12 @@ function getList(){
 }
 
 function getTotal(){
+    $already_done = file_get_contents('done_commas.txt');
+    if(!empty($already_done)){
+        $already_done = 'AND rw.rus_word_id NOT IN ('.$already_done.') ';
+    } else {
+        $already_done = '';
+    }
     $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
     $mysqli->set_charset("utf8");
     $sql_2 = "
@@ -28,9 +34,9 @@ function getTotal(){
         FROM qirim_english_dictionary.rus_words rw
         JOIN qirim_english_dictionary.`references` ref USING (rus_word_id)
         JOIN qirim_english_dictionary.eng_words ew USING (eng_word_id)
-        WHERE rw.name LIKE '%,%' 
+        WHERE rw.name LIKE '%,%' $already_done
         ";
-    return mysqli_fetch_row($mysqli->query($sql_2));
+    echo json_encode(mysqli_fetch_row($mysqli->query($sql_2)));
 }
 
 function commit(){
