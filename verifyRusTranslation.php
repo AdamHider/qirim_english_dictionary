@@ -15,7 +15,7 @@ function getList(){
         JOIN qirim_english_dictionary.`references` ref USING (rus_word_id)
         JOIN qirim_english_dictionary.eng_words ew USING (eng_word_id)
         WHERE rw.name LIKE '%,%' $already_done
-        LIMIT 10 OFFSET ".$_GET['offset']."
+        LIMIT 20 OFFSET ".$_GET['offset']."
         ";
     echo json_encode(mysqli_fetch_all($mysqli->query($sql_2)));
 }

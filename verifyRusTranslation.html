@@ -9,8 +9,8 @@
         <style>
             .word-info{
                 border: 1px solid #ababab;
-                padding: 10px;
-                margin-bottom: 10px;
+                /*padding: 10px;*/
+               /* margin-bottom: 10px;*/
                 border-radius: 10px;
             }
             .translation{
@@ -18,26 +18,26 @@
                 border-top:1px solid black;
             }
             div{
-                margin:10px 0;
+                /*margin:10px 0;*/
             }
             button{
                 width: 10%;
                 height: 49px;
                 color: white;
-                background-color: #3fbf3f;
+                background-color: darkgrey;
                 box-shadow: 2px 2px 4px lightgray;
                 border: none;
                 border-radius: 5px;
                 font-weight: bold;
             }
             input.input-word{
-                width: 69%;
+                width: 76%;
                 height: 34px;
                 border: 1px solid lightgray;
                 box-shadow: inset 2px 2px 3px lightgray;
                 padding: 6px;
                 font-size: initial;
-                border-radius: 5px;
+                /*border-radius: 5px;*/
             }
             .button-action{
                 width: 7%;
@@ -143,7 +143,6 @@
     }
     function render(){
         var word_html = '<div>';
-        word_html += '<div>Page # '+(offset+10)/10+' </div>';
         for (var i = 0; i<list.length; i++){
             var word_object = list[i];
             if(word_object.length>5){
@@ -153,11 +152,10 @@
             }
             word_html += '<button id="row-'+word_object[3]+'" onclick="select(this.id)" style="float:left">OK</button>';
             word_html += '<div></div>';
-            word_html += '<span class="word-verify-'+i+'" style="margin-left:10px; font-size:20px" ><span class="word-input-'+i+'" style="font-size:20px" ><input class="input-word" id="input-'+word_object[3]+'"  value="'+word_object[0]+'"/></span></span>';
+            word_html += '<span class="word-verify-'+i+'" style="margin-left:10px; font-size:20px" ><span class="word-input-'+i+'" style="font-size:20px" ><input class="input-word" id="input-'+word_object[3]+'"  value="'+word_object[0]+'" onchange="update(this.id)"/></span></span>';
             
             word_html += '';
-            word_html += '<span class="word-input-'+i+'" ><input style="background-color:#29aeda" class="button-action" id="buttoninput-'+word_object[3]+'" type="button" value="UPDATE" onclick="update(this.id)"/></span>';
-            word_html += '<span class="delete-input-'+i+'" ><input style="background-color:#f03232" class="button-action" id="buttondelete-'+word_object[3]+'" type="button" value="DELETE" onclick="deleteWord(this.id)"/></span>';
+            word_html += '<span class="delete-input-'+i+'" ><input style="background-color:grey" class="button-action" id="buttondelete-'+word_object[3]+'" type="button" value="X" onclick="deleteWord(this.id)"/></span>';
             word_html += '</div></div>';
         }
         $('#total').html('total: '+total);
@@ -223,7 +221,7 @@
                 $('#commit').html('LOADING...');
             },
             complete: function() {
-                total -= 10;
+                total -= 20;
                 load('simple_load');
                 $('#commit').html('COMMIT');
                 
