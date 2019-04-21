@@ -4,9 +4,15 @@ function getList(){
     $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
     $mysqli->set_charset("utf8");
     $sql_2 = "
-        SELECT * 
-        FROM qirim_english_dictionary.rus_words 
-        WHERE name LIKE '%:';
+        SELECT
+            rw.rus_word_id, rw.name, ew.eng_word_id, ew.name
+        FROM
+            qirim_english_dictionary.rus_words rw
+                JOIN
+            `references` ref ON (ref.rus_word_id = rw.rus_word_id)
+                JOIN
+            eng_words ew ON (ew.eng_word_id = ref.eng_word_id)
+        WHERE rw.name LIKE 'а'
         ";
     $query = mysqli_fetch_all($mysqli->query($sql_2));
     $result = [];
@@ -15,30 +21,32 @@ function getList(){
     $delete_errors = [];
     foreach ($query as $row){
         $obj = [
-            'id' => $row[0],
-            'name' => editRow($row[1])
+            'rus_id' => $row[0],
+            'rus_name' => editRow($row[1]),
+            'eng_id' =>  $row[2],
+            'eng_iname' =>  $row[3]
         ];
-        if($obj['name'] != ''){
+        if($obj['eng_id'] != '14309' || $obj['eng_id'] != '54532' || $obj['eng_id'] != '109136'){
+            deleteQuery($obj['rus_id'], $obj['eng_id']);
             array_push($result, $obj);
         }
-        deleteQuery($obj['id']);
         /*
-           if($obj['name'] != ''){
+        if($obj['rus_name'] != ''){
           $sql_3 = "
                 UPDATE  qirim_english_dictionary.rus_words 
-                SET name = '".$obj['name']."'
-                WHERE rus_word_id = '".$obj['id']."';
+                SET name = '".$obj['rus_name']."'
+                WHERE rus_word_id = '".$obj['rus_id']."';
                 ";
-            $query = $mysqli->query($sql_3);
+            $query1 = $mysqli->query($sql_3);
             $error = mysqli_error($mysqli);
             if(strpos($error, 'Duplicate entry')>-1){
-               deleteQuery($obj['id']);
+               insertQuery($obj['rus_name'],$obj['eng_id']);
             }
-            if($query===false){
-                array_push($errors, $query.$obj['id'].$error);
+            if($query1===false){
+                array_push($errors, $query1.$obj['rus_id'].$error);
             }
         } else {
-          deleteQuery($obj['id']);
+          deleteQuery($obj['rus_id']);
         }*/
     }
      $mysqli->close();
@@ -53,6 +61,7 @@ function editRow($row_name){
             $row_name = '';
         }
     }
+    $row_name = str_replace('≅', '', $row_name);
     if(strlen(trim($row_name))<3){
         $row_name = '';
     }
@@ -60,18 +69,35 @@ function editRow($row_name){
     return trim($row_name);
 }
 
-
-function deleteQuery($id){
+function insertQuery($rus_name, $eng_id){
     $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
     $mysqli->set_charset("utf8");
     $sql_5 = "
+        SELECT rus_word_id FROM qirim_english_dictionary.rus_words 
+        WHERE name = '".$rus_name."' LIMIT 1
+        ";
+    $rus_id = mysqli_fetch_all($mysqli->query($sql_5))[0][0];
+    $sql_4 = "
+        INSERT INTO  qirim_english_dictionary.`references`
+        SET rus_word_id = '".$rus_id."', eng_word_id = '$eng_id'
+        ";
+    $query3 = $mysqli->query($sql_4);
+    $error = mysqli_error($mysqli);
+    $mysqli->close();
+    print_r($error);
+}
+
+function deleteQuery($rus_id, $eng_id){
+    $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
+    $mysqli->set_charset("utf8");
+    /*$sql_5 = "
         DELETE  FROM  qirim_english_dictionary.rus_words 
         WHERE rus_word_id = '".$id."'
         ";
-    $query2 = $mysqli->query($sql_5);
+    $query2 = $mysqli->query($sql_5);*/
     $sql_4 = "
         DELETE  FROM  qirim_english_dictionary.`references`
-        WHERE rus_word_id = '".$id."'
+        WHERE rus_word_id = '".$rus_id."' AND eng_word_id = '$eng_id'
         ";
     $query3 = $mysqli->query($sql_4);
     $error = mysqli_error($mysqli);

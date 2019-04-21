@@ -31,7 +31,7 @@
                 font-weight: bold;
             }
             input.input-word{
-                width: 76%;
+                width: 55%;
                 height: 34px;
                 border: 1px solid lightgray;
                 box-shadow: inset 2px 2px 3px lightgray;
@@ -146,12 +146,13 @@
         for (var i = 0; i<list.length; i++){
             var word_object = list[i];
             if(word_object.length>5){
-                word_html += '<div id="div-row-'+word_object[3]+'" class="word-info" style="background-color:lightgreen"><div class="word-descr" >';
+                word_html += '<div id="div-row-'+word_object[2]+'-'+word_object[3]+'" class="word-info" style="background-color:lightgreen"><div class="word-descr" >';
             } else {
-                word_html += '<div id="div-row-'+word_object[3]+'" class="word-info"><div class="word-descr" >';
+                word_html += '<div id="div-row-'+word_object[2]+'-'+word_object[3]+'" class="word-info"><div class="word-descr" >';
             }
-            word_html += '<button id="row-'+word_object[3]+'" onclick="select(this.id)" style="float:left">OK</button>';
+            word_html += '<button id="row-'+word_object[2]+'-'+word_object[3]+'" onclick="select(this.id)" style="float:left">OK</button>';
             word_html += '<div></div>';
+            word_html += '<span id="div-eng-row-'+word_object[2]+'" class="word--enginfo" style="width: 20%;display: inline-block;padding-left: 20px;font-size: 18px;font-weight: bold;">'+word_object[1]+'</span>';
             word_html += '<span class="word-verify-'+i+'" style="margin-left:10px; font-size:20px" ><span class="word-input-'+i+'" style="font-size:20px" ><input class="input-word" id="input-'+word_object[3]+'"  value="'+word_object[0]+'" onchange="update(this.id)"/></span></span>';
             
             word_html += '';
@@ -162,12 +163,13 @@
         $('.list').html(word_html);
     } 
     function select(node){
-        var id = (node.split('-'))[1];
+        var rus_id = (node.split('-'))[2];
+        var eng_id = (node.split('-'))[1];
         for(var i =0; i<list.length; i++){
-            if(list[i][3] == id && list[i][5] === undefined ){
+            if(list[i][3] == rus_id && list[i][2] == eng_id && list[i][4] === undefined ){
                 list[i].push('put to exceptions');
                 $('#div-'+node).css('background-color', 'lightgreen');
-            } else if ( list[i][3] == id && list[i][5] != undefined ){
+            } else if ( list[i][3] == rus_id && list[i][2] == eng_id && list[i][4] != undefined ){
                 list[i].pop();
                 $('#div-'+node).css('background-color', 'white');
             }
@@ -175,7 +177,7 @@
     }
     
     function update(node){
-        var id = (node.split('-'))[1];
+        var id = (node.split('-'))[2];
         var new_name = $('#input-'+id).val();
         if(new_name !== '' && new_name !== ' ' ){
             $.ajax({
