@@ -1,5 +1,5 @@
 <?php
-$word = 'обычно';
+$word = 'свет';
 function getWord(){
     $result = [];
     global $word;
@@ -75,9 +75,12 @@ function getThirdMeaning($translation_string){
 }
 
 function finalTranslation($word_object){
+    $result = [];
     $description = descriptionsToWords($word_object['descriptions']);
     $words = checkWord($word_object['word']);
-    print_r($description);
+    $result['words'] = $words;
+    $result['descriptions']  = $description;
+    print_r($result);
 }
 
 function checkWord($word_array){
@@ -91,15 +94,25 @@ function descriptionsToWords($descriptions_array){
     
     global $word;
     $result = [];
+    $description_object = [];
     foreach($descriptions_array as $description){
         $first_divide = explode('<b>',$description);
         array_shift($first_divide);
         foreach($first_divide as $division){
             if(strpos($division,'~')>-1){
-               // $division = str_replace('~', $word, $division);
+               $division = str_replace('~', $word, $division);
             }
             $division = explode('</b>', $division);
-            array_push($result, $division);
+            foreach($division as &$key){
+                preg_match('/\(.*\)/', $key, $matches);
+                if(isset($matches[0])){
+                    $key = preg_replace('/\(.*\)/', '', $key);
+                }
+                $key = trim($key);
+            }
+            $description_object['rus_word'] = $division[0];
+            $description_object['qt_word'] = $division[1];
+            array_push($result, $description_object);
         }
     }
     return $result;
