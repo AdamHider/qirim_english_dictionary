@@ -1,5 +1,6 @@
 <?php
-$word = 'свет';
+$adjectives_endings = ["ый", "ий", "ой", "ая", "оя", "ое", "ее", "ои", "ые", "ие"];
+$word = 'герой';
 function getWord(){
     $result = [];
     global $word;
@@ -100,7 +101,7 @@ function descriptionsToWords($descriptions_array){
         array_shift($first_divide);
         foreach($first_divide as $division){
             if(strpos($division,'~')>-1){
-               $division = str_replace('~', $word, $division);
+               $division = fillTilda($division);
             }
             $division = explode('</b>', $division);
             foreach($division as &$key){
@@ -116,6 +117,43 @@ function descriptionsToWords($descriptions_array){
         }
     }
     return $result;
+}
+
+function fillTilda($description_rus){
+    global $adjectives_endings;
+    global $word;
+    foreach($adjectives_endings as $ending){
+        preg_match("/$ending$/", trim($word), $matches);
+        
+        if (isset($matches[0])){
+            return editAdjectiveEnding($description_rus, $matches[0]);
+        }
+    }
+    $description_rus = str_replace('~', $word, $description_rus);
+    return $description_rus; 
+}
+
+function editAdjectiveEnding($description_rus, $word_ending){
+    global $adjectives_endings;
+    global $word;
+    $temp_word = $word;
+    preg_match("/~[а-я]+/", $description_rus, $matches);
+    if (isset($matches[0])){
+        print_r($matches[0]);
+        if(strlen($matches[0])<2){
+            $temp_word = substr($temp_word, 0, -2);
+            $description_rus = str_replace('~', $temp_word, $description_rus);
+            return $description_rus;
+        } else {
+            $temp_word = str_replace($word_ending, str_replace('~', '', $matches[0]),$temp_word);
+            $description_rus = str_replace($matches[0], $temp_word, $description_rus);
+            return $description_rus;
+        }    
+    } else {
+       $description_rus = str_replace('~', $word, $description_rus);
+       return $description_rus; 
+    }
+    //$division = str_replace('~', $word, $division);
 }
 
 function getFirstLevel($word_string){
