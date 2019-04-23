@@ -1,6 +1,6 @@
 <?php
 $adjectives_endings = ["ый", "ий", "ой", "ая", "оя", "ое", "ее", "ои", "ые", "ие"];
-$word = 'свет';
+$word = 'веселый';
 function getWord(){
     $result = [];
     global $word;
@@ -34,8 +34,9 @@ function getFirstMeaning($translation_string){
     array_shift($translation_lvl1);
     foreach ($translation_lvl1 as $second_meaning){
         if(strpos($second_meaning,';')>-1){
-            
             array_push($result_object, getSecondMeaning($second_meaning));
+            
+             
         } else {
             if(strpos($second_meaning,',')>-1){
                 $third_meaning = getThirdMeaning($third_meaning);
@@ -66,26 +67,39 @@ function getSecondMeaning($translation_string){
             $result_object['word'] = $third_meaning['words'];
             $result_object['sub_meaning'] = $third_meaning['sub_meanings'];
         } else {
-            array_push($result_object['word'],$second_meaning);
+            
+            $sub_array = findSubMeaning($second_meaning);
+            $result_object['sub_meaning'] = $sub_array['sub_meanings']; 
+            array_push($result_object['word'], $sub_array['words']);
         }
-        
-    finalTranslation($result_object);
+    
+       
+    finalTranslation($result_object);    
     return $result_object;
 }
 
 function getThirdMeaning($translation_string){
-    preg_match('/\(<i>.*<\/i>\)/', $translation_string, $matches);
-    if(isset($matches[0])){
+   
+    $sub_array = findSubMeaning($translation_string);
+    
+    $third_meaning = explode(",", $sub_array['words']);
+    $rus_sub_array = $sub_array['sub_meanings']; 
+    return ['words' => $third_meaning, 'sub_meanings' => $rus_sub_array]; 
+}
+
+function findSubMeaning($translation_string){
+     preg_match('/<i>.*<\/i>/', $translation_string, $matches);
+     if(isset($matches[0])){
         $rus_submeaning = $matches[0];
         $translation_string = str_replace($matches[0], '', $translation_string);
+        $translation_string = trim(str_replace('()', '', $translation_string));
+        $rus_submeaning = strip_tags($rus_submeaning);
+        $rus_submeaning = rtrim(ltrim($rus_submeaning, '('), ')');
+        $rus_sub_array = explode(',',$rus_submeaning);
+    } else {
+        $rus_sub_array = [];
     }
-    
-    $third_meaning = explode(",", $translation_string);
-    $rus_submeaning = strip_tags($rus_submeaning);
-    $rus_submeaning = rtrim(ltrim($rus_submeaning, '('), ')');
-    $rus_sub_array = explode(',',$rus_submeaning);
-    
-    return ['words' => $third_meaning, 'sub_meanings' => $rus_sub_array]; 
+    return  ['words' => $translation_string, 'sub_meanings' => $rus_sub_array]; 
 }
 
 function finalTranslation($word_object){
@@ -95,13 +109,31 @@ function finalTranslation($word_object){
     $result['words'] = $words;
     $result['descriptions']  = $description;
     $result['sub_meaning']  = $word_object['sub_meaning'];
-    print_r($result);
+    foreach($result['words'] as $word){
+        $result['words'] = $word;
+        if(isset($result['sub_meaning'][0])){
+            preg_match('/диал/', $result['sub_meaning'][0], $matches);
+            if(!empty($result['sub_meaning']) && !isset($matches[0])){
+                $result['status'] = 'WARNING!';
+            } else {
+                $result['status'] = 'OKAY!';
+            }
+        } else {
+            $result['status'] = 'OKAY!';
+        }
+        composLastObject($result);
+    }
+}
+
+function composLastObject($word){
+    
+    print_r($word);
 }
 
 function checkWord($word_array){
-  /*  foreach($word_array as &$word){
-        $word = trim(preg_replace('/\(<i>.*<\/i>\)/', '', $word));
-    }*/
+    foreach($word_array as &$word){
+        $word = trim(preg_replace('/\ {2,10}/', ' ',strip_tags($word)));
+    }
     return $word_array;
 }
 
@@ -124,8 +156,8 @@ function descriptionsToWords($descriptions_array){
                 }
                 $key = trim($key);
             }
-            $description_object['rus_word'] = $division[0];
-            $description_object['qt_word'] = $division[1];
+            $description_object['rus_word'] = preg_replace('/\ {2,10}/', ' ',$division[0]);
+            $description_object['qt_word'] = preg_replace('/\ {2,10}/', ' ',strip_tags($division[1]));
             array_push($result, $description_object);
         }
     }
