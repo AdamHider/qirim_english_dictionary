@@ -1,16 +1,16 @@
 <?php
-$adjectives_endings = ["ый", "ий", "ой", "ая", "оя", "ое", "ее", "ои", "ые", "ие", "ть","ти"];
-$word = 'становиться';
+$adjectives_endings = ["ый", "ий", "ой", "ая", "оя", "ое", "ее", "ои", "ые", "ие", "ти", "ть", "ить"];
+$word = 'встать';
 function getWord(){
     $result = [];
     global $word;
-    error_reporting(0);
+    //error_reporting(0);
     $articles = json_decode(file_get_contents('https://lugat.xyz/get_json?word='.$word))->articles;
     if (!$articles && strpos($word, 'е')> -1){
         echo "Слово не найдено".'</br>';
         $articles = replaceELetter($word);
     }
-    error_reporting(1);
+    //error_reporting(1);
     foreach($articles as $article){
         preg_match('/<i>см\..*<\/i>/', $article->article, $matches);
         if(isset($matches[0])){
@@ -148,7 +148,7 @@ function finalTranslation($word_object){
     foreach($result['words'] as $word){
         $result['words'] = $word;
         if(isset($result['sub_meaning'][0])){
-            preg_match('/диал/', $result['sub_meaning'][0], $matches);
+            preg_match('/диал/u', $result['sub_meaning'][0], $matches);
             if(!empty($result['sub_meaning']) && !isset($matches[0])){
                 $result['status'] = 'WARNING!';
             } else {
@@ -206,9 +206,12 @@ function fillTilda($description_rus){
     global $word;
     foreach($adjectives_endings as $ending){
         preg_match("/$ending$/", trim($word), $matches);
-        
         if (isset($matches[0])){
-            return editAdjectiveEnding($description_rus, $matches[0]);
+            $new_word = editAdjectiveEnding($description_rus, $matches[0]);
+            if($new_word === 'NOT_FOUND!'){
+                continue;
+            }
+            return $new_word;
         }
     }
     $description_rus = str_replace('~', $word, $description_rus);
@@ -216,10 +219,11 @@ function fillTilda($description_rus){
 }
 
 function editAdjectiveEnding($description_rus, $word_ending){
+    mb_internal_encoding('UTF-8');
     global $adjectives_endings;
     global $word;
     $temp_word = $word;
-    preg_match("/~[а-я]+/", $description_rus, $matches);
+    preg_match("/~[а-я]+/u", $description_rus, $matches);
     if (isset($matches[0])){
         if(strlen($matches[0])<2){
             $temp_word = substr($temp_word, 0, -2);
@@ -227,6 +231,10 @@ function editAdjectiveEnding($description_rus, $word_ending){
             return $description_rus;
         } else {
             $temp_word = str_replace($word_ending, str_replace('~', '', $matches[0]),$temp_word);
+            preg_match("/и{2}ть$/u", $temp_word, $matches1);
+            if(isset($matches1[0])){
+                return 'NOT_FOUND!';
+            }
             $description_rus = str_replace($matches[0], $temp_word, $description_rus);
             return $description_rus;
         }    
