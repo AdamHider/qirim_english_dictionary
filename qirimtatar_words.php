@@ -1,26 +1,47 @@
-<?php
+ <?php
 $adjectives_endings = ["ый", "ий", "ой", "ая", "оя", "ое", "ее", "ои", "ые", "ие", "ти", "ть", "ить"];
-$word = 'встать';
+$word = '';
+
+function init(){
+    set_time_limit(500);
+    global $word;
+    $list = getList();
+    foreach($list as $rus_word){
+        $word = $rus_word[0];
+        $translation_found = getWord();
+        if(!$translation_found){
+            echo 'translation of word: '.$word.' was NOT found!<br/>';
+            continue;
+        }
+        echo 'translation of word: '.$word.' WAS DEFINETELY found!<br/>';
+    }
+}
+
 function getWord(){
     $result = [];
     global $word;
-    //error_reporting(0);
+    error_reporting(0);
     $articles = json_decode(file_get_contents('https://lugat.xyz/get_json?word='.$word))->articles;
+    
+       
     if (!$articles && strpos($word, 'е')> -1){
         echo "Слово не найдено".'</br>';
         $articles = replaceELetter($word);
+        if(!$articles){
+            return false;
+        }
     }
-    //error_reporting(1);
+    error_reporting(1);
     foreach($articles as $article){
         preg_match('/<i>см\..*<\/i>/', $article->article, $matches);
         if(isset($matches[0])){
             $article->article = str_replace($matches[0], '', $article->article);
             $word = strip_tags($article->article);
-            return getWord();
+            getWord();
         }
-        $word1 = compileTranslation($article->article);
-        array_push($result, $word1);
+        compileTranslation($article->article);
     }
+    return 'true';
 }
 
 function replaceELetter($word){
@@ -31,7 +52,7 @@ function replaceELetter($word){
         if($articles){
            return $articles;
         }
-        echo "Слово не найдено".'</br>';
+        return false;
     }
 }
 
@@ -162,8 +183,8 @@ function finalTranslation($word_object){
 }
 
 function composLastObject($word){
-    
     print_r($word);
+    return;
 }
 
 function checkWord($word_array){
@@ -245,5 +266,26 @@ function editAdjectiveEnding($description_rus, $word_ending){
     //$division = str_replace('~', $word, $division);
 }
 
+function getList(){
+    $already_done = file_get_contents('done_commas.txt');
+    if(!empty($already_done)){
+        $already_done = 'WHERE rus_word_id NOT IN ('.$already_done.') ';
+    } else {
+        $already_done = '';
+    }
+    $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
+    $mysqli->set_charset("utf8");
+    $sql_2 = "
+        SELECT
+               name
+            FROM
+                qirim_english_dictionary.rus_words 
+               $already_done
+            LIMIT 200, 20
+        ";
+    return mysqli_fetch_all($mysqli->query($sql_2));
+}
 
-getWord();
+
+init();
+//getWord();
