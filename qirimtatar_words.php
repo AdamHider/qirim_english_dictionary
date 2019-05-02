@@ -4,30 +4,40 @@ $word = '';
 $part_of_speech_id = '';
 $mysqli; 
 function init(){
-    set_time_limit(500);
+    set_time_limit(500000);
+    global $iteration_count;
     global $word;
     global $part_of_speech_id;
+    global $current_rus_id;
+    global $total_words_founded;
     $list = getList();
     foreach($list as $rus_word){
+        $iteration_count = 0;
         $word = $rus_word[0];
-        $word = 'свет';
         $part_of_speech_id = $rus_word[1];
+        $current_rus_id = $rus_word[2];
         $translation_found = getWord();
         if(!$translation_found){
-            echo 'translation of word: '.$word.' was NOT found!<br/>';
             continue;
         }
     }
+    echo 'Всего слов переведено: '.$total_words_founded;
 }
 
+$iteration_count = 0;
 function getWord(){
     $result = [];
     global $word;
+    global $total_words_founded;
+    global $iteration_count;
+    $iteration_count += 1;
+    if($iteration_count > 10){
+        return;
+    }
     error_reporting(0);
     $articles = json_decode(file_get_contents('https://lugat.xyz/get_json?word='.$word))->articles;
-    
-       
     if (!$articles && strpos($word, 'е')> -1){
+        echo "К сожалению, я не смог найти слово: ".$word.'!</br>';
         $articles = replaceELetter($word);
         if(!$articles){
             return false;
@@ -42,11 +52,15 @@ function getWord(){
             getWord();
         }
         compileTranslation($article->article);
+        $total_words_founded = $total_words_founded+1;
+        echo "Я нашел слово: ".$word.'!</br>';
     }
-    return 'true';
+    return;
 }
 
 function replaceELetter($word){
+    
+    
     preg_match_all('/е+/', $word, $matches, PREG_OFFSET_CAPTURE);
     foreach($matches[0] as $letter){
         $new_word = substr_replace($word,'ё',$letter[1]). substr($word, $letter[1]+2);
@@ -69,8 +83,10 @@ function compileTranslation($translation_string){
     } else if(strpos($result_object['word'],',')>-1){
         $result_object['word'] = getThirdMeaning($result_object);
     } else {
+        finalTranslation($result_object); 
         return $result_object;
     }
+    
     return $result_object;
 }
 
@@ -159,6 +175,7 @@ function findSubMeaning($input){
 }
 
 function finalTranslation($word_object){
+    
     if(!isset($word_object['descriptions'])){
         $word_object['descriptions'] = [];
     }
@@ -168,7 +185,13 @@ function finalTranslation($word_object){
     $result['words'] = $words;
     $result['descriptions']  = $description;
     $result['sub_meaning']  = $word_object['sub_meaning'];
+    
+    if(!is_array($result['words'])){
+        $result['words'] = array ('words'=>$result['words']);
+    }    
+    
     foreach($result['words'] as $word){
+        
         $result['words'] = $word;
         if(isset($result['sub_meaning'][0])){
             preg_match('/диал/u', $result['sub_meaning'][0], $matches);
@@ -180,10 +203,10 @@ function finalTranslation($word_object){
         } else {
             $result['status'] = 'normal';
         }
+        
         composLastObject($result);
     }
 }
-
 
 function checkWord($word_array){
     foreach($word_array as &$word){
@@ -264,160 +287,6 @@ function editAdjectiveEnding($description_rus, $word_ending){
     //$division = str_replace('~', $word, $division);
 }
 
-function composLastObject($word){
-    putWordToDB($word);
-    return;
-}
-
-function putWordToDB($word){
-    global $mysqli;
-    print_r($word);
-    die;
-    //$word_id = getWordId($word);
-    //addReferences($word_id);
-    /*if(!empty($word['descriptions'])){
-        putDescriptionsToDB($word['descriptions']);
-    }*/
-}
-
-function putDescriptionsToDB($descriptions){
-    foreach($descriptions as &$description){
-        $description['qt_word'] = preg_replace('/<i>.*<\/i>/', '', $description['qt_word']);
-        $description['qt_word'] = trim($description['qt_word']);
-        putDescriptionsToDB2($description);
-    }
-}
-
-function putDescriptionsToDB2($description){ 
-    global $mysqli;
-    $sql = "
-        SELECT 
-            rus_word_id, part_of_speech_id
-        FROM
-            qirim_english_dictionary.rus_words
-        WHERE
-            name = '".$description['rus_word']."'  
-            ";
-    
-    $rus_word_id = mysqli_fetch_row($mysqli->query($sql));
-    if(!isset($rus_word_id[0])){
-        $rus_word = [
-            'words'=> $description['rus_word'],
-            'status'=> 'description'
-        ];
-        $rus_word_id = addNewRusWord($rus_word);
-        $qt_word = [
-            'words'=> $description['qt_word'],
-            'status'=> 'description'
-        ];
-        $qt_word_id = getWordId($qt_word);
-        addNewReferences($qt_word_id[0], $rus_word_id[0]);
-    }  else {
-        $qt_word = [
-            'words'=> $description['qt_word'],
-            'status'=> 'description'
-        ];
-        $qt_word_id = getWordId($qt_word);
-        addReferences($qt_word_id[0], $description['rus_word'], $rus_word_id[1]);
-    }
-}
-
-
-function getWordId($word, $part_of_speech = false){
-    global $part_of_speech_id;
-    global $mysqli;
-    $part_of_speech_for_insert = $part_of_speech_id;
-    if($part_of_speech){
-        $part_of_speech_for_insert = $part_of_speech;
-    }
-     $sql = "
-        INSERT INTO
-            qirim_english_dictionary.qt_words 
-        SET
-            name = '".$word['words']."',
-            status = '".$word['status']."',    
-            part_of_speech_id = '".$part_of_speech_for_insert."'    
-        ";
-    $mysqli->query($sql);
-    $sql_2 = "
-        SELECT 
-            qt_word_id
-        FROM
-            qirim_english_dictionary.qt_words
-        WHERE
-            name = '".$word['words']."'  
-            AND part_of_speech_id = '".$part_of_speech_for_insert."'
-            ";
-    return mysqli_fetch_row($mysqli->query($sql_2));
-}
-
-function addReferences($qt_word_id, $rus_word = false, $part_of_speech = false){
-    global $mysqli;
-    global $word;
-    global $part_of_speech_id;
-    $word_for_insert = $word;
-    if($rus_word){
-        $word_for_insert = $rus_word;
-    }
-    $part_of_speech_for_insert = $part_of_speech_id;
-    if($part_of_speech){
-        $part_of_speech_for_insert = $part_of_speech;
-    }
-    $sql = "
-        UPDATE qirim_english_dictionary.`references` 
-        SET 
-            qt_word_id = '$qt_word_id'
-        WHERE
-            rus_word_id IN 
-            (SELECT 
-                rus_word_id
-            FROM
-                qirim_english_dictionary.rus_words
-            WHERE
-                name = '$word_for_insert' AND part_of_speech_id = '$part_of_speech_for_insert')
-        ";
-    $mysqli->query($sql);
-}
-
-
-function addNewReferences($qt_word_id, $rus_word_id){
-    global $mysqli;
-    $sql = "
-        INSERT INTO qirim_english_dictionary.`references` 
-        SET 
-            qt_word_id = '$qt_word_id',
-            rus_word_id = '$rus_word_id'
-        ";
-    $mysqli->query($sql);
-}
-
-function addNewRusWord($word, $part_of_speech = false){
-    global $part_of_speech_id;
-    global $mysqli;
-    $part_of_speech_for_insert = $part_of_speech_id;
-    if($part_of_speech){
-        $part_of_speech_for_insert = $part_of_speech;
-    }
-    $sql = "
-        INSERT INTO
-            qirim_english_dictionary.rus_words 
-        SET
-            name = '".$word['words']."',
-            rus_status = '".$word['status']."',   
-            part_of_speech_id = '100'    
-        ";
-    $mysqli->query($sql);
-    $sql_2 = "
-        SELECT 
-            rus_word_id
-        FROM
-            qirim_english_dictionary.rus_words
-        WHERE
-            name = '".$word['words']."'  
-            AND part_of_speech_id = '100'
-            ";
-    return mysqli_fetch_row($mysqli->query($sql_2));
-}
 
 function getList(){
     global $mysqli;
@@ -431,15 +300,205 @@ function getList(){
     $mysqli->set_charset("utf8");
     $sql_2 = "
         SELECT
-               name, part_of_speech_id
+               name, part_of_speech_id, rus_word_id
             FROM
                 qirim_english_dictionary.rus_words 
                $already_done
-            LIMIT 205, 20
+         LIMIT 70000, 5000
         ";
     return mysqli_fetch_all($mysqli->query($sql_2));
 }
 
 
+function composLastObject($word){
+    return writeDownToDB($word);
+}
+
+function writeDownToDB($word){
+    global $current_rus_id;
+    $qt_word_id = getQirimWordId($word)[0][0];
+    addNewToReferences($qt_word_id, $current_rus_id);
+    
+    if(!empty($word['descriptions'])){
+        writeDescriptionToDB($word['descriptions'], $qt_word_id, $current_rus_id);
+    }
+    
+    
+}
+
+function getQirimWordId($word_object){
+    global $mysqli;
+    global $part_of_speech_id;
+    $sql = "
+        INSERT INTO 
+            qirim_english_dictionary.qt_words
+        SET
+            name = '{$word_object['words']}',
+            part_of_speech_id  = '$part_of_speech_id',    
+            status = '{$word_object['status']}'    
+        ";
+    $mysqli->query($sql);
+    $sql_2 = "
+        SELECT 
+            qt_word_id
+        FROM 
+            qirim_english_dictionary.qt_words
+        WHERE
+            name = '{$word_object['words']}'
+        ";
+    return mysqli_fetch_all($mysqli->query($sql_2));        
+}
+
+function getRusWordId($rus_word){
+    global $mysqli;
+    $sql_2 = "
+        SELECT 
+            rus_word_id
+        FROM 
+            qirim_english_dictionary.rus_words
+        WHERE
+            name = '$rus_word' 
+        ";
+    return mysqli_fetch_all($mysqli->query($sql_2));    
+    
+}
+
+function addRusWord($word_object){
+    global $mysqli;
+    $sql = "
+        INSERT INTO 
+            qirim_english_dictionary.rus_words
+        SET
+            name = '{$word_object['words']}',
+            part_of_speech_id  = '100',    
+            rus_status = '{$word_object['rus_status']}'    
+        ";
+    $mysqli->query($sql);
+    $sql_2 = "
+        SELECT 
+            rus_word_id
+        FROM 
+            qirim_english_dictionary.rus_words
+        WHERE
+            name = '{$word_object['words']}'
+            AND part_of_speech_id  = '100'    
+        ";
+    return mysqli_fetch_all($mysqli->query($sql_2));        
+}
+
+
+function addNewToReferences($qt_word_id, $rus_word_id){
+    global $mysqli;
+    $sql = "
+        INSERT INTO 
+            qirim_english_dictionary.references_rus_qt
+        SET
+            rus_word_id = '$rus_word_id',  
+            qt_word_id = '$qt_word_id'  
+        ";
+    $mysqli->query($sql);
+    
+}
+function writeDescriptionToDB($descriptions, $qt_word_id, $rus_word_id){
+    $stressed_symbols = [
+        '<stress>a</stress>' => 'á',
+        '<stress>e</stress>' => 'é',
+        '<stress>o</stress>' => 'ó',
+        '<stress>i</stress>' => 'i',
+        '<stress>ı</stress>' => 'ı',
+        '<stress>ö</stress>' => 'ö',
+        '<stress>ü</stress>' => 'ü',
+        '<stress>u</stress>' => 'ú'
+    ];
+    foreach($descriptions as &$description){
+        $description['qt_word'] = preg_replace('/<i>.*<\/i>/', '', $description['qt_word']);
+        if(strpos($description['qt_word'], '<stress>')>-1){
+            foreach($stressed_symbols as $symbol=>$value){
+                if(strpos($description['qt_word'], $symbol)>-1){
+                    $description['qt_word'] = str_replace($symbol, $value, $description['qt_word']);
+                }
+            }
+        }
+        $need_to_be_added = checkRusWord($description['rus_word'])[0][0];
+        if(!empty($need_to_be_added)){
+                $word = [
+                'words' => $description['qt_word'],
+                'status' => 'description'
+            ];
+                
+            $qt_word_id = getQirimWordId($word)[0][0];
+            addNewToReferences($qt_word_id, $need_to_be_added);
+            continue;
+        }    
+        addRusExample($description['rus_word'], $rus_word_id);
+        addQtExample($description['qt_word'], $qt_word_id);
+    }
+    
+}
+
+function checkRusWord($rus_word){
+    global $mysqli;
+    $sql = "
+        SELECT 
+            rus_word_id
+        FROM 
+            qirim_english_dictionary.rus_words
+        WHERE name = '$rus_word'
+        ";
+    return mysqli_fetch_all($mysqli->query($sql));     
+}
+
+function addRusExample($rus_example, $rus_word_id){
+    global $mysqli;
+    $sql = "
+        INSERT INTO 
+            qirim_english_dictionary.rus_word_examples
+        SET
+            rus_word_id = '$rus_word_id',  
+            description = '$rus_example'  
+        ";
+    $mysqli->query($sql);
+}
+
+
+function addQtExample($qt_example, $qt_word_id){
+    global $mysqli;
+    $sql = "
+        INSERT INTO 
+            qirim_english_dictionary.qt_word_examples
+        SET
+            qt_word_id = '$qt_word_id',  
+            description = '$qt_example'  
+        ";
+    $mysqli->query($sql);
+}
+
+/*
+function writeDescriptionToDB2($description){
+    global $mysqli;
+    $rus_word_id = getRusWordId($description['rus_word'])[0][0];
+    if($rus_word_id){
+        
+        $word = [
+            'words' => $description['qt_word'],
+            'status' => 'description'
+        ];
+        $qt_word_id = getQirimWordId($word)[0][0];
+        addNewToReferences($qt_word_id, $rus_word_id);
+    } else {
+        $word = [
+            'words' => $description['rus_word'],
+            'rus_status' => 'description'
+        ]; 
+        $new_rus_word_id = addRusWord($word)[0][0];
+        $qt_word = [
+            'words' => $description['qt_word'],
+            'status' => 'description'
+        ];
+        $new_qt_word_id = getQirimWordId($qt_word)[0][0];
+        addNewToReferences($new_qt_word_id, $new_rus_word_id);
+    }
+    
+}*/
 init();
 //getWord();

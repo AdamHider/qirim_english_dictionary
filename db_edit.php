@@ -5,14 +5,14 @@ function getList(){
     $mysqli->set_charset("utf8");
     $sql_2 = "
         SELECT
-            rw.rus_word_id, rw.name, ew.eng_word_id, ew.name
+            rw.rus_word_id, rw.name, qw.qt_word_id, qw.name
         FROM
             qirim_english_dictionary.rus_words rw
                 JOIN
-            `references` ref ON (ref.rus_word_id = rw.rus_word_id)
+            references_rus_qt ref ON (ref.rus_word_id = rw.rus_word_id)
                 JOIN
-            eng_words ew ON (ew.eng_word_id = ref.eng_word_id)
-        WHERE rw.name LIKE 'а'
+            qt_words qw ON (qw.qt_word_id = ref.qt_word_id)
+        WHERE qw.name LIKE '<%'
         ";
     $query = mysqli_fetch_all($mysqli->query($sql_2));
     $result = [];
@@ -26,10 +26,10 @@ function getList(){
             'eng_id' =>  $row[2],
             'eng_iname' =>  $row[3]
         ];
-        if($obj['eng_id'] != '14309' || $obj['eng_id'] != '54532' || $obj['eng_id'] != '109136'){
+        array_push($result, $obj);
+       /* if($obj['eng_id'] != '14309' || $obj['eng_id'] != '54532' || $obj['eng_id'] != '109136'){
             deleteQuery($obj['rus_id'], $obj['eng_id']);
-            array_push($result, $obj);
-        }
+        }*/
         /*
         if($obj['rus_name'] != ''){
           $sql_3 = "
@@ -56,7 +56,7 @@ function getList(){
 function editRow($row_name){
     //$row_name = preg_replace('/{.*}/', '', $row_name);
     //$row_name = preg_replace('/и пр/', '', $row_name);
-    if(strpos($row_name, ')')>-1){
+    /*if(strpos($row_name, ')')>-1){
         if(!strpos($row_name, '(')){
             $row_name = '';
         }
@@ -65,7 +65,7 @@ function editRow($row_name){
     if(strlen(trim($row_name))<3){
         $row_name = '';
     }
-    $row_name = trim($row_name);
+    $row_name = trim($row_name);*/
     return trim($row_name);
 }
 
