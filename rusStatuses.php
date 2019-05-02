@@ -44,20 +44,19 @@ function getList(){
 function updateEngStatuses(){
     global $mysqli;
     $sql = "
-        SELECT 
-            (SELECT 
-                    COUNT(rus.name)
+        CREATE TEMPORARY TABLE eng_tmp SELECT * FROM eng_words;
+        UPDATE qirim_english_dictionary.eng_words ew
+        SET rus_referents =	(SELECT 
+                        COUNT(rus.name)
                 FROM
-                    rus_words rus
-                        JOIN
-                    references_eng_ru refs USING (rus_word_id)
-                        JOIN
-                    eng_words eng USING (eng_word_id)
+                        rus_words rus
+                                JOIN
+                        references_eng_ru refs USING (rus_word_id)
+                                JOIN
+                        eng_tmp eng USING (eng_word_id)
                 WHERE
-                    eng.name = ew.name) AS referents
-        FROM
-            qirim_english_dictionary.eng_words ew
-        LIMIT 10          
+                        eng.name = ew.name) 
+        LIMIT 10       
         ";
     return mysqli_fetch_all($mysqli->query($sql))[0];
 }
