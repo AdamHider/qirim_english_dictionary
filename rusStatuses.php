@@ -43,8 +43,11 @@ function getList(){
 
 function updateEngStatuses(){
     global $mysqli;
+    $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
+    $mysqli->set_charset("utf8");
+    $mysqli->query("DROP TEMPORARY TABLE eng_tmp");
+    $mysqli->query("CREATE TEMPORARY TABLE eng_tmp SELECT * FROM eng_words WHERE rus_referents IS NULL LIMIT 50");
     $sql = "
-        CREATE TEMPORARY TABLE eng_tmp SELECT * FROM eng_words;
         UPDATE qirim_english_dictionary.eng_words ew
         SET rus_referents =	(SELECT 
                         COUNT(rus.name)
@@ -56,9 +59,10 @@ function updateEngStatuses(){
                         eng_tmp eng USING (eng_word_id)
                 WHERE
                         eng.name = ew.name) 
-        LIMIT 10       
+        WHERE ew.rus_referents IS NULL                
+        LIMIT 50          
         ";
-    return mysqli_fetch_all($mysqli->query($sql))[0];
+    return mysqli_fetch_all($mysqli->query($sql));
 }
 
 function getTotal(){
@@ -227,7 +231,11 @@ function putThatDone($data){
         file_put_contents('done_commas.txt', $already_done);
     }
 }
-
-if(function_exists($_GET['f'])) {
-   $_GET['f']();
+//
+//if(function_exists($_GET['f'])) {
+//   $_GET['f']();
+//}
+    set_time_limit(80000);
+for($i=0; $i<500; $i++){
+   updateEngStatuses(); 
 }

@@ -304,7 +304,7 @@ function getList(){
             FROM
                 qirim_english_dictionary.rus_words 
                $already_done
-         LIMIT 75000, 10000
+         LIMIT 85000, 30000
         ";
     return mysqli_fetch_all($mysqli->query($sql_2));
 }
