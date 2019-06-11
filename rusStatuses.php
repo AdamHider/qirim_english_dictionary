@@ -14,7 +14,7 @@ function getList(){
     } else {
         $already_done = '';
     }
-    $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
+    $mysqli =  new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
     $mysqli->set_charset("utf8");
     $rus_ids = getRusTotalIds();
     $sql_2 = "
