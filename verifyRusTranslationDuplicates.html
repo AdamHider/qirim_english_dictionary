@@ -24,6 +24,7 @@
                 width: 10%;
                 height: 49px;
                 color: white;
+                margin:10px;
                 background-color: darkgrey;
                 box-shadow: 2px 2px 4px lightgray;
                 border: none;
@@ -52,27 +53,39 @@
             
             @media screen and (max-width: 600px) {
                 .button-action {
-                  width: 30%;
+                  width: 10%;
                   margin-top: 10px;
                 }
                 
                 input.input-word{
-                    width: 90%;
+                    width: 30%;
                     margin-top: 10px;
                     margin-left: 0px !important;
+                    display:inline-block;
                 }
-                
+                .word--enginfo{
+                    font-size:14px !important;
+                    display: inline-block;
+                    width:100% !important;
+                }
+                button{
+                width: 30%;
+            }
                 
               }
+            .word_name{
+                font-size: 18px;
+                font-weight: bold;
+                font-family: Century Gothic;
+            }
         </style>
     </head>
     <body>
         <div>
-            <button type='button' id="commit" style="background-color:#0089b6; width:20%">COMMIT</button>
             <div><input id='query' value='' onchange="load('simple_load')"></div>
             <div id="total">total</div>
         </div>
-        <div class="list">
+        <div class="word">
             <div class="word-info" style="">
                 <div class="word-descr">
                     <div class="word-origin"></div>
@@ -92,7 +105,7 @@
 </html>
  <script type="text/javascript">
     var offset = 0;
-    var list = [];
+    var word = [];
     var total = 0;
     
     $(document).ready(function() {
@@ -110,20 +123,8 @@
                 complete: function() {
                 },
                 success: function(json) {
-                    if(mode === 'update'){
-                        for(var i = 0; i<list.length; i++){
-                            if(list[i].length>4){
-                                for(var k = 0; k<json.length; k++){
-                                    if(list[i][2] == json[k][2]){
-                                        json[k].push('put to exceptions');
-                                    }
-                                }
-                            }
-                        }
-                    }
-                    list = json;
-                    
-            getTotal();
+                    word = json;
+                    getTotal();
                     render();
 
                 }
@@ -147,38 +148,47 @@
             });
     }
     function render(){
+        var word_name = word.name;
         var word_html = '<div>';
-        for (var i = 0; i<list.length; i++){
-            var word_object = list[i];
-            if(word_object.length>4){
-                word_html += '<div id="div-row-'+word_object[2]+'-'+word_object[3]+'" class="word-info" style="background-color:lightgreen"><div class="word-descr" >';
-            } else {
-                word_html += '<div id="div-row-'+word_object[2]+'-'+word_object[3]+'" class="word-info"><div class="word-descr" >';
-            }
-            word_html += '<button id="row-'+word_object[2]+'-'+word_object[3]+'" onclick="select(this.id)" style="float:left">OK</button>';
-            word_html += '<div></div>';
-            word_html += '<span id="div-eng-row-'+word_object[2]+'" class="word--enginfo" style="width: 20%;display: inline-block;padding-left: 20px;font-size: 18px;font-weight: bold;">'+word_object[1]+'</span>';
-            word_html += '<span class="word-verify-'+i+'" style="margin-left:10px; font-size:20px" ><span class="word-input-'+i+'" style="font-size:20px" ><input class="input-word" id="input-'+word_object[3]+'-'+word_object[2]+'"  value="'+word_object[0]+'" onchange="update(this.id)"/></span></span>';
-            
-            word_html += '';
-            word_html += '<span class="delete-input-'+i+'" ><input style="background-color:grey" class="button-action" id="buttondelete-'+word_object[2]+'" type="button" value="X" onclick="deleteWord(this.id)"/></span>';
-            word_html += '</div></div>';
+        word_html += '<div class="word_name">'+word_name+'</div>';
+        word_html += '<button class="word_part action" onclick=choose("ALL","'+word.id+'")>ALL</button>';
+        for (var i = 0; i<word.parts.length; i++){
+            word_html += '<button class="word_part action" onclick=choose("'+word.parts[i]+'","'+word.id+'")>'+word.parts[i]+'</button>';
         }
+        word_html += '</div>';
         $('#total').html('total: '+total);
-        $('.list').html(word_html);
+        $('.word').html(word_html);
     } 
     function select(node){
         var rus_id = (node.split('-'))[2];
         var eng_id = (node.split('-'))[1];
-        for(var i =0; i<list.length; i++){
-            if(list[i][3] == rus_id && list[i][2] == eng_id && list[i][4] === undefined ){
-                list[i].push('put to exceptions');
+        for(var i =0; i<word.length; i++){
+            if(word[i][3] == rus_id && word[i][2] == eng_id && word[i][4] === undefined ){
+                word[i].push('put to exceptions');
                 $('#div-'+node).css('background-color', 'lightgreen');
-            } else if ( list[i][3] == rus_id && list[i][2] == eng_id && list[i][4] != undefined ){
-                list[i].pop();
+            } else if ( word[i][3] == rus_id && word[i][2] == eng_id && word[i][4] != undefined ){
+                word[i].pop();
                 $('#div-'+node).css('background-color', 'white');
             }
         }
+    }
+    
+    function choose(part_of_speech, id){
+        
+        console.log(name);
+        $.ajax({
+                url:'verifyRusTranslationDuplicates.php?f=choose&part_of_speech='+part_of_speech + ',' +id,
+                type: 'post',
+                data: '',
+                dataType: 'json',
+                beforeSend: function() {
+                },
+                complete: function() {
+                    load();
+                },
+                success: function() {
+                }
+            });
     }
     
     function update(node){
@@ -222,7 +232,7 @@
         
         var query = $('#query').val();
         $.ajax({
-            url:'verifyRusTranslationDuplicates.php?f=commit&data='+JSON.stringify(list)+'&query='+query,
+            url:'verifyRusTranslationDuplicates.php?f=commit&data='+JSON.stringify(word)+'&query='+query,
             type: 'post',
             data: '',
             dataType: 'json',
