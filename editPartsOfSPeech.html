@@ -68,7 +68,7 @@
     </head>
     <body>
         <div>
-            <button type='button' id="commit" style="background-color:#0089b6; width:20%">COMMIT</button>
+            <button type='button' class="commit" style="background-color:#0089b6; width:20%">COMMIT</button>
             <div><input id='query' value='' onchange="load('simple_load')"></div>
             <div id="total">total</div>
         </div>
@@ -88,6 +88,7 @@
                 </div>
             </div>
         </div>
+         <button type='button' class="commit" style="background-color:#0089b6; width:20%">COMMIT</button>
     </body>
 </html>
  <script type="text/javascript">
@@ -102,7 +103,7 @@
     function load(mode){
         var query = $('#query').val();
         $.ajax({
-                url:'verifyRusTranslation.php?f=getList&query='+query,
+                url:'editPartsOfSPeech.php?f=getList&query='+query,
                 type: 'post',
                 data: '',
                 dataType: 'json',
@@ -131,7 +132,7 @@
     function getTotal(){
         var query = $('#query').val();
         $.ajax({
-                url:'verifyRusTranslation.php?f=getTotal&query='+query,
+                url:'editPartsOfSPeech.php?f=getTotal&query='+query,
                 type: 'post',
                 data: '',
                 dataType: 'json',
@@ -154,10 +155,10 @@
             } else {
                 word_html += '<div id="div-row-'+word_object[2]+'-'+word_object[3]+'" class="word-info"><div class="word-descr" >';
             }
-            word_html += '<button id="row-'+word_object[2]+'-'+word_object[3]+'" onclick="select(this.id)" style="float:left">OK</button>';
+            word_html += '<button id="row-'+word_object[2]+'-'+word_object[3]+'-'+word_object[0]+'" onclick="select(this.id)" style="float:left">OK</button>';
             word_html += '<div></div>';
             word_html += '<span id="div-eng-row-'+word_object[2]+'" class="word--enginfo" style="width: 20%;display: inline-block;padding-left: 20px;font-size: 18px;font-weight: bold;">'+word_object[1]+'</span>';
-            word_html += '<span class="word-verify-'+i+'" style="margin-left:10px; font-size:20px" ><span class="word-input-'+i+'" style="font-size:20px" ><input class="input-word" id="input-'+word_object[3]+'-'+word_object[2]+'"  value="'+word_object[0]+'" onchange="update(this.id)"/></span></span>';
+            word_html += '<span class="word-verify-'+i+'" style="margin-left:10px; font-size:20px" ><span class="word-input-'+i+'" style="font-size:20px" ><input class="input-word" id="input-'+word_object[2]+'-'+word_object[3]+'-'+word_object[0]+'"  value="'+word_object[0]+'" onchange="update(this.id, this.value)"/></span></span>';
             
             word_html += '';
             word_html += '<span class="delete-input-'+i+'" ><input style="background-color:grey" class="button-action" id="buttondelete-'+word_object[3]+'-'+word_object[0]+'" type="button" value="X" onclick="deleteWord(this.id)"/></span>';
@@ -180,13 +181,25 @@
         }
     }
     
-    function update(node){
+    function update(node,part){
+        var rus_id = (node.split('-'))[2];
+        var eng_id = (node.split('-'))[1];
+        for(var i =0; i<list.length; i++){
+            if(list[i][3] == rus_id && list[i][2] == eng_id ){
+                list[i][0] = part;
+            } 
+        }
+        return;
+        
+        
+        
+        
         var id = (node.split('-'))[1];
         var eng_id = (node.split('-'))[2];
         var new_name = $('#'+node).val();
         if(new_name !== '' && new_name !== ' ' ){
             $.ajax({
-                url:'verifyRusTranslation.php?f=updateRusName&newword='+id+';'+new_name+';'+eng_id,
+                url:'editPartsOfSPeech.php?f=updateRusName&newword='+id+';'+new_name+';'+eng_id,
                 type: 'post',
                 data: '',
                 dataType: 'json',
@@ -206,7 +219,7 @@
         var new_name = word.replace(' (','|');
         new_name = new_name.replace(/\)/g,'');
         $.ajax({
-            url:'verifyRusTranslation.php?f=updateRusName&newword='+id+';'+new_name+';'+'',
+            url:'editPartsOfSPeech.php?f=updateRusName&newword='+id+';'+new_name+';'+'',
             type: 'post',
             data: '',
             dataType: 'json',
@@ -219,11 +232,11 @@
             }
         });
     }
-    $("#commit").on('click',function(){
+    $(".commit").on('click',function(){
         
         var query = $('#query').val();
         $.ajax({
-            url:'verifyRusTranslation.php?f=commit&data='+JSON.stringify(list)+'&query='+query,
+            url:'editPartsOfSPeech.php?f=commit&data='+JSON.stringify(list)+'&query='+query,
             type: 'post',
             data: '',
             dataType: 'json',

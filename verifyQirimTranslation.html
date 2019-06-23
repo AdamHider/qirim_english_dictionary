@@ -7,49 +7,35 @@
         <script src="jquery-2.1.1.min.js"></script>
        
         <style>
-            .word-info{
-                border: 1px solid #ababab;
-                /*padding: 10px;*/
-               /* margin-bottom: 10px;*/
-                border-radius: 10px;
+            body{
+                background-color: #dee7ea;
             }
-            .translation{
-                padding:10px;
-                border-top:1px solid black;
+            .word-container{
+                border: 1px solid darkgreen;
+                padding: 10px;
+                margin: 10px;
+                background-color: white;
             }
-            div{
-                /*margin:10px 0;*/
-            }
-            button{
-                width: 10%;
-                height: 49px;
-                color: white;
-                background-color: darkgrey;
-                box-shadow: 2px 2px 4px lightgray;
-                border: none;
-                border-radius: 5px;
-                font-weight: bold;
-            }
-            input.input-word{
-                width: 55%;
-                height: 34px;
-                border: 1px solid lightgray;
-                box-shadow: inset 2px 2px 3px lightgray;
-                padding: 6px;
-                font-size: initial;
-                /*border-radius: 5px;*/
-            }
-            .button-action{
-                width: 7%;
-                margin-left: 13px;
-                height: 46px;
-                border-radius: 5px;
-                border: none;
-                box-shadow: 2px 2px 3px lightgray;
-                font-weight: bold;
-                color: white;
+            .word-description-container{
+                
             }
             
+            .word-description{
+                
+            }
+            .word-description.article{
+                width: 442px;
+                float: right;
+            }
+            .references-description-container{
+                display: inline-block;
+            }
+            .reference-row{
+                
+            }
+            .reference-description{
+                display: inline-block;
+            }
             @media screen and (max-width: 600px) {
                 .button-action {
                   width: 30%;
@@ -102,7 +88,7 @@
     function load(mode){
         var query = $('#query').val();
         $.ajax({
-                url:'verifyRusTranslation.php?f=getList&query='+query,
+                url:'verifyQirimTranslation.php?f=getList&query='+query,
                 type: 'post',
                 data: '',
                 dataType: 'json',
@@ -113,7 +99,7 @@
                 success: function(json) {
                     if(mode === 'update'){
                         for(var i = 0; i<list.length; i++){
-                            if(list[i].length>4){
+                            if(list[i].length>3){
                                 for(var k = 0; k<json.length; k++){
                                     if(list[i][2] == json[k][2]){
                                         json[k].push('put to exceptions');
@@ -131,7 +117,7 @@
     function getTotal(){
         var query = $('#query').val();
         $.ajax({
-                url:'verifyRusTranslation.php?f=getTotal&query='+query,
+                url:'verifyQirimTranslation.php?f=getTotal&query='+query,
                 type: 'post',
                 data: '',
                 dataType: 'json',
@@ -149,20 +135,26 @@
         var word_html = '<div>';
         for (var i = 0; i<list.length; i++){
             var word_object = list[i];
-            if(word_object.length>4){
-                word_html += '<div id="div-row-'+word_object[2]+'-'+word_object[3]+'" class="word-info" style="background-color:lightgreen"><div class="word-descr" >';
-            } else {
-                word_html += '<div id="div-row-'+word_object[2]+'-'+word_object[3]+'" class="word-info"><div class="word-descr" >';
-            }
-            word_html += '<button id="row-'+word_object[2]+'-'+word_object[3]+'" onclick="select(this.id)" style="float:left">OK</button>';
-            word_html += '<div></div>';
-            word_html += '<span id="div-eng-row-'+word_object[2]+'" class="word--enginfo" style="width: 20%;display: inline-block;padding-left: 20px;font-size: 18px;font-weight: bold;">'+word_object[1]+'</span>';
-            word_html += '<span class="word-verify-'+i+'" style="margin-left:10px; font-size:20px" ><span class="word-input-'+i+'" style="font-size:20px" ><input class="input-word" id="input-'+word_object[3]+'-'+word_object[2]+'"  value="'+word_object[0]+'" onchange="update(this.id)"/></span></span>';
-            
-            word_html += '';
-            word_html += '<span class="delete-input-'+i+'" ><input style="background-color:grey" class="button-action" id="buttondelete-'+word_object[3]+'-'+word_object[0]+'" type="button" value="X" onclick="deleteWord(this.id)"/></span>';
-            word_html += '</div></div>';
+                word_html += '<div class="word-container">';
+                    word_html += '<div class="word-description-container">';
+                        word_html += '<div class="word-description">'+word_object.word_name+'</div>';
+                        word_html += '<div class="word-description">'+word_object.reference_quantity+'</div>';
+                        word_html += '<div class="word-description article">'+word_object.lugat_article+'</div>';
+                        word_html += '<div class="references-description-container">';
+                            for(var k=0; k<word_object.references.length; k++){
+                                word_html += '<div class="reference-row">';
+                                    word_html += '<button class="commit">OK</button>';
+                                    word_html += '<div class="reference-description">'+word_object.references[k].qt_word_name+'</div>';
+                                    word_html += '<button class="delete">delete</button>';
+                                word_html += '</div>';
+                            }
+                        word_html += '</div>';
+                    word_html += '</div>';
+                word_html += '</div>';
         }
+        word_html += '<div>';
+        
+        console.log(word_object);
         $('#total').html('total: '+total);
         $('.list').html(word_html);
     } 
@@ -186,7 +178,7 @@
         var new_name = $('#'+node).val();
         if(new_name !== '' && new_name !== ' ' ){
             $.ajax({
-                url:'verifyRusTranslation.php?f=updateRusName&newword='+id+';'+new_name+';'+eng_id,
+                url:'verifyQirimTranslation.php?f=updateRusName&newword='+id+';'+new_name+';'+eng_id,
                 type: 'post',
                 data: '',
                 dataType: 'json',
@@ -202,17 +194,15 @@
     }
     function deleteWord(node){
         var id = (node.split('-'))[1];
-        var word = (node.split('-'))[2];
-        var new_name = word.replace(' (','|');
-        new_name = new_name.replace(/\)/g,'');
         $.ajax({
-            url:'verifyRusTranslation.php?f=updateRusName&newword='+id+';'+new_name+';'+'',
+            url:'verifyQirimTranslation.php?f=deleteRusName&deleteid='+id,
             type: 'post',
             data: '',
             dataType: 'json',
             beforeSend: function() {
             },
             complete: function() {
+                total -= 1;
                 load('update');
             },
             success: function() {
@@ -223,7 +213,7 @@
         
         var query = $('#query').val();
         $.ajax({
-            url:'verifyRusTranslation.php?f=commit&data='+JSON.stringify(list)+'&query='+query,
+            url:'verifyQirimTranslation.php?f=commit&data='+JSON.stringify(list)+'&query='+query,
             type: 'post',
             data: '',
             dataType: 'json',
@@ -231,7 +221,7 @@
                 $('#commit').html('LOADING...');
             },
             complete: function() {
-                total -= 20;
+                total -= 50;
                 load('simple_load');
                 $('#commit').html('COMMIT');
                 
