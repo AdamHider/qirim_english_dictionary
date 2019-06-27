@@ -20,7 +20,7 @@ function getList(){
     }*/
     $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
     $mysqli->set_charset("utf8");
-    $db_word_list = mysqli_fetch_all($mysqli->query("SELECT DISTINCT qw.name, qw.qt_word_id FROM qirim_english_dictionary.qt_words qw JOIN references_rus_qt USING (qt_word_id) WHERE name LIKE 'b%'"));
+    $db_word_list = mysqli_fetch_all($mysqli->query("SELECT DISTINCT qw.name, qw.qt_word_id FROM qirim_english_dictionary.qt_words qw JOIN references_rus_qt USING (qt_word_id) WHERE name LIKE 'a%' LIMIT 15"));
     $rus_word_list = [];
     foreach ($db_word_list as $word){
         $word_object = [];
@@ -28,7 +28,6 @@ function getList(){
         $word_object['word_name'] = $word[0];
         $common_refs = mysqli_fetch_all($mysqli->query("SELECT ref.reference_id, rw.name FROM references_rus_qt ref JOIN rus_words rw USING (rus_word_id)WHERE ref.qt_word_id = '{$word[1]}'"));
         foreach ($common_refs as $ref){
-            print_r($common_refs);
             $reference = [];
             $reference['reference_id'] = $ref[0];
             $reference['referent_word_name'] = $ref[1];
@@ -51,6 +50,9 @@ function checkWord($word_object){
     if(empty($article)){
         return;
     }
+    print_r($word_object);
+    print_r($article);
+    return;
     foreach($word_object['references'] as $reference){
         $ref_word = $reference['referent_word_name'];
         if(strpos($article[0],$ref_word) == -1 ){
