@@ -75,8 +75,6 @@ function compileTranslation($translation_string){
     $result_object = [
         'word' => $translation_string
     ];
-    finalTranslation($result_object); 
-        return $result_object;
     if(strpos($result_object['word'],'1)')>-1){
         $result_object['word'] = getFirstMeaning($result_object['word']);
     } else if (strpos($result_object['word'],';')>-1){
@@ -94,8 +92,6 @@ function getFirstMeaning($translation_string){
     $result_object = [];
     $result = [];
     
-        finalTranslation($translation_string); 
-        return;
     $translation_lvl1 = preg_split("/[0-9]\)/", $translation_string);
     array_shift($translation_lvl1);
     $result_object['word'] = $translation_lvl1;
@@ -216,7 +212,7 @@ function finalTranslation($word_object){
         $word_object['descriptions'] = [];
     }*/
     
-    
+    /*
     if(strpos($word_object['word'], 'см. ')>-1){
         $tmp_array = explode('см. ', $word_object['word']);
         
@@ -233,11 +229,11 @@ function finalTranslation($word_object){
                       print_r($qt_id[0]);
                     echo ' - ';
                     print_r($current_rus_id);
-                    echo '</br>_____';*/
-                    addNewToReferences($qt_id[0],$current_rus_id );
+                    echo '</br>_____';
+                    //addNewToReferences($qt_id[0],$current_rus_id );
                 }
             }   
-    }
+    }*/
     /*
     if(strpos($word_object['word'], 'ср. ')>-1){
         $word= str_replace('ср. ', '', trim($word_object['word']));
@@ -280,7 +276,7 @@ function finalTranslation($word_object){
     $result['sub_meaning']  = $sub;
     foreach($result['sub_meaning'] as &$meaning){
         $meaning = explode(' - ',$meaning);
-        setDescription($meaning);
+        //setDescription($meaning);
     }
     
     $result['words'] = trim($word_object['word']);
@@ -298,11 +294,11 @@ function finalTranslation($word_object){
         $result['words'] = array ('words'=>$result['words']);
     }   */ 
     //$result['words'] = $word;
-    if($rus_word != null){
+    /*if($rus_word != null){
         $result['words'] = trim($rus_word);
     } else {
         return;
-    }
+    }*/
     
     if(strpos($result['words'], ';')){
         $tmp = explode(';',$result['words']);
@@ -333,7 +329,8 @@ function composLastObject($word){
     global $current_rus_id;
     $rus_id = checkRusWord($word['words']);
     //die;
-    
+    print_r($word);
+    return;
     if(!empty($rus_id[0][0])){
          print_r($word);
         print_r($rus_id);
@@ -471,11 +468,12 @@ function getList(){
                 INNER JOIN
             qirim_english_dictionary.qt_words qw ON (l.word = qw.name)
         WHERE
-            l.lang_from = 'crh' 
-             and article NOT LIKE '%/%'
-                and article LIKE '%см. %'
-                and article NOT LIKE '%ср. %'
-                and article NOT LIKE '%1)%'
+            l.lang_to = 'ru' 
+             AND article NOT LIKE '%см. %'
+            AND article NOT LIKE '%ср. %'
+            AND article NOT LIKE '% - %'
+            AND article NOT LIKE '%\/%'
+            AND article NOT LIKE '%,%'
         ";
     return mysqli_fetch_all($mysqli->query($sql_2));
 }
