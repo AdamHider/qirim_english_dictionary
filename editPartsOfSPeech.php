@@ -23,9 +23,7 @@ function getList(){
         FROM
             qirim_english_dictionary.rus_words
         WHERE
-            part_of_speech_id = '102' $already_done
-                ORDER BY rus_word_id
-            LIMIT 30
+            part_of_speech_id = '102' 
         ";
     echo json_encode(mysqli_fetch_all($mysqli->query($sql_2)));
 }
@@ -68,56 +66,65 @@ function commit(){
         $data = json_decode($_GET['data']);
         for($i=0; $i<count($data); $i++){
             $object = [
-                'part_of_speech' => $data[$i][0],
+                'part_of_speech' => '1',
                 'rus_name' => $data[$i][1],
                 'eng_id' => $data[$i][2],
                 'rus_id' => $data[$i][3],
             ];
-            updateRusName($object['rus_id'],$object['part_of_speech']);
+            updateRusName($object['rus_id'],$object['part_of_speech'],$object['rus_name'] );
                 continue;
         }
     }
 }
 
-function updateRusName($rus_id = '', $part_of_speech = ''){
+function updateRusName($rus_id = '', $part_of_speech = '', $rus_name = ''){
     
     $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
     $mysqli->set_charset("utf8");
     if(!empty($_GET['newword'])){
         $data = explode(';',$_GET['newword']);
         $rus_word_id = $data[0];
-        $new_part_of_speech = $data[1];
+        $rus_name = $data[1];
+        $new_part_of_speech = $data[2];
     } else {
         $rus_word_id = $rus_id;
         $new_part_of_speech = $part_of_speech;
     }
     $sql_4 = "
        UPDATE qirim_english_dictionary.rus_words 
-       SET part_of_speech_id = '".$new_part_of_speech."'
+       SET 
+        part_of_speech_id = '".$new_part_of_speech."'
        WHERE rus_word_id = '".$rus_word_id."'
        ";
     $mysqli->query($sql_4);
     $error = mysqli_error($mysqli);
     if(strpos($error, 'Duplicate entry')>-1){
-          insertQuery($new_part_of_speech, $rus_word_id);
-          deleteQuery($rus_word_id);
+          insertQuery($new_part_of_speech, $rus_word_id,$rus_name);
+          //deleteQuery($rus_word_id);
     }
     $mysqli->close();
 }
 
-function insertQuery($new_part_of_speech, $old_rus_id){
+function insertQuery($new_part_of_speech, $old_rus_id,$rus_name){
     $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
     $mysqli->set_charset("utf8");
-    $rus_name = mysqli_fetch_all($mysqli->query("SELECT name FROM rus_words WHERE rus_word_id = '$old_rus_id'"))[0][0];
+    //$rus_name = mysqli_fetch_all($mysqli->query("SELECT name FROM rus_words WHERE rus_word_id = '$old_rus_id'"))[0][0];
     $sql_5 = "
         SELECT rus_word_id FROM qirim_english_dictionary.rus_words 
-        WHERE name = '".$rus_name."' AND part_of_speech_id = '$new_part_of_speech' LIMIT 1
+        WHERE name = '".$rus_name."' AND part_of_speech_id = '$new_part_of_speech'
         ";
     $real_rus_id = mysqli_fetch_all($mysqli->query($sql_5))[0][0];
-    $mysqli->query("UPDATE  qirim_english_dictionary.references_rus_qt 
-        SET rus_word_id = '$real_rus_id'
-        WHERE  rus_word_id = '".$old_rus_id."'
+    
+    $mysqli->query("UPDATE  qirim_english_dictionary.rus_words 
+        SET name = '".$rus_name."'
+        WHERE  rus_word_id = '".$real_rus_id."'
         ");
+    $sql_5 = "
+            DELETE  FROM  qirim_english_dictionary.rus_words 
+            WHERE rus_word_id = '".$old_rus_id."'
+            ";
+        $mysqli->query($sql_5);
+    return;
     $mysqli->query("UPDATE  qirim_english_dictionary.rus_descriptions 
         SET rus_word_id = '$real_rus_id'
         WHERE rus_word_id = '".$old_rus_id."'

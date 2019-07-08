@@ -15,7 +15,7 @@ function getList(){
         JOIN qirim_english_dictionary.references_eng_ru ref USING (rus_word_id)
         JOIN qirim_english_dictionary.eng_words ew USING (eng_word_id)
         WHERE 
-        rw.name LIKE '% кем-л.' $already_done
+        rw.part_of_speech_id = '101' $already_done
         LIMIT 30  
         ";
     
@@ -55,7 +55,7 @@ function commit(){
                 'eng_word' => $data[$i][1],
                 'eng_id' => $data[$i][2],
                 'rus_id' => $data[$i][3],
-                'part_of_speech_id' => $data[$i][4],
+                'part_of_speech_id' => "2",
             ];
                if(isset($data[$i][5])){
                 putThatDone($object['rus_id']);
@@ -69,7 +69,7 @@ function commit(){
 function explodeWord($object){
     header('Content:text-plain');
     
-    $rus_word = str_replace(' кем-л.', '', $object['rus_word']);
+    $rus_word = $object['rus_word'];
     
     updateRusName($object['rus_id'],$object['eng_id'],$rus_word,$object['part_of_speech_id']);
 }
@@ -84,19 +84,19 @@ function updateRusName($rus_id = '', $eng_id = '', $rus_word = '',$part_of_speec
         $rus_word_id = $data[0];
         $new_word_name = trim($data[1]);
         $eng_word_id = $data[2];
-        $part_of_speech_id = $data[3];
+        $part_of_speech_id = '2';
     } else {
         $rus_word_id = $rus_id;
         $new_word_name = trim($rus_word);
         $eng_word_id = $eng_id;
-        $part_of_speech_id = $part_of_speech_id;
+        $part_of_speech_id = "2";
         
     }
     
     $sql_4 = "
        UPDATE qirim_english_dictionary.rus_words 
-       SET name = '".$new_word_name."'
-       WHERE rus_word_id = '".$rus_word_id."' AND part_of_speech_id ='$part_of_speech_id' 
+       SET part_of_speech_id = '".$part_of_speech_id."'
+       WHERE rus_word_id = '".$rus_word_id."' 
        ";
     $mysqli->query($sql_4);
     $error = mysqli_error($mysqli);
@@ -155,14 +155,14 @@ function deleteQuery($rus_id, $eng_id,$part_of_speech_id){
         SELECT ew.eng_word_id FROM qirim_english_dictionary.rus_words rw
         JOIN references_eng_ru ref ON(ref.rus_word_id = rw.rus_word_id) 
         JOIN eng_words ew ON(ew.eng_word_id = ref.eng_word_id) 
-        WHERE rw.rus_word_id = '".$rus_id."' AND rw.part_of_speech_id ='$part_of_speech_id' 
+        WHERE rw.rus_word_id = '".$rus_id."' AND rw.part_of_speech_id ='101' 
         ";
     $array = mysqli_fetch_all($mysqli->query($sql_5));
     $eng_id = $array[0][0];
 
     $sql_3 = "
         DELETE  FROM  qirim_english_dictionary.rus_words
-        WHERE rus_word_id = '".$rus_id."' AND part_of_speech_id ='$part_of_speech_id' 
+        WHERE rus_word_id = '".$rus_id."' AND part_of_speech_id ='101' 
         ";
     $mysqli->query($sql_3);
     $sql_4 = "

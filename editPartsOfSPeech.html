@@ -158,7 +158,7 @@
             word_html += '<button id="row-'+word_object[2]+'-'+word_object[3]+'-'+word_object[0]+'" onclick="select(this.id)" style="float:left">OK</button>';
             word_html += '<div></div>';
             word_html += '<span id="div-eng-row-'+word_object[2]+'" class="word--enginfo" style="width: 20%;display: inline-block;padding-left: 20px;font-size: 18px;font-weight: bold;">'+word_object[1]+'</span>';
-            word_html += '<span class="word-verify-'+i+'" style="margin-left:10px; font-size:20px" ><span class="word-input-'+i+'" style="font-size:20px" ><input class="input-word" id="input-'+word_object[2]+'-'+word_object[3]+'-'+word_object[0]+'"  value="'+word_object[0]+'" onchange="update(this.id, this.value)"/></span></span>';
+            word_html += '<span class="word-verify-'+i+'" style="margin-left:10px; font-size:20px" ><span class="word-input-'+i+'" style="font-size:20px" ><input class="input-word" id="input-'+word_object[3]+'-'+word_object[1]+'"  value="'+word_object[0]+'" onchange="update(this.id)"/></span></span>';
             
             word_html += '';
             word_html += '<span class="delete-input-'+i+'" ><input style="background-color:grey" class="button-action" id="buttondelete-'+word_object[3]+'-'+word_object[0]+'" type="button" value="X" onclick="deleteWord(this.id)"/></span>';
@@ -181,37 +181,23 @@
         }
     }
     
-    function update(node,part){
-        var rus_id = (node.split('-'))[2];
-        var eng_id = (node.split('-'))[1];
-        for(var i =0; i<list.length; i++){
-            if(list[i][3] == rus_id && list[i][2] == eng_id ){
-                list[i][0] = part;
-            } 
-        }
-        return;
-        
-        
-        
-        
-        var id = (node.split('-'))[1];
-        var eng_id = (node.split('-'))[2];
-        var new_name = $('#'+node).val();
-        if(new_name !== '' && new_name !== ' ' ){
-            $.ajax({
-                url:'editPartsOfSPeech.php?f=updateRusName&newword='+id+';'+new_name+';'+eng_id,
-                type: 'post',
-                data: '',
-                dataType: 'json',
-                beforeSend: function() {
-                },
-                complete: function() {
-                    load('update');
-                },
-                success: function() {
-                }
-            });
-        }
+    function update(node){
+        var rus_id = (node.split('-'))[1];
+        var rus_name = (node.split('-'))[2];
+        var part_id = $('#'+node).val();
+        $.ajax({
+            url:'editPartsOfSPeech.php?f=updateRusName&newword='+rus_id+';'+rus_name+';'+part_id,
+            type: 'post',
+            data: '',
+            dataType: 'json',
+            beforeSend: function() {
+            },
+            complete: function() {
+                load('update');
+            },
+            success: function() {
+            }
+        });
     }
     function deleteWord(node){
         var id = (node.split('-'))[1];

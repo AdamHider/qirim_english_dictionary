@@ -1,120 +1,119 @@
 <?php
 $current_word_list = [];
-$query = '';
 $mysqli;
+
+$count_empty = 0;
+$count_comma = 0;
+$count_dash = 0;
 function getList(){
-    global $query;
     global $mysqli;
-    if(!empty($_GET['query'])){
-        $query = $_GET['query'];
-    }
+    global $count_empty;
+    global $count_comma;
+    global $count_dash;
+    set_time_limit(5000);
+    
     $already_done = file_get_contents('done_commas.txt');
     if(!empty($already_done)){
-        $already_done = 'HAVING ew.eng_word_id NOT IN ('.$already_done.') ';
+        $already_done = 'HAVING qw.qt_word_id NOT IN ('.$already_done.') ';
     } else {
         $already_done = '';
     }
     $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
     $mysqli->set_charset("utf8");
-    $rus_ids = getRusTotalIds();
-    $sql_2 = "
-        SELECT DISTINCT
-            qw.name as qt_name,
-            rw.name as rus_name,
-            ew.name as eng_name,
-            ew.eng_word_id as eng_word_id, 
-            rw.rus_word_id as rus_word_id, 
-            qw.qt_word_id as qt_word_id
-        FROM
-            qirim_english_dictionary.qt_words qw
-                    JOIN
-            references_rus_qt refrq ON (refrq.qt_word_id = qw.qt_word_id)
-                    JOIN
-            rus_words rw ON (rw.rus_word_id = refrq.rus_word_id)
-                    JOIN
-            references_eng_ru referu ON (referu.rus_word_id = rw.rus_word_id)
-                    JOIN
-            eng_words ew ON (ew.eng_word_id = referu.eng_word_id)
-        WHERE 
-            qw.status = 'warning' AND rw.rus_word_id = $rus_ids[0]
-        ";
-    echo json_encode(mysqli_fetch_all($mysqli->query($sql_2)));
+    $db_word_list = mysqli_fetch_all($mysqli->query("SELECT DISTINCT qw.name, qw.qt_word_id FROM qirim_english_dictionary.qt_words qw WHERE qw.name LIKE '% - %' "));
+    $rus_word_list = [];
+    /*
+    foreach ($db_word_list as $word){
+        $word_object = [];
+        $word_object['word_id'] = $word[1];
+        $word_object['word_name'] = $word[0];
+        $word_object['word_name'] = checkWord($word_object);
+        updateQtName($word_object['word_id'], $word_object['word_name']);
+    }    
+        /*
+        $common_refs = mysqli_fetch_all($mysqli->query("SELECT ref.reference_id, rw.name FROM references_rus_qt ref JOIN rus_words rw USING (rus_word_id)WHERE ref.qt_word_id = '{$word[1]}'"));
+        foreach ($common_refs as $ref){
+            $reference = [];
+            $reference['reference_id'] = $ref[0];
+            $reference['referent_word_name'] = $ref[1];
+            $word_object['references'][] = $reference;
+        }
+        checkWord($word_object);
+    }*/
+    echo json_encode($db_word_list);
 }
 
-function getRusTotalIds(){
-    global $mysqli;
-    $sql = "
-        SELECT DISTINCT
-            rw.rus_word_id 
-         FROM
-                 qirim_english_dictionary.qt_words qw
-                         JOIN
-                 references_rus_qt refrq ON (refrq.qt_word_id = qw.qt_word_id)
-                         JOIN
-                 rus_words rw ON (rw.rus_word_id = refrq.rus_word_id)
-                         JOIN
-                 references_eng_ru referu ON (referu.rus_word_id = rw.rus_word_id)
-                         JOIN
-                 eng_words ew ON (ew.eng_word_id = referu.eng_word_id)
-         WHERE 
-                         qw.status = 'warning' 
-         LIMIT 400, 100                
-        ";
-    return mysqli_fetch_all($mysqli->query($sql))[0];
-}
 
-function getTotal(){
-    global $query;
+function checkWord($word_object){
     global $mysqli;
-    if(!empty($_GET['query'])){
-        $query = $_GET['query'];
+    global $count_empty;
+    global $count_comma;
+    global $count_dash;
+    $description = '';
+    preg_match_all("/\([^\(\)]*\)+/", $word_object['word_name'], $matches);
+    if(isset($matches[0])){
+        $description = rtrim(ltrim(trim($matches[0][0]),'('),')');
+        $word = trim(str_replace($matches[0][0], '', $word_object['word_name']));
     }
-    $already_done = file_get_contents('done_commas.txt');
-    if(!empty($already_done)){
-        $already_done = 'HAVING ew.eng_word_id NOT IN ('.$already_done.') ';
-    } else {
-        $already_done = '';
-    }
-    $sql_2 = "
-        SELECT COUNT(*)
-            FROM
-                qirim_english_dictionary.qt_words qw
-                    JOIN
-                qirim_english_dictionary.`references` ref ON (ref.qt_word_id = qw.qt_word_id)
-                    JOIN
-                eng_words ew ON (ew.eng_word_id = ref.eng_word_id)
-            WHERE qw.name LIKE '%$query%' OR qw.name LIKE '$query%' OR qw.name LIKE '%$query'
+    $sql_4 = "
+        INSERT INTO  qirim_english_dictionary.qt_descriptions
+        SET qt_word_id = '".$word_object['word_id']."', 
+            qt_description = '$description'
         ";
-    echo json_encode(mysqli_fetch_row($mysqli->query($sql_2)));
+    $mysqli->query($sql_4);
+    return $word;
+    
+    /*
+    foreach($word_object['references'] as $reference){
+        $ref_word = $reference['referent_word_name'];
+        if(strpos($article[0],$ref_word) == -1 ){
+            $count_empty +=1;
+            setWarning($word_object, $reference, 'empty');
+            continue;
+        }
+        preg_match_all("/(, ".$ref_word.")+|(".$ref_word.",)+/", $article[0], $matches);
+        if(isset($matches[0])){
+            $count_comma +=1;
+            setWarning($word_object, $reference, 'comma');
+            continue;
+        }
+        preg_match_all("/(-[ а-яА-Я]+ ".$ref_word.")+|(- ".$ref_word." [ а-яА-Я]+)+|([ а-яА-Я]+ ".$ref_word." -)+|(".$ref_word." [ а-яА-Я]+ -)+/", $article[0], $matches1);
+        if(isset($matches1[0])){
+            $count_dash +=1;
+            setWarning($word_object, $reference, 'dash');
+            continue;
+        }
+    }*/
 }
 
 function commit(){
+    global $mysqli;
+    $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
+    $mysqli->set_charset("utf8");
     global $query;
     set_time_limit(500);
-    if(!empty($_GET['query'])){
-        $query = $_GET['query'];
-    }
     if(!empty($_GET['data'])){
-        $data = json_decode($_GET['data']);
+        $data = json_decode($_GET['data'], JSON_UNESCAPED_UNICODE);
         for($i=0; $i<count($data); $i++){
             $object = [
                 'qt_word' => $data[$i][0],
-                'eng_word' => $data[$i][1],
-                'eng_id' => $data[$i][2],
-                'qt_id' => $data[$i][3],
+                'qt_id' => $data[$i][1]
             ];
-            if(isset($data[$i][4])){
-                putThatDone($object['eng_id']);
+            $object['qt_word'] = checkWord($object);
+            if(isset($data[$i][2])){
+                putThatDone($object['qt_id']);
                 continue;
             } else {
-                updateRusName($object['qt_id'], $object['eng_id'], $object['qt_word']);
+                updateQtName($object['qt_id'], $object['qt_word']);
             }
         }
     }
 }
 
-function updateQtName($qt_id = '', $eng_id = '', $qt_word = ''){
+function updateQtName($qt_id = '', $qt_word = ''){
     global $mysqli;
+    $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
+    $mysqli->set_charset("utf8");
     if(!empty($_GET['newword'])){
         $data = explode(';',$_GET['newword']);
         $qt_word_id = $data[0];
@@ -123,7 +122,6 @@ function updateQtName($qt_id = '', $eng_id = '', $qt_word = ''){
     } else {
         $qt_word_id = $qt_id;
         $new_word_name = editWord($qt_word);
-        $eng_word_id = $eng_id;
     }
     $sql_4 = "
        UPDATE qirim_english_dictionary.qt_words 
@@ -133,26 +131,35 @@ function updateQtName($qt_id = '', $eng_id = '', $qt_word = ''){
     $mysqli->query($sql_4);
     $error = mysqli_error($mysqli);
     if(strpos($error, 'Duplicate entry')>-1){
-          insertQuery($new_word_name,$eng_word_id);
-          deleteQuery($qt_word_id, $eng_word_id);
+          insertQuery($qt_word_id,$new_word_name);
+          deleteQuery($qt_word_id);
     }
 }
 
-function insertQuery($qt_name, $eng_id){
+function insertQuery($qt_word_id,$qt_name){
     global $mysqli;
     $sql_5 = "
         SELECT qt_word_id FROM qirim_english_dictionary.qt_words 
         WHERE name = '".$qt_name."' LIMIT 1
         ";
-    $qt_id = mysqli_fetch_all($mysqli->query($sql_5))[0][0];
+    $real_qt_id = mysqli_fetch_all($mysqli->query($sql_5))[0][0];
     $sql_4 = "
-        INSERT INTO  qirim_english_dictionary.`references`
-        SET qt_word_id = '".$qt_id."', eng_word_id = '$eng_id'
+        UPDATE IGNORE  qirim_english_dictionary.references_rus_qt
+        SET qt_word_id = '".$real_qt_id."' WHERE qt_word_id = '$qt_word_id'
         ";
     $mysqli->query($sql_4);
 }
 
 
+
+function deleteQuery($qt_id){
+    global $mysqli;
+    $sql_3 = "
+        DELETE  FROM  qirim_english_dictionary.qt_words
+        WHERE qt_word_id = '".$qt_id."'
+        ";
+    $mysqli->query($sql_3);
+}
 function deleteQtName(){
     global $mysqli;
     if(!empty($_GET['deleteid'])){
@@ -162,11 +169,6 @@ function deleteQtName(){
             WHERE qt_word_id = '".$qt_id."'
             ";
         $mysqli->query($sql_5);
-        $sql_4 = "
-            DELETE  FROM  qirim_english_dictionary.`references`
-            WHERE qt_word_id = '".$qt_id."'
-            ";
-        $mysqli->query($sql_4);
     }
 }
 
@@ -199,24 +201,10 @@ function explodeWord($object){
 }
 
 
-function deleteQuery($qt_id, $eng_id){
-    global $mysqli;
-    $sql_3 = "
-        DELETE  FROM  qirim_english_dictionary.qt_words
-        WHERE qt_word_id = '".$qt_id."'
-        ";
-    $mysqli->query($sql_3);
-    $sql_4 = "
-        DELETE  FROM  qirim_english_dictionary.`references`
-        WHERE qt_word_id = '".$qt_id."' AND eng_word_id = '".$eng_id."'
-        ";
-    $mysqli->query($sql_4);
-}
-
 function editWord($word){
     global $query;
-    $city = str_replace('г', "г.", $query);
-    $new_word = trim(str_replace($query, $city, $word));
+    //$city = str_replace('г', "г.", $query);
+    $new_word = trim($word);
     return $new_word;
 }
 
