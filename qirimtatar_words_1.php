@@ -281,7 +281,7 @@ function finalTranslation($word_object){
     $result['sub_meaning']  = $sub; 
     foreach($result['sub_meaning'] as &$meaning){
         $meaning = explode(' - ',$meaning);
-        setDescription($meaning);
+        //setDescription($meaning);
     }
     
     $result['words'] = trim($word_object['word']);
