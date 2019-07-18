@@ -40,15 +40,13 @@ $patterns = [
     'vowel-consonant',
 ];
 function init(){
+    set_time_limit(500);
     header('Content-Type: text/html; charset=UTF-8');
     $list = getList();
     foreach($list as $item){
         $transcription = transcribe($item[1]);
-    print_r($transcription);
-    echo '</br>';
-    //die;
         if($transcription){
-          // putToDb($transcription, $item[0]);
+          putToDb($transcription, $item[0]);
         }
     }
 }
@@ -86,17 +84,31 @@ function getList(){
         FROM
             qirim_english_dictionary.qt_words
         WHERE
-            part_of_speech_id IN (15 , 0, 1, 2, 3, 10, 26)
-        AND name NOT LIKE '% %' AND transcription is null AND name NOT LIKE '%[%' AND name NOT LIKE '%iya' AND name NOT LIKE '%tor' AND name NOT LIKE '%tka' AND name NOT LIKE '%tura' 
-        
-
-LIMIT 100
+            part_of_speech_id IN (2,3)
+        AND name NOT LIKE '% %' AND transcription is null AND name NOT LIKE '%[%' 
+        AND name NOT LIKE '%iya%' AND name NOT LIKE '%tor' AND name NOT LIKE '%tka%' 
+        AND name NOT LIKE '%tura%'   AND name NOT LIKE '%-%'  AND name NOT LIKE '%-%'  
+        AND name NOT LIKE '%ca' AND name NOT LIKE '%ça' AND name NOT LIKE '%ce' AND name NOT LIKE '%çe' AND name NOT LIKE '%!' 
+        AND  name NOT RLIKE '^[A-Z]+'
         ";
     return mysqli_fetch_all($mysqli->query($sql_2));
 }
 
-function putToDb(){
+function putToDb($transcription, $qt_word_id){
     
+   
+    $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
+   $mysqli->set_charset("utf8");
+    $sql = "
+        UPDATE 
+            qirim_english_dictionary.qt_words
+        SET
+            transcription = '".addslashes($transcription)."'
+        WHERE        
+            qt_word_id = '$qt_word_id'  
+        ";
+    
+    $mysqli->query($sql);
 }
 
 function getChunks($word_array){
