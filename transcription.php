@@ -45,6 +45,10 @@ function init(){
     $list = getList();
     foreach($list as $item){
         $transcription = transcribe($item[1]);
+        
+    print_r($transcription);
+    echo '</br>';
+    //die;
         if($transcription){
           putToDb($transcription, $item[0]);
         }
@@ -63,7 +67,7 @@ function transcribe($word){
     $chunks = implode('-',getChunks($word_array));
     $chunks_array = str_split_unicode($chunks, 1);
     foreach($chunks_array as $letter){
-        if($letter == '-'){
+        if($letter == '-' || $letter == '!'){
             continue;
         }
         if($letter == '\'' ){
@@ -84,12 +88,7 @@ function getList(){
         FROM
             qirim_english_dictionary.qt_words
         WHERE
-            part_of_speech_id IN (2,3)
-        AND name NOT LIKE '% %' AND transcription is null AND name NOT LIKE '%[%' 
-        AND name NOT LIKE '%iya%' AND name NOT LIKE '%tor' AND name NOT LIKE '%tka%' 
-        AND name NOT LIKE '%tura%'   AND name NOT LIKE '%-%'  AND name NOT LIKE '%-%'  
-        AND name NOT LIKE '%ca' AND name NOT LIKE '%ça' AND name NOT LIKE '%ce' AND name NOT LIKE '%çe' AND name NOT LIKE '%!' 
-        AND  name NOT RLIKE '^[A-Z]+'
+            part_of_speech_id = 102 AND name NOT LIKE '% %' AND name NOT LIKE '%-%'
         ";
     return mysqli_fetch_all($mysqli->query($sql_2));
 }
@@ -103,6 +102,7 @@ function putToDb($transcription, $qt_word_id){
         UPDATE 
             qirim_english_dictionary.qt_words
         SET
+            status = '',
             transcription = '".addslashes($transcription)."'
         WHERE        
             qt_word_id = '$qt_word_id'  
@@ -175,6 +175,13 @@ function getChunks($word_array){
             } 
         }
         if($next_letter == '' ){
+            
+            
+            //print_r($chunk_array[count($chunk_array)-2]);
+            
+            //$chunk_array[count($chunk_array)-1] = '\''.$chunk_array[count($chunk_array)-1];
+            
+            
             $new_chunk = '\''.$new_chunk;
             $chunk_array[] = $new_chunk;
             break;
