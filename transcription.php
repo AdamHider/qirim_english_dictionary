@@ -140,9 +140,7 @@ function getChunks($word_array){
             $ultra_next_letter = $qt_alphabet[strtolower($word_array[$i+2])]['normal'];
             $ultra_next_type = $qt_alphabet[strtolower($word_array[$i+2])]['type'];
         }
-        
         $new_chunk .= $word_array[$i];
-        
         if($curr_type == 'vowel'){
             if($next_type == 'consonant' && $ultra_next_type == 'vowel'){
                 $chunk_array[] = $new_chunk;
