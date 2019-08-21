@@ -138,7 +138,7 @@ function morphologyNormalize($word_chunks){
         
         $maq = ['tı','dı', 'yıp', 'ıp','sañ', 'san',  'sıñ', 'ñız', 'ma'];
         foreach($maq as $ad){
-            if(strpos($last_chunk, $ad)> -1 && strpos($last_chunk, 'maq') < 0 ){
+            if(strpos($last_chunk, $ad)> -1 && strpos($last_chunk, 'maq') === false ){
                 array_push($word_chunks, str_replace($ad,'maq',$last_chunk));
                 return morphologyNormalize($word_chunks);
             }
@@ -150,7 +150,7 @@ function morphologyNormalize($word_chunks){
                 return morphologyNormalize($word_chunks);
             }
         }
-        $arr = ['ıñıznı', 'iñizni','ıñnı', 'iñni','lı','li','si','sı','in','ın','iñ', 'ıñ','ni','nı','i','ı', 'u','ü'];
+        $arr = ['nıñ','niñ','tir','tır','lı','li','si','sı','in','ın','iñ', 'ıñ','i','ı','ni','nı','i','ı', 'u','ü'];
         foreach($arr as $ad){
             if(strpos($last_chunk, $ad)>-1){
                 $new_chunk = str_replace($ad,'',$last_chunk);
