@@ -95,7 +95,9 @@ function getList(){
 
 function putToDb($transcription, $qt_word_id){
     
-   
+   print_r($transcription);
+   echo '</br>';
+   return;
     $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
    $mysqli->set_charset("utf8");
     $sql = "

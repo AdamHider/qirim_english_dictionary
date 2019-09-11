@@ -7,7 +7,7 @@ $mysqli->set_charset("utf8");
 
 
 function init(){
-    set_time_limit(48000);
+    set_time_limit(480000);
     $list = getList();
     foreach($list as $word){
         getWord($word[1]);
@@ -24,14 +24,15 @@ function getList(){
         FROM 
             qirim_english_dictionary.tmp_final 
         WHERE 
-              etymology  IS NULL AND table_from = 'synonyms'
-             GROUP BY word
+        etymology_lang LIKE 'русизм' 
+            GROUP BY word
         
         ";
     return mysqli_fetch_all($mysqli->query($sql));
 }
 
 function getWord($word){
+    $word = str_replace('','',$word);
     $query = [];
     if(strpos($word, 'q') > -1){
         $query[] = str_replace('q', 'k', $word);
@@ -68,17 +69,20 @@ function getWord($word){
             }
         }
     }
-    updateEtymology($word, 'unset');
+    //updateEtymology($word, 'unset');
 }
 
 function updateEtymology($word, $value){
     global $mysqli;
+    
+    
     $sql = "
         UPDATE
             qirim_english_dictionary.tmp_final
         SET
-            etymology = '$value'
-        WHERE word = '$word'     
+            etymology_lang = 'францизм',
+            etymology_word = '$value'
+        WHERE BINARY word = '$word'     
         ";
     
     $mysqli->query($sql);       
