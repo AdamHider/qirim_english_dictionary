@@ -48,13 +48,17 @@ $qt_words = [
 
 
 function init(){
-    $sentence = 'Şurasını da bilmelidir ki, ükümet bu arzularına
-qolaylıqle nail olmaq içün, iptida Qırım ağalarınıñ, bikeleriniñ ağızına bal qaptırdı, mırzalarımıza — "dvorânlıq" unvanını vererek, kendilerine onar-on beşer köy ve qaçar biñ de sotnâ topraq
-isse köstermiştir. Binaenaleyh köylerde yaşayan köylüleri de mırzalara esir itmiştir ki, bu esiret alâ Qırımnıñ bazı yerlerinde devam itmektedir!';
+    
+    $sentence = 'Men bala ekende, qartanamnıñ küçük teneke sandıçığı olğanını hatırlayım. Şu mavı-zumrut renklerge boyalanğan qutuçıqnıñ üstü tıpqı balaban sandıqlarda kibi, dögme köşeçiklerinen yaraştırılğan edi.';
+    $sentence_rus = 'Когда я была ребенком, у моей бабушки был небольшой жестяной сундучок, выкрашенный синe-изумрудными полосками, c декоративными выпуклостями, изображающими уголки-ковки, как у больших деревянных сундуков. ';
+    /*
+    print_r($sentence);
+    die;
+     */
     $sentence = mb_strtolower($sentence);
     $sentence = str_replace(array("\n", "\r"), '', $sentence);
     $translated = [];
-    $skip = ['«', '»', '!', '?', '.', ',', ';', ':', '-'];
+    $skip = ['«', '»', '!', '?', '.', ',', ';', ':', '-', '…', '–', '“'];
     foreach($skip as $item){
         if((int)$item || strpos($sentence, $item)>-1){
             $sentence = str_replace($item, ' '.$item.' ',$sentence);
@@ -86,7 +90,11 @@ isse köstermiştir. Binaenaleyh köylerde yaşayan köylüleri de mırzalara es
             //$translated[][$word] = '( '.implode('|',$translated_word).' )';
         }
     }
-    print_r($translated);
+    print_r($sentence);
+    echo '</br>';
+    print_r(implode(' ',$translated));
+    echo '</br>';
+    print_r($sentence_rus);
     
 }
 
@@ -287,8 +295,6 @@ function getChunks($word_string){
 }
 
 function findWord($word_string){
-    print_r($word_string);
-    echo '-';
     global $mysqli;
      $sql = "
         SELECT 
