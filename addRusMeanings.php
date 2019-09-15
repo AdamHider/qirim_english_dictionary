@@ -6,7 +6,7 @@ $mysqli->set_charset("utf8");
 $previous_word = '';
 
 function index(){
-    set_time_limit(480000);
+    set_time_limit(480000000);
     $list = getList();
     foreach($list as $item){
         usleep(100000);
@@ -84,7 +84,7 @@ function getData($word, $denotation_number_in = null, $current_transcription_in 
             }
             
             $previous_word = $word;
-            $getData = getData($new_word, $den_number, $current_transcription);
+            $getData = getData1($new_word, $den_number, $current_transcription);
             
             if(!$getData){
                 $result;
@@ -181,9 +181,10 @@ function getList(){
             word_id, word
         FROM
             qirim_english_dictionary.word_list
-        WHERE lang_id = 2
-        GROUP BY word
-        LIMIT 443 OFFSET 3557
+            LEFT JOIN denotation_word_reference USING(word_id)
+        WHERE language_id = 2 and denotation_id IS NULL
+        GROUP BY word 
+        LIMIT 10000 OFFSET 45
         ";
     return mysqli_fetch_all($mysqli->query($sql_2), MYSQLI_ASSOC);
 }
@@ -241,6 +242,95 @@ function insertReference($tableName, $column1, $id1, $column2, $id2){
 }
 
 
-
+function getData1($word, $denotation_number_in = null, $current_transcription_in = null){ 
+    global $previous_word;
+    if( mb_strtolower($word) === mb_strtolower($previous_word) ){
+        return false;
+    }
+    $word = mb_strtolower($word);
+    $firstChar = mb_strtoupper(mb_substr($word, 0, 1, "UTF-8"));
+    $html = @file_get_contents("https://gufo.me/dict/kuznetsov/$word");
+    if(!$html){
+        return false;
+    }
+    $start = strpos($html, '<br class="visible-print-block">');
+    $finish_length = strlen(substr($html, strpos($html, '<div class="fb-quote"></div>')));
+    $length = strlen($html) - $finish_length - $start;
+    $needed_str = substr($html, $start, $length);
+    $needed_array = explode('<p>', str_replace('<em style="color:green">//</em>', '<p>', $needed_str));
+    unset($needed_array[0]);
+    $current_transcription = '';
+        
+    $result = [];
+    foreach($needed_array as $k => &$item){
+        $exceptions = ['что.','что-л.','кого.','кого-л.','что.' ];
+        foreach($exceptions as $ex){
+            $item = str_replace($ex, str_replace('.','', $ex), $item);
+        }
+        $item_exploded = explode('. <em>',$item);
+        $item = $item_exploded[0];
+        unset($item_exploded[0]);
+        
+        
+        $examples = explode('.</em>', str_replace(')</em>', ').</em>', (implode('</em>', $item_exploded))));
+        $pattern = '/ [А-Я]{1}/u';
+        preg_match_all($pattern, $item, $matches);
+        preg_match_all('/<strong>([А-Я< \/ u >])+<\/strong>/', $item, $transcription);
+        
+            
+        if(isset($transcription[0][0])){
+            if(!$current_transcription_in){
+                $current_transcription = strip_tags(str_replace('<u>', "'", $transcription[0][0]));
+            }else {
+                $current_transcription = $current_transcription_in;
+            }
+        }
+        
+        
+           
+        if(isset($matches[0][0])){
+            $tmp = preg_split($pattern, $item, 2);
+          
+            $tmp[1] = $matches[0][0].$tmp[1];
+            $denotation_number = strip_tags(explode('.', $tmp[0])[0]);
+            if(isset(explode('</strong>',$tmp[0])[1])){
+                $transition = trim(strip_tags(explode('</strong>',$tmp[0])[1]));
+            }
+            $denotation = trim(strip_tags(trim($tmp[1])),'.');
+            preg_match_all('/[0-9]\.'.$firstChar.'\./', $denotation, $referent);
+            if(isset($referent[0][0])){
+                preg_match_all('/[0-9]/', $denotation, $denotation_numbers );
+                $exploded = explode(' (', trim(trim(strip_tags($denotation)),'.'));
+                $result = mergeArrays($result, getData($exploded[0], $denotation_numbers[0][0], $current_transcription)); 
+                continue;
+            }
+            if( $denotation_number ){
+                if($denotation_number_in && $denotation_number_in != $denotation_number){
+                    continue;
+                }
+                if( !is_numeric($denotation_number) ){
+                        $denotation_number = $k ;
+                }
+                if(strpos($denotation,', -')>-1){
+                    continue;
+                }
+                if(1){
+                    $result[] = [
+                        'current_transcription' => $current_transcription,
+                        'denotation_number' => $k,
+                        'transition' => $transition,
+                        'denotation' => $denotation,
+                        'examples' => editExamples($examples, $firstChar, $word)
+                    ];
+                }
+            } 
+        }
+        
+        
+    }
+    
+               
+    return $result;
+}
 
 index();
