@@ -13,17 +13,17 @@
     <meta charset="utf-8" />
     
     <link rel="stylesheet" type="text/css" href="lugatUI.css" />
-	<base href="http://localhost:888/diyar/index.php/ru/" />
+	<base href="http://127.0.0.1:888/diyar/index.php/ru/" />
 	<meta name="author" content="Super User" />
 	<meta name="generator" content="Joomla! - Open Source Content Management - Version 3.9.11" />
 	<title>Diyar - Главная</title>
-	<link href="/diyar/media/mod_languages/css/template.css?794dd2fc3ecd89bdafca89b7df62caf2" rel="stylesheet" />
-	<link href="/diyar/media/gantry5/assets/css/font-awesome.min.css" rel="stylesheet" />
-	<link href="/diyar/media/gantry5/engines/nucleus/css-compiled/nucleus.css" rel="stylesheet" />
-	<link rel="stylesheet" type="text/css" href="/diyar/media/plg_jchoptimize/cache/css/43f3a0e0f70f04d974a47ede2e3eedf1_0.css" />
-	<link href="/diyar/media/gantry5/assets/css/bootstrap-gantry.css" rel="stylesheet" />
-	<link href="/diyar/media/gantry5/engines/nucleus/css-compiled/joomla.css" rel="stylesheet" />
-	<link rel="stylesheet" type="text/css" href="/diyar/media/plg_jchoptimize/cache/css/43f3a0e0f70f04d974a47ede2e3eedf1_1.css" />
+	<link href="/diyar/media/mod_languages/css/template.css?ffeb6cf7c23240a4fecd28ae91ae55b3" rel="stylesheet" />
+	<link href="/diyar/media/gantry5/assets/css/font-awesome.min.css?5d7bdac9" rel="stylesheet" />
+	<link href="/diyar/media/gantry5/engines/nucleus/css-compiled/nucleus.css?5d7bdaca" rel="stylesheet" />
+	<link rel="stylesheet" type="text/css" href="/diyar/media/plg_jchoptimize/cache/css/0b88bd0f95acb1ce0ad4b42eb0db5bd3_0.css" />
+	<link href="/diyar/media/gantry5/assets/css/bootstrap-gantry.css?5d7bdac9" rel="stylesheet" />
+	<link href="/diyar/media/gantry5/engines/nucleus/css-compiled/joomla.css?5d7bdaca" rel="stylesheet" />
+	<link rel="stylesheet" type="text/css" href="/diyar/media/plg_jchoptimize/cache/css/0b88bd0f95acb1ce0ad4b42eb0db5bd3_1.css" />
 	
 	
 	
@@ -32,8 +32,7 @@
 	
 	
 	
-	<script type="application/javascript" src="/diyar/media/plg_jchoptimize/cache/js/c2605a6cfa439141290776f43da2edcd_0.js"></script>
-	
+	<script type="application/javascript" src="/diyar/media/plg_jchoptimize/cache/js/e1fa265f74881ea755e8c03131d2633d_0.js"></script>
 	
 	
 	
@@ -149,8 +148,11 @@
                                                 <div  class="autocomplete" style="width: 100%;">
                                                   <input id="search-input" type="text" name="search-input" placeholder="Type your text... ">
                                                 </div>
-                                                <input  id='search-button' style="border-radius: 11px; padding: 1.5em;" class="button"  type="submit">
-                                              </form>
+                                                <button  id='search-button' style="border-radius: 11px; padding: 1.5em;" type="submit" class="button">
+                                                    translate
+                                                    <i class="fa fa-arrow-circle-right fa-lg"></i> 
+                                                </button>
+                                            </form>
                                            
                                             
                                             <div class='info-row'>
@@ -312,6 +314,7 @@ function autocomplete(inp, arr) {
       /*append the DIV element as a child of the autocomplete container:*/
       this.parentNode.appendChild(a);
       /*for each item in the array...*/
+      var limit = 0;
       for (i = 0; i < arr.length; i++) {
         /*check if the item starts with the same letters as the text field value:*/
         if (arr[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
@@ -330,6 +333,10 @@ function autocomplete(inp, arr) {
               (or any other open lists of autocompleted values:*/
               closeAllLists();
           });
+          if(limit>6){
+              break;
+          }
+          limit++;
           a.appendChild(b);
         }
       }
