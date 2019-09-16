@@ -13,30 +13,33 @@
     <meta charset="utf-8" />
     
     <link rel="stylesheet" type="text/css" href="lugatUI.css" />
-	<base href="http://127.0.0.1:888/diyar/index.php/ru/dictionary-rus" />
+	<base href="http://localhost:888/diyar/index.php/ru/" />
+	<meta name="author" content="Super User" />
 	<meta name="generator" content="Joomla! - Open Source Content Management - Version 3.9.11" />
-	<title>Diyar - Словарь</title>
-	<link href="/diyar/media/mod_languages/css/template.css?ffeb6cf7c23240a4fecd28ae91ae55b3" rel="stylesheet" />
-	<link href="/diyar/media/gantry5/assets/css/font-awesome.min.css?5d7bdac9" rel="stylesheet" />
-	<link href="/diyar/media/gantry5/engines/nucleus/css-compiled/nucleus.css?5d7bdaca" rel="stylesheet" />
-	<link rel="stylesheet" type="text/css" href="/diyar/media/plg_jchoptimize/cache/css/d27f7bf73cc3bc9f357fa83663657df9_0.css" />
-	<link href="/diyar/media/gantry5/assets/css/bootstrap-gantry.css?5d7bdac9" rel="stylesheet" />
-	<link href="/diyar/media/gantry5/engines/nucleus/css-compiled/joomla.css?5d7bdaca" rel="stylesheet" />
-	<link rel="stylesheet" type="text/css" href="/diyar/media/plg_jchoptimize/cache/css/d27f7bf73cc3bc9f357fa83663657df9_1.css" />
+	<title>Diyar - Главная</title>
+	<link href="/diyar/media/mod_languages/css/template.css?794dd2fc3ecd89bdafca89b7df62caf2" rel="stylesheet" />
+	<link href="/diyar/media/gantry5/assets/css/font-awesome.min.css" rel="stylesheet" />
+	<link href="/diyar/media/gantry5/engines/nucleus/css-compiled/nucleus.css" rel="stylesheet" />
+	<link rel="stylesheet" type="text/css" href="/diyar/media/plg_jchoptimize/cache/css/43f3a0e0f70f04d974a47ede2e3eedf1_0.css" />
+	<link href="/diyar/media/gantry5/assets/css/bootstrap-gantry.css" rel="stylesheet" />
+	<link href="/diyar/media/gantry5/engines/nucleus/css-compiled/joomla.css" rel="stylesheet" />
+	<link rel="stylesheet" type="text/css" href="/diyar/media/plg_jchoptimize/cache/css/43f3a0e0f70f04d974a47ede2e3eedf1_1.css" />
 	
 	
 	
 	
-
-        
-
-
-        <!--[if (gte IE 8)&(lte IE 9)]>
-            <script type="text/javascript" src="/diyar/media/gantry5/assets/js/html5shiv-printshiv.min.js?5d7bdac9"></script>
-            <link rel="stylesheet" href="/diyar/media/gantry5/engines/nucleus/css/nucleus-ie9.css?5d7bdaca" type="text/css"/>
-            <script type="text/javascript" src="/diyar/media/gantry5/assets/js/matchmedia.polyfill.js?5d7bdac9"></script>
-            <![endif]-->
-<script type="application/javascript" src="/diyar/media/plg_jchoptimize/cache/js/feb1068a52d0e3487fb7196c2a500aa3_0.js"></script>
+	
+	
+	
+	
+	<script type="application/javascript" src="/diyar/media/plg_jchoptimize/cache/js/c2605a6cfa439141290776f43da2edcd_0.js"></script>
+	
+	
+	
+	
+	
+	
+	
     </head>
 
     <body class="gantry g-helium-style site com_gantry5 view-custom no-layout no-task dir-ltr itemid-112 outline-18 g-offcanvas-left g-default g-style-preset1">
@@ -142,17 +145,19 @@
                             <div class="g-content">
                                 <div class="platform-content"><div class="moduletable ">
                                         <div class="lugat">
-                                            <div class="search-row">
-                                                <input id="search-input" type="text" placeholder=" Type your text... " value=""/>
-                                                <button  id='search-button' style="border-radius: 11px; padding: 1.5em;" class="button" onclick="goToDict()">Translate</button>
-                                            </div>
+                                            <form autocomplete="off" action="" class="search-row">
+                                                <div  class="autocomplete" style="width: 100%;">
+                                                  <input id="search-input" type="text" name="search-input" placeholder="Type your text... ">
+                                                </div>
+                                                <input  id='search-button' style="border-radius: 11px; padding: 1.5em;" class="button"  type="submit">
+                                              </form>
+                                           
+                                            
                                             <div class='info-row'>
                                                 <div class='query-word_block'>
-                                                    <div class="query-word">
-                                                        <h2>Query word</h2>
-                                                    </div>
+                                                    <div class="query-word">Query word</div>
                                                     <div class="query-word-transcription">
-                                                        [transcription]
+                                                        [ transcription ]
                                                     </div>
                                                 </div>
                                                 <div class='translations-block'>
@@ -164,13 +169,31 @@
                                                                     <div class='denotation-info'>
                                                                         <span class='denotation-number'>1)</span>
                                                                         <span class='denotation-description'>Smth. that is put to tea</span>
-                                                                        <span class='denotation-etymology'>arab.</span>
+                                                                        <span class='denotation-etymology tag'>arab.</span>
                                                                     </div>
                                                                     <div class='referents-list'>
                                                                         <div class='referent-block'>
-                                                                            <span class='referent-name'>referent1</span>
-                                                                            <span class='referent-clarification'>clarification</span>
-                                                                            <span class='referent-details'>scope_of_use</span>
+                                                                            <span class='referent-name'>distinguish</span>
+                                                                            <span class='referent-clarification'>( clarification one )</span>
+                                                                            <span class='referent-details tag'>scope_of_use</span>
+                                                                            <div class="referent-suggestions">
+                                                                                <span>see also: </span>
+                                                                                <a class="suggestion">suggestion1</a>
+                                                                                <a class="suggestion">suggestion2</a>
+                                                                                <a class="suggestion">suggestion3</a>
+                                                                                <a class="suggestion">suggestion4</a>
+                                                                                <a class="suggestion">suggestion5</a>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class='referent-block'>
+                                                                            <span class='referent-name'>anguish</span>
+                                                                            <span class='referent-clarification'>( clarification two )</span>
+                                                                            <div class="referent-suggestions">
+                                                                                <span>see also: </span>
+                                                                                <a class="suggestion">suggestion1</a>
+                                                                                <a class="suggestion">suggestion2</a>
+                                                                                <a class="suggestion">suggestion3</a>
+                                                                            </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -270,6 +293,109 @@
 
 
 
+        <script>
+function autocomplete(inp, arr) {
+  /*the autocomplete function takes two arguments,
+  the text field element and an array of possible autocompleted values:*/
+  var currentFocus;
+  /*execute a function when someone writes in the text field:*/
+  inp.addEventListener("input", function(e) {
+      var a, b, i, val = this.value;
+      /*close any already open lists of autocompleted values*/
+      closeAllLists();
+      if (!val) { return false;}
+      currentFocus = -1;
+      /*create a DIV element that will contain the items (values):*/
+      a = document.createElement("DIV");
+      a.setAttribute("id", this.id + "autocomplete-list");
+      a.setAttribute("class", "autocomplete-items");
+      /*append the DIV element as a child of the autocomplete container:*/
+      this.parentNode.appendChild(a);
+      /*for each item in the array...*/
+      for (i = 0; i < arr.length; i++) {
+        /*check if the item starts with the same letters as the text field value:*/
+        if (arr[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
+          /*create a DIV element for each matching element:*/
+          b = document.createElement("DIV");
+          /*make the matching letters bold:*/
+          b.innerHTML = "<strong>" + arr[i].substr(0, val.length) + "</strong>";
+          b.innerHTML += arr[i].substr(val.length);
+          /*insert a input field that will hold the current array item's value:*/
+          b.innerHTML += "<input type='hidden' value='" + arr[i] + "'>";
+          /*execute a function when someone clicks on the item value (DIV element):*/
+          b.addEventListener("click", function(e) {
+              /*insert the value for the autocomplete text field:*/
+              inp.value = this.getElementsByTagName("input")[0].value;
+              /*close the list of autocompleted values,
+              (or any other open lists of autocompleted values:*/
+              closeAllLists();
+          });
+          a.appendChild(b);
+        }
+      }
+  });
+  /*execute a function presses a key on the keyboard:*/
+  inp.addEventListener("keydown", function(e) {
+      var x = document.getElementById(this.id + "autocomplete-list");
+      if (x) x = x.getElementsByTagName("div");
+      if (e.keyCode == 40) {
+        /*If the arrow DOWN key is pressed,
+        increase the currentFocus variable:*/
+        currentFocus++;
+        /*and and make the current item more visible:*/
+        addActive(x);
+      } else if (e.keyCode == 38) { //up
+        /*If the arrow UP key is pressed,
+        decrease the currentFocus variable:*/
+        currentFocus--;
+        /*and and make the current item more visible:*/
+        addActive(x);
+      } else if (e.keyCode == 13) {
+        /*If the ENTER key is pressed, prevent the form from being submitted,*/
+        e.preventDefault();
+        if (currentFocus > -1) {
+          /*and simulate a click on the "active" item:*/
+          if (x) x[currentFocus].click();
+        }
+      }
+  });
+  function addActive(x) {
+    /*a function to classify an item as "active":*/
+    if (!x) return false;
+    /*start by removing the "active" class on all items:*/
+    removeActive(x);
+    if (currentFocus >= x.length) currentFocus = 0;
+    if (currentFocus < 0) currentFocus = (x.length - 1);
+    /*add class "autocomplete-active":*/
+    x[currentFocus].classList.add("autocomplete-active");
+  }
+  function removeActive(x) {
+    /*a function to remove the "active" class from all autocomplete items:*/
+    for (var i = 0; i < x.length; i++) {
+      x[i].classList.remove("autocomplete-active");
+    }
+  }
+  function closeAllLists(elmnt) {
+    /*close all autocomplete lists in the document,
+    except the one passed as an argument:*/
+    var x = document.getElementsByClassName("autocomplete-items");
+    for (var i = 0; i < x.length; i++) {
+      if (elmnt != x[i] && elmnt != inp) {
+        x[i].parentNode.removeChild(x[i]);
+      }
+    }
+  }
+  /*execute a function when someone clicks in the document:*/
+  document.addEventListener("click", function (e) {
+      closeAllLists(e.target);
+  });
+}
+/*An array containing all the country names in the world:*/
+var countries = ["Afghanistan","Albania","Algeria","Andorra","Angola","Anguilla","Antigua & Barbuda","Argentina","Armenia","Aruba","Australia","Austria","Azerbaijan","Bahamas","Bahrain","Bangladesh","Barbados","Belarus","Belgium","Belize","Benin","Bermuda","Bhutan","Bolivia","Bosnia & Herzegovina","Botswana","Brazil","British Virgin Islands","Brunei","Bulgaria","Burkina Faso","Burundi","Cambodia","Cameroon","Canada","Cape Verde","Cayman Islands","Central Arfrican Republic","Chad","Chile","China","Colombia","Congo","Cook Islands","Costa Rica","Cote D Ivoire","Croatia","Cuba","Curacao","Cyprus","Czech Republic","Denmark","Djibouti","Dominica","Dominican Republic","Ecuador","Egypt","El Salvador","Equatorial Guinea","Eritrea","Estonia","Ethiopia","Falkland Islands","Faroe Islands","Fiji","Finland","France","French Polynesia","French West Indies","Gabon","Gambia","Georgia","Germany","Ghana","Gibraltar","Greece","Greenland","Grenada","Guam","Guatemala","Guernsey","Guinea","Guinea Bissau","Guyana","Haiti","Honduras","Hong Kong","Hungary","Iceland","India","Indonesia","Iran","Iraq","Ireland","Isle of Man","Israel","Italy","Jamaica","Japan","Jersey","Jordan","Kazakhstan","Kenya","Kiribati","Kosovo","Kuwait","Kyrgyzstan","Laos","Latvia","Lebanon","Lesotho","Liberia","Libya","Liechtenstein","Lithuania","Luxembourg","Macau","Macedonia","Madagascar","Malawi","Malaysia","Maldives","Mali","Malta","Marshall Islands","Mauritania","Mauritius","Mexico","Micronesia","Moldova","Monaco","Mongolia","Montenegro","Montserrat","Morocco","Mozambique","Myanmar","Namibia","Nauro","Nepal","Netherlands","Netherlands Antilles","New Caledonia","New Zealand","Nicaragua","Niger","Nigeria","North Korea","Norway","Oman","Pakistan","Palau","Palestine","Panama","Papua New Guinea","Paraguay","Peru","Philippines","Poland","Portugal","Puerto Rico","Qatar","Reunion","Romania","Russia","Rwanda","Saint Pierre & Miquelon","Samoa","San Marino","Sao Tome and Principe","Saudi Arabia","Senegal","Serbia","Seychelles","Sierra Leone","Singapore","Slovakia","Slovenia","Solomon Islands","Somalia","South Africa","South Korea","South Sudan","Spain","Sri Lanka","St Kitts & Nevis","St Lucia","St Vincent","Sudan","Suriname","Swaziland","Sweden","Switzerland","Syria","Taiwan","Tajikistan","Tanzania","Thailand","Timor L'Este","Togo","Tonga","Trinidad & Tobago","Tunisia","Turkey","Turkmenistan","Turks & Caicos","Tuvalu","Uganda","Ukraine","United Arab Emirates","United Kingdom","United States of America","Uruguay","Uzbekistan","Vanuatu","Vatican City","Venezuela","Vietnam","Virgin Islands (US)","Yemen","Zambia","Zimbabwe"];
+
+/*initiate the autocomplete function on the "search-input" element, and pass along the countries array as possible autocomplete values:*/
+autocomplete(document.getElementById("search-input"), countries);
+</script>
 
 
     </body>
