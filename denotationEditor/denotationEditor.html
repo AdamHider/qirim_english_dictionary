@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>denotationEditor</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="../jquery-2.1.1.min.js"></script>
+       
+        <style>
+            .head{
+                border-bottom: 2px solid black;
+                margin-bottom: 5px;
+            }
+            .row{
+                display: grid;
+                grid-template-columns: 7% 7% 5% 7% 8% 9% 10% 7% 9% 7% 7% 7%;
+                border-bottom: 1px solid #d7d7d7;
+            }
+            .head .column{
+                border: 1px solid #6a6a6a;
+            }
+            .list .column{
+                border: 1px solid #e5ebee;
+            }
+            .head .row .column{
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <input id="word_input" type="text" value=""/>
+            <button id="search" type='button' onclick="load()">COMMIT</button>
+            
+        </div>
+        <div class="head">
+            <div class="row">
+                <div class="column">word_id</div>
+                <div class="column">word</div>
+                <div class="column">prt_id</div>
+                <div class="column">relation_id</div>
+                <div class="column">clarification</div>
+                <div class="column">denotation_id</div>
+                <div class="column">den_description</div>
+                <div class="column">relation_id</div>
+                <div class="column">clarification</div>
+                <div class="column">word_id</div>
+                <div class="column">word</div>
+                <div class="column">prt_id</div>
+            </div>
+        </div>
+        <div class="list">
+            
+        </div>
+    </body>
+</html>
+ <script type="text/javascript">
+    var offset = 0;
+    var list = [];
+    var total = 0;
+    $(document).ready(function() {
+            
+        });
+    function load(){
+        var word = $('#word_input').val();
+        $.ajax({
+                url:'denotationEditor.php?f=getObjectByWord&word='+word,
+                type: 'post',
+                data: '',
+                dataType: 'json',
+                beforeSend: function() {
+                },
+                complete: function() {
+                },
+                success: function(json) {
+                    list = json;
+                    console.log(list);
+                    render();
+
+                }
+            });
+    }
+    function render(){
+        var word_html = '<div>';
+        for (var i = 0; i<list.length; i++){
+            var word_object = list[i];
+            word_html += '<div class="row">';
+            word_html += '<div class="column">'+word_object['query_word_id']+'</div>';
+            word_html += '<div class="column">'+word_object['query_word']+'</div>';
+            word_html += '<div class="column">'+word_object['query_part_of_speech_id']+'</div>';
+            word_html += '<div class="column">'+word_object['query_relation_id']+'</div>';
+            word_html += '<div class="column">'+word_object['query_clarification']+'</div>';
+            word_html += '<div class="column">'+word_object['denotation_id']+'</div>';
+            word_html += '<div class="column">'+word_object['denotation_description']+'</div>';
+            word_html += '<div class="column">'+word_object['result_relation_id']+'</div>';
+            word_html += '<div class="column">'+word_object['result_clarification']+'</div>';
+            word_html += '<div class="column">'+word_object['result_word_id']+'</div>';
+            word_html += '<div class="column">'+word_object['result_word']+'</div>';
+            word_html += '<div class="column">'+word_object['result_part_of_speech_id']+'</div>';
+            
+            
+            word_html += '</div>';
+        }
+        $('#total').html('total: '+total);
+        $('.list').html(word_html);
+    }
+    
+    function select(node){
+        var id = (node.split('-'))[1];
+        for(var i =0; i<list.length; i++){
+            if(list[i][3] == id && list[i][5] === undefined ){
+                list[i].push('put to exceptions');
+                $('#div-'+node).css('background-color', 'lightgreen');
+            } else if ( list[i][3] == id && list[i][5] != undefined ){
+                list[i].pop();
+                $('#div-'+node).css('background-color', 'white');
+            }
+        }
+    }
+    
+    function update(node){
+        var id = (node.split('_'))[1];
+        var eng_id = (node.split('_'))[2];
+        var part_id = (node.split('_'))[3];
+        
+        var new_name = $('#input_'+id+'_'+eng_id+'_'+part_id).val();
+        
+        if(new_name !== '' && new_name !== ' ' ){
+            $.ajax({
+                url:'verifyRusTranslation.php?f=updateRusName&newword='+id+';'+new_name+';'+eng_id+';'+part_id,
+                type: 'post',
+                data: '',
+                dataType: 'json',
+                beforeSend: function() {
+                },
+                complete: function() {
+                    load('update');
+                },
+                success: function() {
+                }
+            });
+        }
+    }
+    function deleteWord(node){
+        var id = (node.split('-'))[1];
+        var word = (node.split('-'))[2];
+        var new_name = word.replace(' (','|');
+        new_name = new_name.replace(/\)/g,'');
+        $.ajax({
+            url:'verifyRusTranslation.php?f=updateRusName&newword='+id+';'+new_name+';'+'',
+            type: 'post',
+            data: '',
+            dataType: 'json',
+            beforeSend: function() {
+            },
+            complete: function() {
+                load('update');
+            },
+            success: function() {
+            }
+        });
+    }
+    $("#commit").on('click',function(){
+        
+        $.ajax({
+            url:'verifyRusTranslation.php?f=commit&data='+JSON.stringify(list),
+            type: 'post',
+            data: '',
+            dataType: 'json',
+            beforeSend: function() {
+                $('#commit').html('LOADING...');
+            },
+            complete: function() {
+                total -= 20;
+                load('simple_load');
+                $('#commit').html('COMMIT');
+                
+            },
+            success: function() {
+            }
+        });
+        
+    });
+</script>
