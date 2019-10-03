@@ -66,7 +66,6 @@
     var current_index = 0;
     var history_list = [];
     $(document).ready(function() {
-            
         });
     function load(){
         history_list = [];
@@ -83,12 +82,15 @@
                 success: function(json) {
                     current_list = json;
                     addToHistory(current_list);
+                    
                     render(current_list);
 
                 }
             });
     }
     function render(current_list){
+        current_list.sort(dynamicSort("denotation_description"));
+        
         var word_html = '<div>';
         for (var i = 0; i<current_list.length; i++){
             var word_object = current_list[i];
@@ -113,7 +115,6 @@
         addToHistory(current_list);
         render(current_list);
     }
-    
     function addToHistory(list){
         $.ajax({
             url:'denotationEditor.php?f=addToHistory',
@@ -163,6 +164,22 @@
             }
         });
     }
+    
+    function dynamicSort(property) {
+        var sortOrder = 1;
+        if(property[0] === "-" ) {
+            sortOrder = -1;
+            property = property.substr(1);
+        }
+        return function (a,b) {
+            /* next line works with strings and numbers, 
+             * and you may want to customize it to your needs
+             */
+            var result = (a[property] < b[property]) ? -1 : (a[property] > b[property]) ? 1 : 0;
+            return result * sortOrder;
+        }
+    }
+
     
     function historyMove(){
         

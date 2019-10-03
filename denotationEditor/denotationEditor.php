@@ -7,12 +7,12 @@ $mysqli->set_charset("utf8");
 
 function addToHistory(){
     $list = $_POST['list'];
-    $result = updateTmpTable($list);
+    $result = updateHistoryTable($list);
     
     echo $result;
 }
 
-function updateTmpTable($list){
+function updateHistoryTable($list){
     global $mysqli;
     $list = addslashes($list);
     $create_sql = "CREATE   TABLE diyar_db.history_tmp 
@@ -57,9 +57,8 @@ function getObjectByWord(){
             dl.denotation_description,
             r2.relation_id          result_relation_id,
             
-            if(wl.language_id = 1, 
-            r2.clarification, 
-            r1.clarification)       result_clarification,
+            
+            r2.clarification        result_clarification,
             
             wl2.word_id             result_word_id,
             wl2.word                result_word,
