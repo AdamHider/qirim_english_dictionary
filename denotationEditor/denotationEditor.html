@@ -30,7 +30,11 @@
     <body>
         <div>
             <input id="word_input" type="text" value=""/>
-            <button id="search" type='button' onclick="load()">COMMIT</button>
+            <button id="search" type='button' onclick="load()">SELECT</button>
+            
+            <button id="apply" type='button' onclick="apply()">APPLY</button>
+            <button id="undo" type='button' onclick="undo()">UNDO</button>
+            <button id="redo" type='button' onclick="redo()">REDO</button>
             
         </div>
         <div class="head">
@@ -56,12 +60,16 @@
 </html>
  <script type="text/javascript">
     var offset = 0;
-    var list = [];
+    var current_list = [];
+    var old_list = [];
     var total = 0;
+    var current_index = 0;
+    var history_list = [];
     $(document).ready(function() {
             
         });
     function load(){
+        history_list = [];
         var word = $('#word_input').val();
         $.ajax({
                 url:'denotationEditor.php?f=getObjectByWord&word='+word,
@@ -73,74 +81,97 @@
                 complete: function() {
                 },
                 success: function(json) {
-                    list = json;
-                    console.log(list);
-                    render();
+                    current_list = json;
+                    addToHistory(current_list);
+                    render(current_list);
 
                 }
             });
     }
-    function render(){
+    function render(current_list){
         var word_html = '<div>';
-        for (var i = 0; i<list.length; i++){
-            var word_object = list[i];
+        for (var i = 0; i<current_list.length; i++){
+            var word_object = current_list[i];
             word_html += '<div class="row">';
-            word_html += '<div class="column">'+word_object['query_word_id']+'</div>';
-            word_html += '<div class="column">'+word_object['query_word']+'</div>';
-            word_html += '<div class="column">'+word_object['query_part_of_speech_id']+'</div>';
-            word_html += '<div class="column">'+word_object['query_relation_id']+'</div>';
-            word_html += '<div class="column">'+word_object['query_clarification']+'</div>';
-            word_html += '<div class="column">'+word_object['denotation_id']+'</div>';
-            word_html += '<div class="column">'+word_object['denotation_description']+'</div>';
-            word_html += '<div class="column">'+word_object['result_relation_id']+'</div>';
-            word_html += '<div class="column">'+word_object['result_clarification']+'</div>';
-            word_html += '<div class="column">'+word_object['result_word_id']+'</div>';
-            word_html += '<div class="column">'+word_object['result_word']+'</div>';
-            word_html += '<div class="column">'+word_object['result_part_of_speech_id']+'</div>';
-            
-            
+            for(var k in word_object){
+                if(!word_object[k]){
+                    word_object[k] = '';
+                }
+                word_html += '<input class="column" id="'+i+':'+k+'" value="'+word_object[k]+'" onchange="changeColumn(this)"/>';
+            }
             word_html += '</div>';
         }
-        $('#total').html('total: '+total);
         $('.list').html(word_html);
     }
     
-    function select(node){
-        var id = (node.split('-'))[1];
-        for(var i =0; i<list.length; i++){
-            if(list[i][3] == id && list[i][5] === undefined ){
-                list[i].push('put to exceptions');
-                $('#div-'+node).css('background-color', 'lightgreen');
-            } else if ( list[i][3] == id && list[i][5] != undefined ){
-                list[i].pop();
-                $('#div-'+node).css('background-color', 'white');
-            }
-        }
+    function changeColumn(node){
+        var id = node.id.split(':');
+        var row_num = id[0];
+        var column_num = id[1];
+        
+        current_list[row_num][column_num] = node.value;
+        addToHistory(current_list);
+        render(current_list);
     }
     
-    function update(node){
-        var id = (node.split('_'))[1];
-        var eng_id = (node.split('_'))[2];
-        var part_id = (node.split('_'))[3];
-        
-        var new_name = $('#input_'+id+'_'+eng_id+'_'+part_id).val();
-        
-        if(new_name !== '' && new_name !== ' ' ){
-            $.ajax({
-                url:'verifyRusTranslation.php?f=updateRusName&newword='+id+';'+new_name+';'+eng_id+';'+part_id,
-                type: 'post',
-                data: '',
-                dataType: 'json',
-                beforeSend: function() {
-                },
-                complete: function() {
-                    load('update');
-                },
-                success: function() {
-                }
-            });
-        }
+    function addToHistory(list){
+        $.ajax({
+            url:'denotationEditor.php?f=addToHistory',
+            type: 'post',
+            data: {list: JSON.stringify(list)},
+            dataType: 'json',
+            beforeSend: function() {
+            },
+            complete: function() {
+            },
+            success: function(json) {
+                current_list = JSON.parse(json[0].data);
+                history_list.push(current_list);
+                current_index = history_list.length;
+            }
+        });
     }
+    
+    function undo(){
+        if(current_index == 0){
+            return;
+        }
+        current_index = current_index - 1;
+        getHistoryByIndex(current_index);
+    }
+    
+    
+    function redo(){
+            current_index = current_index +1;
+            getHistoryByIndex(current_index);
+            render(current_list);
+    }
+    
+    function getHistoryByIndex(current_index){
+        $.ajax({
+            url:'denotationEditor.php?f=getHistoryByIndex&index='+current_index,
+            type: 'post',
+            data: '',
+            dataType: 'json',
+            beforeSend: function() {
+            },
+            complete: function() {
+            },
+            success: function(json) {
+                current_list =  JSON.parse(json[0].data);
+                render(current_list);
+            }
+        });
+    }
+    
+    function historyMove(){
+        
+    }
+    
+    function checkCurrentIndex(){
+        
+    }
+    
     function deleteWord(node){
         var id = (node.split('-'))[1];
         var word = (node.split('-'))[2];
@@ -160,25 +191,4 @@
             }
         });
     }
-    $("#commit").on('click',function(){
-        
-        $.ajax({
-            url:'verifyRusTranslation.php?f=commit&data='+JSON.stringify(list),
-            type: 'post',
-            data: '',
-            dataType: 'json',
-            beforeSend: function() {
-                $('#commit').html('LOADING...');
-            },
-            complete: function() {
-                total -= 20;
-                load('simple_load');
-                $('#commit').html('COMMIT');
-                
-            },
-            success: function() {
-            }
-        });
-        
-    });
 </script>
