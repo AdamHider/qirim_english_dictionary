@@ -66,29 +66,45 @@
     var current_index = 0;
     var history_list = [];
     $(document).ready(function() {
-            
+            init();
         });
+    function init(){
+        $.ajax({
+            url:'denotationEditor.php?f=prepareWorkflow',
+            type: 'post',
+            data: '',
+            dataType: 'json',
+            beforeSend: function() {
+            },
+            complete: function() {
+            },
+            success: function(json) {
+                alert('Workflow prepared!');
+
+            }
+        });
+    }    
     function load(){
         history_list = [];
         var word = $('#word_input').val();
         $.ajax({
-                url:'denotationEditor.php?f=getObjectByWord&word='+word,
-                type: 'post',
-                data: '',
-                dataType: 'json',
-                beforeSend: function() {
-                },
-                complete: function() {
-                },
-                success: function(json) {
-                    current_list = json;
-                    addToHistory(current_list);
-                    render(current_list);
+            url:'denotationEditor.php?f=getObjectByWord&word='+word,
+            type: 'post',
+            data: '',
+            dataType: 'json',
+            beforeSend: function() {
+            },
+            complete: function() {
+            },
+            success: function(json) {
+                current_list = json;
+                addToHistory(current_list);
 
-                }
-            });
+            }
+        });
     }
     function render(current_list){
+        current_list.sort(compareValues('denotation_description')); 
         var word_html = '<div>';
         for (var i = 0; i<current_list.length; i++){
             var word_object = current_list[i];
@@ -104,6 +120,30 @@
         $('.list').html(word_html);
     }
     
+    function compareValues(key, order='asc') {
+        return function(a, b) {
+          if(!a.hasOwnProperty(key) || !b.hasOwnProperty(key)) {
+            // property doesn't exist on either object
+            return 0;
+          }
+
+          const varA = (typeof a[key] === 'string') ?
+            a[key].toUpperCase() : a[key];
+          const varB = (typeof b[key] === 'string') ?
+            b[key].toUpperCase() : b[key];
+
+          let comparison = 0;
+          if (varA > varB) {
+            comparison = 1;
+          } else if (varA < varB) {
+            comparison = -1;
+          }
+          return (
+            (order == 'desc') ? (comparison * -1) : comparison
+          );
+        };
+      }
+    
     function changeColumn(node){
         var id = node.id.split(':');
         var row_num = id[0];
@@ -111,7 +151,6 @@
         
         current_list[row_num][column_num] = node.value;
         addToHistory(current_list);
-        render(current_list);
     }
     
     function addToHistory(list){
@@ -125,9 +164,10 @@
             complete: function() {
             },
             success: function(json) {
-                current_list = JSON.parse(json[0].data);
+                current_list = JSON.parse(json.data);
                 history_list.push(current_list);
                 current_index = history_list.length;
+                render(current_list);
             }
         });
     }
@@ -146,6 +186,7 @@
             getHistoryByIndex(current_index);
             render(current_list);
     }
+   
     
     function getHistoryByIndex(current_index){
         $.ajax({
