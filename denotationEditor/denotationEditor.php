@@ -3,48 +3,8 @@
 $mysqli = new mysqli("127.0.0.1", "root", "root", "diyar_db");
 $mysqli->set_charset("utf8");
 
-
-
-function addToHistory(){
-    $list = $_POST['list'];
-    $result = updateHistoryTable($list);
-    
-    echo $result;
-}
-
-function updateHistoryTable($list){
-    global $mysqli;
-    $list = addslashes($list);
-    $create_sql = "CREATE   TABLE diyar_db.history_tmp 
-        (
-            `id` INT NOT NULL AUTO_INCREMENT,
-            `data` LONGTEXT NULL,
-            PRIMARY KEY (`id`)
-
-        )
-            DEFAULT CHARACTER SET = utf8
-            COLLATE = utf8_bin;;
-        ";
-    $mysqli->query($create_sql);
-     $sql = "
-         INSERT INTO diyar_db.history_tmp
-         SET id = NULL, data = '$list'
-         ";
-     $mysqli->query($sql);
-    $result = json_encode(mysqli_fetch_all($mysqli->query('SELECT data FROM diyar_db.history_tmp ORDER BY id DESC LIMIT 1'), MYSQLI_ASSOC));
-    return $result;
-}
-
-function getHistoryByIndex(){
-    global $mysqli;
-    $index = $_GET['index'];
-    $result = json_encode(mysqli_fetch_all($mysqli->query("SELECT data FROM diyar_db.history_tmp WHERE id = $index"), MYSQLI_ASSOC)); 
-    echo $result;
-}
-
 function getObjectByWord(){
     global $mysqli;
-    $mysqli->query('TRUNCATE diyar_db.history_tmp');
     $word = $_GET['word'];
     $sql = "
         SELECT 
@@ -82,7 +42,72 @@ function getObjectByWord(){
      echo $result;
 }
 
+function fetchExistingDenotations(){
+    global $mysqli;
+    $denotation_description = $_GET['denotation_description'];
+    $sql = "
+        SELECT 
+            denotation_id,
+            denotation_description
+        FROM
+            denotation_list
+        WHERE 
+            denotation_description LIKE '%$denotation_description%'  
+    ";
+    $result = json_encode(mysqli_fetch_all($mysqli->query($sql), MYSQLI_ASSOC));
+     echo $result;
+}
 
+function getDenotationByDescription(){
+    global $mysqli;
+    $denotation_description = $_GET['denotation_description'];
+    $sql = "
+        SELECT 
+            denotation_id,
+            denotation_description
+        FROM
+            denotation_list
+        WHERE 
+            denotation_description = '$denotation_description'  
+    ";
+    $result = json_encode(mysqli_fetch_all($mysqli->query($sql), MYSQLI_ASSOC));
+     echo $result;
+}
+
+function checkIfRelationExists(){
+    global $mysqli;
+    $denotation_id = $_GET['denotation_id'];
+    $word_id = $_GET['word_id'];
+    $sql = "
+        SELECT 
+            relation_id
+        FROM
+            relation_list
+        WHERE 
+            denotation_id = '$denotation_id' 
+        AND word_id = '$word_id' 
+    ";
+    $result = json_encode(mysqli_fetch_all($mysqli->query($sql), MYSQLI_ASSOC));
+     echo $result;
+}
+
+
+function getLastIds (){
+    global $mysqli;
+    $sql = "
+        SELECT 
+            wl.word_id,
+            (SELECT  relation_id FROM relation_list ORDER BY relation_id DESC LIMIT 1) AS last_relation,
+            (SELECT  denotation_id FROM denotation_list ORDER BY denotation_id DESC LIMIT 1) AS last_denotation
+        FROM
+            word_list wl
+		ORDER BY word_id DESC
+        LIMIT 1 
+            
+    ";
+    $result = json_encode(mysqli_fetch_all($mysqli->query($sql), MYSQLI_ASSOC));
+     echo $result;
+}
 
 if(function_exists($_GET['f'])) {
    $_GET['f']();
