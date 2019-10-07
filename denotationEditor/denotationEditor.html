@@ -39,7 +39,7 @@
         </div>
         <div class="head">
             <div class="row">
-                <div class="column">word_id</div>
+               <!-- <div class="column">word_id</div> -->
                 <div class="column">word</div>
                 <div class="column">prt_id</div>
                 <div class="column">relation_id</div>
@@ -48,25 +48,26 @@
                 <div class="column">den_description</div>
                 <div class="column">relation_id</div>
                 <div class="column">clarification</div>
-                <div class="column">word_id</div>
+                <!-- <div class="column">word_id</div>-->
                 <div class="column">word</div>
                 <div class="column">prt_id</div>
             </div>
         </div>
-        <div class="list">
-            
-        </div>
+        <div class="list"></div>
+        <div class="denotation_suggested"></div>
     </body>
 </html>
  <script type="text/javascript">
-    var offset = 0;
     var current_list = [];
-    var old_list = [];
-    var total = 0;
     var current_index = 0;
     var history_list = [];
+    var denotations = [];
+    var relations = [];
+    var last_ids = [];
+    var hidden_inputs = ['query_word_id', 'result_word_id'];
+    var bold_inputs = ['query_word', 'result_word'];
+    
     $(document).ready(function() {
-            init();
         });
     function init(){
         $.ajax({
@@ -88,24 +89,29 @@
         history_list = [];
         var word = $('#word_input').val();
         $.ajax({
-            url:'denotationEditor.php?f=getObjectByWord&word='+word,
-            type: 'post',
-            data: '',
-            dataType: 'json',
-            beforeSend: function() {
-            },
-            complete: function() {
-            },
-            success: function(json) {
-                current_list = json;
-                addToHistory(current_list);
-
-            }
-        });
+                url:'denotationEditor.php?f=getObjectByWord&word='+word,
+                type: 'post',
+                data: '',
+                dataType: 'json',
+                beforeSend: function() {
+                },
+                complete: function() {
+                },
+                success: function(json) {
+                    current_list = json;
+                    denotations = [];
+                    getLastIds();
+                    //current_list = analizeList(current_list);
+                    addToHistory(current_list);
+                    render(current_list, '.list');
+                }
+            });
     }
-    function render(current_list){
-        current_list.sort(compareValues('denotation_description')); 
+    function render(current_list, container){
+        current_list.sort(dynamicSort("denotation_description"));
+        
         var word_html = '<div>';
+        
         for (var i = 0; i<current_list.length; i++){
             var word_object = current_list[i];
             word_html += '<div class="row">';
@@ -113,36 +119,36 @@
                 if(!word_object[k]){
                     word_object[k] = '';
                 }
-                word_html += '<input class="column" id="'+i+':'+k+'" value="'+word_object[k]+'" onchange="changeColumn(this)"/>';
+                var functional = ' ';
+                var hidden = ' ';
+                if(k == 'denotation_description'){
+                    functional = ' oninput="fetchExistingDenotations(this.value)"';
+                }
+                if(hidden_inputs.includes(k)){
+                    hidden = ' type="hidden"';
+                }
+                word_html += '<input class="column" id="'+i+':'+k+'" value="'+word_object[k]+'" onchange="changeColumn(this)"'+ functional+hidden+' />';
             }
             word_html += '</div>';
         }
-        $('.list').html(word_html);
+        $(container).html(word_html);
     }
     
-    function compareValues(key, order='asc') {
-        return function(a, b) {
-          if(!a.hasOwnProperty(key) || !b.hasOwnProperty(key)) {
-            // property doesn't exist on either object
-            return 0;
-          }
-
-          const varA = (typeof a[key] === 'string') ?
-            a[key].toUpperCase() : a[key];
-          const varB = (typeof b[key] === 'string') ?
-            b[key].toUpperCase() : b[key];
-
-          let comparison = 0;
-          if (varA > varB) {
-            comparison = 1;
-          } else if (varA < varB) {
-            comparison = -1;
-          }
-          return (
-            (order == 'desc') ? (comparison * -1) : comparison
-          );
-        };
-      }
+    function apply(){
+        $.ajax({
+            url:'denotationEditor.php?f=apply',
+            type: 'post',
+            data: {list: JSON.stringify(current_list), word: current_list[0].query_word},
+            dataType: 'json',
+            beforeSend: function() {
+            },
+            complete: function() {
+            },
+            success: function(json) {
+                alert(json);
+            }
+        });
+    }
     
     function changeColumn(node){
         var id = node.id.split(':');
@@ -150,26 +156,15 @@
         var column_num = id[1];
         
         current_list[row_num][column_num] = node.value;
+        
+        //current_list = analizeList(current_list);
         addToHistory(current_list);
+        render(current_list, '.list');
     }
-    
     function addToHistory(list){
-        $.ajax({
-            url:'denotationEditor.php?f=addToHistory',
-            type: 'post',
-            data: {list: JSON.stringify(list)},
-            dataType: 'json',
-            beforeSend: function() {
-            },
-            complete: function() {
-            },
-            success: function(json) {
-                current_list = JSON.parse(json.data);
-                history_list.push(current_list);
-                current_index = history_list.length;
-                render(current_list);
-            }
-        });
+        var new_list = cloneObject(list);
+        history_list.push(new_list);
+        current_index = history_list.length-1;
     }
     
     function undo(){
@@ -177,20 +172,135 @@
             return;
         }
         current_index = current_index - 1;
-        getHistoryByIndex(current_index);
+        current_list = history_list[current_index];
+                    render(current_list, '.list');
     }
     
     
     function redo(){
-            current_index = current_index +1;
-            getHistoryByIndex(current_index);
-            render(current_list);
+        current_index = current_index +1;
+        current_list = history_list[current_index];
+                    render(current_list, '.list');
     }
    
     
-    function getHistoryByIndex(current_index){
+    function analizeList(list){
+        denotations = []; 
+        relations = []; 
+        for(var i = 0; i < list.length; i++){
+            var row = list[i];
+            var denotation_object = checkForDenotation(row);
+            
+            var new_relations = checkForRelation(row, denotation_object.denotation_object.denotation_id, denotation_object.status);
+            list[i].query_relation_id = new_relations.query_relation_id;
+            list[i].result_relation_id = new_relations.result_relation_id;
+            
+            list[i].denotation_id = denotation_object.denotation_object.denotation_id;
+            list[i].denotation_description = denotation_object.denotation_object.denotation_description;
+            
+        }
+        console.log(denotations);
+        return list;
+    }
+    
+    function checkForDenotation(row){
+        var denotation_object = {
+            denotation_description: row.denotation_description,
+            denotation_id: row.denotation_id*1
+        };
+        var is_there = 0;
+        if(denotations.length<1){
+            denotations.push(denotation_object);
+        }
+        for(var i = 0; i < denotations.length; i++){
+            if(denotations[i].denotation_description === row.denotation_description ){
+               is_there = 1;
+               return {
+                    denotation_object: denotations[i],
+                    status: 'ignore_relations'
+               };
+            } else {
+                is_there = 0;
+            }
+        }
+        if(is_there == 0){
+            denotation_object.denotation_description = row.denotation_description;
+            var existing_denotation = getDenotationByDescription(row.denotation_description);
+            if(existing_denotation){
+                denotation_object.denotation_id = existing_denotation.denotation_id;
+            } else {
+                denotation_object.denotation_id = last_ids.last_denotation*1 + denotations.length*1 + 1;
+            }
+            denotations.push(denotation_object);
+            return {
+                denotation_object: denotation_object,
+                status: 'check_relations'
+            }; 
+        }
+    }
+    
+    
+    
+    function checkForRelation(row, new_denotation_id, status){
+        var result = {
+            query_relation_id: 0,
+            result_relation_id: 0
+        };
+        var query_relation_id = false;
+        var result_relation_id = false;
+        if(status !== 'ignore_relations'){
+            query_relation_id =  checkIfRelationExists(row.query_word_id, new_denotation_id);
+        }
+        if(query_relation_id){
+            result.query_relation_id = query_relation_id;
+        } else {
+            var existing_query_relation_id = checkExistingRelation(row.query_word_id, new_denotation_id);
+            
+            if(!existing_query_relation_id){
+                result.query_relation_id = last_ids.last_relation*1;
+                last_ids.last_relation = last_ids.last_relation*1 + 1;
+            } else {
+                result.query_relation_id = existing_query_relation_id
+            }
+            
+        }
+        if(status !== 'ignore_relations'){
+            var result_relation_id =  checkIfRelationExists(row.result_word_id, new_denotation_id);
+        }
+        if(result_relation_id){
+            result.result_relation_id = result_relation_id;
+        } else {
+            var existing_result_relation_id = checkExistingRelation(row.result_word_id, new_denotation_id);
+            if(!existing_result_relation_id){
+                result.result_relation_id = last_ids.last_relation*1;
+                last_ids.last_relation = last_ids.last_relation*1 + 1;
+            } else {
+                result.result_relation_id = existing_result_relation_id
+            }
+            
+        }
+        
+        return result;
+    }
+    
+    function checkExistingRelation(word_id, denotation_id){
+        //return false;
+        console.log(current_list);
+        for(var i = 0; i < current_list.length; i++){
+            var row = current_list[i];
+            if(row.query_word_id*1 == word_id*1 && row.denotation_id*1 == denotation_id*1 ){
+                return row.query_relation_id;
+            } 
+            if (row.result_word_id*1 == word_id*1 && row.denotation_id*1 == denotation_id*1){
+                return row.result_relation_id;
+            }
+        }
+       return false;
+    }
+    
+    function getDenotationByDescription(denotation_description){
         $.ajax({
-            url:'denotationEditor.php?f=getHistoryByIndex&index='+current_index,
+            url:'denotationEditor.php?f=getDenotationByDescription&denotation_description='+denotation_description,
             type: 'post',
             data: '',
             dataType: 'json',
@@ -199,37 +309,94 @@
             complete: function() {
             },
             success: function(json) {
-                current_list =  JSON.parse(json[0].data);
-                render(current_list);
+                if(json.length<1){
+                    return false;
+                }
+                return json;
             }
         });
     }
     
-    function historyMove(){
-        
-    }
-    
-    function checkCurrentIndex(){
-        
-    }
-    
-    function deleteWord(node){
-        var id = (node.split('-'))[1];
-        var word = (node.split('-'))[2];
-        var new_name = word.replace(' (','|');
-        new_name = new_name.replace(/\)/g,'');
+    function checkIfRelationExists(word_id, denotation_id){
         $.ajax({
-            url:'verifyRusTranslation.php?f=updateRusName&newword='+id+';'+new_name+';'+'',
+            url:'denotationEditor.php?f=checkIfRelationExists&denotation_id='+denotation_id+'&word_id='+word_id,
             type: 'post',
             data: '',
             dataType: 'json',
             beforeSend: function() {
             },
             complete: function() {
-                load('update');
             },
-            success: function() {
+            success: function(json) {
+                 if(json.length<1){
+                    return false;
+                }
+                return json[0];
             }
         });
     }
+    
+    function fetchExistingDenotations(denotation_description){
+        $.ajax({
+            url:'denotationEditor.php?f=fetchExistingDenotations&denotation_description='+denotation_description,
+            type: 'post',
+            data: '',
+            dataType: 'json',
+            beforeSend: function() {
+            },
+            complete: function() {
+            },
+            success: function(json) {
+                render(json,'.denotation_suggested')
+                return json;
+            }
+        });
+    }
+    
+    function getLastIds(){
+        $.ajax({
+            url:'denotationEditor.php?f=getLastIds',
+            type: 'post',
+            data: '',
+            dataType: 'json',
+            beforeSend: function() {
+            },
+            complete: function() {
+            },
+            success: function(json) {
+                last_ids = json[0];
+            }
+        });
+    }
+    
+    function cloneObject(object){
+        var new_list = [];
+        for(var i = 0; i < object.length; i++){
+            var current_obj = new Object;
+            for(var item in object[i]){
+                current_obj[item] = object[i][item];
+            }
+            new_list.push(current_obj)
+        }
+        return new_list;
+    }
+    
+    
+    
+    function dynamicSort(property) {
+        var sortOrder = 1;
+        if(property[0] === "-" ) {
+            sortOrder = -1;
+            property = property.substr(1);
+        }
+        return function (a,b) {
+            /* next line works with strings and numbers, 
+             * and you may want to customize it to your needs
+             */
+            var result = (a[property] < b[property]) ? -1 : (a[property] > b[property]) ? 1 : 0;
+            return result * sortOrder;
+        }
+    }
+
+    
 </script>
