@@ -1,38 +1,38 @@
 <?php
 
 $qt_alphabet = [
-    'a' => ['type' => 'vowel', 'normal' => 'a'],
+    'a' => ['type' => 'vowel', 'normal' => 'a', 'voice'=> 'hard'],
     'b' => ['type' => 'consonant', 'normal' => 'b'],
     'c' => ['type' => 'consonant', 'normal' => 'dʒ'],
     'ç' => ['type' => 'consonant', 'normal' => 'ʧ'],
     'd' => ['type' => 'consonant', 'normal' => 'd'],
-    'e' => ['type' => 'vowel', 'normal' => 'ɛ'],
+    'e' => ['type' => 'vowel', 'normal' => 'ɛ', 'voice'=> 'soft'],
     'f' => ['type' => 'consonant', 'normal' => 'f'],
     'g' => ['type' => 'consonant', 'normal' => 'g'],
     'ğ' => ['type' => 'consonant', 'normal' => 'ʁ'],
     'h' => ['type' => 'consonant', 'normal' => 'x'],
-    'ı' => ['type' => 'vowel', 'normal' => 'ɯ'],
-    'i' => ['type' => 'vowel', 'normal' => 'i', 'special' => 'ɪ' ],
+    'ı' => ['type' => 'vowel', 'normal' => 'ɯ', 'voice'=> 'hard'],
+    'i' => ['type' => 'vowel', 'normal' => 'ɪ', 'voice'=> 'soft'],
     'j' => ['type' => 'consonant', 'normal' => 'ʐ'],
     'k' => ['type' => 'consonant', 'normal' => 'k'],
     'l' => ['type' => 'consonant', 'normal' => 'l', 'special' => 'lʲ'],
     'm' => ['type' => 'consonant', 'normal' => 'm'],
     'n' => ['type' => 'consonant', 'normal' => 'n'],
     'ñ' => ['type' => 'consonant', 'normal' => 'ŋ'],
-    'o' => ['type' => 'vowel', 'normal' => 'o'],
-    'ö' => ['type' => 'vowel', 'normal' => 'ø'],
+    'o' => ['type' => 'vowel', 'normal' => 'o', 'voice'=> 'hard'],
+    'ö' => ['type' => 'vowel', 'normal' => 'ø', 'voice'=> 'soft'],
     'p' => ['type' => 'consonant', 'normal' => 'p'],
     'q' => ['type' => 'consonant', 'normal' => 'q'],
     'r' => ['type' => 'consonant', 'normal' => 'r'],
     's' => ['type' => 'consonant', 'normal' => 's'],
     'ş' => ['type' => 'consonant', 'normal' => 'ʂ', 'special' => 'ʃ'],
     't' => ['type' => 'consonant', 'normal' => 't'],
-    'u' => ['type' => 'vowel', 'normal' => 'u'],
-    'ü' => ['type' => 'vowel', 'normal' => 'y'],
+    'u' => ['type' => 'vowel', 'normal' => 'u', 'voice'=> 'hard'],
+    'ü' => ['type' => 'vowel', 'normal' => 'y', 'voice'=> 'soft'],
     'v' => ['type' => 'consonant', 'normal' => 'v'],
     'y' => ['type' => 'consonant', 'normal' => 'j'],
     'z' => ['type' => 'consonant', 'normal' => 'z'],
-    'â' => ['type' => 'vowel', 'normal' => 'ʲa']
+    'â' => ['type' => 'vowel', 'normal' => 'ʲa', 'voice'=> 'soft']
 ];
 $patterns = [
     'consonant-vowel',
@@ -40,26 +40,38 @@ $patterns = [
     'vowel-consonant',
 ];
 function init(){
-    set_time_limit(500);
+    set_time_limit(20000);
     header('Content-Type: text/html; charset=UTF-8');
     $list = getList();
     foreach($list as $item){
-        $transcription = transcribe($item[1]);
+        $explode_one = explode('-', $item[1]);
+        $transcription = '';
         
-    print_r($transcription);
-    echo '</br>';
-    //die;
+        $explode_one[count($explode_one)-1] = str_replace('|', '', $explode_one[count($explode_one)-1]);
+        $explode_one[count($explode_one)-4] = '|'.$explode_one[count($explode_one)-4];
+        if(count($explode_one)<2){
+            continue;
+        }
+        /*
+        foreach($explode_one as $exploded){
+            $transcription .= $exploded;
+        }*/
+        //$transcription = transcribe($item[1]);
+        $transcription = implode('-',$explode_one);
         if($transcription){
-          putToDb($transcription, $item[0]);
+            putToDb($transcription, $item[0]);
+            print_r('The word with id '.$item[0].' now has a transcription: '.$transcription);
+            echo '</br>';
         }
     }
+    die;
 }
 
 function transcribe($word){
     global $qt_alphabet;
     $output = '';
-    if(strpos($word, '°')>-1){
-        $word=str_replace('°', '', $word);
+    if(strpos($word, 'В°')>-1){
+        $word=str_replace('В°', '', $word);
     }
     $word_array = str_split_unicode($word, 1);
     array_unshift($word_array, '[');
@@ -67,47 +79,50 @@ function transcribe($word){
     $chunks = implode('-',getChunks($word_array));
     $chunks_array = str_split_unicode($chunks, 1);
     foreach($chunks_array as $letter){
-        if($letter == '-' || $letter == '!'){
+        if( $letter == '!'){
             continue;
         }
-        if($letter == '\'' ){
+        if($letter == '-' || $letter == '|' ){
             $output .= $letter;
             continue;
         }
-        $output .= $qt_alphabet[strtolower($letter)]['normal'];
+        $output .= $letter;
+        //$output .= $qt_alphabet[mb_strtolower($letter)]['normal'];
     }
     return $output;
 }
 
 function getList(){
-    $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
+    $mysqli = new mysqli("127.0.0.1", "root", "root", "diyar_db");
     $mysqli->set_charset("utf8");
     $sql_2 = "
         SELECT 
-            qt_word_id, LCASE(name) AS name
+            wl.word_id, LCASE(wl.transcription) AS name
         FROM
-            qirim_english_dictionary.qt_words
+            diyar_db.new_word_list_edit wl
+                JOIN
+            parts_of_speech USING (part_of_speech_id)
+                        LEFT JOIN 
+                new_attribute_to_relation ar USING (relation_id)
         WHERE
-            part_of_speech_id = 102 AND name NOT LIKE '% %' AND name NOT LIKE '%-%'
+        wl.language_id = 1
+            AND wl.transcription IS NOT NULL
+          AND wl.word LIKE '%cesine' AND wl.part_of_speech_id != 1
+        GROUP BY word, part_of_speech_id
         ";
     return mysqli_fetch_all($mysqli->query($sql_2));
 }
 
-function putToDb($transcription, $qt_word_id){
-    
-   print_r($transcription);
-   echo '</br>';
-   return;
-    $mysqli = new mysqli("127.0.0.1", "root", "root", "qirim_english_dictionary");
-   $mysqli->set_charset("utf8");
+function putToDb($transcription, $word_id){
+    $mysqli = new mysqli("127.0.0.1", "root", "root", "diyar_db");
+    $mysqli->set_charset("utf8");
     $sql = "
         UPDATE 
-            qirim_english_dictionary.qt_words
+            diyar_db.new_word_list_edit
         SET
-            status = '',
             transcription = '".addslashes($transcription)."'
         WHERE        
-            qt_word_id = '$qt_word_id'  
+            word_id = '$word_id'  
         ";
     
     $mysqli->query($sql);
@@ -121,28 +136,56 @@ function getChunks($word_array){
         if($word_array[$i] == ']'){
             continue;
         } 
+        
         $prev_letter = '';
         $prev_type = '';
         if($word_array[$i-1] != '['){
-            $prev_letter = $qt_alphabet[strtolower($word_array[$i-1])]['normal'];
-            $prev_type = $qt_alphabet[strtolower($word_array[$i-1])]['type'];
+            $prev_letter = $qt_alphabet[mb_strtolower($word_array[$i-1])]['normal'];
+            $prev_type = $qt_alphabet[mb_strtolower($word_array[$i-1])]['type'];
         }
-        $curr_letter = $qt_alphabet[strtolower($word_array[$i])]['normal'];
-        $curr_type = $qt_alphabet[strtolower($word_array[$i])]['type'];
+        $curr_letter = $qt_alphabet[mb_strtolower($word_array[$i])]['normal'];
+        $curr_type = $qt_alphabet[mb_strtolower($word_array[$i])]['type'];
         
         $next_letter = '';
         $next_type = '';
         if($word_array[$i+1] != ']'){
-            $next_letter = $qt_alphabet[strtolower($word_array[$i+1])]['normal'];
-            $next_type = $qt_alphabet[strtolower($word_array[$i+1])]['type'];
+            $next_letter = $qt_alphabet[mb_strtolower($word_array[$i+1])]['normal'];
+            $next_type = $qt_alphabet[mb_strtolower($word_array[$i+1])]['type'];
         } 
         $ultra_next_letter = '';
         $ultra_next_type = '';
         if(isset($word_array[$i+2]) && $word_array[$i+2] != ']'){
-            $ultra_next_letter = $qt_alphabet[strtolower($word_array[$i+2])]['normal'];
-            $ultra_next_type = $qt_alphabet[strtolower($word_array[$i+2])]['type'];
+            $ultra_next_letter = $qt_alphabet[mb_strtolower($word_array[$i+2])]['normal'];
+            $ultra_next_type = $qt_alphabet[mb_strtolower($word_array[$i+2])]['type'];
         }
-        $new_chunk .= $word_array[$i];
+        
+        if( $curr_type == 'consonant' && !empty($qt_alphabet[mb_strtolower($word_array[$i])]['special'])){
+            
+            if($next_type == 'vowel' || $prev_type == 'vowel' ){
+                if( isset($qt_alphabet[mb_strtolower($word_array[$i-1])]['voice']) 
+                        && $qt_alphabet[mb_strtolower($word_array[$i-1])]['voice'] == 'soft' 
+                        || 
+                    isset($qt_alphabet[mb_strtolower($word_array[$i+1])]['voice'])  
+                        &&  $qt_alphabet[mb_strtolower($word_array[$i+1])]['voice'] == 'soft'
+                    ){
+                    if($next_letter === 'КІa'){
+                        $new_chunk .= $qt_alphabet[mb_strtolower($word_array[$i])]['normal'];
+                
+                    }else{
+                        $new_chunk .= $qt_alphabet[mb_strtolower($word_array[$i])]['special'];
+                    }
+                } else {
+                    $new_chunk .= $qt_alphabet[mb_strtolower($word_array[$i])]['normal'];
+                }
+            } else {
+                $new_chunk .= $qt_alphabet[mb_strtolower($word_array[$i])]['special'];
+            }
+        }
+        else {
+            $new_chunk .= $qt_alphabet[mb_strtolower($word_array[$i])]['normal'];
+           
+        }
+        
         if($curr_type == 'vowel'){
             if($next_type == 'consonant' && $ultra_next_type == 'vowel'){
                 $chunk_array[] = $new_chunk;
@@ -174,19 +217,19 @@ function getChunks($word_array){
                 continue;
             } 
         }
+        
+        
         if($next_letter == '' ){
-            
-            
             //print_r($chunk_array[count($chunk_array)-2]);
+            //$chunk_array[count($chunk_array)-1] = '|'.$chunk_array[count($chunk_array)-1];
             
-            //$chunk_array[count($chunk_array)-1] = '\''.$chunk_array[count($chunk_array)-1];
             
-            
-            $new_chunk = '\''.$new_chunk;
+            $new_chunk = '|'.$new_chunk;
             $chunk_array[] = $new_chunk;
             break;
         }
     }
+    
     return $chunk_array;
     
 }
