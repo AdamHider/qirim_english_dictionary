@@ -73,64 +73,64 @@ $tenses_negative = [
         'hard' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['mamaqta edim', 'mamaqta ediñ', 'mamaqta edi' ],
-                    ['mamaqta edik', 'mamaqta ediñiz', 'mamaqta ediler' ]
+                    ['mamaqt*a ed*im', 'mamaqt*a ed*iñ', 'mamaqt*a ed*i' ],
+                    ['mamaqt*a ed*ik', 'mamaqt*a ed*iñiz', 'mamaqt*a ed*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['mamaqta edim', 'mamaqta ediñ', 'mamaqta edi' ],
-                    ['mamaqta edik', 'mamaqta ediñiz', 'mamaqta ediler' ]
+                    ['mamaqt*a ed*im', 'mamaqt*a ed*iñ', 'mamaqt*a ed*i' ],
+                    ['mamaqt*a ed*ik', 'mamaqt*a ed*iñiz', 'mamaqt*a ed*iler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['mamaqta edim', 'mamaqta ediñ', 'mamaqta edi' ],
-                    ['mamaqta edik', 'mamaqta ediñiz', 'mamaqta ediler' ]
+                    ['mamaqt*a ed*im', 'mamaqt*a ed*iñ', 'mamaqt*a ed*i' ],
+                    ['mamaqt*a ed*ik', 'mamaqt*a ed*iñiz', 'mamaqt*a ed*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['mamaqta edim', 'mamaqta ediñ', 'mamaqta edi' ],
-                    ['mamaqta edik', 'mamaqta ediñiz', 'mamaqta ediler' ]
+                    ['mamaqt*a ed*im', 'mamaqt*a ed*iñ', 'mamaqt*a ed*i' ],
+                    ['mamaqt*a ed*ik', 'mamaqt*a ed*iñiz', 'mamaqt*a ed*iler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['mamaqta edim', 'mamaqta ediñ', 'mamaqta edi' ],
-                    ['mamaqta edik', 'mamaqta ediñiz', 'mamaqta ediler' ]
+                    ['mamaqt*a ed*im', 'mamaqt*a ed*iñ', 'mamaqt*a ed*i' ],
+                    ['mamaqt*a ed*ik', 'mamaqt*a ed*iñiz', 'mamaqt*a ed*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['mamaqta edim', 'mamaqta ediñ', 'mamaqta edi' ],
-                    ['mamaqta edik', 'mamaqta ediñiz', 'mamaqta ediler' ]
+                    ['mamaqt*a ed*im', 'mamaqt*a ed*iñ', 'mamaqt*a ed*i' ],
+                    ['mamaqt*a ed*ik', 'mamaqt*a ed*iñiz', 'mamaqt*a ed*iler' ]
                 ]
             ]
         ],
         'soft' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['memekte edim', 'memekte ediñ', 'memekte edi' ],
-                    ['memekte edik', 'memekte ediñiz', 'memekte ediler' ]
+                    ['memekt*e ed*im', 'memekt*e ed*iñ', 'memekt*e ed*i' ],
+                    ['memekt*e ed*ik', 'memekt*e ed*iñiz', 'memekt*e ed*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['memekte edim', 'memekte ediñ', 'memekte edi' ],
-                    ['memekte edik', 'memekte ediñiz', 'memekte ediler' ]
+                    ['memekt*e ed*im', 'memekt*e ed*iñ', 'memekt*e ed*i' ],
+                    ['memekt*e ed*ik', 'memekt*e ed*iñiz', 'memekt*e ed*iler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['memekte edim', 'memekte ediñ', 'memekte edi' ],
-                    ['memekte edik', 'memekte ediñiz', 'memekte ediler' ]
+                    ['memekt*e ed*im', 'memekt*e ed*iñ', 'memekt*e ed*i' ],
+                    ['memekt*e ed*ik', 'memekt*e ed*iñiz', 'memekt*e ed*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['memekte edim', 'memekte ediñ', 'memekte edi' ],
-                    ['memekte edik', 'memekte ediñiz', 'memekte ediler' ]
+                    ['memekt*e ed*im', 'memekt*e ed*iñ', 'memekt*e ed*i' ],
+                    ['memekt*e ed*ik', 'memekt*e ed*iñiz', 'memekt*e ed*iler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['memekte edim', 'memekte ediñ', 'memekte edi' ],
-                    ['memekte edik', 'memekte ediñiz', 'memekte ediler' ]
+                    ['memekt*e ed*im', 'memekt*e ed*iñ', 'memekt*e ed*i' ],
+                    ['memekt*e ed*ik', 'memekt*e ed*iñiz', 'memekt*e ed*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['memekte edim', 'memekte ediñ', 'memekte edi' ],
-                    ['memekte edik', 'memekte ediñiz', 'memekte ediler' ]
+                    ['memekt*e ed*im', 'memekt*e ed*iñ', 'memekt*e ed*i' ],
+                    ['memekt*e ed*ik', 'memekt*e ed*iñiz', 'memekt*e ed*iler' ]
                 ]
             ]
         ]
@@ -205,64 +205,64 @@ $tenses_negative = [
         'hard' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['m*ay ed*im', 'm*ay ed*iñ', 'm*ay ed*i' ],
-                    ['m*ay ed*ik', 'm*ay *ediñiz', 'm*ay ed*iler' ]
+                    ['may ed*im', 'may ed*iñ', 'may ed*i' ],
+                    ['may ed*ik', 'may *ediñiz', 'may ed*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['m*ay ed*im', 'm*ay ed*iñ', 'm*ay ed*i' ],
-                    ['m*ay ed*ik', 'm*ay *ediñiz', 'm*ay ed*iler' ]
+                    ['may ed*im', 'may ed*iñ', 'may ed*i' ],
+                    ['may ed*ik', 'may *ediñiz', 'may ed*iler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['m*ay ed*im', 'm*ay ed*iñ', 'm*ay ed*i' ],
-                    ['m*ay ed*ik', 'm*ay *ediñiz', 'm*ay ed*iler' ]
+                    ['may ed*im', 'may ed*iñ', 'may ed*i' ],
+                    ['may ed*ik', 'may *ediñiz', 'may ed*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['m*ay ed*im', 'm*ay ed*iñ', 'm*ay ed*i' ],
-                    ['m*ay ed*ik', 'm*ay *ediñiz', 'm*ay ed*iler' ]
+                    ['may ed*im', 'may ed*iñ', 'may ed*i' ],
+                    ['may ed*ik', 'may *ediñiz', 'may ed*iler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['m*ay ed*im', 'm*ay ed*iñ', 'm*ay ed*i' ],
-                    ['m*ay ed*ik', 'm*ay *ediñiz', 'm*ay ed*iler' ]
+                    ['may ed*im', 'may ed*iñ', 'may ed*i' ],
+                    ['may ed*ik', 'may *ediñiz', 'may ed*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['m*ay ed*im', 'm*ay ed*iñ', 'm*ay ed*i' ],
-                    ['m*ay ed*ik', 'm*ay *ediñiz', 'm*ay ed*iler' ]
+                    ['may ed*im', 'may ed*iñ', 'may ed*i' ],
+                    ['may ed*ik', 'may *ediñiz', 'may ed*iler' ]
                 ]
             ]
         ],
         'soft' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['m*ey ed*im', 'm*ey ed*iñ', 'm*ey ed*i' ],
-                    ['m*ey ed*ik', 'm*ey *ediñiz', 'm*ey ed*iler' ]
+                    ['mey ed*im', 'mey ed*iñ', 'mey ed*i' ],
+                    ['mey ed*ik', 'mey *ediñiz', 'mey ed*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['m*ey ed*im', 'm*ey ed*iñ', 'm*ey ed*i' ],
-                    ['m*ey ed*ik', 'm*ey *ediñiz', 'm*ey ed*iler' ]
+                    ['mey ed*im', 'mey ed*iñ', 'mey ed*i' ],
+                    ['mey ed*ik', 'mey *ediñiz', 'mey ed*iler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['m*ey ed*im', 'm*ey ed*iñ', 'm*ey ed*i' ],
-                    ['m*ey ed*ik', 'm*ey *ediñiz', 'm*ey ed*iler' ]
+                    ['mey ed*im', 'mey ed*iñ', 'mey ed*i' ],
+                    ['mey ed*ik', 'mey *ediñiz', 'mey ed*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['m*ey ed*im', 'm*ey ed*iñ', 'm*ey ed*i' ],
-                    ['m*ey ed*ik', 'm*ey *ediñiz', 'm*ey ed*iler' ]
+                    ['mey ed*im', 'mey ed*iñ', 'mey ed*i' ],
+                    ['mey ed*ik', 'mey *ediñiz', 'mey ed*iler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['m*ey ed*im', 'm*ey ed*iñ', 'm*ey ed*i' ],
-                    ['m*ey ed*ik', 'm*ey *ediñiz', 'm*ey ed*iler' ]
+                    ['mey ed*im', 'mey ed*iñ', 'mey ed*i' ],
+                    ['mey ed*ik', 'mey *ediñiz', 'mey ed*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['m*ey ed*im', 'm*ey ed*iñ', 'm*ey ed*i' ],
-                    ['m*ey ed*ik', 'm*ey *ediñiz', 'm*ey ed*iler' ]
+                    ['mey ed*im', 'mey ed*iñ', 'mey ed*i' ],
+                    ['mey ed*ik', 'mey *ediñiz', 'mey ed*iler' ]
                 ]
             ]
         ]
@@ -271,64 +271,64 @@ $tenses_negative = [
         'hard' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['mağanım', 'mağansıñ', 'mağan' ],
-                    ['mağanmız', 'mağansıñız', 'mağanlar' ]
+                    ['mağ*anım', 'mağ*ansıñ', 'mağ*an' ],
+                    ['mağ*anmız', 'mağ*ansıñız', 'mağ*anlar' ]
                 ],
                 'multi_syllable'=>[
-                    ['mağanım', 'mağansıñ', 'mağan' ],
-                    ['mağanmız', 'mağansıñız', 'mağanlar' ]
+                    ['mağ*anım', 'mağ*ansıñ', 'mağ*an' ],
+                    ['mağ*anmız', 'mağ*ansıñız', 'mağ*anlar' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['mağanım', 'mağansıñ', 'mağan' ],
-                    ['mağanmız', 'mağansıñız', 'mağanlar' ]
+                    ['mağ*anım', 'mağ*ansıñ', 'mağ*an' ],
+                    ['mağ*anmız', 'mağ*ansıñız', 'mağ*anlar' ]
                 ],
                 'multi_syllable'=>[
-                    ['mağanım', 'mağansıñ', 'mağan' ],
-                    ['mağanmız', 'mağansıñız', 'mağanlar' ]
+                    ['mağ*anım', 'mağ*ansıñ', 'mağ*an' ],
+                    ['mağ*anmız', 'mağ*ansıñız', 'mağ*anlar' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['mağanım', 'mağansıñ', 'mağan' ],
-                    ['mağanmız', 'mağansıñız', 'mağanlar' ]
+                    ['mağ*anım', 'mağ*ansıñ', 'mağ*an' ],
+                    ['mağ*anmız', 'mağ*ansıñız', 'mağ*anlar' ]
                 ],
                 'multi_syllable'=>[
-                    ['mağanım', 'mağansıñ', 'mağan' ],
-                    ['mağanmız', 'mağansıñız', 'mağanlar' ]
+                    ['mağ*anım', 'mağ*ansıñ', 'mağ*an' ],
+                    ['mağ*anmız', 'mağ*ansıñız', 'mağ*anlar' ]
                 ]
             ]
         ],
         'soft' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['megenim', 'megensiñ', 'megen' ],
-                    ['megenmiz', 'megensiñiz', 'megenler' ]
+                    ['meg*enim', 'meg*ensiñ', 'meg*en' ],
+                    ['meg*enmiz', 'meg*ensiñiz', 'meg*enler' ]
                 ],
                 'multi_syllable'=>[
-                    ['megenim', 'megensiñ', 'megen' ],
-                    ['megenmiz', 'megensiñiz', 'megenler' ]
+                    ['meg*enim', 'meg*ensiñ', 'meg*en' ],
+                    ['meg*enmiz', 'meg*ensiñiz', 'meg*enler' ]
                 ]
             ],
             'vowel' => [
                  'single_syllable'=>[
-                    ['megenim', 'megensiñ', 'megen' ],
-                    ['megenmiz', 'megensiñiz', 'megenler' ]
+                    ['meg*enim', 'meg*ensiñ', 'meg*en' ],
+                    ['meg*enmiz', 'meg*ensiñiz', 'meg*enler' ]
                 ],
                 'multi_syllable'=>[
-                    ['megenim', 'megensiñ', 'megen' ],
-                    ['megenmiz', 'megensiñiz', 'megenler' ]
+                    ['meg*enim', 'meg*ensiñ', 'meg*en' ],
+                    ['meg*enmiz', 'meg*ensiñiz', 'meg*enler' ]
                 ]
             ],
             'non_sonorous' => [
                  'single_syllable'=>[
-                    ['megenim', 'megensiñ', 'megen' ],
-                    ['megenmiz', 'megensiñiz', 'megenler' ]
+                    ['meg*enim', 'meg*ensiñ', 'meg*en' ],
+                    ['meg*enmiz', 'meg*ensiñiz', 'meg*enler' ]
                 ],
                 'multi_syllable'=>[
-                    ['megenim', 'megensiñ', 'megen' ],
-                    ['megenmiz', 'megensiñiz', 'megenler' ]
+                    ['meg*enim', 'meg*ensiñ', 'meg*en' ],
+                    ['meg*enmiz', 'meg*ensiñiz', 'meg*enler' ]
                 ]
             ]
         ]
@@ -404,64 +404,64 @@ $tenses_negative = [
         'hard' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['mamaqtam', 'mamaqtasıñ', 'mamaqta' ],
-                    ['mamaqtamız', 'mamaqtasıñız', 'mamaqtalar' ]
+                    ['mamaqt*am', 'mamaqt*asıñ', 'mamaqt*a' ],
+                    ['mamaqt*amız', 'mamaqt*asıñız', 'mamaqt*alar' ]
                 ],
                 'multi_syllable'=>[
-                    ['mamaqtam', 'mamaqtasıñ', 'mamaqta' ],
-                    ['mamaqtamız', 'mamaqtasıñız', 'mamaqtalar' ]
+                    ['mamaqt*am', 'mamaqt*asıñ', 'mamaqt*a' ],
+                    ['mamaqt*amız', 'mamaqt*asıñız', 'mamaqt*alar' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['mamaqtam', 'mamaqtasıñ', 'mamaqta' ],
-                    ['mamaqtamız', 'mamaqtasıñız', 'mamaqtalar' ]
+                    ['mamaqt*am', 'mamaqt*asıñ', 'mamaqt*a' ],
+                    ['mamaqt*amız', 'mamaqt*asıñız', 'mamaqt*alar' ]
                 ],
                 'multi_syllable'=>[
-                    ['mamaqtam', 'mamaqtasıñ', 'mamaqta' ],
-                    ['mamaqtamız', 'mamaqtasıñız', 'mamaqtalar' ]
+                    ['mamaqt*am', 'mamaqt*asıñ', 'mamaqt*a' ],
+                    ['mamaqt*amız', 'mamaqt*asıñız', 'mamaqt*alar' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['mamaqtam', 'mamaqtasıñ', 'mamaqta' ],
-                    ['mamaqtamız', 'mamaqtasıñız', 'mamaqtalar' ]
+                    ['mamaqt*am', 'mamaqt*asıñ', 'mamaqt*a' ],
+                    ['mamaqt*amız', 'mamaqt*asıñız', 'mamaqt*alar' ]
                 ],
                 'multi_syllable'=>[
-                    ['mamaqtam', 'mamaqtasıñ', 'mamaqta' ],
-                    ['mamaqtamız', 'mamaqtasıñız', 'mamaqtalar' ]
+                    ['mamaqt*am', 'mamaqt*asıñ', 'mamaqt*a' ],
+                    ['mamaqt*amız', 'mamaqt*asıñız', 'mamaqt*alar' ]
                 ]
             ]
         ],
         'soft' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['memektem', 'memektesiñ', 'memekte' ],
-                    ['memektemiz', 'memektesiñiz', 'memekteler' ]
+                    ['memekt*em', 'memekt*esiñ', 'memekt*e' ],
+                    ['memekt*emiz', 'memekt*esiñiz', 'memekt*eler' ]
                 ],
                 'multi_syllable'=>[
-                    ['memektem', 'memektesiñ', 'memekte' ],
-                    ['memektemiz', 'memektesiñiz', 'memekteler' ]
+                    ['memekt*em', 'memekt*esiñ', 'memekt*e' ],
+                    ['memekt*emiz', 'memekt*esiñiz', 'memekt*eler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['memektem', 'memektesiñ', 'memekte' ],
-                    ['memektemiz', 'memektesiñiz', 'memekteler' ]
+                    ['memekt*em', 'memekt*esiñ', 'memekt*e' ],
+                    ['memekt*emiz', 'memekt*esiñiz', 'memekt*eler' ]
                 ],
                 'multi_syllable'=>[
-                    ['memektem', 'memektesiñ', 'memekte' ],
-                    ['memektemiz', 'memektesiñiz', 'memekteler' ]
+                    ['memekt*em', 'memekt*esiñ', 'memekt*e' ],
+                    ['memekt*emiz', 'memekt*esiñiz', 'memekt*eler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['memektem', 'memektesiñ', 'memekte' ],
-                    ['memektemiz', 'memektesiñiz', 'memekteler' ]
+                    ['memekt*em', 'memekt*esiñ', 'memekt*e' ],
+                    ['memekt*emiz', 'memekt*esiñiz', 'memekt*eler' ]
                 ],
                 'multi_syllable'=>[
-                    ['memektem', 'memektesiñ', 'memekte' ],
-                    ['memektemiz', 'memektesiñiz', 'memekteler' ]
+                    ['memekt*em', 'memekt*esiñ', 'memekt*e' ],
+                    ['memekt*emiz', 'memekt*esiñiz', 'memekt*eler' ]
                 ]
             ]
         ]
@@ -537,64 +537,64 @@ $tenses_negative = [
         'hard' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['mam', 'mazsıñ', 'maz' ],
-                    ['mamız', 'mazsıñız', 'mazlar' ]
+                    ['m*am', 'm*azsıñ', 'm*az' ],
+                    ['m*amız', 'm*azsıñız', 'm*azlar' ]
                 ],
                 'multi_syllable'=>[
-                    ['mam', 'mazsıñ', 'maz' ],
-                    ['mamız', 'mazsıñız', 'mazlar' ]
+                    ['m*am', 'm*azsıñ', 'm*az' ],
+                    ['m*amız', 'm*azsıñız', 'm*azlar' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['mam', 'mazsıñ', 'maz' ],
-                    ['mamız', 'mazsıñız', 'mazlar' ]
+                    ['m*am', 'm*azsıñ', 'm*az' ],
+                    ['m*amız', 'm*azsıñız', 'm*azlar' ]
                 ],
                 'multi_syllable'=>[
-                    ['mam', 'mazsıñ', 'maz' ],
-                    ['mamız', 'mazsıñız', 'mazlar' ]
+                    ['m*am', 'm*azsıñ', 'm*az' ],
+                    ['m*amız', 'm*azsıñız', 'm*azlar' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['mam', 'mazsıñ', 'maz' ],
-                    ['mamız', 'mazsıñız', 'mazlar' ]
+                    ['m*am', 'm*azsıñ', 'm*az' ],
+                    ['m*amız', 'm*azsıñız', 'm*azlar' ]
                 ],
                 'multi_syllable'=>[
-                    ['mam', 'mazsıñ', 'maz' ],
-                    ['mamız', 'mazsıñız', 'mazlar' ]
+                    ['m*am', 'm*azsıñ', 'm*az' ],
+                    ['m*amız', 'm*azsıñız', 'm*azlar' ]
                 ]
             ]
         ],
         'soft' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['mem', 'mezsiñ', 'mez' ],
-                    ['memiz', 'mezsiñiz', 'mezler' ]
+                    ['m*em', 'm*ezsiñ', 'm*ez' ],
+                    ['m*emiz', 'm*ezsiñiz', 'm*ezler' ]
                 ],
                 'multi_syllable'=>[
-                    ['mem', 'mezsiñ', 'mez' ],
-                    ['memiz', 'mezsiñiz', 'mezler' ]
+                    ['m*em', 'm*ezsiñ', 'm*ez' ],
+                    ['m*emiz', 'm*ezsiñiz', 'm*ezler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['mem', 'mezsiñ', 'mez' ],
-                    ['memiz', 'mezsiñiz', 'mezler' ]
+                    ['m*em', 'm*ezsiñ', 'm*ez' ],
+                    ['m*emiz', 'm*ezsiñiz', 'm*ezler' ]
                 ],
                 'multi_syllable'=>[
-                    ['mem', 'mezsiñ', 'mez' ],
-                    ['memiz', 'mezsiñiz', 'mezler' ]
+                    ['m*em', 'm*ezsiñ', 'm*ez' ],
+                    ['m*emiz', 'm*ezsiñiz', 'm*ezler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['mem', 'mezsiñ', 'mez' ],
-                    ['memiz', 'mezsiñiz', 'mezler' ]
+                    ['m*em', 'm*ezsiñ', 'm*ez' ],
+                    ['m*emiz', 'm*ezsiñiz', 'm*ezler' ]
                 ],
                 'multi_syllable'=>[
-                    ['mem', 'mezsiñ', 'mez' ],
-                    ['memiz', 'mezsiñiz', 'mezler' ]
+                    ['m*em', 'm*ezsiñ', 'm*ez' ],
+                    ['m*emiz', 'm*ezsiñiz', 'm*ezler' ]
                 ]
             ]
         ]

@@ -74,31 +74,31 @@ $tenses = [
             'sonorous' => [
                 'single_syllable'=>[
                     ['maqt*a ed*im', 'maqt*a ed*iñ', 'maqt*a ed*i' ],
-                    ['maqt*a ed*ik', 'maqt*a *ediñiz', 'maqt*a ed*iler' ]
+                    ['maqt*a ed*ik', 'maqt*a ed*iñiz', 'maqt*a ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['maqt*a ed*im', 'maqt*a ed*iñ', 'maqt*a ed*i' ],
-                    ['maqt*a ed*ik', 'maqt*a *ediñiz', 'maqt*a ed*iler' ]
+                    ['maqt*a ed*ik', 'maqt*a ed*iñiz', 'maqt*a ed*iler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
                     ['maqt*a ed*im', 'maqt*a ed*iñ', 'maqt*a ed*i' ],
-                    ['maqt*a ed*ik', 'maqt*a *ediñiz', 'maqt*a ed*iler' ]
+                    ['maqt*a ed*ik', 'maqt*a ed*iñiz', 'maqt*a ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['maqt*a ed*im', 'maqt*a ed*iñ', 'maqt*a ed*i' ],
-                    ['maqt*a ed*ik', 'maqt*a *ediñiz', 'maqt*a ed*iler' ]
+                    ['maqt*a ed*ik', 'maqt*a ed*iñiz', 'maqt*a ed*iler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
                     ['maqt*a ed*im', 'maqt*a ed*iñ', 'maqt*a ed*i' ],
-                    ['maqt*a ed*ik', 'maqt*a *ediñiz', 'maqt*a ed*iler' ]
+                    ['maqt*a ed*ik', 'maqt*a ed*iñiz', 'maqt*a ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['maqt*a ed*im', 'maqt*a ed*iñ', 'maqt*a ed*i' ],
-                    ['maqt*a ed*ik', 'maqt*a *ediñiz', 'maqt*a ed*iler' ]
+                    ['maqt*a ed*ik', 'maqt*a ed*iñiz', 'maqt*a ed*iler' ]
                 ]
             ]
         ],
@@ -106,31 +106,31 @@ $tenses = [
             'sonorous' => [
                 'single_syllable'=>[
                     ['mekt*e ed*im', 'mekt*e ed*iñ', 'mekt*e ed*i' ],
-                    ['mekt*e ed*ik', 'mekt*e *ediñiz', 'mekt*e ed*iler' ]
+                    ['mekt*e ed*ik', 'mekt*e ed*iñiz', 'mekt*e ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['mekt*e ed*im', 'mekt*e ed*iñ', 'mekt*e ed*i' ],
-                    ['mekt*e ed*ik', 'mekt*e *ediñiz', 'mekt*e ed*iler' ]
+                    ['mekt*e ed*ik', 'mekt*e ed*iñiz', 'mekt*e ed*iler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
                     ['mekt*e ed*im', 'mekt*e ed*iñ', 'mekt*e ed*i' ],
-                    ['mekt*e ed*ik', 'mekt*e *ediñiz', 'mekt*e ed*iler' ]
+                    ['mekt*e ed*ik', 'mekt*e ed*iñiz', 'mekt*e ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['mekt*e ed*im', 'mekt*e ed*iñ', 'mekt*e ed*i' ],
-                    ['mekt*e ed*ik', 'mekt*e *ediñiz', 'mekt*e ed*iler' ]
+                    ['mekt*e ed*ik', 'mekt*e ed*iñiz', 'mekt*e ed*iler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
                     ['mekt*e ed*im', 'mekt*e ed*iñ', 'mekt*e ed*i' ],
-                    ['mekt*e ed*ik', 'mekt*e *ediñiz', 'mekt*e ed*iler' ]
+                    ['mekt*e ed*ik', 'mekt*e ed*iñiz', 'mekt*e ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['mekt*e ed*im', 'mekt*e ed*iñ', 'mekt*e ed*i' ],
-                    ['mekt*e ed*ik', 'mekt*e *ediñiz', 'mekt*e ed*iler' ]
+                    ['mekt*e ed*ik', 'mekt*e ed*iñiz', 'mekt*e ed*iler' ]
                 ]
             ]
         ]
@@ -140,31 +140,31 @@ $tenses = [
             'sonorous' => [
                 'single_syllable'=>[
                     ['ğ*an ed*im', 'ğ*an ed*iñ', 'ğ*an ed*i' ],
-                    ['ğ*an ed*ik', 'ğ*an *ediñiz', 'ğ*an ed*iler' ]
+                    ['ğ*an ed*ik', 'ğ*an ed*iñiz', 'ğ*an ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['ğ*an ed*im', 'ğ*an ed*iñ', 'ğ*an ed*i' ],
-                    ['ğ*an ed*ik', 'ğ*an *ediñiz', 'ğ*an ed*iler' ]
+                    ['ğ*an ed*ik', 'ğ*an ed*iñiz', 'ğ*an ed*iler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
                     ['ğ*an ed*im', 'ğ*an ed*iñ', 'ğ*an ed*i' ],
-                    ['ğ*an ed*ik', 'ğ*an *ediñiz', 'ğ*an ed*iler' ]
+                    ['ğ*an ed*ik', 'ğ*an ed*iñiz', 'ğ*an ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['ğ*an ed*im', 'ğ*an ed*iñ', 'ğ*an ed*i' ],
-                    ['ğ*an ed*ik', 'ğ*an *ediñiz', 'ğ*an ed*iler' ]
+                    ['ğ*an ed*ik', 'ğ*an ed*iñiz', 'ğ*an ed*iler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
                     ['q*an ed*im', 'q*an ed*iñ', 'q*an ed*i' ],
-                    ['q*an ed*ik', 'q*an *ediñiz', 'q*an ed*iler' ]
+                    ['q*an ed*ik', 'q*an ed*iñiz', 'q*an ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['q*an ed*im', 'q*an ed*iñ', 'q*an ed*i' ],
-                    ['q*an ed*ik', 'q*an *ediñiz', 'q*an ed*iler' ]
+                    ['q*an ed*ik', 'q*an ed*iñiz', 'q*an ed*iler' ]
                 ]
             ]
         ],
@@ -172,31 +172,31 @@ $tenses = [
             'sonorous' => [
                 'single_syllable'=>[
                     ['g*en ed*im', 'g*en ed*iñ', 'g*en ed*i' ],
-                    ['g*en ed*ik', 'g*en *ediñiz', 'g*en ed*iler' ]
+                    ['g*en ed*ik', 'g*en ed*iñiz', 'g*en ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['g*en ed*im', 'g*en ed*iñ', 'g*en ed*i' ],
-                    ['g*en ed*ik', 'g*en *ediñiz', 'g*en ed*iler' ]
+                    ['g*en ed*ik', 'g*en ed*iñiz', 'g*en ed*iler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
                     ['g*en ed*im', 'g*en ed*iñ', 'g*en ed*i' ],
-                    ['g*en ed*ik', 'g*en *ediñiz', 'g*en ed*iler' ]
+                    ['g*en ed*ik', 'g*en ed*iñiz', 'g*en ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['g*en ed*im', 'g*en ed*iñ', 'g*en ed*i' ],
-                    ['g*en ed*ik', 'g*en *ediñiz', 'g*en ed*iler' ]
+                    ['g*en ed*ik', 'g*en ed*iñiz', 'g*en ed*iler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
                     ['k*en ed*im', 'k*en ed*iñ', 'k*en ed*i' ],
-                    ['k*en ed*ik', 'k*en *ediñiz', 'k*en ed*iler' ]
+                    ['k*en ed*ik', 'k*en ed*iñiz', 'k*en ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['k*en ed*im', 'k*en ed*iñ', 'k*en ed*i' ],
-                    ['k*en ed*ik', 'k*en *ediñiz', 'k*en ed*iler' ]
+                    ['k*en ed*ik', 'k*en ed*iñiz', 'k*en ed*iler' ]
                 ]
             ]
         ]
@@ -206,31 +206,31 @@ $tenses = [
             'sonorous' => [
                 'single_syllable'=>[
                     ['*a ed*im', '*a ed*iñ', '*a ed*i' ],
-                    ['*a ed*ik', '*a *ediñiz', '*a ed*iler' ]
+                    ['*a ed*ik', '*a ed*iñiz', '*a ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['*a ed*im', '*a ed*iñ', '*a ed*i' ],
-                    ['*a ed*ik', '*a *ediñiz', '*a ed*iler' ]
+                    ['*a ed*ik', '*a ed*iñiz', '*a ed*iler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
                     ['y ed*im', 'y ed*iñ', 'y ed*i' ],
-                    ['y ed*ik', 'y *ediñiz', 'y ed*iler' ]
+                    ['y ed*ik', 'y ed*iñiz', 'y ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['y ed*im', 'y ed*iñ', 'y ed*i' ],
-                    ['y ed*ik', 'y *ediñiz', 'y ed*iler' ]
+                    ['y ed*ik', 'y ed*iñiz', 'y ed*iler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
                     ['*a ed*im', '*a ed*iñ', '*a ed*i' ],
-                    ['*a ed*ik', '*a *ediñiz', '*a ed*iler' ]
+                    ['*a ed*ik', '*a ed*iñiz', '*a ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['*a ed*im', '*a ed*iñ', '*a ed*i' ],
-                    ['*a ed*ik', '*a *ediñiz', '*a ed*iler' ]
+                    ['*a ed*ik', '*a ed*iñiz', '*a ed*iler' ]
                 ]
             ]
         ],
@@ -238,31 +238,31 @@ $tenses = [
             'sonorous' => [
                 'single_syllable'=>[
                     ['*e ed*im', '*e ed*iñ', '*e ed*i' ],
-                    ['*e ed*ik', '*e *ediñiz', '*e ed*iler' ]
+                    ['*e ed*ik', '*e ed*iñiz', '*e ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['*e ed*im', '*e ed*iñ', '*e ed*i' ],
-                    ['*e ed*ik', '*e *ediñiz', '*e ed*iler' ]
+                    ['*e ed*ik', '*e ed*iñiz', '*e ed*iler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
                     ['y ed*im', 'y ed*iñ', 'y ed*i' ],
-                    ['y ed*ik', 'y *ediñiz', 'y ed*iler' ]
+                    ['y ed*ik', 'y ed*iñiz', 'y ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['y ed*im', 'y ed*iñ', 'y ed*i' ],
-                    ['y ed*ik', 'y *ediñiz', 'y ed*iler' ]
+                    ['y ed*ik', 'y ed*iñiz', 'y ed*iler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
                     ['*e ed*im', '*e ed*iñ', '*e ed*i' ],
-                    ['*e ed*ik', '*e *ediñiz', '*e ed*iler' ]
+                    ['*e ed*ik', '*e ed*iñiz', '*e ed*iler' ]
                 ],
                 'multi_syllable'=>[
                     ['*e ed*im', '*e ed*iñ', '*e ed*i' ],
-                    ['*e ed*ik', '*e *ediñiz', '*e ed*iler' ]
+                    ['*e ed*ik', '*e ed*iñiz', '*e ed*iler' ]
                 ]
             ]
         ]

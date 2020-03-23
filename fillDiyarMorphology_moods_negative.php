@@ -72,64 +72,64 @@ $moods_negative = [
         'hard' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['masam', 'masañ', 'masa' ],
-                    ['masaq', 'masañız', 'masalar' ]
+                    ['mas*am', 'mas*añ', 'mas*a' ],
+                    ['mas*aq', 'mas*añız', 'mas*alar' ]
                 ],
                 'multi_syllable'=>[
-                    ['masam', 'masañ', 'masa' ],
-                    ['masaq', 'masañız', 'masalar' ]
+                    ['mas*am', 'mas*añ', 'mas*a' ],
+                    ['mas*aq', 'mas*añız', 'mas*alar' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['masam', 'masañ', 'masa' ],
-                    ['masaq', 'masañız', 'masalar' ]
+                    ['mas*am', 'mas*añ', 'mas*a' ],
+                    ['mas*aq', 'mas*añız', 'mas*alar' ]
                 ],
                 'multi_syllable'=>[
-                    ['masam', 'masañ', 'masa' ],
-                    ['masaq', 'masañız', 'masalar' ]
+                    ['mas*am', 'mas*añ', 'mas*a' ],
+                    ['mas*aq', 'mas*añız', 'mas*alar' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['masam', 'masañ', 'masa' ],
-                    ['masaq', 'masañız', 'masalar' ]
+                    ['mas*am', 'mas*añ', 'mas*a' ],
+                    ['mas*aq', 'mas*añız', 'mas*alar' ]
                 ],
                 'multi_syllable'=>[
-                    ['masam', 'masañ', 'masa' ],
-                    ['masaq', 'masañız', 'masalar' ]
+                    ['mas*am', 'mas*añ', 'mas*a' ],
+                    ['mas*aq', 'mas*añız', 'mas*alar' ]
                 ]
             ]
         ],
         'soft' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['mesem', 'meseñ', 'mese' ],
-                    ['mesek', 'meseñiz', 'meseler' ]
+                    ['mes*em', 'mes*eñ', 'mes*e' ],
+                    ['mes*ek', 'mes*eñiz', 'mes*eler' ]
                 ],
                 'multi_syllable'=>[
-                    ['mesem', 'meseñ', 'mese' ],
-                    ['mesek', 'meseñiz', 'meseler' ]
+                    ['mes*em', 'mes*eñ', 'mes*e' ],
+                    ['mes*ek', 'mes*eñiz', 'mes*eler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['mesem', 'meseñ', 'mese' ],
-                    ['mesek', 'meseñiz', 'meseler' ]
+                    ['mes*em', 'mes*eñ', 'mes*e' ],
+                    ['mes*ek', 'mes*eñiz', 'mes*eler' ]
                 ],
                 'multi_syllable'=>[
-                    ['mesem', 'meseñ', 'mese' ],
-                    ['mesek', 'meseñiz', 'meseler' ]
+                    ['mes*em', 'mes*eñ', 'mes*e' ],
+                    ['mes*ek', 'mes*eñiz', 'mes*eler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['mesem', 'meseñ', 'mese' ],
-                    ['mesek', 'meseñiz', 'meseler' ]
+                    ['mes*em', 'mes*eñ', 'mes*e' ],
+                    ['mes*ek', 'mes*eñiz', 'mes*eler' ]
                 ],
                 'multi_syllable'=>[
-                    ['mesem', 'meseñ', 'mese' ],
-                    ['mesek', 'meseñiz', 'meseler' ]
+                    ['mes*em', 'mes*eñ', 'mes*e' ],
+                    ['mes*ek', 'mes*eñiz', 'mes*eler' ]
                 ]
             ]
         ]

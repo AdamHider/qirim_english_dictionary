@@ -11,13 +11,14 @@ function init(){
     include 'fillDiyarMorphology_tenses_negative.php';
     include 'fillDiyarMorphology_moods.php';
     include 'fillDiyarMorphology_moods_negative.php';
-    foreach($moods_negative as $key => $tense){
-    echo '==========='.$key.'=============</br>';
-        foreach($basic_words as $word){
-        echo '========================</br>';
-            composeInflection($word, $tense);
-        }
+    
+    $word = 'yapmaq';
+    
+    $result = [];
+    foreach($tenses_negative as $key => $tense){
+        $result[$key] = composeInflection($word, $tense);
     }
+    print_r($result);
     
 }
 
@@ -51,9 +52,9 @@ function composeInflection($word,$tense){
     $inflection_template = $tense[$word_analysis['agglutination_mark']][$sonority_type][$syllable_quantity];
     foreach ($inflection_template as $plurality){
         foreach($plurality as &$person){
+            $last_syllable = array_reverse($word_analysis['syllables_list'])[0];
             if(strpos($person,'|')>-1){
                 $person_variants = explode('|', $person);
-                $last_syllable = array_reverse($word_analysis['syllables_list'])[0];
                 if(strpos($last_syllable, 'o')>-1 || strpos($last_syllable, 'u')>-1){
                     $person = $person_variants[1];
                 } else{
@@ -61,10 +62,14 @@ function composeInflection($word,$tense){
                 }
             }
             $stress = '́';
+            if(mb_strpos($person, '*') === false && mb_strpos($word_analysis['word_base'], '\'') === false){
+                $word_analysis['word_base'] = str_replace($last_syllable, setStressOnSyllable($last_syllable), $word_analysis['word_base']);
+                //$word_analysis['word_base'] =  mb_substr($word_analysis['word_base'], 0, -1) . '\'' . mb_substr($word_analysis['word_base'], -1);
+            }
+            
             $person = str_replace('*', '\'', $person);
-            echo $word_analysis['word_base'].$person;
-            echo '</br>';
             $plurality_result[] = $word_analysis['word_base'].$person;
+            //return $person;
         }
         
     }
@@ -118,8 +123,10 @@ function morphologyNormalize($word_chunks){
         return false;
     }
 }
+
+
+
 function getSyllables($word_string){
-    
     include 'fillDiyarMorphology_alphabet.php';
     $word_string = '['.$word_string;
     $word_string .= ']';
@@ -131,27 +138,28 @@ function getSyllables($word_string){
         if($word_array[$i] == ']'){
             continue;
         }  
+        
         $prev_letter = '';
         $prev_type = '';
         if($word_array[$i-1] != '['){
-            $prev_letter = key($qt_alphabet[strtolower($word_array[$i-1])]);
-            $prev_type = $qt_alphabet[strtolower($word_array[$i-1])]['type'];
+            $prev_letter = key($qt_alphabet[mb_strtolower($word_array[$i-1])]);
+            $prev_type = $qt_alphabet[mb_strtolower($word_array[$i-1])]['type'];
         }
-        $curr_letter = key($qt_alphabet[strtolower($word_array[$i])]);
-        $curr_type = $qt_alphabet[strtolower($word_array[$i])]['type'];
+        $curr_letter = key($qt_alphabet[mb_strtolower($word_array[$i])]);
+        $curr_type = $qt_alphabet[mb_strtolower($word_array[$i])]['type'];
         
                
         $next_letter = '';
         $next_type = '';
         if($word_array[$i+1] != ']'){
-            $next_letter = key($qt_alphabet[strtolower($word_array[$i+1])]);
-            $next_type = $qt_alphabet[strtolower($word_array[$i+1])]['type'];
+            $next_letter = key($qt_alphabet[mb_strtolower($word_array[$i+1])]);
+            $next_type = $qt_alphabet[mb_strtolower($word_array[$i+1])]['type'];
         } 
         $ultra_next_letter = '';
         $ultra_next_type = '';
         if(isset($word_array[$i+2]) && $word_array[$i+2] != ']'){
-            $ultra_next_letter = key($qt_alphabet[strtolower($word_array[$i+2])]);
-            $ultra_next_type = $qt_alphabet[strtolower($word_array[$i+2])]['type'];
+            $ultra_next_letter = key($qt_alphabet[mb_strtolower($word_array[$i+2])]);
+            $ultra_next_type = $qt_alphabet[mb_strtolower($word_array[$i+2])]['type'];
         }
         $new_chunk .= $word_array[$i];
         if($curr_type == 'vowel'){
@@ -225,6 +233,17 @@ function checkAffiks($chunk){
     return array_column($result, 0);
 }
 
+function setStressOnSyllable($syllable){
+    include 'fillDiyarMorphology_alphabet.php';
+    $syllable_array = str_split_unicode($syllable, 1);
+    foreach($syllable_array as &$letter){
+        if($qt_alphabet[$letter]['type'] == 'vowel'){
+            $letter = '\''.$letter;
+        }
+    }
+    return implode('', $syllable_array);
+}
+
 
 function str_split_unicode($str, $l = 0) {
     if ($l > 0) {
@@ -235,6 +254,6 @@ function str_split_unicode($str, $l = 0) {
         }
         return $ret;
     }
-    return preg_split("//u", $str, -1, PREG_SPLIT_NO_EMPTY);
+            
 }
 init();

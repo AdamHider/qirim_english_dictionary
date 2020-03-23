@@ -6,12 +6,12 @@ $moods = [
         'hard' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['ayım', '', 'sın|sun' ],
-                    ['ayıq', 'ıñız|uñız', 'sınlar|sunlar' ]
+                    ['*ayım', '', 'sın|sun' ],
+                    ['*ayıq', 'ıñız|uñız', 'sınlar|sunlar' ]
                 ],
                 'multi_syllable'=>[
-                    ['ayım', '', 'sın|sun' ],
-                    ['ayıq', 'ıñız|uñız', 'sınlar|sunlar' ]
+                    ['*ayım', '', 'sın|sun' ],
+                    ['*ayıq', 'ıñız|uñız', 'sınlar|sunlar' ]
                 ]
             ],
             'vowel' => [
@@ -26,24 +26,24 @@ $moods = [
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['ayım', '', 'sın|sun' ],
-                    ['ayıq', 'ıñız|uñız', 'sınlar|sunlar' ]
+                    ['*ayım', '', 'sın|sun' ],
+                    ['*ayıq', 'ıñız|uñız', 'sınlar|sunlar' ]
                 ],
                 'multi_syllable'=>[
-                    ['ayım', '', 'sın|sun' ],
-                    ['ayıq', 'ıñız|uñız', 'sınlar|sunlar' ]
+                    ['*ayım', '', 'sın|sun' ],
+                    ['*ayıq', 'ıñız|uñız', 'sınlar|sunlar' ]
                 ]
             ]
         ],
         'soft' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['eyim', '', 'sin|sün' ],
-                    ['eyik', 'iñiz|üñiz', 'sinler|sünler' ]
+                    ['*eyim', '', 'sin|sün' ],
+                    ['*eyik', 'iñiz|üñiz', 'sinler|sünler' ]
                 ],
                 'multi_syllable'=>[
-                    ['eyim', '', 'sin|sün' ],
-                    ['eyik', 'iñiz|üñiz', 'sinler|sünler' ]
+                    ['*eyim', '', 'sin|sün' ],
+                    ['*eyik', 'iñiz|üñiz', 'sinler|sünler' ]
                 ]
             ],
             'vowel' => [
@@ -58,12 +58,12 @@ $moods = [
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['eyim', '', 'sin|sün' ],
-                    ['eyik', 'iñiz|üñiz', 'sinler|sünler' ]
+                    ['*eyim', '', 'sin|sün' ],
+                    ['*eyik', 'iñiz|üñiz', 'sinler|sünler' ]
                 ],
                 'multi_syllable'=>[
-                    ['eyim', '', 'sin|sün' ],
-                    ['eyik', 'iñiz|üñiz', 'sinler|sünler' ]
+                    ['*eyim', '', 'sin|sün' ],
+                    ['*eyik', 'iñiz|üñiz', 'sinler|sünler' ]
                 ]
             ]
         ]
@@ -72,64 +72,64 @@ $moods = [
         'hard' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['sam', 'sañ', 'sa' ],
-                    ['saq', 'sañız', 'salar' ]
+                    ['s*am', 's*añ', 's*a' ],
+                    ['s*aq', 's*añız', 's*alar' ]
                 ],
                 'multi_syllable'=>[
-                    ['sam', 'sañ', 'sa' ],
-                    ['saq', 'sañız', 'salar' ]
+                    ['s*am', 's*añ', 's*a' ],
+                    ['s*aq', 's*añız', 's*alar' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['sam', 'sañ', 'sa' ],
-                    ['saq', 'sañız', 'salar' ]
+                    ['s*am', 's*añ', 's*a' ],
+                    ['s*aq', 's*añız', 's*alar' ]
                 ],
                 'multi_syllable'=>[
-                    ['sam', 'sañ', 'sa' ],
-                    ['saq', 'sañız', 'salar' ]
+                    ['s*am', 's*añ', 's*a' ],
+                    ['s*aq', 's*añız', 's*alar' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['sam', 'sañ', 'sa' ],
-                    ['saq', 'sañız', 'salar' ]
+                    ['s*am', 's*añ', 's*a' ],
+                    ['s*aq', 's*añız', 's*alar' ]
                 ],
                 'multi_syllable'=>[
-                    ['sam', 'sañ', 'sa' ],
-                    ['saq', 'sañız', 'salar' ]
+                    ['s*am', 's*añ', 's*a' ],
+                    ['s*aq', 's*añız', 's*alar' ]
                 ]
             ]
         ],
         'soft' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['sem', 'señ', 'se' ],
-                    ['sek', 'señiz', 'seler' ]
+                    ['s*em', 's*eñ', 's*e' ],
+                    ['s*ek', 's*eñiz', 's*eler' ]
                 ],
                 'multi_syllable'=>[
-                    ['sem', 'señ', 'se' ],
-                    ['sek', 'señiz', 'seler' ]
+                    ['s*em', 's*eñ', 's*e' ],
+                    ['s*ek', 's*eñiz', 's*eler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['sem', 'señ', 'se' ],
-                    ['sek', 'señiz', 'seler' ]
+                    ['s*em', 's*eñ', 's*e' ],
+                    ['s*ek', 's*eñiz', 's*eler' ]
                 ],
                 'multi_syllable'=>[
-                    ['sem', 'señ', 'se' ],
-                    ['sek', 'señiz', 'seler' ]
+                    ['s*em', 's*eñ', 's*e' ],
+                    ['s*ek', 's*eñiz', 's*eler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['sem', 'señ', 'se' ],
-                    ['sek', 'señiz', 'seler' ]
+                    ['s*em', 's*eñ', 's*e' ],
+                    ['s*ek', 's*eñiz', 's*eler' ]
                 ],
                 'multi_syllable'=>[
-                    ['sem', 'señ', 'se' ],
-                    ['sek', 'señiz', 'seler' ]
+                    ['s*em', 's*eñ', 's*e' ],
+                    ['s*ek', 's*eñiz', 's*eler' ]
                 ]
             ]
         ]
@@ -138,64 +138,64 @@ $moods = [
         'hard' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['malım', 'malısıñ', 'malı' ],
-                    ['malımız', 'malısıñız', 'malılar' ]
+                    ['mal**ım', 'mal*ısıñ', 'mal*ı' ],
+                    ['mal*ımız', 'mal*ısıñız', 'mal*ılar' ]
                 ],
                 'multi_syllable'=>[
-                    ['malım', 'malısıñ', 'malı' ],
-                    ['malımız', 'malısıñız', 'malılar' ]
+                    ['mal*ım', 'mal*ısıñ', 'mal*ı' ],
+                    ['mal*ımız', 'mal*ısıñız', 'mal*ılar' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['malım', 'malısıñ', 'malı' ],
-                    ['malımız', 'malısıñız', 'malılar' ]
+                    ['mal*ım', 'mal*ısıñ', 'mal*ı' ],
+                    ['mal*ımız', 'mal*ısıñız', 'mal*ılar' ]
                 ],
                 'multi_syllable'=>[
-                    ['malım', 'malısıñ', 'malı' ],
-                    ['malımız', 'malısıñız', 'malılar' ]
+                    ['mal*ım', 'mal*ısıñ', 'mal*ı' ],
+                    ['mal*ımız', 'mal*ısıñız', 'mal*ılar' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['malım', 'malısıñ', 'malı' ],
-                    ['malımız', 'malısıñız', 'malılar' ]
+                    ['mal*ım', 'mal*ısıñ', 'mal*ı' ],
+                    ['mal*ımız', 'mal*ısıñız', 'mal*ılar' ]
                 ],
                 'multi_syllable'=>[
-                    ['malım', 'malısıñ', 'malı' ],
-                    ['malımız', 'malısıñız', 'malılar' ]
+                    ['mal*ım', 'mal*ısıñ', 'mal*ı' ],
+                    ['mal*ımız', 'mal*ısıñız', 'mal*ılar' ]
                 ]
             ]
         ],
         'soft' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['melim', 'melisiñ', 'meli' ],
-                    ['melimiz', 'melisiñiz', 'meliler' ]
+                    ['mel*im', 'mel*isiñ', 'mel*i' ],
+                    ['mel*imiz', 'mel*isiñiz', 'mel*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['melim', 'melisiñ', 'meli' ],
-                    ['melimiz', 'melisiñiz', 'meliler' ]
+                    ['mel*im', 'mel*isiñ', 'mel*i' ],
+                    ['mel*imiz', 'mel*isiñiz', 'mel*iler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['melim', 'melisiñ', 'meli' ],
-                    ['melimiz', 'melisiñiz', 'meliler' ]
+                    ['mel*im', 'mel*isiñ', 'mel*i' ],
+                    ['mel*imiz', 'mel*isiñiz', 'mel*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['melim', 'melisiñ', 'meli' ],
-                    ['melimiz', 'melisiñiz', 'meliler' ]
+                    ['mel*im', 'mel*isiñ', 'mel*i' ],
+                    ['mel*imiz', 'mel*isiñiz', 'mel*iler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['melim', 'melisiñ', 'meli' ],
-                    ['melimiz', 'melisiñiz', 'meliler' ]
+                    ['mel*im', 'mel*isiñ', 'mel*i' ],
+                    ['mel*imiz', 'mel*isiñiz', 'mel*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['melim', 'melisiñ', 'meli' ],
-                    ['melimiz', 'melisiñiz', 'meliler' ]
+                    ['mel*im', 'mel*isiñ', 'mel*i' ],
+                    ['mel*imiz', 'mel*isiñiz', 'mel*iler' ]
                 ]
             ]
         ]
@@ -204,64 +204,64 @@ $moods = [
         'hard' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['ğaydım', 'ğaydıñ', 'ğaydı' ],
-                    ['ğaydıq', 'ğaydıñız', 'ğaydılar' ]
+                    ['ğayd*ım', 'ğayd*ıñ', 'ğayd*ı' ],
+                    ['ğayd*ıq', 'ğayd*ıñız', 'ğayd*ılar' ]
                 ],
                 'multi_syllable'=>[
-                    ['ğaydım', 'ğaydıñ', 'ğaydı' ],
-                    ['ğaydıq', 'ğaydıñız', 'ğaydılar' ]
+                    ['ğayd*ım', 'ğayd*ıñ', 'ğayd*ı' ],
+                    ['ğayd*ıq', 'ğayd*ıñız', 'ğayd*ılar' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['ğaydım', 'ğaydıñ', 'ğaydı' ],
-                    ['ğaydıq', 'ğaydıñız', 'ğaydılar' ]
+                    ['ğayd*ım', 'ğayd*ıñ', 'ğayd*ı' ],
+                    ['ğayd*ıq', 'ğayd*ıñız', 'ğayd*ılar' ]
                 ],
                 'multi_syllable'=>[
-                    ['ğaydım', 'ğaydıñ', 'ğaydı' ],
-                    ['ğaydıq', 'ğaydıñız', 'ğaydılar' ]
+                    ['ğayd*ım', 'ğayd*ıñ', 'ğayd*ı' ],
+                    ['ğayd*ıq', 'ğayd*ıñız', 'ğayd*ılar' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['qaydım', 'qaydıñ', 'qaydı' ],
-                    ['qaydıq', 'qaydıñız', 'qaydılar' ]
+                    ['qayd*ım', 'qayd*ıñ', 'qayd*ı' ],
+                    ['qayd*ıq', 'qayd*ıñız', 'qayd*ılar' ]
                 ],
                 'multi_syllable'=>[
-                    ['qaydım', 'qaydıñ', 'qaydı' ],
-                    ['qaydıq', 'qaydıñız', 'qaydılar' ]
+                    ['qayd*ım', 'qayd*ıñ', 'qayd*ı' ],
+                    ['qayd*ıq', 'qayd*ıñız', 'qayd*ılar' ]
                 ]
             ]
         ],
         'soft' => [
             'sonorous' => [
                 'single_syllable'=>[
-                    ['geydim', 'geydiñ', 'geydi' ],
-                    ['geydik', 'geydiñiz', 'geydiler' ]
+                    ['geyd*im', 'geyd*iñ', 'geyd*i' ],
+                    ['geyd*ik', 'geyd*iñiz', 'geyd*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['geydim', 'geydiñ', 'geydi' ],
-                    ['geydik', 'geydiñiz', 'geydiler' ]
+                    ['geyd*im', 'geyd*iñ', 'geyd*i' ],
+                    ['geyd*ik', 'geyd*iñiz', 'geyd*iler' ]
                 ]
             ],
             'vowel' => [
                 'single_syllable'=>[
-                    ['geydim', 'geydiñ', 'geydi' ],
-                    ['geydik', 'geydiñiz', 'geydiler' ]
+                    ['geyd*im', 'geyd*iñ', 'geyd*i' ],
+                    ['geyd*ik', 'geyd*iñiz', 'geyd*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['geydim', 'geydiñ', 'geydi' ],
-                    ['geydik', 'geydiñiz', 'geydiler' ]
+                    ['geyd*im', 'geyd*iñ', 'geyd*i' ],
+                    ['geyd*ik', 'geyd*iñiz', 'geyd*iler' ]
                 ]
             ],
             'non_sonorous' => [
                 'single_syllable'=>[
-                    ['keydim', 'keydiñ', 'keydi' ],
-                    ['keydik', 'keydiñiz', 'keydiler' ]
+                    ['keyd*im', 'keyd*iñ', 'keyd*i' ],
+                    ['keyd*ik', 'keyd*iñiz', 'keyd*iler' ]
                 ],
                 'multi_syllable'=>[
-                    ['keydim', 'keydiñ', 'keydi' ],
-                    ['keydik', 'keydiñiz', 'keydiler' ]
+                    ['keyd*im', 'keyd*iñ', 'keyd*i' ],
+                    ['keyd*ik', 'keyd*iñiz', 'keyd*iler' ]
                 ]
             ]
         ]
