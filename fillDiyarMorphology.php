@@ -13,9 +13,16 @@ function init(){
     include 'fillDiyarMorphology_moods_negative.php';
     
     $word = 'yapmaq';
+    $tense_combined = [];
+    
+    foreach($moods as $key => $tense){
+        $tense_unified = [];
+        $tense_combined[$key] = $tense;
+        $tense_combined[$key.'_negative'] = $moods_negative[$key.'_negative'];
+    } 
     
     $result = [];
-    foreach($tenses_negative as $key => $tense){
+    foreach($tense_combined as $key => $tense){
         $result[$key] = composeInflection($word, $tense);
     }
     print_r($result);
@@ -52,6 +59,7 @@ function composeInflection($word,$tense){
     $inflection_template = $tense[$word_analysis['agglutination_mark']][$sonority_type][$syllable_quantity];
     foreach ($inflection_template as $plurality){
         foreach($plurality as &$person){
+            $word_base= $word_analysis['word_base'];
             $last_syllable = array_reverse($word_analysis['syllables_list'])[0];
             if(strpos($person,'|')>-1){
                 $person_variants = explode('|', $person);
@@ -62,14 +70,11 @@ function composeInflection($word,$tense){
                 }
             }
             $stress = '́';
-            if(mb_strpos($person, '*') === false && mb_strpos($word_analysis['word_base'], '\'') === false){
-                $word_analysis['word_base'] = str_replace($last_syllable, setStressOnSyllable($last_syllable), $word_analysis['word_base']);
-                //$word_analysis['word_base'] =  mb_substr($word_analysis['word_base'], 0, -1) . '\'' . mb_substr($word_analysis['word_base'], -1);
+            if(mb_strpos($person, '*') === false && mb_strpos($word_base, '\'') === false){
+                $word_base = str_replace($last_syllable, setStressOnSyllable($last_syllable), $word_base);
             }
-            
             $person = str_replace('*', '\'', $person);
-            $plurality_result[] = $word_analysis['word_base'].$person;
-            //return $person;
+            $plurality_result[] = $word_base.$person;
         }
         
     }
