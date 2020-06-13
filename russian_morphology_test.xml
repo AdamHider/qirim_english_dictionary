@@ -1,0 +1,1465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <lemma id="317246" rev="317246">
+        <l t="сделал">
+            <g v="VERB"/>
+            <g v="perf"/>
+            <g v="tran"/>
+        </l>
+        <f t="сделал">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделала">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделало">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделали">
+            <g v="plur"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделаю">
+            <g v="sing"/>
+            <g v="1per"/>
+            <g v="futr"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделаем">
+            <g v="plur"/>
+            <g v="1per"/>
+            <g v="futr"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделаешь">
+            <g v="sing"/>
+            <g v="2per"/>
+            <g v="futr"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделаете">
+            <g v="plur"/>
+            <g v="2per"/>
+            <g v="futr"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделает">
+            <g v="sing"/>
+            <g v="3per"/>
+            <g v="futr"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделают">
+            <g v="plur"/>
+            <g v="3per"/>
+            <g v="futr"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделаем">
+            <g v="sing"/>
+            <g v="impr"/>
+            <g v="incl"/>
+        </f>
+        <f t="сделаемте">
+            <g v="plur"/>
+            <g v="impr"/>
+            <g v="incl"/>
+        </f>
+        <f t="сделай">
+            <g v="sing"/>
+            <g v="impr"/>
+            <g v="excl"/>
+        </f>
+        <f t="сделайте">
+            <g v="plur"/>
+            <g v="impr"/>
+            <g v="excl"/>
+        </f>
+    </lemma>
+    <lemma id="317247" rev="317247">
+        <l t="сделать">
+            <g v="INFN"/>
+            <g v="perf"/>
+            <g v="tran"/>
+        </l>
+        <f t="сделать"></f>
+    </lemma>
+    <lemma id="317248" rev="317248">
+        <l t="сделавший">
+            <g v="PRTF"/>
+            <g v="perf"/>
+            <g v="tran"/>
+            <g v="past"/>
+            <g v="actv"/>
+        </l>
+        <f t="сделавший">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="сделавшего">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="сделавшему">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="сделавшего">
+            <g v="anim"/>
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделавший">
+            <g v="inan"/>
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделавшим">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="сделавшем">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="сделавшая">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="сделавшей">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="сделавшей">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="сделавшую">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделавшей">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="сделавшею">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+            <g v="V-ey"/>
+        </f>
+        <f t="сделавшей">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="сделавшее">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="сделавшего">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="сделавшему">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="сделавшее">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделавшим">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="сделавшем">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="сделавшие">
+            <g v="plur"/>
+            <g v="nomn"/>
+        </f>
+        <f t="сделавших">
+            <g v="plur"/>
+            <g v="gent"/>
+        </f>
+        <f t="сделавшим">
+            <g v="plur"/>
+            <g v="datv"/>
+        </f>
+        <f t="сделавших">
+            <g v="anim"/>
+            <g v="plur"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделавшие">
+            <g v="inan"/>
+            <g v="plur"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделавшими">
+            <g v="plur"/>
+            <g v="ablt"/>
+        </f>
+        <f t="сделавших">
+            <g v="plur"/>
+            <g v="loct"/>
+        </f>
+    </lemma>
+    <lemma id="317249" rev="317249">
+        <l t="сделанный">
+            <g v="PRTF"/>
+            <g v="perf"/>
+            <g v="tran"/>
+            <g v="past"/>
+            <g v="pssv"/>
+        </l>
+        <f t="сделанный">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="сделанного">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="сделанному">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="сделанного">
+            <g v="anim"/>
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделанный">
+            <g v="inan"/>
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделанным">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="сделанном">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="сделанная">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="сделанной">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="сделанной">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="сделанную">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделанной">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="сделанною">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+            <g v="V-oy"/>
+        </f>
+        <f t="сделанной">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="сделанное">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="сделанного">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="сделанному">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="сделанное">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделанным">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="сделанном">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="сделанные">
+            <g v="plur"/>
+            <g v="nomn"/>
+        </f>
+        <f t="сделанных">
+            <g v="plur"/>
+            <g v="gent"/>
+        </f>
+        <f t="сделанным">
+            <g v="plur"/>
+            <g v="datv"/>
+        </f>
+        <f t="сделанных">
+            <g v="anim"/>
+            <g v="plur"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделанные">
+            <g v="inan"/>
+            <g v="plur"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделанными">
+            <g v="plur"/>
+            <g v="ablt"/>
+        </f>
+        <f t="сделанных">
+            <g v="plur"/>
+            <g v="loct"/>
+        </f>
+    </lemma>
+    <lemma id="317250" rev="317250">
+        <l t="сделан">
+            <g v="PRTS"/>
+            <g v="perf"/>
+            <g v="past"/>
+            <g v="pssv"/>
+        </l>
+        <f t="сделан">
+            <g v="masc"/>
+            <g v="sing"/>
+        </f>
+        <f t="сделана">
+            <g v="femn"/>
+            <g v="sing"/>
+        </f>
+        <f t="сделано">
+            <g v="neut"/>
+            <g v="sing"/>
+        </f>
+        <f t="сделаны">
+            <g v="plur"/>
+        </f>
+    </lemma>
+    <lemma id="317251" rev="317251">
+        <l t="сделав">
+            <g v="GRND"/>
+            <g v="perf"/>
+            <g v="tran"/>
+        </l>
+        <f t="сделав">
+            <g v="past"/>
+        </f>
+        <f t="сделавши">
+            <g v="past"/>
+            <g v="V-sh"/>
+        </f>
+    </lemma>
+    <lemma id="317252" rev="317252">
+        <l t="сделался">
+            <g v="VERB"/>
+            <g v="perf"/>
+            <g v="intr"/>
+        </l>
+        <f t="сделался">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделалась">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделалось">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделались">
+            <g v="plur"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделаюсь">
+            <g v="sing"/>
+            <g v="1per"/>
+            <g v="futr"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделаемся">
+            <g v="plur"/>
+            <g v="1per"/>
+            <g v="futr"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделаешься">
+            <g v="sing"/>
+            <g v="2per"/>
+            <g v="futr"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделаетесь">
+            <g v="plur"/>
+            <g v="2per"/>
+            <g v="futr"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделается">
+            <g v="sing"/>
+            <g v="3per"/>
+            <g v="futr"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделаются">
+            <g v="plur"/>
+            <g v="3per"/>
+            <g v="futr"/>
+            <g v="indc"/>
+        </f>
+        <f t="сделаемся">
+            <g v="sing"/>
+            <g v="impr"/>
+            <g v="incl"/>
+        </f>
+        <f t="сделаемтесь">
+            <g v="plur"/>
+            <g v="impr"/>
+            <g v="incl"/>
+        </f>
+        <f t="сделайся">
+            <g v="sing"/>
+            <g v="impr"/>
+            <g v="excl"/>
+        </f>
+        <f t="сделайтесь">
+            <g v="plur"/>
+            <g v="impr"/>
+            <g v="excl"/>
+        </f>
+    </lemma>
+    <lemma id="317253" rev="317253">
+        <l t="сделаться">
+            <g v="INFN"/>
+            <g v="perf"/>
+            <g v="intr"/>
+        </l>
+        <f t="сделаться"></f>
+    </lemma>
+    <lemma id="317254" rev="317254">
+        <l t="сделавшийся">
+            <g v="PRTF"/>
+            <g v="perf"/>
+            <g v="intr"/>
+            <g v="past"/>
+            <g v="actv"/>
+        </l>
+        <f t="сделавшийся">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="сделавшегося">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="сделавшемуся">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="сделавшегося">
+            <g v="anim"/>
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделавшийся">
+            <g v="inan"/>
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделавшимся">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="сделавшемся">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="сделавшаяся">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="сделавшейся">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="сделавшейся">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="сделавшуюся">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделавшейся">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="сделавшеюся">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+            <g v="V-ey"/>
+        </f>
+        <f t="сделавшейся">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="сделавшееся">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="сделавшегося">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="сделавшемуся">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="сделавшееся">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделавшимся">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="сделавшемся">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="сделавшиеся">
+            <g v="plur"/>
+            <g v="nomn"/>
+        </f>
+        <f t="сделавшихся">
+            <g v="plur"/>
+            <g v="gent"/>
+        </f>
+        <f t="сделавшимся">
+            <g v="plur"/>
+            <g v="datv"/>
+        </f>
+        <f t="сделавшихся">
+            <g v="anim"/>
+            <g v="plur"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделавшиеся">
+            <g v="inan"/>
+            <g v="plur"/>
+            <g v="accs"/>
+        </f>
+        <f t="сделавшимися">
+            <g v="plur"/>
+            <g v="ablt"/>
+        </f>
+        <f t="сделавшихся">
+            <g v="plur"/>
+            <g v="loct"/>
+        </f>
+    </lemma>
+    <lemma id="317255" rev="317255">
+        <l t="сделавшись">
+            <g v="GRND"/>
+            <g v="perf"/>
+            <g v="intr"/>
+        </l>
+        <f t="сделавшись">
+            <g v="past"/>
+            <g v="V-sh"/>
+        </f>
+    </lemma>
+    
+    <lemma id="80526" rev="80526">
+        <l t="делаю">
+            <g v="VERB"/>
+            <g v="impf"/>
+            <g v="tran"/>
+        </l>
+        <f t="делаю">
+            <g v="sing"/>
+            <g v="1per"/>
+            <g v="pres"/>
+            <g v="indc"/>
+        </f>
+        <f t="делаем">
+            <g v="plur"/>
+            <g v="1per"/>
+            <g v="pres"/>
+            <g v="indc"/>
+        </f>
+        <f t="делаешь">
+            <g v="sing"/>
+            <g v="2per"/>
+            <g v="pres"/>
+            <g v="indc"/>
+        </f>
+        <f t="делаете">
+            <g v="plur"/>
+            <g v="2per"/>
+            <g v="pres"/>
+            <g v="indc"/>
+        </f>
+        <f t="делает">
+            <g v="sing"/>
+            <g v="3per"/>
+            <g v="pres"/>
+            <g v="indc"/>
+        </f>
+        <f t="делают">
+            <g v="plur"/>
+            <g v="3per"/>
+            <g v="pres"/>
+            <g v="indc"/>
+        </f>
+        <f t="делал">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="делала">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="делало">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="делали">
+            <g v="plur"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="делай">
+            <g v="sing"/>
+            <g v="impr"/>
+            <g v="excl"/>
+        </f>
+        <f t="делайте">
+            <g v="plur"/>
+            <g v="impr"/>
+            <g v="excl"/>
+        </f>
+    </lemma>
+    <lemma id="80527" rev="80527">
+        <l t="делать">
+            <g v="INFN"/>
+            <g v="impf"/>
+            <g v="tran"/>
+        </l>
+        <f t="делать"></f>
+    </lemma>
+    <lemma id="80528" rev="80528">
+        <l t="делающий">
+            <g v="PRTF"/>
+            <g v="impf"/>
+            <g v="tran"/>
+            <g v="pres"/>
+            <g v="actv"/>
+        </l>
+        <f t="делающий">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="делающего">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="делающему">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="делающего">
+            <g v="anim"/>
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="делающий">
+            <g v="inan"/>
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="делающим">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="делающем">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="делающая">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="делающей">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="делающей">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="делающую">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="делающей">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="делающею">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+            <g v="V-ey"/>
+        </f>
+        <f t="делающей">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="делающее">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="делающего">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="делающему">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="делающее">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="делающим">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="делающем">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="делающие">
+            <g v="plur"/>
+            <g v="nomn"/>
+        </f>
+        <f t="делающих">
+            <g v="plur"/>
+            <g v="gent"/>
+        </f>
+        <f t="делающим">
+            <g v="plur"/>
+            <g v="datv"/>
+        </f>
+        <f t="делающих">
+            <g v="anim"/>
+            <g v="plur"/>
+            <g v="accs"/>
+        </f>
+        <f t="делающие">
+            <g v="inan"/>
+            <g v="plur"/>
+            <g v="accs"/>
+        </f>
+        <f t="делающими">
+            <g v="plur"/>
+            <g v="ablt"/>
+        </f>
+        <f t="делающих">
+            <g v="plur"/>
+            <g v="loct"/>
+        </f>
+    </lemma>
+    <lemma id="80529" rev="80529">
+        <l t="делавший">
+            <g v="PRTF"/>
+            <g v="impf"/>
+            <g v="tran"/>
+            <g v="past"/>
+            <g v="actv"/>
+        </l>
+        <f t="делавший">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="делавшего">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="делавшему">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="делавшего">
+            <g v="anim"/>
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="делавший">
+            <g v="inan"/>
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="делавшим">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="делавшем">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="делавшая">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="делавшей">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="делавшей">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="делавшую">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="делавшей">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="делавшею">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+            <g v="V-ey"/>
+        </f>
+        <f t="делавшей">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="делавшее">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="делавшего">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="делавшему">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="делавшее">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="делавшим">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="делавшем">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="делавшие">
+            <g v="plur"/>
+            <g v="nomn"/>
+        </f>
+        <f t="делавших">
+            <g v="plur"/>
+            <g v="gent"/>
+        </f>
+        <f t="делавшим">
+            <g v="plur"/>
+            <g v="datv"/>
+        </f>
+        <f t="делавших">
+            <g v="anim"/>
+            <g v="plur"/>
+            <g v="accs"/>
+        </f>
+        <f t="делавшие">
+            <g v="inan"/>
+            <g v="plur"/>
+            <g v="accs"/>
+        </f>
+        <f t="делавшими">
+            <g v="plur"/>
+            <g v="ablt"/>
+        </f>
+        <f t="делавших">
+            <g v="plur"/>
+            <g v="loct"/>
+        </f>
+    </lemma>
+    <lemma id="80530" rev="80530">
+        <l t="делаемый">
+            <g v="PRTF"/>
+            <g v="impf"/>
+            <g v="tran"/>
+            <g v="pres"/>
+            <g v="pssv"/>
+        </l>
+        <f t="делаемый">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="делаемого">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="делаемому">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="делаемого">
+            <g v="anim"/>
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="делаемый">
+            <g v="inan"/>
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="делаемым">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="делаемом">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="делаемая">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="делаемой">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="делаемой">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="делаемую">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="делаемой">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="делаемою">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+            <g v="V-oy"/>
+        </f>
+        <f t="делаемой">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="делаемое">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="делаемого">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="делаемому">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="делаемое">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="делаемым">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="делаемом">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="делаемые">
+            <g v="plur"/>
+            <g v="nomn"/>
+        </f>
+        <f t="делаемых">
+            <g v="plur"/>
+            <g v="gent"/>
+        </f>
+        <f t="делаемым">
+            <g v="plur"/>
+            <g v="datv"/>
+        </f>
+        <f t="делаемых">
+            <g v="anim"/>
+            <g v="plur"/>
+            <g v="accs"/>
+        </f>
+        <f t="делаемые">
+            <g v="inan"/>
+            <g v="plur"/>
+            <g v="accs"/>
+        </f>
+        <f t="делаемыми">
+            <g v="plur"/>
+            <g v="ablt"/>
+        </f>
+        <f t="делаемых">
+            <g v="plur"/>
+            <g v="loct"/>
+        </f>
+    </lemma>
+    <lemma id="80531" rev="80531">
+        <l t="деланный">
+            <g v="PRTF"/>
+            <g v="impf"/>
+            <g v="tran"/>
+            <g v="past"/>
+            <g v="pssv"/>
+        </l>
+        <f t="деланный">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="деланного">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="деланному">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="деланного">
+            <g v="anim"/>
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="деланный">
+            <g v="inan"/>
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="деланным">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="деланном">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="деланная">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="деланной">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="деланной">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="деланную">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="деланной">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="деланною">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+            <g v="V-oy"/>
+        </f>
+        <f t="деланной">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="деланное">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="nomn"/>
+        </f>
+        <f t="деланного">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="gent"/>
+        </f>
+        <f t="деланному">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="datv"/>
+        </f>
+        <f t="деланное">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="accs"/>
+        </f>
+        <f t="деланным">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="ablt"/>
+        </f>
+        <f t="деланном">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="loct"/>
+        </f>
+        <f t="деланные">
+            <g v="plur"/>
+            <g v="nomn"/>
+        </f>
+        <f t="деланных">
+            <g v="plur"/>
+            <g v="gent"/>
+        </f>
+        <f t="деланным">
+            <g v="plur"/>
+            <g v="datv"/>
+        </f>
+        <f t="деланных">
+            <g v="anim"/>
+            <g v="plur"/>
+            <g v="accs"/>
+        </f>
+        <f t="деланные">
+            <g v="inan"/>
+            <g v="plur"/>
+            <g v="accs"/>
+        </f>
+        <f t="деланными">
+            <g v="plur"/>
+            <g v="ablt"/>
+        </f>
+        <f t="деланных">
+            <g v="plur"/>
+            <g v="loct"/>
+        </f>
+    </lemma>
+    <lemma id="80532" rev="80532">
+        <l t="делаем">
+            <g v="PRTS"/>
+            <g v="impf"/>
+            <g v="pres"/>
+            <g v="pssv"/>
+        </l>
+        <f t="делаем">
+            <g v="masc"/>
+            <g v="sing"/>
+        </f>
+        <f t="делаема">
+            <g v="femn"/>
+            <g v="sing"/>
+        </f>
+        <f t="делаемо">
+            <g v="neut"/>
+            <g v="sing"/>
+        </f>
+        <f t="делаемы">
+            <g v="plur"/>
+        </f>
+    </lemma>
+    <lemma id="80533" rev="80533">
+        <l t="делан">
+            <g v="PRTS"/>
+            <g v="impf"/>
+            <g v="past"/>
+            <g v="pssv"/>
+        </l>
+        <f t="делан">
+            <g v="masc"/>
+            <g v="sing"/>
+        </f>
+        <f t="делана">
+            <g v="femn"/>
+            <g v="sing"/>
+        </f>
+        <f t="делано">
+            <g v="neut"/>
+            <g v="sing"/>
+        </f>
+        <f t="деланы">
+            <g v="plur"/>
+        </f>
+    </lemma>
+    <lemma id="80534" rev="80534">
+        <l t="делая">
+            <g v="GRND"/>
+            <g v="impf"/>
+            <g v="tran"/>
+        </l>
+        <f t="делая">
+            <g v="pres"/>
+        </f>
+        <f t="делав">
+            <g v="past"/>
+        </f>
+        <f t="делавши">
+            <g v="past"/>
+            <g v="V-sh"/>
+        </f>
+    </lemma>
+    <lemma id="80535" rev="80535">
+        <l t="делаюсь">
+            <g v="VERB"/>
+            <g v="impf"/>
+            <g v="intr"/>
+        </l>
+        <f t="делаюсь">
+            <g v="sing"/>
+            <g v="1per"/>
+            <g v="pres"/>
+            <g v="indc"/>
+        </f>
+        <f t="делаемся">
+            <g v="plur"/>
+            <g v="1per"/>
+            <g v="pres"/>
+            <g v="indc"/>
+        </f>
+        <f t="делаешься">
+            <g v="sing"/>
+            <g v="2per"/>
+            <g v="pres"/>
+            <g v="indc"/>
+        </f>
+        <f t="делаетесь">
+            <g v="plur"/>
+            <g v="2per"/>
+            <g v="pres"/>
+            <g v="indc"/>
+        </f>
+        <f t="делается">
+            <g v="sing"/>
+            <g v="3per"/>
+            <g v="pres"/>
+            <g v="indc"/>
+        </f>
+        <f t="делаются">
+            <g v="plur"/>
+            <g v="3per"/>
+            <g v="pres"/>
+            <g v="indc"/>
+        </f>
+        <f t="делался">
+            <g v="masc"/>
+            <g v="sing"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="делалась">
+            <g v="femn"/>
+            <g v="sing"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="делалось">
+            <g v="neut"/>
+            <g v="sing"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="делались">
+            <g v="plur"/>
+            <g v="past"/>
+            <g v="indc"/>
+        </f>
+        <f t="делайся">
+            <g v="sing"/>
+            <g v="impr"/>
+            <g v="excl"/>
+        </f>
+        <f t="делайтесь">
+            <g v="plur"/>
+            <g v="impr"/>
+            <g v="excl"/>
+        </f>
+    </lemma>
+    
+</root>

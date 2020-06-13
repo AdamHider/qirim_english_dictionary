@@ -33,5 +33,7 @@ $qt_alphabet = [
     'v' => ['type' => 'consonant', 'sonorous' => true],
     'y' => ['type' => 'consonant', 'sonorous' => true],
     'z' => ['type' => 'consonant', 'sonorous' => true],
-    'â' => ['type' => 'vowel', 'soft' => true]
+    'â' => ['type' => 'vowel', 'soft' => true],
+    ' ' => ['type' => 'consonant', 'sonorous' => true],
+    '-' => ['type' => 'consonant', 'sonorous' => true]
 ];
